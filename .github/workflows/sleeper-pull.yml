@@ -26,11 +26,14 @@ jobs:
       - name: Pull Sleeper data
         run: python scripts/pull_sleeper.py
 
+      - name: Update roster table in OPS-MANUAL.md
+        run: python scripts/update_roster.py
+
       - name: Commit updated data
         run: |
           git config user.name "sleeper-bot"
           git config user.email "actions@github.com"
-          git add data/
+          git add data/ OPS-MANUAL.md
           git diff --cached --quiet && echo "No changes" && exit 0
           git commit -m "Sleeper digest $(date -u +'%Y-%m-%d %H:%M UTC')"
           git push
