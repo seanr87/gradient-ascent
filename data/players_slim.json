@@ -3949,7 +3949,7 @@
   "team": "CHI",
   "status": "Active",
   "injury_status": "Questionable",
-  "injury_note": "Undisclosed"
+  "injury_note": "Abdomen"
  },
  "6146": {
   "name": "Kaden Smith",
@@ -4050,7 +4050,7 @@
  "12356": {
   "name": "Jabari Small",
   "pos": "RB",
-  "team": null,
+  "team": "DET",
   "status": "Active",
   "injury_status": null,
   "injury_note": null
@@ -7490,7 +7490,7 @@
  "10983": {
   "name": "Sean Clifford",
   "pos": "QB",
-  "team": "SF",
+  "team": "CIN",
   "status": "Active",
   "injury_status": null,
   "injury_note": null
@@ -9203,7 +9203,7 @@
   "name": "Caleb Lohner",
   "pos": "TE",
   "team": "DEN",
-  "status": "Active",
+  "status": "Inactive",
   "injury_status": "IR",
   "injury_note": "Lower Body"
  },
@@ -10979,7 +10979,7 @@
   "name": "Irv Charles",
   "pos": "WR",
   "team": "SEA",
-  "status": "Active",
+  "status": "Inactive",
   "injury_status": "IR",
   "injury_note": "Undisclosed"
  },
@@ -15364,7 +15364,7 @@
   "pos": "QB",
   "team": "ATL",
   "status": "Active",
-  "injury_status": "Questionable",
+  "injury_status": "Out",
   "injury_note": "Knee - ACL"
  },
  "1454": {
@@ -25636,8 +25636,8 @@
   "pos": "WR",
   "team": "CLE",
   "status": "Active",
-  "injury_status": "Questionable",
-  "injury_note": "Concussion"
+  "injury_status": null,
+  "injury_note": null
  },
  "5235": {
   "name": "David Wells",
@@ -26906,7 +26906,7 @@
  "6853": {
   "name": "Van Jefferson",
   "pos": "WR",
-  "team": null,
+  "team": "WAS",
   "status": "Active",
   "injury_status": null,
   "injury_note": null
@@ -28492,8 +28492,8 @@
   "pos": "TE",
   "team": "MIA",
   "status": "Active",
-  "injury_status": "Questionable",
-  "injury_note": "Undisclosed"
+  "injury_status": null,
+  "injury_note": null
  },
  "8196": {
   "name": "Ty Fryfogle",
@@ -29316,8 +29316,8 @@
   "pos": "RB",
   "team": "SEA",
   "status": "Active",
-  "injury_status": "Questionable",
-  "injury_note": "Hamstring"
+  "injury_status": null,
+  "injury_note": null
  },
  "333": {
   "name": "Ryan Fitzpatrick",
@@ -32570,7 +32570,7 @@
  "13913": {
   "name": "Patrick Gurd",
   "pos": "TE",
-  "team": null,
+  "team": "LV",
   "status": "Active",
   "injury_status": null,
   "injury_note": null

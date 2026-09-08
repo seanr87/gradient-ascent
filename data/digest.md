@@ -1,5 +1,5 @@
 # Sleeper digest — The Climb
-Pulled: 2026-09-06 15:03 UTC · NFL week 1
+Pulled: 2026-09-08 01:54 UTC · NFL week 1
 
 ## My roster
 - Dalton Kincaid (TE-BUF) (STARTER)
@@ -18,32 +18,33 @@ Pulled: 2026-09-06 15:03 UTC · NFL week 1
 - Buffalo Bills (DEF-BUF) (STARTER)
 
 ## Trending adds (24h, all Sleeper)
-- Roschon Johnson (RB-CHI) — 168,272 adds
-- Devaughn Vele (WR-NO) — 76,552 adds
-- Tank Dell (WR-HOU) [IR] — 59,928 adds
-- Las Vegas Raiders (DEF-LV) — 46,656 adds
-- MarShawn Lloyd (RB-GB) — 39,942 adds
-- Malik Davis (RB-DAL) — 36,792 adds
-- Jacksonville Jaguars (DEF-JAX) — 33,420 adds
-- Darren Waller (TE-CAR) — 30,852 adds
-- Tyler Loop (K-BAL) — 27,060 adds
-- Caleb Douglas (WR-MIA) — 26,224 adds
-- Chris Bell (WR-MIA) — 23,653 adds
-- Isiah Pacheco (RB-DET) [IR] — 23,520 adds
-- Tre Tucker (WR-LV) — 20,076 adds
-- Kaelon Black (RB-SF) — 19,768 adds
-- Jacob Saylors (RB-DET) — 19,070 adds
-- Matt Gay (K-LV) — 17,955 adds
-- Malik Willis (QB-MIA) — 17,094 adds
-- Justice Hill (RB-BAL) — 16,425 adds
-- Jalen Nailor (WR-LV) — 15,318 adds
-- Detroit Lions (DEF-DET) — 15,021 adds
-- Malik Washington (WR-MIA) — 14,520 adds
-- Keaton Mitchell (RB-LAC) [Questionable] — 14,238 adds
-- Tyler Shough (QB-NO) — 14,096 adds
-- Sione Vaki (RB-DET) — 13,993 adds
-- AJ Barner (TE-SEA) — 13,608 adds
+- Roschon Johnson (RB-CHI) — 253,536 adds
+- Devaughn Vele (WR-NO) — 145,264 adds
+- Tank Dell (WR-HOU) [IR] — 109,160 adds
+- Las Vegas Raiders (DEF-LV) — 97,998 adds
+- Malik Davis (RB-DAL) — 86,445 adds
+- Kaelon Black (RB-SF) — 72,058 adds
+- MarShawn Lloyd (RB-GB) — 66,978 adds
+- Jacksonville Jaguars (DEF-JAX) — 64,284 adds
+- Darren Waller (TE-CAR) — 62,451 adds
+- Tyler Loop (K-BAL) — 52,494 adds
+- Isiah Pacheco (RB-DET) [IR] — 51,432 adds
+- Tre Tucker (WR-LV) — 46,056 adds
+- Matt Gay (K-LV) — 42,585 adds
+- Caleb Douglas (WR-MIA) — 40,968 adds
+- Seth McGowan (RB-IND) — 36,440 adds
+- Justice Hill (RB-BAL) — 35,973 adds
+- Keaton Mitchell (RB-LAC) [Questionable] — 34,443 adds
+- Chris Bell (WR-MIA) — 33,474 adds
+- Malik Willis (QB-MIA) — 31,318 adds
+- Detroit Lions (DEF-DET) — 30,681 adds
+- Odell Beckham (WR-NYG) — 30,191 adds
+- Malachi Fields (WR-NYG) — 27,865 adds
+- Malik Washington (WR-MIA) — 27,488 adds
+- AJ Barner (TE-SEA) — 27,402 adds
+- Barion Brown (WR-NO) — 27,126 adds
 
 ## League transactions this week
+- free_agent (complete): +[Tre Tucker (WR-LV)] -[Dallas Goedert (TE-PHI)]
 - free_agent (complete): +[Kaelon Black (RB-SF)] -[Dontayvion Wicks (WR-PHI)]
 - free_agent (complete): +[Detroit Lions (DEF-DET)] -[Rashid Shaheed (WR-SEA)]
