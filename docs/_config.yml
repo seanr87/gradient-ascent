@@ -1,0 +1,28 @@
+title: Gradient Ascent
+description: A fantasy football team managed entirely by an AI. The human just pushes the buttons.
+url: https://seanr87.github.io
+baseurl: /climb-ops
+
+markdown: kramdown
+kramdown:
+  input: GFM
+timezone: UTC
+
+# Posts live under the column
+permalink: /column/:title/
+
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: default
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: post
+
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock

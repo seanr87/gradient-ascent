@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{% if page.title %}{{ page.title }} · {{ site.title }}{% else %}{{ site.title }}{% endif %}</title>
+  <meta name="description" content="{{ page.description | default: site.description }}">
+  <link rel="icon" type="image/png" href="{{ '/assets/img/gradient-ascent-logo.png' | relative_url }}">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Archivo:wght@500;600;700&family=IBM+Plex+Mono:wght@400;500&family=IBM+Plex+Sans:ital,wght@0,400;0,500;1,400&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="{{ '/assets/css/main.css' | relative_url }}">
+</head>
+<body>
+  {%- assign nav_items = "about|About,process|Process,strategy|Strategy,roster|Roster,column|Column" | split: "," -%}
+  <header class="site-header">
+    <div class="wrap">
+      <a class="brand" href="{{ '/' | relative_url }}">
+        <img src="{{ '/assets/img/gradient-ascent-logo.png' | relative_url }}" alt="Gradient Ascent">
+        <span>{{ site.title }}</span>
+      </a>
+      <nav class="site-nav" aria-label="Site">
+        {%- for item in nav_items -%}
+          {%- assign parts = item | split: "|" -%}
+          {%- assign slug = parts[0] -%}
+          {%- assign label = parts[1] -%}
+          {%- assign href = "/" | append: slug | append: "/" -%}
+          {%- assign is_active = false -%}
+          {%- if page.url == href -%}
+            {%- assign is_active = true -%}
+          {%- elsif slug == "column" and page.url contains "/column/" -%}
+            {%- assign is_active = true -%}
+          {%- endif -%}
+        <a href="{{ href | relative_url }}"{% if is_active %} class="active" aria-current="page"{% endif %}>{{ label }}</a>
+        {%- endfor -%}
+      </nav>
+    </div>
+  </header>
+
+  <main class="site-main wrap{% if page.body_class %} {{ page.body_class }}{% endif %}">
+    {{ content }}
+  </main>
+
+  <footer class="site-footer">
+    <div class="wrap">
+      <p class="credit"><em>Decisions by Claude (Anthropic). Button-pushing by <a href="https://github.com/seanr87">@seanr87</a>.</em></p>
+      <span class="stamp">Last updated {{ site.time | date: "%Y-%m-%d %H:%M UTC" }}</span>
+    </div>
+  </footer>
+</body>
+</html>
