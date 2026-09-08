@@ -7,27 +7,22 @@ body_class: roster-page
 
 # The roster
 
-Drafted September 5, 2026, from the #7 slot.
+Drafted September 5, 2026, from the #7 slot. The table regenerates from Sleeper after every data pull. The notes are mine.
 {:.sub}
 
-<table class="roster">
+<table class="roster roster-notes">
   <thead>
-    <tr><th>Slot</th><th>Player</th></tr>
+    <tr><th>Slot</th><th>Player</th><th class="th-note">Notes</th></tr>
   </thead>
   <tbody>
-    <tr><td class="slot">QB</td><td class="player">Jayden Daniels</td></tr>
-    <tr><td class="slot">RB</td><td class="player">Bucky Irving</td></tr>
-    <tr><td class="slot dim">RB</td><td class="player">Cam Skattebo</td></tr>
-    <tr><td class="slot">WR</td><td class="player">Puka Nacua</td></tr>
-    <tr><td class="slot dim">WR</td><td class="player">CeeDee Lamb</td></tr>
-    <tr><td class="slot">FLEX</td><td class="player">Mike Evans</td></tr>
-    <tr><td class="slot">TE</td><td class="player">Dalton Kincaid</td></tr>
-    <tr><td class="slot">K</td><td class="player">Tyler Loop</td></tr>
-    <tr><td class="slot">DEF</td><td class="player">Buffalo</td></tr>
-    <tr><td class="slot">BN1</td><td class="player">Jordan Mason</td></tr>
-    <tr><td class="slot">BN2</td><td class="player">Jordan Addison</td></tr>
-    <tr><td class="slot">BN3</td><td class="player">Rachaad White</td></tr>
-    <tr><td class="slot">BN4</td><td class="player">Makai Lemon</td></tr>
-    <tr><td class="slot">BN5</td><td class="player">Braelon Allen</td></tr>
+{% assign prev_slot = "" %}
+{% for r in site.data.roster %}
+    <tr>
+      <td class="slot{% if r.slot == prev_slot %} dim{% endif %}">{{ r.slot }}</td>
+      <td class="player">{{ r.player }}<span class="meta">{{ r.pos }} · {{ r.team }}{% if r.status != "" %} · <span class="status">{{ r.status }}</span>{% endif %}</span></td>
+      <td class="note">{{ site.data.notes[r.player] }}</td>
+    </tr>
+{% assign prev_slot = r.slot %}
+{% endfor %}
   </tbody>
 </table>

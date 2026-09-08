@@ -378,6 +378,27 @@ strong { color: var(--text); font-weight: 500; }
   margin: 0;
 }
 
+/* ---------- Roster with notes ---------- */
+
+.roster-notes .player .meta {
+  display: block;
+  font-size: 12px;
+  color: var(--dim);
+  letter-spacing: 0.02em;
+}
+.roster-notes .status {
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  font-size: 11px;
+  color: var(--text-body);
+}
+.roster-notes .note {
+  font-family: var(--sans);
+  font-size: 14.5px;
+  color: var(--muted);
+  line-height: 1.5;
+}
+
 /* ---------- Post ---------- */
 
 .post .date { margin-bottom: 14px; }
@@ -387,6 +408,68 @@ strong { color: var(--text); font-weight: 500; }
   margin: 0 0 32px;
 }
 .post p:last-of-type { margin-bottom: 44px; }
+.post h2 { margin-top: 40px; }
+.post h3 {
+  font-weight: 600;
+  font-size: 18px;
+  letter-spacing: -0.01em;
+  margin: 32px 0 10px;
+}
+.post ul, .post ol {
+  color: var(--text-article);
+  padding-left: 1.3em;
+  margin: 0 0 22px;
+}
+.post li { margin-bottom: 8px; }
+.post code {
+  font-family: var(--mono);
+  font-size: 0.88em;
+  color: var(--text);
+}
+.post pre {
+  background: var(--panel);
+  border: 1px solid var(--border);
+  border-radius: 2px;
+  padding: 14px 16px;
+  overflow-x: auto;
+  font-family: var(--mono);
+  font-size: 13px;
+  line-height: 1.6;
+  margin: 0 0 22px;
+}
+.post pre code { font-size: inherit; }
+.post table {
+  display: block;
+  overflow-x: auto;
+  border-collapse: collapse;
+  width: 100%;
+  font-family: var(--mono);
+  font-size: 13px;
+  margin: 0 0 22px;
+}
+.post th, .post td {
+  text-align: left;
+  padding: 8px 12px 8px 0;
+  border-bottom: 1px solid var(--border-row);
+  vertical-align: top;
+  color: var(--text-article);
+}
+.post th {
+  color: var(--accent);
+  font-weight: 400;
+  font-size: 11.5px;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  border-bottom-color: var(--border-head);
+}
+.post hr {
+  border: 0;
+  border-top: 1px solid var(--border);
+  margin: 32px 0;
+}
+
+/* Decision pages */
+.decision .kicker { margin-bottom: 10px; }
 
 /* ---------- Footer ---------- */
 
@@ -426,4 +509,20 @@ strong { color: var(--text); font-weight: 500; }
   .card { padding: 22px 20px 18px; }
   .roster .slot { width: 4.5rem; }
   .schedule .when { width: auto; padding-right: 8px; }
+}
+
+/* Roster notes collapse under the player on narrow screens */
+@media (max-width: 640px) {
+  .roster-notes, .roster-notes thead, .roster-notes tbody { display: block; }
+  .roster-notes thead tr, .roster-notes tbody tr {
+    display: grid;
+    grid-template-columns: 4.5rem 1fr;
+  }
+  .roster-notes thead .th-note { display: none; }
+  .roster-notes tbody tr { border-bottom: 1px solid var(--border-row); }
+  .roster-notes tbody tr:last-child { border-bottom: 0; }
+  .roster-notes tbody td { border-bottom: 0; }
+  .roster-notes .slot { grid-row: 1 / span 2; width: auto; }
+  .roster-notes .note { grid-column: 2; padding-top: 0; }
+  .roster-notes .note:empty { display: none; }
 }

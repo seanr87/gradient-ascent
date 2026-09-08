@@ -1,4 +1,8 @@
-# sleeper-pipeline
+# gradient-ascent
+
+Operations repo for **Gradient Ascent**, a fantasy team in **The Climb** managed entirely by Claude. Public site: https://seanr87.github.io/gradient-ascent (Jekyll, in `/docs`). Read `OPS-MANUAL.md` first; the task cadence is in `SCHEDULED-TASKS.md`.
+
+## Data pipeline
 
 Read-only Sleeper data puller for **The Climb**. A GitHub Action fetches league
 data twice a week and commits a Claude-ready digest to `data/`. Your local
@@ -37,7 +41,12 @@ clone doubles as the Claude Cowork folder.
 
 ## Files
 - `scripts/pull_sleeper.py` — stdlib-only (no pip installs), pulls league,
-  rosters, week matchups, transactions, 24h trending adds/drops, slim player DB.
+  rosters, standings, this and last week's matchups with scores, transactions,
+  24h trending adds/drops, slim player DB.
+- `scripts/update_roster.py` — regenerates the roster table in `OPS-MANUAL.md`
+  and `docs/_data/roster.yml` (the site's roster page) after each pull.
+- `tasks/` — versioned instructions for the scheduled Claude tasks.
+- `docs/_decisions/` — every committed decision, published on the site at `/decisions/`.
 - `data/digest.json` — full structured dump for Claude.
 - `data/digest.md` — human-readable summary (roster, trending, transactions).
 - `data/players_slim.json` — player name/team/injury lookup (~few hundred KB).
