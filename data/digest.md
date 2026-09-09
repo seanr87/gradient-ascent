@@ -1,5 +1,5 @@
-# Sleeper digest — The Climb
-Pulled: 2026-09-08 02:45 UTC · NFL week 1 (regular)
+# Sleeper digest â€” The Climb
+Pulled: 2026-09-09 05:52 UTC Â· NFL week 1 (regular)
 
 ## My roster
 - Dalton Kincaid (TE-BUF) (STARTER)
@@ -9,11 +9,11 @@ Pulled: 2026-09-08 02:45 UTC · NFL week 1 (regular)
 - Cam Skattebo (RB-NYG) (STARTER)
 - Tyler Loop (K-BAL) (STARTER)
 - Makai Lemon (WR-PHI)
-- Mike Evans (WR-SF) [Questionable] (STARTER)
+- Mike Evans (WR-SF) (STARTER)
 - CeeDee Lamb (WR-DAL) (STARTER)
 - Rachaad White (RB-WAS) [Questionable]
 - Jordan Mason (RB-MIN)
-- Puka Nacua (WR-LAR) [Questionable] (STARTER)
+- Puka Nacua (WR-LAR) (STARTER)
 - Jordan Addison (WR-MIN)
 - Buffalo Bills (DEF-BUF) (STARTER)
 
@@ -21,53 +21,53 @@ Pulled: 2026-09-08 02:45 UTC · NFL week 1 (regular)
 - Opponent: Lenny for your Thoughts
 
 ## Standings (W-L, points for)
-1. Lenny for your Thoughts — 0-0, 0.00 PF, waiver #5
-2. Playful Secrets — 0-0, 0.00 PF, waiver #10
-3. What can Brown do for u? — 0-0, 0.00 PF, waiver #4
-4. Enlarged Pinerio Gland — 0-0, 0.00 PF, waiver #11
-5. Umojan Protectorate — 0-0, 0.00 PF, waiver #1
-6. TheTroubles — 0-0, 0.00 PF, waiver #7
-7. Sea Squirts — 0-0, 0.00 PF, waiver #12
-8. Gradient Ascent — 0-0, 0.00 PF, waiver #6
-9. Indestructible McCaffrey  — 0-0, 0.00 PF, waiver #9
-10. The Royal Court of Donut — 0-0, 0.00 PF, waiver #2
-11. The Wizard’s Apprentice — 0-0, 0.00 PF, waiver #3
-12. CorneliusJones — 0-0, 0.00 PF, waiver #8
+1. Lenny for your Thoughts â€” 0-0, 0.00 PF, waiver #5
+2. Playful Secrets â€” 0-0, 0.00 PF, waiver #10
+3. What can Brown do for u? â€” 0-0, 0.00 PF, waiver #4
+4. Enlarged Pinerio Gland â€” 0-0, 0.00 PF, waiver #11
+5. Umojan Protectorate â€” 0-0, 0.00 PF, waiver #1
+6. TheTroubles â€” 0-0, 0.00 PF, waiver #7
+7. Sea Squirts â€” 0-0, 0.00 PF, waiver #12
+8. Gradient Ascent â€” 0-0, 0.00 PF, waiver #6
+9. Indestructible McCaffrey  â€” 0-0, 0.00 PF, waiver #9
+10. The Royal Court of Donut â€” 0-0, 0.00 PF, waiver #2
+11. The Wizardâ€™s Apprentice â€” 0-0, 0.00 PF, waiver #3
+12. CorneliusJones â€” 0-0, 0.00 PF, waiver #8
 
 ## This week's matchups (week 1)
-- Indestructible McCaffrey  0.00 — The Royal Court of Donut 0.00
-- Umojan Protectorate 0.00 — CorneliusJones 0.00
-- Enlarged Pinerio Gland 0.00 — Sea Squirts 0.00
-- Playful Secrets 0.00 — What can Brown do for u? 0.00
-- Lenny for your Thoughts 0.00 — Gradient Ascent 0.00
-- TheTroubles 0.00 — The Wizard’s Apprentice 0.00
+- Indestructible McCaffrey  0.00 â€” The Royal Court of Donut 0.00
+- Umojan Protectorate 0.00 â€” CorneliusJones 0.00
+- Enlarged Pinerio Gland 0.00 â€” Sea Squirts 0.00
+- Playful Secrets 0.00 â€” What can Brown do for u? 0.00
+- Lenny for your Thoughts 0.00 â€” Gradient Ascent 0.00
+- TheTroubles 0.00 â€” The Wizardâ€™s Apprentice 0.00
 
 ## Trending adds (24h, all Sleeper)
-- Roschon Johnson (RB-CHI) — 254,120 adds
-- Devaughn Vele (WR-NO) — 146,314 adds
-- Tank Dell (WR-HOU) [IR] — 110,520 adds
-- Las Vegas Raiders (DEF-LV) — 98,964 adds
-- Malik Davis (RB-DAL) — 88,659 adds
-- Kaelon Black (RB-SF) — 76,482 adds
-- MarShawn Lloyd (RB-GB) — 65,934 adds
-- Jacksonville Jaguars (DEF-JAX) — 65,112 adds
-- Darren Waller (TE-CAR) — 63,432 adds
-- Tyler Loop (K-BAL) — 52,626 adds
-- Isiah Pacheco (RB-DET) [IR] — 51,024 adds
-- Tre Tucker (WR-LV) — 46,758 adds
-- Matt Gay (K-LV) — 44,785 adds
-- Caleb Douglas (WR-MIA) — 41,048 adds
-- Seth McGowan (RB-IND) — 38,200 adds
-- Justice Hill (RB-BAL) — 36,288 adds
-- Keaton Mitchell (RB-LAC) [Questionable] — 35,748 adds
-- Chris Bell (WR-MIA) — 34,083 adds
-- Odell Beckham (WR-NYG) — 32,228 adds
-- Malik Willis (QB-MIA) — 31,962 adds
-- Detroit Lions (DEF-DET) — 31,293 adds
-- Malachi Fields (WR-NYG) — 30,255 adds
-- Barion Brown (WR-NO) — 27,900 adds
-- Malik Washington (WR-MIA) — 27,872 adds
-- AJ Barner (TE-SEA) — 27,804 adds
+- Roschon Johnson (RB-CHI) â€” 249,544 adds
+- Devaughn Vele (WR-NO) â€” 173,089 adds
+- Malik Davis (RB-DAL) â€” 131,490 adds
+- Las Vegas Raiders (DEF-LV) â€” 122,706 adds
+- Tank Dell (WR-HOU) [IR] â€” 110,560 adds
+- Kaelon Black (RB-SF) â€” 109,081 adds
+- Tyler Allgeier (RB-ARI) â€” 85,635 adds
+- MarShawn Lloyd (RB-GB) â€” 79,227 adds
+- Darren Waller (TE-CAR) â€” 78,714 adds
+- Jacksonville Jaguars (DEF-JAX) â€” 74,628 adds
+- Matt Gay (K-LV) â€” 72,795 adds
+- Caleb Douglas (WR-MIA) â€” 58,008 adds
+- Tre Tucker (WR-LV) â€” 54,864 adds
+- Odell Beckham (WR-NYG) â€” 49,833 adds
+- Isiah Pacheco (RB-DET) [IR] â€” 48,960 adds
+- Charlie Kolar (TE-LAC) â€” 47,364 adds
+- Malachi Fields (WR-NYG) â€” 46,535 adds
+- Chris Bell (WR-MIA) â€” 45,570 adds
+- Keaton Mitchell (RB-LAC) [Questionable] â€” 43,146 adds
+- Seth McGowan (RB-IND) â€” 41,336 adds
+- Justice Hill (RB-BAL) â€” 41,256 adds
+- Tyler Loop (K-BAL) â€” 40,794 adds
+- Terrance Ferguson (TE-LAR) â€” 40,152 adds
+- Detroit Lions (DEF-DET) â€” 39,717 adds
+- Malik Willis (QB-MIA) â€” 36,057 adds
 
 ## League transactions this week
 - free_agent (complete) Lenny for your Thoughts: +[Tre Tucker (WR-LV)] -[Dallas Goedert (TE-PHI)]
