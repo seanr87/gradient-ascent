@@ -7434,7 +7434,7 @@
  "13430": {
   "name": "RJ Maryland",
   "pos": "TE",
-  "team": "GB",
+  "team": null,
   "status": "Inactive",
   "injury_status": "Questionable",
   "injury_note": "Hamstring"
@@ -10084,7 +10084,7 @@
   "pos": "WR",
   "team": null,
   "status": "Active",
-  "injury_status": "Questionable",
+  "injury_status": "",
   "injury_note": "Knee - ACL"
  },
  "8013": {
@@ -10786,7 +10786,7 @@
  "11959": {
   "name": "Bryce Oliver",
   "pos": "WR",
-  "team": "CLE",
+  "team": null,
   "status": "Active",
   "injury_status": null,
   "injury_note": null
@@ -18387,7 +18387,7 @@
   "name": "Trevor Etienne",
   "pos": "RB",
   "team": "CAR",
-  "status": "Active",
+  "status": "Inactive",
   "injury_status": "IR",
   "injury_note": "Ankle"
  },
@@ -23412,7 +23412,7 @@
   "pos": "RB",
   "team": null,
   "status": "Active",
-  "injury_status": "Questionable",
+  "injury_status": "Out",
   "injury_note": "Foot"
  },
  "13227": {
