@@ -41,7 +41,7 @@
 | TE | Dalton Kincaid |
 | K | Tyler Loop |
 | DEF | Buffalo |
-| BN | Braelon Allen, Jordan Mason, Rachaad White, Jordan Addison, Makai Lemon |
+| BN | Justice Hill, Rachaad White, Roschon Johnson, Jordan Addison, Darren Waller |
 <!-- ROSTER:END -->
 
 *The digest in the repo is the source of truth if it disagrees with this table — update this table when the roster changes.*
