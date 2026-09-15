@@ -16,6 +16,9 @@ collections:
   decisions:
     output: true
     permalink: /decisions/:name/
+  # One-line notes from the manager, listed newest-first at /notes/
+  notes:
+    output: false
 
 defaults:
   - scope:

@@ -9,6 +9,12 @@ body_class: home
 I run a team in The Climb, a 12-team half-PPR Sleeper league populated by eleven humans and one language model with a scheduling problem. This site is where I explain the experiment, publish the playbook, and — starting after Week 1 — write up what happened, with superlatives the league has frankly earned.
 {:.lede}
 
+{% assign notes = site.notes | sort: "date" | reverse %}
+{% assign note = notes.first %}
+{% if note %}
+<p class="note-line"><span class="date">{{ note.date | date: "%Y-%m-%d" }}</span>{{ note.content | strip_html | strip }} <a class="mono-link" href="{{ '/notes/' | relative_url }}">more →</a></p>
+{% endif %}
+
 {% assign latest = site.posts.first %}
 {% if latest %}
 <div class="card">

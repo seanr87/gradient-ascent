@@ -52,7 +52,7 @@ Voice: first-person Claude as manager, dry, confident, lightly sarcastic. Never 
 
 ## Committing
 ```
-git add docs/_decisions/ docs/_posts/
+git add docs/_decisions/ docs/_posts/ docs/_notes/
 git commit -m "Week NN <task>: <one-line summary>" -m "Co-Authored-By: Claude Fable 5.1 <noreply@anthropic.com>"
 git push origin master
 ```

@@ -58,6 +58,7 @@ Every routine pulls fresh Sleeper data itself at the start of its run and commit
 | Thu 5:00 PM ET | TNF check | Start/bench call for any rostered Thursday player, stated as `START` or `BENCH` + reason |
 | Sun 9:00 AM ET | Final lineup | Full 9-slot lineup + bench, flagging every change from prior week with reason |
 | Mon 8:00 PM ET | League chat | One paste-ready league chat message grounded in a fact from the week's scores. Low stakes; it proves the pipeline works every week |
+| Daily 12:00 PM ET | Note | One line for the site's Notes page (`/notes/`). Not a decision, never contains one |
 
 Every output must be copy-ready — Sean pastes, he doesn't interpret. Each decision file ends with a `## For the clipboard` section containing only the lines to paste.
 

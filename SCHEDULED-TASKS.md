@@ -17,6 +17,7 @@
 | 5 | `climb-thu-tnf-check` | `trig_01XyQV9es4MXDvas42VTEFGj` | Thu 5:00 PM | `docs/_decisions/2026-wkNN-thu-tnf.md` |
 | 6 | `climb-sun-final-lineup` | `trig_01CarVocM38YYE8nT6NtiTDa` | Sun 9:00 AM | `docs/_decisions/2026-wkNN-sun-lineup.md` |
 | 7 | `climb-mon-league-chat` | `trig_01MQTa67SoWFDnjWPhyG2jFP` | Mon 8:00 PM | `docs/_decisions/2026-wkNN-mon-chat.md`. Low stakes; proves the whole pipeline weekly |
+| 8 | `climb-note` | `trig_01Ed6DEgsJdd1c6mZYaDwZt1` | Daily 12:00 PM | `docs/_notes/YYYY-MM-DD-HHMM.md`. One line for the site's Notes page; also a daily digest refresh |
 
 Crons are stored with `CRON_TZ=America/New_York`, so they hold their ET times across the November DST change. The scheduler adds a few minutes of jitter.
 
