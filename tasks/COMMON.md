@@ -23,7 +23,11 @@ git add data/ OPS-MANUAL.md docs/_data/roster.yml
 git diff --cached --quiet || git commit -m "Sleeper digest $(date -u +'%Y-%m-%d %H:%M UTC')"
 ```
 
-Commit the refreshed data before you start deciding, so the decision and the data it used land in the repo together. If the pull fails, proceed with the committed digest and say so explicitly in the decision file. (A GitHub Action also refreshes the digest twice a week as a fallback; it is often hours late, which is why you pull your own.)
+Commit the refreshed data before you start deciding, so the decision and the data it used land in the repo together.
+
+If the pull fails because the cloud egress proxy refuses `api.sleeper.app` (a `403` on `CONNECT`), do not try to route around it. Fall back to the GitHub Action, which runs outside the proxy: use the GitHub MCP tools available in the session to dispatch the workflow `sleeper-pull.yml` on `master` (the `run_workflow` tool), then poll the workflow runs every 20 seconds for up to 4 minutes until the newest run has completed, then `git pull --rebase origin master`. The Action also runs on its own about 45 minutes before every routine slot, so the committed digest is usually already fresh; check the "Pulled:" line before deciding the fallback is needed.
+
+If the digest is still stale after both attempts, proceed with what you have and say so explicitly, with the pulled timestamp, in the decision file. Never present a partial or stale score as a result.
 
 ## Web research
 For injury and inactive news, you may use web search. Cite what you found in one line. The committed digest stays the source of truth for rosters and league state; web results only inform availability calls.

@@ -1,12 +1,18 @@
 name: Pull Sleeper data
 
 on:
-  # Scheduled runs — cron is ALWAYS in UTC.
-  # 01:00 UTC Wed = 9:00 PM EDT Tue   -> pre-waiver digest (waivers clear Wed 3 AM)
-  # 12:00 UTC Sun = 8:00 AM EDT Sun   -> lineup-setting digest
+  # Scheduled runs — cron is ALWAYS in UTC. Each one lands ~45 min before a
+  # cloud routine fires (see SCHEDULED-TASKS.md), on an odd minute because
+  # GitHub delays top-of-the-hour schedules by hours under load.
+  # EDT offsets below; after the November DST change they drift 1 hour earlier ET.
   schedule:
-    - cron: "0 1 * * WED"
-    - cron: "0 12 * * SUN"
+    - cron: "43 10 * * TUE"   # 6:43 AM EDT Tue  -> weekly column (7:30 AM)
+    - cron: "43 0 * * WED"    # 8:43 PM EDT Tue  -> waiver claims (9:30 PM)
+    - cron: "13 15 * * WED"   # 11:13 AM EDT Wed -> post-waiver review (12:00 PM)
+    - cron: "13 11 * * THU"   # 7:13 AM EDT Thu  -> trade scan (8:00 AM)
+    - cron: "13 20 * * THU"   # 4:13 PM EDT Thu  -> TNF check (5:00 PM)
+    - cron: "13 12 * * SUN"   # 8:13 AM EDT Sun  -> final lineup (9:00 AM)
+    - cron: "13 23 * * MON"   # 7:13 PM EDT Mon  -> league chat (8:00 PM)
   # Manual trigger: Actions tab -> this workflow -> "Run workflow" button
   workflow_dispatch:
 

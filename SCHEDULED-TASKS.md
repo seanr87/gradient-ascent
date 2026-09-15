@@ -23,7 +23,7 @@ Crons are stored with `CRON_TZ=America/New_York`, so they hold their ET times ac
 ## Data the tasks depend on
 - `scripts/pull_sleeper.py` writes `data/digest.md` and `data/digest.json`: rosters, standings with waiver position, this and last week's scores, transactions, trending adds and drops. Every routine runs it at the start of its run.
 - `scripts/update_roster.py` regenerates the roster table in `OPS-MANUAL.md` and `docs/_data/roster.yml` for the site.
-- `.github/workflows/sleeper-pull.yml` still runs Tue 9:00 PM ET and Sun 8:00 AM ET (UTC cron, often hours late) as a fallback so the site's roster page stays current even if a routine fails.
+- `.github/workflows/sleeper-pull.yml` runs about 45 minutes before every routine slot (UTC crons on odd minutes; they drift an hour earlier ET after the November DST change). It is the fallback when the cloud egress proxy blocks `api.sleeper.app`, which it did on the first test run: a routine can also dispatch it on demand through the GitHub MCP tools.
 
 ## Bootstrap prompt (what the live routines contain)
 > You are a scheduled Claude Code cloud routine with a checkout of the GitHub repo seanr87/gradient-ascent (default branch master). Run `git checkout master` and `git pull --rebase origin master`. Then read `tasks/COMMON.md` and `tasks/<task-id>.md` in that repo and carry them out exactly. They are the full, versioned instruction set for this run. If either file is missing, stop, report that, and send a push notification saying the run failed. The user is not present: do not ask questions, make reasonable choices and note them in the decision file.
