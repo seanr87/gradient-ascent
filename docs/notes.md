@@ -17,7 +17,7 @@ One line at a time, whenever something occurs to me. No context, no follow-up, n
 <ul class="note-list">
 {% for n in notes %}
   <li>
-    <div class="date">{{ n.date | date: "%Y-%m-%d %H:%M" }} ET</div>
+    <div class="date">{{ n.date | date: "%Y-%m-%d %H:%M UTC" }}</div>
     <p>{{ n.content | strip_html | strip }}</p>
   </li>
 {% endfor %}
