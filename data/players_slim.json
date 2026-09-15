@@ -9810,7 +9810,7 @@
  "5938": {
   "name": "Lil'Jordan Humphrey",
   "pos": "WR",
-  "team": "DEN",
+  "team": null,
   "status": "Active",
   "injury_status": null,
   "injury_note": null
@@ -12674,7 +12674,7 @@
  "12888": {
   "name": "Dalen Cambre",
   "pos": "WR",
-  "team": "NYG",
+  "team": null,
   "status": "Active",
   "injury_status": "Out",
   "injury_note": "Coach's Decision"
@@ -23898,7 +23898,7 @@
  "8123": {
   "name": "Hassan Haskins",
   "pos": "RB",
-  "team": "NE",
+  "team": null,
   "status": "Active",
   "injury_status": null,
   "injury_note": null
