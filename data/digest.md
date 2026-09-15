@@ -1,5 +1,5 @@
 # Sleeper digest — The Climb
-Pulled: 2026-09-15 02:23 UTC · NFL week 1 (regular)
+Pulled: 2026-09-15 11:33 UTC · NFL week 2 (regular)
 
 ## My roster
 - Roschon Johnson (RB-CHI)
@@ -18,63 +18,63 @@ Pulled: 2026-09-15 02:23 UTC · NFL week 1 (regular)
 - Buffalo Bills (DEF-BUF) (STARTER)
 
 ## My matchup this week
-- Opponent: Pierced by a Marksman
+- Opponent: The Wizard’s Apprentice
 
 ## Standings (W-L, points for)
-1. Pierced by a Marksman — 0-0, 0.00 PF, waiver #5
-2. Playful Secrets — 0-0, 0.00 PF, waiver #10
-3. What can Brown do for u? — 0-0, 0.00 PF, waiver #4
-4. Lawrence of Valinor — 0-0, 0.00 PF, waiver #11
-5. Umojan Protectorate — 0-0, 0.00 PF, waiver #1
-6. TheTroubles — 0-0, 0.00 PF, waiver #7
-7. Sea Squirts — 0-0, 0.00 PF, waiver #12
-8. Gradient Ascent — 0-0, 0.00 PF, waiver #6
-9. Three Wise Jaylens  — 0-0, 0.00 PF, waiver #9
-10. The Royal Court of Donut — 0-0, 0.00 PF, waiver #2
-11. The Wizard’s Apprentice — 0-0, 0.00 PF, waiver #3
-12. CorneliusJones — 0-0, 0.00 PF, waiver #8
+1. The Royal Court of Donut — 1-0, 206.16 PF, waiver #12
+2. Playful Secrets — 1-0, 153.66 PF, waiver #11
+3. TheTroubles — 1-0, 146.16 PF, waiver #10
+4. Gradient Ascent — 1-0, 140.46 PF, waiver #9
+5. Umojan Protectorate — 1-0, 134.10 PF, waiver #8
+6. Lawrence of Valinor — 1-0, 129.70 PF, waiver #7
+7. Sea Squirts — 0-1, 129.51 PF, waiver #6
+8. What can Brown do for u? — 0-1, 108.36 PF, waiver #5
+9. The Wizard’s Apprentice — 0-1, 102.10 PF, waiver #4
+10. Pierced by a Marksman — 0-1, 92.97 PF, waiver #3
+11. CorneliusJones — 0-1, 84.52 PF, waiver #2
+12. Three Wise Jaylens  — 0-1, 78.92 PF, waiver #1
 
-## This week's matchups (week 1)
-- The Royal Court of Donut 196.96 — Three Wise Jaylens  78.92
-- Umojan Protectorate 134.10 — CorneliusJones 80.52
+## This week's matchups (week 2)
+- Umojan Protectorate 0.00 — The Royal Court of Donut 0.00
+- Lawrence of Valinor 0.00 — Three Wise Jaylens  0.00
+- Playful Secrets 0.00 — CorneliusJones 0.00
+- Pierced by a Marksman 0.00 — Sea Squirts 0.00
+- What can Brown do for u? 0.00 — TheTroubles 0.00
+- Gradient Ascent 0.00 — The Wizard’s Apprentice 0.00
+
+## Last week's results (week 1)
+- The Royal Court of Donut 206.16 — Three Wise Jaylens  78.92
+- Umojan Protectorate 134.10 — CorneliusJones 84.52
 - Lawrence of Valinor 129.70 — Sea Squirts 129.51
-- Playful Secrets 152.06 — What can Brown do for u? 107.76
+- Playful Secrets 153.66 — What can Brown do for u? 108.36
 - Gradient Ascent 140.46 — Pierced by a Marksman 92.97
 - TheTroubles 146.16 — The Wizard’s Apprentice 102.10
 
 ## Trending adds (24h, all Sleeper)
-- Devaughn Vele (WR-NO) — 890,918 adds
-- Devin Singletary (RB-NYG) — 434,007 adds
-- Caleb Douglas (WR-MIA) — 432,832 adds
-- Carson Wentz (QB-MIN) — 263,070 adds
-- Kaelon Black (RB-SF) — 253,393 adds
-- Mike Gesicki (TE-CIN) — 220,940 adds
-- Tampa Bay Buccaneers (DEF-TB) — 178,970 adds
-- Bryce Young (QB-CAR) — 165,316 adds
-- Pat Bryant (WR-DEN) — 152,472 adds
-- San Francisco 49ers (DEF-SF) — 143,154 adds
-- Tyler Shough (QB-NO) — 117,072 adds
-- Dontayvion Wicks (WR-PHI) — 108,681 adds
-- Jalen Coker (WR-CAR) [Questionable] — 66,822 adds
-- Kendrick Bourne (WR-ARI) — 65,217 adds
-- Kalif Raymond (WR-CHI) — 61,354 adds
-- Kyle Monangai (RB-CHI) — 57,180 adds
-- Kenyon Sadiq (TE-NYJ) — 53,847 adds
-- Michael Mayer (TE-LV) — 53,253 adds
-- Emmett Johnson (RB-KC) — 48,870 adds
-- Evan Engram (TE-DEN) — 48,512 adds
-- Demarcus Robinson (WR-SF) — 47,430 adds
-- Matthew Golden (WR-GB) — 45,647 adds
-- Raheim Sanders (RB-CLE) — 32,880 adds
-- Tyler Loop (K-BAL) — 29,682 adds
-- Cole Kmet (TE-CHI) — 28,953 adds
+- Devaughn Vele (WR-NO) — 1,340,780 adds
+- Caleb Douglas (WR-MIA) — 760,080 adds
+- Devin Singletary (RB-NYG) — 660,222 adds
+- Kaelon Black (RB-SF) — 433,083 adds
+- Tampa Bay Buccaneers (DEF-TB) — 410,470 adds
+- Carson Wentz (QB-MIN) — 358,674 adds
+- San Francisco 49ers (DEF-SF) — 269,454 adds
+- Mike Gesicki (TE-CIN) — 258,368 adds
+- Bryce Young (QB-CAR) — 208,328 adds
+- Pat Bryant (WR-DEN) — 195,200 adds
+- Dontayvion Wicks (WR-PHI) — 155,223 adds
+- Tyler Shough (QB-NO) — 152,568 adds
+- Emmett Johnson (RB-KC) — 128,160 adds
+- Raheim Sanders (RB-CLE) — 111,392 adds
+- Kendrick Bourne (WR-ARI) — 108,312 adds
+- Evan Engram (TE-DEN) — 103,312 adds
+- Kalif Raymond (WR-CHI) — 87,174 adds
+- Demarcus Robinson (WR-SF) — 85,818 adds
+- Jalen Coker (WR-CAR) [Questionable] — 83,392 adds
+- Matthew Golden (WR-GB) — 79,975 adds
+- Kenyon Sadiq (TE-NYJ) — 75,663 adds
+- Kyle Monangai (RB-CHI) — 68,226 adds
+- Mack Hollins (WR-NE) — 62,985 adds
+- Jacory Croskey-Merritt (RB-WAS) — 56,151 adds
+- Michael Mayer (TE-LV) — 47,826 adds
 
 ## League transactions this week
-- free_agent (complete) CorneliusJones: +[Jordan Mason (RB-MIN) [Questionable]] -[Kyle Monangai (RB-CHI)]
-- free_agent (complete) Lawrence of Valinor: +[Dallas Goedert (TE-PHI)] -[Mike Washington (RB-LV)]
-- free_agent (complete) Gradient Ascent: +[Justice Hill (RB-BAL)] -[Braelon Allen (RB-NYJ)]
-- free_agent (complete) Gradient Ascent: +[Darren Waller (TE-CAR)] -[Makai Lemon (WR-PHI)]
-- free_agent (complete) Gradient Ascent: +[Roschon Johnson (RB-CHI)] -[Jordan Mason (RB-MIN) [Questionable]]
-- free_agent (complete) Pierced by a Marksman: +[Tre Tucker (WR-LV)] -[Dallas Goedert (TE-PHI)]
-- free_agent (complete) Pierced by a Marksman: +[Kaelon Black (RB-SF)] -[Dontayvion Wicks (WR-PHI)]
-- free_agent (complete) Playful Secrets: +[Detroit Lions (DEF-DET)] -[Rashid Shaheed (WR-SEA)]
