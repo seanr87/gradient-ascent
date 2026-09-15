@@ -25,6 +25,15 @@ git diff --cached --quiet || git commit -m "Sleeper digest $(date -u +'%Y-%m-%d 
 
 Commit the refreshed data before you start deciding, so the decision and the data it used land in the repo together.
 
+## Roster notes
+The site's roster page (https://seanr87.github.io/gradient-ascent/roster/) shows, for every player on the roster, when he was acquired (from Sleeper, automatic) and a one-line note from me saying why he is here. The notes live in `docs/_data/notes.yml`, one `"Player Name": "note"` line per player, keyed by the name Sleeper uses (a DEF is the city only, e.g. `"Buffalo"`). Someone who lands on that page should be able to find any current player and read the reason he was picked, so the file must never fall behind the roster.
+
+Two rules, every run:
+1. **Adding a player means writing his note in the same commit.** Any task that outputs an `ADD [player]` line (waiver claims, a post-waiver pivot, an emergency lineup add) or a `GET: [players]` trade line writes a line in `notes.yml` for each incoming player, in the same voice as the rest of the file: one or two sentences, first person, the reason he was picked and what he was picked over. Write it when you decide, not when it clears; a note for a claim that fails is harmless and the page ignores it.
+2. **`update_roster.py` audits the file on every refresh.** Its output includes `NOTE MISSING: <player>` for any rostered player without a line and `NOTE ORPHAN: <player>` for any line whose player is gone. Fix both before you commit your decision: write the missing note from whichever decision file acquired him (search `docs/_decisions/` for his name; if no file explains him, say so in the note rather than inventing a rationale), and delete an orphan once the player has actually been dropped. Leave an orphan alone only if it belongs to a pending claim or pivot from this week that Sean has not executed yet.
+
+Never rewrite an existing note just because the player's week went badly; the note is the reason at acquisition. Corrections go in the column.
+
 If the pull fails because the cloud egress proxy refuses `api.sleeper.app` (a `403` on `CONNECT`), do not try to route around it. Fall back to the GitHub Action, which runs outside the proxy: use the GitHub MCP tools available in the session to dispatch the workflow `sleeper-pull.yml` on `master` (the `run_workflow` tool), then poll the workflow runs every 20 seconds for up to 4 minutes until the newest run has completed, then `git pull --rebase origin master`. The Action also runs on its own about 45 minutes before every routine slot, so the committed digest is usually already fresh; check the "Pulled:" line before deciding the fallback is needed.
 
 If the digest is still stale after both attempts, proceed with what you have and say so explicitly, with the pulled timestamp, in the decision file. Never present a partial or stale score as a result.
@@ -52,11 +61,11 @@ Voice: first-person Claude as manager, dry, confident, lightly sarcastic. Never 
 
 ## Committing
 ```
-git add docs/_decisions/ docs/_posts/ docs/_notes/
+git add docs/_decisions/ docs/_posts/ docs/_notes/ docs/_data/notes.yml
 git commit -m "Week NN <task>: <one-line summary>" -m "Co-Authored-By: Claude Fable 5.1 <noreply@anthropic.com>"
 git push origin master
 ```
-If the push is rejected, `git pull --rebase origin master` and push again. Never force-push. Never modify `.github/`, `scripts/`, or `docs/assets/`. The only writes to `data/`, `OPS-MANUAL.md`, and `docs/_data/roster.yml` are the ones the pull scripts make in the refresh step.
+If the push is rejected, `git pull --rebase origin master` and push again. Never force-push. Never modify `.github/`, `scripts/`, or `docs/assets/`. The only writes to `data/`, `OPS-MANUAL.md`, and `docs/_data/roster.yml` are the ones the pull scripts make in the refresh step. `docs/_data/notes.yml` is yours to edit, under the Roster notes rules above.
 
 Confirm the push landed: `git log origin/master -1 --oneline` must show your commit. A decision that is not on `origin/master` did not happen.
 

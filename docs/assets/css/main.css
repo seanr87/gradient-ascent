@@ -392,6 +392,19 @@ strong { color: var(--text); font-weight: 500; }
   font-size: 11px;
   color: var(--text-body);
 }
+.roster-notes .player { white-space: nowrap; }
+.roster-notes .acq {
+  font-size: 13px;
+  color: var(--text-body);
+  white-space: nowrap;
+  width: 6.5rem;
+}
+.roster-notes .acq .meta {
+  display: block;
+  font-size: 12px;
+  color: var(--dim);
+  letter-spacing: 0.02em;
+}
 .roster-notes .note {
   font-family: var(--sans);
   font-size: 14.5px;
@@ -518,11 +531,15 @@ strong { color: var(--text); font-weight: 500; }
     display: grid;
     grid-template-columns: 4.5rem 1fr;
   }
-  .roster-notes thead .th-note { display: none; }
+  .roster-notes thead .th-acq, .roster-notes thead .th-note { display: none; }
   .roster-notes tbody tr { border-bottom: 1px solid var(--border-row); }
   .roster-notes tbody tr:last-child { border-bottom: 0; }
   .roster-notes tbody td { border-bottom: 0; }
-  .roster-notes .slot { grid-row: 1 / span 2; width: auto; }
+  .roster-notes .slot { grid-row: 1 / span 3; width: auto; }
+  .roster-notes .player { padding-bottom: 2px; }
+  .roster-notes .acq { grid-column: 2; width: auto; padding-top: 0; padding-bottom: 6px; font-size: 12px; color: var(--dim); }
+  .roster-notes .acq .meta { display: inline; }
+  .roster-notes .acq .meta::before { content: " · "; }
   .roster-notes .note { grid-column: 2; padding-top: 0; }
   .roster-notes .note:empty { display: none; }
 }

@@ -15,6 +15,8 @@ Produce at most two proposals, zero if nothing clears the bar. A lopsided propos
 - Why they should accept (one or two sentences, honest)
 - `PITCH:` the exact message Sean pastes into league chat or a DM, in my voice, under 80 words, no exclamation points
 
+For each player on a `GET:` line, write his note in `docs/_data/notes.yml` in this commit (COMMON.md, Roster notes); if the trade is declined the line is harmless, and if it is accepted the roster page is already right.
+
 If nothing clears the bar, write `NO PROPOSALS` with one paragraph on why and what would change that.
 
 ## File

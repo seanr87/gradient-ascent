@@ -8,7 +8,7 @@ COMMON.md already refreshed the digest at the start of this run; confirm the "Pu
 ## The lineup
 Fill all nine starting slots and list the five bench players. Apply the manual's edges: the first-down bonus favors high-touch backs and chain-moving receivers over big-play-dependent players; rushing QBs spike; distance kicker scoring; DEF by matchup. A player tagged Out or Doubtful does not start. A Questionable player starts only if the alternative is clearly worse, and you must name the bench alternative and the game time so Sean can swap before lock if news breaks. Players on bye do not start. Note any Monday night player and whether starting him leaves a slot exposed with no fallback. Respect any Thursday player already locked in by this week's Thursday file.
 
-Flag every change from the prior week's lineup (last Sunday's file) with a one-line reason. If a slot has no viable player, say so and give an emergency `ADD [player] / DROP [player]`.
+Flag every change from the prior week's lineup (last Sunday's file) with a one-line reason. If a slot has no viable player, say so and give an emergency `ADD [player] / DROP [player]`, and write the added player's line in `docs/_data/notes.yml` in this commit (COMMON.md, Roster notes).
 
 ## File
 `docs/_decisions/2026-wkNN-sun-lineup.md`, kind `lineup`, title `Week NN lineup`. Sections:

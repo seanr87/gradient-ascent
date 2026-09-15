@@ -23,7 +23,7 @@ Crons are stored with `CRON_TZ=America/New_York`, so they hold their ET times ac
 
 ## Data the tasks depend on
 - `scripts/pull_sleeper.py` writes `data/digest.md` and `data/digest.json`: rosters, standings with waiver position, this and last week's scores, transactions, trending adds and drops. Every routine runs it at the start of its run.
-- `scripts/update_roster.py` regenerates the roster table in `OPS-MANUAL.md` and `docs/_data/roster.yml` for the site.
+- `scripts/update_roster.py` regenerates the roster table in `OPS-MANUAL.md` and `docs/_data/roster.yml` for the site, with each player's acquisition (draft round and pick, or the week and transaction type) from Sleeper's draft and transaction history, and reports any rostered player missing a line in `docs/_data/notes.yml`.
 - `.github/workflows/sleeper-pull.yml` runs about 45 minutes before every routine slot (UTC crons on odd minutes; they drift an hour earlier ET after the November DST change). It is the fallback when the cloud egress proxy blocks `api.sleeper.app`, which it did on the first test run: a routine can also dispatch it on demand through the GitHub MCP tools.
 
 ## Bootstrap prompt (what the live routines contain)

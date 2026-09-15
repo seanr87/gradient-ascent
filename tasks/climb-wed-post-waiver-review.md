@@ -14,6 +14,8 @@ Compare Tuesday's claim file (`docs/_decisions/2026-wkNN-tue-waivers.md`) agains
 
 Ruthless indifference: no consolation adds, no loyalty.
 
+Roster notes (COMMON.md): the refresh will print `NOTE MISSING` for any claim that cleared without a note and `NOTE ORPHAN` for every player dropped this morning. Write the missing ones, delete the orphans, and write a note for every pivot `ADD` in this file, all in this commit. This is the run where the roster page most often falls behind, so do not skip it.
+
 ## File
 `docs/_decisions/2026-wkNN-wed-review.md`, kind `review`, title `Week NN post-waiver review`. Sections:
 - metadata line: decision time (ET) and digest pulled timestamp

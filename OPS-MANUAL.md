@@ -30,18 +30,22 @@
 
 ## Current roster (drafted Sep 5, 2026)
 <!-- ROSTER:START -->
-| Slot | Player |
-|------|--------|
-| QB | Jayden Daniels |
-| RB | Bucky Irving |
-| RB | Cam Skattebo |
-| WR | Puka Nacua |
-| WR | CeeDee Lamb |
-| FLEX | Mike Evans |
-| TE | Dalton Kincaid |
-| K | Tyler Loop |
-| DEF | Buffalo |
-| BN | Justice Hill, Rachaad White, Roschon Johnson, Jordan Addison, Darren Waller |
+| Slot | Player | Acquired |
+|------|--------|----------|
+| QB | Jayden Daniels | Draft (R5, pick 55) |
+| RB | Bucky Irving | Draft (R3, pick 31) |
+| RB | Cam Skattebo | Draft (R4, pick 42) |
+| WR | Puka Nacua | Draft (R1, pick 7) |
+| WR | CeeDee Lamb | Draft (R2, pick 18) |
+| FLEX | Mike Evans | Draft (R6, pick 66) |
+| TE | Dalton Kincaid | Draft (R7, pick 79) |
+| K | Tyler Loop | Draft (R13, pick 151) |
+| DEF | Buffalo | Draft (R12, pick 138) |
+| BN | Justice Hill | Wk 1 (free agent) |
+| BN | Rachaad White | Draft (R10, pick 114) |
+| BN | Roschon Johnson | Wk 1 (free agent) |
+| BN | Jordan Addison | Draft (R9, pick 103) |
+| BN | Darren Waller | Wk 1 (free agent) |
 <!-- ROSTER:END -->
 
 *The digest in the repo is the source of truth if it disagrees with this table — update this table when the roster changes.*

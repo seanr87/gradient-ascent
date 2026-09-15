@@ -14,7 +14,7 @@ Produce a ranked claim list, at most five claims. Each claim is one line in exac
 ADD [player, position-team] / DROP [player, position-team]
 ```
 
-Rank claims in the order Sean should enter them; Sleeper processes in priority order and cancels later claims that reuse a drop that already succeeded. Say explicitly when a claim is a conditional backup for an earlier one. If the correct call is no claims, write `NO CLAIMS` and explain in one paragraph.
+For every player you claim, add his line to `docs/_data/notes.yml` in this commit (COMMON.md, Roster notes): the reason in the claim, compressed to a sentence or two in my voice. Rank claims in the order Sean should enter them; Sleeper processes in priority order and cancels later claims that reuse a drop that already succeeded. Say explicitly when a claim is a conditional backup for an earlier one. If the correct call is no claims, write `NO CLAIMS` and explain in one paragraph.
 
 ## File
 `docs/_decisions/2026-wkNN-tue-waivers.md`, kind `waivers`, title `Week NN waiver claims`. Sections:

@@ -38,6 +38,7 @@ The routine IDs, environment, and run history are in `SCHEDULED-TASKS.md`.
 | `scripts/` | `pull_sleeper.py` (data) and `update_roster.py` (roster table and site data) |
 | `data/` | The latest digest, committed on every refresh |
 | `docs/` | The Jekyll site: `_decisions/`, `_posts/`, `_notes/`, pages, layouts |
+| `docs/_data/notes.yml` | One line per rostered player saying why he was picked; the roster page's Notes column. Every run that adds a player writes his line |
 | `.github/workflows/sleeper-pull.yml` | Fallback data pull, about 45 minutes before each routine slot |
 
 ## Changing how it behaves

@@ -5,7 +5,17 @@ Two outputs, both for the team named TEAM_NAME:
   1. OPS-MANUAL.md — rewrites only the block between <!-- ROSTER:START -->
      and <!-- ROSTER:END -->. Everything else in the manual is left alone.
   2. docs/_data/roster.yml — one row per roster spot (slot, player, pos,
-     team, status) that the public site's roster page renders.
+     team, status, acquired, acquired_via, acquired_week) that the public
+     site's roster page renders.
+
+Every row carries how and when the player was acquired, derived from the
+league's draft picks and every completed transaction since week 1, so the
+site can show "Draft" or "Wk N" next to each player without anyone keeping
+a ledger by hand.
+
+Also checks docs/_data/notes.yml (Claude's one-line note per player) against
+the roster and prints NOTE MISSING / NOTE ORPHAN lines. Those are warnings for
+the run to act on, not errors; the exit code stays 0.
 
 Meant to run right after pull_sleeper.py (locally or in GitHub Actions).
 """
@@ -15,17 +25,26 @@ import re
 import sys
 from pathlib import Path
 
-from pull_sleeper import BASE, DATA_DIR, USERNAME, get, resolve_league, slim_players
+from pull_sleeper import BASE, DATA_DIR, SPORT, USERNAME, get, resolve_league, slim_players
 
 TEAM_NAME = "Gradient Ascent"
 ROOT = Path(__file__).resolve().parent.parent
 MANUAL = ROOT / "OPS-MANUAL.md"
 SITE_DATA = ROOT / "docs" / "_data" / "roster.yml"
+NOTES = ROOT / "docs" / "_data" / "notes.yml"
 START, END = "<!-- ROSTER:START -->", "<!-- ROSTER:END -->"
 
 # Order the manual presents starters in (differs from Sleeper's TE/FLEX order)
 SLOT_ORDER = ["QB", "RB", "RB", "WR", "WR", "FLEX", "TE", "K", "DEF"]
 POS_RANK = {"QB": 0, "RB": 1, "WR": 2, "TE": 3, "K": 4, "DEF": 5}
+
+# Sleeper transaction types -> how the site labels the acquisition
+VIA_LABEL = {
+    "free_agent": "free agent",
+    "waiver": "waiver claim",
+    "trade": "trade",
+    "commissioner": "commissioner",
+}
 
 
 def find_roster(league_id: str):
@@ -60,8 +79,49 @@ def display_name(pid, players: dict) -> str:
     return name
 
 
-def roster_rows(roster: dict, roster_positions: list, players: dict) -> list:
-    """[{slot, pid, player, pos, team, status}] in manual order: starters then bench."""
+def current_week() -> int:
+    state = get(f"{BASE}/state/{SPORT}")
+    return int(state.get("week") or 1)
+
+
+def acquisitions(league_id: str, roster_id: int, week: int) -> dict:
+    """pid -> {ts, week, via, detail} for every player this roster ever acquired.
+
+    Draft picks come first; any completed transaction that added the player to
+    this roster afterwards overrides them, latest transaction winning. A player
+    drafted, dropped, and re-added therefore shows the re-add.
+    """
+    acq: dict = {}
+    for d in get(f"{BASE}/league/{league_id}/drafts") or []:
+        if d.get("status") != "complete":
+            continue
+        for p in get(f"{BASE}/draft/{d['draft_id']}/picks") or []:
+            if p.get("roster_id") == roster_id and p.get("player_id"):
+                acq[str(p["player_id"])] = {
+                    "ts": 0, "week": 0, "via": "draft",
+                    "detail": f"R{p.get('round')}, pick {p.get('pick_no')}",
+                }
+    for w in range(1, max(week, 1) + 1):
+        for tx in get(f"{BASE}/league/{league_id}/transactions/{w}") or []:
+            if tx.get("status") != "complete":
+                continue
+            for pid, rid in (tx.get("adds") or {}).items():
+                if rid != roster_id:
+                    continue
+                ts = int(tx.get("created") or 0)
+                if ts < acq.get(str(pid), {}).get("ts", -1):
+                    continue
+                via = tx.get("type") or "?"
+                acq[str(pid)] = {
+                    "ts": ts, "week": int(tx.get("leg") or w), "via": via,
+                    "detail": VIA_LABEL.get(via, via.replace("_", " ")),
+                }
+    return acq
+
+
+def roster_rows(roster: dict, roster_positions: list, players: dict, acq: dict) -> list:
+    """[{slot, pid, player, pos, team, status, acquired, acquired_via, acquired_week}]
+    in manual order: starters then bench."""
     starters = roster.get("starters") or []
     # Sleeper aligns starters[i] with roster_positions[i]; bucket by slot label
     by_slot: dict[str, list] = {}
@@ -72,6 +132,13 @@ def roster_rows(roster: dict, roster_positions: list, players: dict) -> list:
     def row(slot, pid):
         p = players.get(str(pid)) or {}
         empty = pid in (None, "0", 0)
+        a = {} if empty else acq.get(str(pid), {})
+        if empty or not a:
+            acquired, via, wk = "", "", -1
+        elif a["via"] == "draft":
+            acquired, via, wk = "Draft", a["detail"], 0
+        else:
+            acquired, via, wk = f"Wk {a['week']}", a["detail"], a["week"]
         return {
             "slot": slot,
             "pid": None if empty else str(pid),
@@ -79,6 +146,9 @@ def roster_rows(roster: dict, roster_positions: list, players: dict) -> list:
             "pos": "" if empty else (p.get("pos") or ""),
             "team": "" if empty else (p.get("team") or "FA"),
             "status": "" if empty else (p.get("injury_status") or ""),
+            "acquired": acquired,
+            "acquired_via": via,
+            "acquired_week": wk,
         }
 
     rows = []
@@ -95,15 +165,17 @@ def roster_rows(roster: dict, roster_positions: list, players: dict) -> list:
     return rows
 
 
+def acquired_label(r: dict) -> str:
+    if not r["acquired"]:
+        return "—"
+    return f"{r['acquired']} ({r['acquired_via']})" if r["acquired_via"] else r["acquired"]
+
+
 def build_table(rows: list) -> str:
-    out = ["| Slot | Player |", "|------|--------|"]
-    bench = []
+    out = ["| Slot | Player | Acquired |", "|------|--------|----------|"]
     for r in rows:
-        if r["slot"].startswith("BN"):
-            bench.append(r["player"])
-        else:
-            out.append(f"| {r['slot']} | {r['player']} |")
-    out.append(f"| BN | {', '.join(bench) if bench else '—'} |")
+        slot = "BN" if r["slot"].startswith("BN") else r["slot"]
+        out.append(f"| {slot} | {r['player']} | {acquired_label(r)} |")
     return "\n".join(out)
 
 
@@ -113,12 +185,42 @@ def yaml_str(s: str) -> str:
 
 def build_site_data(rows: list) -> str:
     lines = ["# Generated by scripts/update_roster.py from Sleeper. Do not edit by hand;",
-             "# it is overwritten after every data pull. Player notes live in notes.yml."]
+             "# it is overwritten after every data pull. Player notes live in notes.yml.",
+             "# acquired is \"Draft\" or \"Wk N\"; acquired_via says how (round and pick,",
+             "# free agent, waiver claim, trade); acquired_week is 0 for the draft."]
     for r in rows:
         lines.append(f"- slot: {yaml_str(r['slot'])}")
-        for k in ("player", "pos", "team", "status"):
+        for k in ("player", "pos", "team", "status", "acquired", "acquired_via"):
             lines.append(f"  {k}: {yaml_str(r[k])}")
+        lines.append(f"  acquired_week: {r['acquired_week']}")
     return "\n".join(lines) + "\n"
+
+
+def read_note_keys(path: Path) -> list:
+    """Player names that have a note in notes.yml. The file is one
+    `"Name": "note"` pair per line; this parses only that shape, on purpose,
+    so the format stays simple enough for a routine to edit safely."""
+    if not path.exists():
+        return []
+    keys = []
+    for line in path.read_text(encoding="utf-8").splitlines():
+        m = re.match(r'^"((?:[^"\\]|\\.)*)"\s*:', line)
+        if m:
+            keys.append(m.group(1).replace('\\"', '"').replace("\\\\", "\\"))
+    return keys
+
+
+def check_notes(rows: list) -> None:
+    keys = set(read_note_keys(NOTES))
+    on_roster = {r["player"] for r in rows if r["pid"]}
+    missing = [r for r in rows if r["pid"] and r["player"] not in keys]
+    orphans = sorted(keys - on_roster)
+    for r in missing:
+        print(f"NOTE MISSING: {r['player']} ({r['slot']}, {acquired_label(r)}) has no line in docs/_data/notes.yml")
+    for name in orphans:
+        print(f"NOTE ORPHAN: {name} has a note but is not on the roster")
+    if not missing and not orphans:
+        print("OK: notes.yml covers the roster exactly")
 
 
 def main():
@@ -128,8 +230,10 @@ def main():
         sys.exit(f"{MANUAL.name}: missing {START} / {END} markers")
 
     _, league = resolve_league()
-    roster = find_roster(league["league_id"])
-    rows = roster_rows(roster, league.get("roster_positions") or [], load_players())
+    lid = league["league_id"]
+    roster = find_roster(lid)
+    acq = acquisitions(lid, roster["roster_id"], current_week())
+    rows = roster_rows(roster, league.get("roster_positions") or [], load_players(), acq)
 
     table = build_table(rows)
     new_text = pattern.sub(lambda _m: f"{START}\n{table}\n{END}", text, count=1)
@@ -146,6 +250,8 @@ def main():
     else:
         SITE_DATA.write_text(site, encoding="utf-8")
         print("OK: wrote docs/_data/roster.yml")
+
+    check_notes(rows)
 
 
 if __name__ == "__main__":
