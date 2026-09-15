@@ -3,7 +3,7 @@
 Read `tasks/COMMON.md` first and follow it. This task produces the weekly **trade scan**.
 
 ## Data
-Freshness limit: 12 hours. Refresh per COMMON.md if older. Use `all_rosters` and `standings` in `data/digest.json` for every team's roster, record, and points.
+COMMON.md already refreshed the digest at the start of this run. Use `all_rosters` and `standings` in `data/digest.json` for every team's roster, record, and points.
 
 ## The scan
 Look for trades that make Gradient Ascent better under the manual's scoring edges. Look for partners with a positional surplus where I have a gap, or a need I can fill from my depth. Read each partner's record and roster shape: a losing team values now, a winning team values depth. Check prior trade scans in `docs/_decisions/` so you do not re-pitch a rejected deal without a changed rationale.

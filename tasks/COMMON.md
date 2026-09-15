@@ -15,7 +15,7 @@ You are running as a Claude Code cloud routine with a fresh checkout of `seanr87
 4. Read every file in `docs/_decisions/` (create the folder if missing) and `docs/_posts/`, newest first. That is your memory. Do not contradict a prior decision without saying you are changing course and why.
 
 ## Refreshing the digest
-The "Pulled:" line at the top of `data/digest.md` says how fresh the data is. When the task file says to refresh, or the digest is older than the task file's freshness limit, pull it yourself. The scripts are stdlib-only against Sleeper's public read-only API and need no credentials:
+Every run refreshes the digest, no exceptions; the "Pulled:" line at the top of `data/digest.md` should be minutes old by the time you decide. The scripts are stdlib-only against Sleeper's public read-only API and need no credentials:
 
 ```
 python3 scripts/pull_sleeper.py && python3 scripts/update_roster.py
