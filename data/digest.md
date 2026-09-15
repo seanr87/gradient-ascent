@@ -1,5 +1,5 @@
 # Sleeper digest — The Climb
-Pulled: 2026-09-13 15:44 UTC · NFL week 1 (regular)
+Pulled: 2026-09-15 01:45 UTC · NFL week 1 (regular)
 
 ## My roster
 - Roschon Johnson (RB-CHI)
@@ -35,46 +35,46 @@ Pulled: 2026-09-13 15:44 UTC · NFL week 1 (regular)
 12. CorneliusJones — 0-0, 0.00 PF, waiver #8
 
 ## This week's matchups (week 1)
-- Three Wise Jaylens  15.50 — The Royal Court of Donut 0.00
-- Umojan Protectorate 47.80 — CorneliusJones 19.62
-- Lawrence of Valinor 16.20 — Sea Squirts 8.80
-- What can Brown do for u? 1.00 — Playful Secrets 0.00
-- Gradient Ascent 27.30 — Pierced by a Marksman 24.55
-- The Wizard’s Apprentice 16.00 — TheTroubles 0.00
+- The Royal Court of Donut 183.46 — Three Wise Jaylens  78.92
+- Umojan Protectorate 134.10 — CorneliusJones 78.27
+- Lawrence of Valinor 129.70 — Sea Squirts 129.51
+- Playful Secrets 145.16 — What can Brown do for u? 104.76
+- Gradient Ascent 140.46 — Pierced by a Marksman 92.97
+- TheTroubles 146.16 — The Wizard’s Apprentice 102.10
 
 ## Trending adds (24h, all Sleeper)
-- Michael Mayer (TE-LV) — 372,123 adds
-- Kaelon Black (RB-SF) — 77,833 adds
-- Chris Bell (WR-MIA) — 69,552 adds
-- Malachi Fields (WR-NYG) — 50,915 adds
-- Demarcus Robinson (WR-SF) — 50,904 adds
-- Tre Tucker (WR-LV) — 47,136 adds
-- Devaughn Vele (WR-NO) — 35,420 adds
-- Darnell Mooney (WR-NYG) — 35,181 adds
-- Jack Strand (QB-ATL) — 33,710 adds
-- Las Vegas Raiders (DEF-LV) — 32,874 adds
-- Darren Waller (TE-CAR) — 31,374 adds
-- Keaton Mitchell (RB-LAC) — 28,953 adds
-- Cooper Rush (QB-ATL) — 28,356 adds
-- Odell Beckham (WR-NYG) — 26,173 adds
-- Alvin Kamara (RB-NO) [Out] — 24,080 adds
-- Justice Hill (RB-BAL) — 23,643 adds
-- Seth McGowan (RB-IND) — 21,176 adds
-- Matt Gay (K-LV) — 20,365 adds
-- Jalen Nailor (WR-LV) — 19,458 adds
-- Samaje Perine (RB-CIN) — 16,172 adds
-- Kenny Gainwell (RB-TB) — 14,728 adds
-- Jacksonville Jaguars (DEF-JAX) — 14,538 adds
-- Tyler Loop (K-BAL) — 14,352 adds
-- Kyler Murray (QB-MIN) — 14,144 adds
-- Cade Otton (TE-TB) — 13,968 adds
+- Devaughn Vele (WR-NO) — 826,560 adds
+- Caleb Douglas (WR-MIA) — 400,472 adds
+- Devin Singletary (RB-NYG) — 396,180 adds
+- Carson Wentz (QB-MIN) — 246,894 adds
+- Kaelon Black (RB-SF) — 234,920 adds
+- Mike Gesicki (TE-CIN) — 205,384 adds
+- Tampa Bay Buccaneers (DEF-TB) — 164,690 adds
+- Bryce Young (QB-CAR) — 154,244 adds
+- San Francisco 49ers (DEF-SF) — 132,582 adds
+- Pat Bryant (WR-DEN) — 126,920 adds
+- Tyler Shough (QB-NO) — 108,152 adds
+- Dontayvion Wicks (WR-PHI) — 101,745 adds
+- Jalen Coker (WR-CAR) [Questionable] — 62,778 adds
+- Kendrick Bourne (WR-ARI) — 60,432 adds
+- Kalif Raymond (WR-CHI) — 57,332 adds
+- Kyle Monangai (RB-CHI) — 52,770 adds
+- Michael Mayer (TE-LV) — 50,733 adds
+- Kenyon Sadiq (TE-NYJ) — 49,680 adds
+- Emmett Johnson (RB-KC) — 47,871 adds
+- Demarcus Robinson (WR-SF) — 44,796 adds
+- Evan Engram (TE-DEN) — 43,456 adds
+- Matthew Golden (WR-GB) — 42,168 adds
+- Raheim Sanders (RB-CLE) — 27,816 adds
+- Tyler Loop (K-BAL) — 27,546 adds
+- Cole Kmet (TE-CHI) — 27,153 adds
 
 ## League transactions this week
-- free_agent (complete) CorneliusJones: +[Jordan Mason (RB-MIN)] -[Kyle Monangai (RB-CHI)]
+- free_agent (complete) CorneliusJones: +[Jordan Mason (RB-MIN) [Questionable]] -[Kyle Monangai (RB-CHI)]
 - free_agent (complete) Lawrence of Valinor: +[Dallas Goedert (TE-PHI)] -[Mike Washington (RB-LV)]
 - free_agent (complete) Gradient Ascent: +[Justice Hill (RB-BAL)] -[Braelon Allen (RB-NYJ)]
 - free_agent (complete) Gradient Ascent: +[Darren Waller (TE-CAR)] -[Makai Lemon (WR-PHI)]
-- free_agent (complete) Gradient Ascent: +[Roschon Johnson (RB-CHI)] -[Jordan Mason (RB-MIN)]
+- free_agent (complete) Gradient Ascent: +[Roschon Johnson (RB-CHI)] -[Jordan Mason (RB-MIN) [Questionable]]
 - free_agent (complete) Pierced by a Marksman: +[Tre Tucker (WR-LV)] -[Dallas Goedert (TE-PHI)]
 - free_agent (complete) Pierced by a Marksman: +[Kaelon Black (RB-SF)] -[Dontayvion Wicks (WR-PHI)]
 - free_agent (complete) Playful Secrets: +[Detroit Lions (DEF-DET)] -[Rashid Shaheed (WR-SEA)]
