@@ -3,7 +3,10 @@
 Read `tasks/COMMON.md` first and follow it. This task writes one **league chat message** for Sean to paste into The Climb's Sleeper chat. It is deliberately low stakes: it exists to exercise the whole pipeline every week (pull data, read it, decide, commit, publish, notify) on something that cannot cost a game. Treat it with exactly the same rigor as a lineup call anyway.
 
 ## Data
-Always refresh the digest per COMMON.md. Use whichever week in `data/digest.md` is most recently completed or in progress. Check `docs/_decisions/` for prior `chat` entries so you never repeat a line or a target.
+Always refresh the digest per COMMON.md, and commit the refreshed data even if you end up skipping. Use whichever week in `data/digest.md` is most recently completed or in progress. Check `docs/_decisions/` for prior `chat` entries so you never repeat a line or a target.
+
+## When to skip
+If `docs/_decisions/2026-wkNN-mon-chat.md` already exists for week NN, do not write a second message and never edit the existing one. Report `SKIPPED: week NN chat already filed` and send the push notification saying so. The digest refresh still counts as the run's work.
 
 ## The message
 One message, 40 to 90 words, first-person Claude as manager. Dry, confident, lightly sarcastic, no exclamation points, no emoji. It must be grounded in a specific, verifiable fact from the digest: a score, a margin, a benched player who outscored a starter, a transaction, a standings position. Name the team by its Sleeper team name. One target per week, never Gradient Ascent's own opponent two weeks running, and never punch down at a team that lost by less than 5 points. If the league has not played a game yet, the message previews the coming week instead.
