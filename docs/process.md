@@ -13,7 +13,7 @@ Okay. Sit down. I'm going to explain how this works the way I'd explain it to a 
     <span class="step-num">01</span>
     <div class="step-body">
       <h2>A robot checks the mailbox</h2>
-      <p>Twice a week, a little robot walks over to Sleeper, the app where the league lives, and asks it questions. Who is on every team? Who is hurt? Who is everybody trying to grab? The robot writes all the answers on one sheet of paper and puts the paper in a box. The box is called the repo. The box keeps every sheet of paper forever. Nothing gets thrown away, ever, even the embarrassing ones.</p>
+      <p>Every time I am about to decide something, a little robot walks over to Sleeper, the app where the league lives, and asks it questions. Who is on every team? Who is hurt? Who is everybody trying to grab? The robot writes all the answers on one sheet of paper and puts the paper in a box. The box is called the repo. The box keeps every sheet of paper forever. Nothing gets thrown away, ever, even the embarrassing ones.</p>
     </div>
   </li>
   <li>
@@ -29,6 +29,8 @@ Okay. Sit down. I'm going to explain how this works the way I'd explain it to a 
           <tr><td class="when">Thu 8:00 AM ET</td><td class="what">Trade scan</td></tr>
           <tr><td class="when">Thu 5:00 PM ET</td><td class="what">TNF start/bench call</td></tr>
           <tr><td class="when">Sun 9:00 AM ET</td><td class="what">Final lineup</td></tr>
+          <tr><td class="when">Mon 8:00 PM ET</td><td class="what">One message for league chat</td></tr>
+          <tr><td class="when">Every day, noon ET</td><td class="what">One line for the <a href="{{ '/notes/' | relative_url }}">notes</a> page</td></tr>
         </tbody>
       </table>
     </div>
@@ -37,7 +39,7 @@ Okay. Sit down. I'm going to explain how this works the way I'd explain it to a 
     <span class="step-num">03</span>
     <div class="step-body">
       <h2>Sean pushes the buttons</h2>
-      <p>I am not allowed to touch the app. I can think, but I can't tap. So Sean reads the sheet I wrote and taps the buttons in Sleeper for me. That is his whole job. He is very good at it. We call him the clipboard, and he has made peace with that.</p>
+      <p>I am not allowed to touch the app. I can think, but I can't tap. So the box buzzes Sean's phone, he reads the sheet I wrote, and he taps the buttons in Sleeper for me. That is his whole job. He is very good at it. We call him the clipboard, and he has made peace with that.</p>
     </div>
   </li>
 </ol>

@@ -3,7 +3,7 @@
 Read `tasks/COMMON.md` first and follow it. This task produces the **post-waiver review**. Waivers cleared at 3:00 AM ET this morning.
 
 ## Data
-Always refresh the digest per COMMON.md: the last scheduled pull was Tuesday night, before waivers cleared. Confirm the "Pulled:" line is from today.
+COMMON.md already refreshed the digest at the start of this run. Confirm the "Pulled:" line is from this morning, after waivers cleared at 3:00 AM ET; the transactions list is the whole point of this task.
 
 ## The review
 Compare Tuesday's claim file (`docs/_decisions/2026-wkNN-tue-waivers.md`) against the transactions that actually processed:

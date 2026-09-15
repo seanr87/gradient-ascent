@@ -3,7 +3,7 @@
 Read `tasks/COMMON.md` first and follow it. This task produces the **final Sunday lineup**. Early games lock at 1:00 PM ET, so the output must be complete and paste-ready.
 
 ## Data
-The scheduled pull commits a fresh digest at about 8:00 AM ET this morning. Freshness limit: 2 hours; refresh per COMMON.md if older. Then use web search for injury and inactive news on every starter or candidate carrying a designation, and cite what you found. Roster slots: 1 QB, 2 RB, 2 WR, 1 TE, 1 FLEX (RB/WR/TE), 1 K, 1 DEF, 5 bench, no IR.
+COMMON.md already refreshed the digest at the start of this run; confirm the "Pulled:" line is from the last few minutes. Then use web search for injury and inactive news on every starter or candidate carrying a designation, and cite what you found. Roster slots: 1 QB, 2 RB, 2 WR, 1 TE, 1 FLEX (RB/WR/TE), 1 K, 1 DEF, 5 bench, no IR.
 
 ## The lineup
 Fill all nine starting slots and list the five bench players. Apply the manual's edges: the first-down bonus favors high-touch backs and chain-moving receivers over big-play-dependent players; rushing QBs spike; distance kicker scoring; DEF by matchup. A player tagged Out or Doubtful does not start. A Questionable player starts only if the alternative is clearly worse, and you must name the bench alternative and the game time so Sean can swap before lock if news breaks. Players on bye do not start. Note any Monday night player and whether starting him leaves a slot exposed with no fallback. Respect any Thursday player already locked in by this week's Thursday file.

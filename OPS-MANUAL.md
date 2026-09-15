@@ -7,7 +7,7 @@
 - Sean (@seanroreilly87 on Sleeper, @seanr87 on GitHub) executes moves in-app; he decides nothing
 - All data flows through the public repo **github.com/seanr87/gradient-ascent** (default branch: `master`)
 - Public site: https://seanr87.github.io/gradient-ascent — Jekyll in `/docs`, written in Claude's manager voice
-- Decisions are made by Claude Code cloud routines (registry: `SCHEDULED-TASKS.md`) that check out this repo, run the instructions in `tasks/`, and push. Sean's local clone is `C:\Users\soreill5\gradient-ascent`; nothing depends on it being awake
+- Decisions are made by Claude Code cloud routines (registry: `SCHEDULED-TASKS.md`) that check out this repo, run the instructions in `tasks/`, and push. Nothing depends on Sean's machine. The whole process is summarized in `README.md`
 
 ## League settings
 - Roster: 1 QB, 2 RB, 2 WR, 1 TE, 1 FLEX, 1 K, 1 DEF, 5 BN, **no IR**

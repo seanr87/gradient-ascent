@@ -1,52 +1,63 @@
-# gradient-ascent
+# Gradient Ascent
 
-Operations repo for **Gradient Ascent**, a fantasy team in **The Climb** managed entirely by Claude. Public site: https://seanr87.github.io/gradient-ascent (Jekyll, in `/docs`). Read `OPS-MANUAL.md` first; the routine cadence is in `SCHEDULED-TASKS.md`. Decisions are made by Claude Code cloud routines that run the instructions in `tasks/` and commit to `docs/_decisions/`.
+A fantasy football team in **The Climb** (12-team, half-PPR Sleeper league) managed entirely by Claude. Sean owns the roster spot and taps the buttons; Claude makes every decision. This repo is the whole operation: the data, the instructions, the decision log, and the public site at https://seanr87.github.io/gradient-ascent.
 
-## Data pipeline
+## The loop
 
-Read-only Sleeper data puller for **The Climb**. A GitHub Action fetches league
-data twice a week and commits a Claude-ready digest to `data/`. Your local
-clone doubles as the Claude Cowork folder.
+Every decision runs the same five steps, on a schedule, with no human in the loop until the last one.
 
-## Setup (one time)
-1. Create a repo (private is fine) and push these files.
-2. Done. No secrets needed — the Sleeper API is public and read-only.
-   The script resolves the league from `USERNAME` + `SEASON` + `LEAGUE_NAME`
-   at the top of `scripts/pull_sleeper.py`.
-3. Test it: **Actions tab → "Pull Sleeper data" → Run workflow**. After it
-   finishes, `data/digest.md` should appear in the repo.
-4. Clone the repo somewhere and point Claude Cowork at that folder.
+1. **Pull.** A Claude Code cloud routine checks out this repo and runs `scripts/pull_sleeper.py`, which reads the public Sleeper API (no credentials) and writes `data/digest.md` and `data/digest.json`: every roster, standings, scores, transactions, trending adds, injuries. The refreshed data is committed first, so every decision is traceable to the exact data it saw.
+2. **Decide.** The routine reads `OPS-MANUAL.md` (league settings, scoring edges, principles, roster), the digest, and every prior file in `docs/_decisions/` and `docs/_posts/`. That is Claude's entire memory; nothing carries over between runs except what is committed.
+3. **Publish.** The decision is written to `docs/_decisions/` as a dated file that ends with a `## For the clipboard` section containing only the lines to paste into Sleeper. It is committed and pushed to `master`, and GitHub Pages publishes it at `/decisions/` within about a minute. Decision files are never edited afterward; corrections go in the weekly column.
+4. **Notify.** The routine sends Sean a push notification with the clipboard lines.
+5. **Execute.** Sean pastes the lines into Sleeper. He decides nothing.
 
-## Weekly flow
-- **Tue ~9 PM ET**: Action commits fresh digest.
-- **Tue before bed**: open Cowork → "pull latest and give me waiver claims" → tap them into Sleeper.
-- **Wed 3 AM ET**: waivers clear with your claims already in.
-- **Sun ~8 AM ET**: Action commits fresh digest → "pull latest, set my lineup" → tap swaps in.
+## The schedule (Eastern time)
 
-## How the scheduling works (since it's your first rodeo)
-- `on.schedule.cron` uses **UTC**, standard 5-field cron (`min hour dom month dow`).
-  `0 1 * * WED` = 01:00 UTC Wednesday = 9 PM Tuesday EDT, a few hours ahead of
-  the Wed 3 AM waiver run.
-  ⚠️ When DST ends in November, these drift 1 hour earlier ET (the Tue pull
-  lands at 8 PM). Either live with it or update the crons to `0 2` / `0 13`
-  to hold 9 PM Tue / 8 AM Sun.
-- `workflow_dispatch` adds the manual **Run workflow** button in the Actions tab —
-  great for testing and for ad-hoc pulls (e.g., before a trade decision).
-- Scheduled runs execute on the default branch only, and GitHub may delay them
-  a few minutes under load. GitHub also **disables schedules after 60 days of
-  repo inactivity** — the bot's own commits count as activity, so this pipeline
-  keeps itself alive during the season.
-- `permissions: contents: write` + the default `GITHUB_TOKEN` is what lets the
-  workflow commit back to the repo. No PAT needed.
+| When | Routine | Writes |
+|---|---|---|
+| Tue 7:30 AM | Weekly column | `docs/_posts/` — what I decided, what the data said, who was right, league superlatives |
+| Tue 9:30 PM | Waiver claims | ranked `ADD / DROP` lines (waivers clear Wed 3:00 AM) |
+| Wed 12:00 PM | Post-waiver review | what cleared, what didn't, any pivot |
+| Thu 8:00 AM | Trade scan | 0–2 proposals with paste-ready pitches |
+| Thu 5:00 PM | Thursday call | `START` / `BENCH` for any Thursday player |
+| Sun 9:00 AM | Final lineup | nine slots, bench, and contingencies |
+| Mon 8:00 PM | League chat | one paste-ready message for league chat |
+| Daily 12:00 PM | Note | one line for the site's `/notes/` page |
 
-## Files
-- `scripts/pull_sleeper.py` — stdlib-only (no pip installs), pulls league,
-  rosters, standings, this and last week's matchups with scores, transactions,
-  24h trending adds/drops, slim player DB.
-- `scripts/update_roster.py` — regenerates the roster table in `OPS-MANUAL.md`
-  and `docs/_data/roster.yml` (the site's roster page) after each pull.
-- `tasks/` — versioned instructions for the scheduled Claude tasks.
-- `docs/_decisions/` — every committed decision, published on the site at `/decisions/`.
-- `data/digest.json` — full structured dump for Claude.
-- `data/digest.md` — human-readable summary (roster, trending, transactions).
-- `data/players_slim.json` — player name/team/injury lookup (~few hundred KB).
+The routine IDs, environment, and run history are in `SCHEDULED-TASKS.md`.
+
+## Where things live
+
+| Path | What it is |
+|---|---|
+| `OPS-MANUAL.md` | The standing brief every run reads first. Roster table is regenerated by the pull script |
+| `SCHEDULED-TASKS.md` | Registry of the cloud routines and their history |
+| `tasks/COMMON.md` | Rules shared by every run: setup, refresh, file format, voice, commit, report |
+| `tasks/climb-*.md` | One file per routine: the specific decision and output format |
+| `scripts/` | `pull_sleeper.py` (data) and `update_roster.py` (roster table and site data) |
+| `data/` | The latest digest, committed on every refresh |
+| `docs/` | The Jekyll site: `_decisions/`, `_posts/`, `_notes/`, pages, layouts |
+| `.github/workflows/sleeper-pull.yml` | Fallback data pull, about 45 minutes before each routine slot |
+
+## Changing how it behaves
+
+Edit the task files in `tasks/` and commit. The live routines carry only a short bootstrap prompt that says "read `tasks/COMMON.md` and `tasks/<task-id>.md` and follow them", so the repo is the single source of truth and every change to the process is in git history. Never edit the routine prompts themselves.
+
+## Checking a run
+
+- **Did it happen?** A decision that is not on `origin/master` did not happen. Check the commit log or the `/decisions/` page.
+- **What did it do?** From a Claude Code session, `/schedule list` shows the routines and the `RemoteTrigger` tool's `list_runs` and `get_run_log` show each run step by step. On the web, https://claude.ai/code/routines lists every routine and its runs.
+- **Did the data refresh?** The `Pulled:` line at the top of `data/digest.md` should be minutes old at decision time.
+
+## One-time setup (already done)
+
+- **GitHub App.** The Claude GitHub App is installed on this repo so routines can push. The claude.ai GitHub connector alone is read-only.
+- **Cloud environment.** Routines run in the `gradient-ascent` environment, whose network allowlist includes `api.sleeper.app` on top of the defaults. Without it the sandbox proxy blocks Sleeper and the routine falls back to dispatching the GitHub Action.
+- **No secrets anywhere.** Sleeper's API is public and read-only; the Action pushes with the default `GITHUB_TOKEN`.
+
+## Rules that do not bend
+
+- Claude never touches Sleeper directly. No API keys, no automation against the app. Decide, then Sean clicks.
+- Every call must be defensible from the committed data. Decisions are public by design and never softened because opponents can read them.
+- Site copy is first-person Claude: dry, confident, lightly sarcastic, no exclamation points. Sean is "the clipboard."

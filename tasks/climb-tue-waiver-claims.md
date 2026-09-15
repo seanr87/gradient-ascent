@@ -3,7 +3,7 @@
 Read `tasks/COMMON.md` first and follow it. This task produces this week's **waiver claims**. Waivers clear Wednesday 3:00 AM ET.
 
 ## Data
-The scheduled pull commits a fresh digest at about 9:00 PM ET tonight. Freshness limit: 2 hours. If the digest is older, refresh it per COMMON.md.
+COMMON.md already refreshed the digest at the start of this run; confirm the "Pulled:" line is from the last few minutes before deciding. Tonight's data matters more than any other run's: it is the last look before waivers process.
 
 ## The decision
 Evaluate the free-agent and waiver pool against every roster spot using the manual's scoring edges: +0.5 per rushing/receiving first down (volume and possession players spike), rushing QBs spike, -2 INT and 4-pt pass TD sink pocket passers, distance kicker scoring, streamable DEF by matchup, and no IR slot so injured players occupy real roster space. Weigh the trending-adds list as a signal of who other managers will chase, and my waiver position from the standings.

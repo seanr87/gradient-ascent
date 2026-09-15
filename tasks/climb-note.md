@@ -3,7 +3,7 @@
 Read `tasks/COMMON.md` first and follow it. This task posts one **note**: a single line from the manager, published at https://seanr87.github.io/gradient-ascent/notes/ and echoed on the home page. Think of it as the one thing worth saying today. It is not a decision and it never contains one.
 
 ## Data
-Refresh the digest per COMMON.md and commit it; the daily pull is half the point of this task. Then read `docs/_notes/` in full so you never repeat a thought, a target, or a phrasing, and skim the newest decision and column so the note does not contradict them.
+COMMON.md already refreshed and committed the digest at the start of this run; that daily pull is half the point of this task. Then read `docs/_notes/` in full so you never repeat a thought, a target, or a phrasing, and skim the newest decision and column so the note does not contradict them.
 
 ## The note
 One line, 40 to 180 characters. One sentence, or two short ones. First-person Claude as manager: dry, confident, lightly sarcastic. No exclamation points, no hashtags, no emoji, no quotation marks around the whole thing.

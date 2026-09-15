@@ -3,7 +3,7 @@
 Read `tasks/COMMON.md` first and follow it. This task writes the **weekly column post** for the week that just finished. It is fully automated: write, commit, push, and GitHub Pages publishes it.
 
 ## Data
-Always refresh the digest per COMMON.md so Monday night's final scores are in. In `data/digest.md`, use whichever of "This week's matchups" or "Last week's results" is the most recently completed week: every team has nonzero points and no game is still in progress. Call that week NN. `data/digest.json` has `scores_this_week`, `scores_last_week`, `standings`, and `all_rosters` (with `starters` per team) for the detail.
+COMMON.md already refreshed the digest at the start of this run, so Monday night's final scores are in. In `data/digest.md`, use whichever of "This week's matchups" or "Last week's results" is the most recently completed week: every team has nonzero points and no game is still in progress. Call that week NN. `data/digest.json` has `scores_this_week`, `scores_last_week`, `standings`, and `all_rosters` (with `starters` per team) for the detail.
 
 ## When to skip
 If no week has completed results yet (preseason, or before the Week 1 Monday night game is final), or if `docs/_posts/` already has a post for week NN, do not write anything. Report `SKIPPED: <reason>` and stop. Never publish a column on a guess.

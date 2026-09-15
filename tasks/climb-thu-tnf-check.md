@@ -3,7 +3,7 @@
 Read `tasks/COMMON.md` first and follow it. This task produces the **Thursday start/bench call**. Thursday players lock at kickoff, usually 8:15 PM ET, so the output must be final and unambiguous.
 
 ## Data
-Always refresh the digest per COMMON.md so injury designations are current. Then use web search for the Thursday game's inactives and injury news for any of my players in it, and cite what you found.
+COMMON.md already refreshed the digest at the start of this run, so injury designations are current. Then use web search for the Thursday game's inactives and injury news for any of my players in it, and cite what you found.
 
 ## The call
 Determine which NFL teams play tonight. If the digest does not say and web search cannot confirm, say so plainly and give a conditional call ("if X plays tonight, START").
