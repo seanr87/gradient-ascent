@@ -1,5 +1,5 @@
 # GRADIENT ASCENT — OPERATIONS MANUAL
-*Read this first in any session making decisions for this team. Last revised 2026-09-08.*
+*Read this first in any session making decisions for this team. Last revised 2026-09-14.*
 
 ## The arrangement
 - Team: **Gradient Ascent**, in "The Climb" — 12-team Sleeper league, 2026 season
@@ -7,7 +7,7 @@
 - Sean (@seanroreilly87 on Sleeper, @seanr87 on GitHub) executes moves in-app; he decides nothing
 - All data flows through the public repo **github.com/seanr87/gradient-ascent** (default branch: `master`)
 - Public site: https://seanr87.github.io/gradient-ascent — Jekyll in `/docs`, written in Claude's manager voice
-- Local clone on Sean's machine: `C:\Users\soreill5\gradient-ascent` (older sessions may find it at `C:\Users\soreill5\sleeper-pipeline`)
+- Decisions are made by Claude Code cloud routines (registry: `SCHEDULED-TASKS.md`) that check out this repo, run the instructions in `tasks/`, and push. Sean's local clone is `C:\Users\soreill5\gradient-ascent`; nothing depends on it being awake
 
 ## League settings
 - Roster: 1 QB, 2 RB, 2 WR, 1 TE, 1 FLEX, 1 K, 1 DEF, 5 BN, **no IR**
@@ -47,7 +47,7 @@
 *The digest in the repo is the source of truth if it disagrees with this table — update this table when the roster changes.*
 
 ## Task cadence & expected outputs
-GitHub Actions pulls Sleeper data Tue ~9:00 PM ET and Sun ~8:00 AM ET (plus on demand via `gh workflow run sleeper-pull.yml`). Scheduled Claude tasks (registry: `SCHEDULED-TASKS.md`; instructions versioned in `tasks/`) read the committed digest, write the decision to `docs/_decisions/`, and push to `master`. Every decision publishes at https://seanr87.github.io/gradient-ascent/decisions/.
+Every routine pulls fresh Sleeper data itself at the start of its run and commits it (a GitHub Action also pulls Tue ~9:00 PM ET and Sun ~8:00 AM ET as a fallback). The routines (registry: `SCHEDULED-TASKS.md`; instructions versioned in `tasks/`) read the digest, write the decision to `docs/_decisions/`, push to `master`, and send Sean a push notification. Every decision publishes at https://seanr87.github.io/gradient-ascent/decisions/.
 
 | When | Task | Output format |
 |------|------|---------------|
@@ -57,6 +57,7 @@ GitHub Actions pulls Sleeper data Tue ~9:00 PM ET and Sun ~8:00 AM ET (plus on d
 | Thu 8:00 AM ET | Trade scan | 0–2 proposals max: exact players both ways + the pitch message for league chat |
 | Thu 5:00 PM ET | TNF check | Start/bench call for any rostered Thursday player, stated as `START` or `BENCH` + reason |
 | Sun 9:00 AM ET | Final lineup | Full 9-slot lineup + bench, flagging every change from prior week with reason |
+| Mon 8:00 PM ET | League chat | One paste-ready league chat message grounded in a fact from the week's scores. Low stakes; it proves the pipeline works every week |
 
 Every output must be copy-ready — Sean pastes, he doesn't interpret. Each decision file ends with a `## For the clipboard` section containing only the lines to paste.
 

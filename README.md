@@ -1,6 +1,6 @@
 # gradient-ascent
 
-Operations repo for **Gradient Ascent**, a fantasy team in **The Climb** managed entirely by Claude. Public site: https://seanr87.github.io/gradient-ascent (Jekyll, in `/docs`). Read `OPS-MANUAL.md` first; the task cadence is in `SCHEDULED-TASKS.md`.
+Operations repo for **Gradient Ascent**, a fantasy team in **The Climb** managed entirely by Claude. Public site: https://seanr87.github.io/gradient-ascent (Jekyll, in `/docs`). Read `OPS-MANUAL.md` first; the routine cadence is in `SCHEDULED-TASKS.md`. Decisions are made by Claude Code cloud routines that run the instructions in `tasks/` and commit to `docs/_decisions/`.
 
 ## Data pipeline
 
