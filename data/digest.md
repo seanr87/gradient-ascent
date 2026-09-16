@@ -1,5 +1,5 @@
 # Sleeper digest — The Climb
-Pulled: 2026-09-16 05:15 UTC · NFL week 2 (regular)
+Pulled: 2026-09-16 16:02 UTC · NFL week 2 (regular)
 
 ## My roster
 - Roschon Johnson (RB-CHI)
@@ -21,16 +21,16 @@ Pulled: 2026-09-16 05:15 UTC · NFL week 2 (regular)
 - Opponent: The Wizard’s Apprentice
 
 ## Standings (W-L, points for)
-1. Princess Donut's Court — 1-0, 206.16 PF, waiver #12
-2. Playful Secrets — 1-0, 153.66 PF, waiver #11
-3. TheTroubles — 1-0, 146.16 PF, waiver #10
-4. Gradient Ascent — 1-0, 140.46 PF, waiver #9
-5. Umojan Protectorate — 1-0, 134.10 PF, waiver #8
-6. Lawrence of Valinor — 1-0, 129.70 PF, waiver #7
-7. Sea Squirts — 0-1, 129.51 PF, waiver #6
-8. What can Brown do for u? — 0-1, 108.36 PF, waiver #5
-9. The Wizard’s Apprentice — 0-1, 102.10 PF, waiver #4
-10. Pierced by a Marksman — 0-1, 92.97 PF, waiver #3
+1. Princess Donut's Court — 1-0, 206.16 PF, waiver #9
+2. Playful Secrets — 1-0, 153.66 PF, waiver #8
+3. TheTroubles — 1-0, 146.16 PF, waiver #7
+4. Gradient Ascent — 1-0, 140.46 PF, waiver #6
+5. Umojan Protectorate — 1-0, 134.10 PF, waiver #5
+6. Lawrence of Valinor — 1-0, 129.70 PF, waiver #12
+7. Sea Squirts — 0-1, 129.51 PF, waiver #4
+8. What can Brown do for u? — 0-1, 108.36 PF, waiver #3
+9. The Wizard’s Apprentice — 0-1, 102.10 PF, waiver #11
+10. Pierced by a Marksman — 0-1, 92.97 PF, waiver #10
 11. CorneliusJones — 0-1, 84.52 PF, waiver #2
 12. Three Wise Jaylens  — 0-1, 78.92 PF, waiver #1
 
@@ -51,30 +51,31 @@ Pulled: 2026-09-16 05:15 UTC · NFL week 2 (regular)
 - TheTroubles 146.16 — The Wizard’s Apprentice 102.10
 
 ## Trending adds (24h, all Sleeper)
-- Devaughn Vele (WR-NO) — 3,238,403 adds
-- Caleb Douglas (WR-MIA) — 2,118,016 adds
-- Tampa Bay Buccaneers (DEF-TB) — 1,656,680 adds
-- Devin Singletary (RB-NYG) — 1,591,821 adds
-- Kaelon Black (RB-SF) — 1,381,919 adds
-- San Francisco 49ers (DEF-SF) — 939,018 adds
-- Carson Wentz (QB-MIN) — 907,386 adds
-- Raheim Sanders (RB-CLE) — 796,400 adds
-- Mike Gesicki (TE-CIN) — 434,244 adds
-- Pat Bryant (WR-DEN) — 428,472 adds
-- Demarcus Robinson (WR-SF) — 408,810 adds
-- Emmett Johnson (RB-KC) — 404,874 adds
-- Dontayvion Wicks (WR-PHI) — 360,609 adds
-- Mack Hollins (WR-NE) — 345,678 adds
-- Bryce Young (QB-CAR) — 336,560 adds
-- Evan Engram (TE-DEN) — 267,392 adds
-- Tyler Shough (QB-NO) — 259,016 adds
-- Kendrick Bourne (WR-ARI) — 250,110 adds
-- Kenyon Sadiq (TE-NYJ) — 243,279 adds
-- Matthew Golden (WR-GB) — 238,847 adds
-- Kalif Raymond (WR-CHI) — 231,484 adds
-- Sione Vaki (RB-DET) — 172,382 adds
-- Jacory Croskey-Merritt (RB-WAS) — 169,119 adds
-- Jalen Coker (WR-CAR) [Questionable] — 154,586 adds
-- Roman Wilson (WR-PIT) — 153,234 adds
+- Devaughn Vele (WR-NO) — 2,531,823 adds
+- Caleb Douglas (WR-MIA) — 1,907,896 adds
+- Tampa Bay Buccaneers (DEF-TB) — 1,622,285 adds
+- Devin Singletary (RB-NYG) — 1,446,012 adds
+- Kaelon Black (RB-SF) — 1,197,735 adds
+- San Francisco 49ers (DEF-SF) — 908,418 adds
+- Carson Wentz (QB-MIN) — 887,988 adds
+- Raheim Sanders (RB-CLE) — 850,280 adds
+- Pat Bryant (WR-DEN) — 447,280 adds
+- Emmett Johnson (RB-KC) — 442,404 adds
+- Demarcus Robinson (WR-SF) — 404,070 adds
+- Mike Gesicki (TE-CIN) — 367,052 adds
+- Mack Hollins (WR-NE) — 352,293 adds
+- Dontayvion Wicks (WR-PHI) — 325,011 adds
+- Bryce Young (QB-CAR) — 285,220 adds
+- Kenyon Sadiq (TE-NYJ) — 276,489 adds
+- Evan Engram (TE-DEN) — 244,904 adds
+- Tyler Shough (QB-NO) — 241,456 adds
+- Matthew Golden (WR-GB) — 231,021 adds
+- Sione Vaki (RB-DET) — 214,305 adds
+- Kendrick Bourne (WR-ARI) — 210,828 adds
+- Kalif Raymond (WR-CHI) — 207,596 adds
+- Cairo Santos (K-CHI) — 192,129 adds
+- Jacory Croskey-Merritt (RB-WAS) — 165,519 adds
+- Roman Wilson (WR-PIT) — 150,345 adds
 
 ## League transactions this week
+- free_agent (complete) Playful Secrets: +[Tampa Bay Buccaneers (DEF-TB)] -[Detroit Lions (DEF-DET)]
