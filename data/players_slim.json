@@ -4463,6 +4463,14 @@
   "injury_status": null,
   "injury_note": null
  },
+ "11273": {
+  "name": "Ben VanSumeren",
+  "pos": "RB",
+  "team": "KC",
+  "status": "Active",
+  "injury_status": null,
+  "injury_note": null
+ },
  "5138": {
   "name": "Martez Carter",
   "pos": "RB",
@@ -11324,8 +11332,8 @@
   "pos": "RB",
   "team": null,
   "status": "Inactive",
-  "injury_status": "Questionable",
-  "injury_note": "Hamstring"
+  "injury_status": null,
+  "injury_note": null
  },
  "6694": {
   "name": "D'Ernest Johnson",
@@ -12676,8 +12684,8 @@
   "pos": "WR",
   "team": null,
   "status": "Active",
-  "injury_status": "Out",
-  "injury_note": "Coach's Decision"
+  "injury_status": null,
+  "injury_note": null
  },
  "584": {
   "name": "Clay Harbor",
@@ -20602,7 +20610,7 @@
  "10223": {
   "name": "Eric Gray",
   "pos": "RB",
-  "team": null,
+  "team": "CLE",
   "status": "Active",
   "injury_status": null,
   "injury_note": null
@@ -21954,7 +21962,7 @@
  "13101": {
   "name": "Gage Larvadain",
   "pos": "WR",
-  "team": null,
+  "team": "BAL",
   "status": "Active",
   "injury_status": null,
   "injury_note": null
@@ -22291,8 +22299,8 @@
   "name": "Dylan Sampson",
   "pos": "RB",
   "team": "CLE",
-  "status": "Active",
-  "injury_status": "Out",
+  "status": "Inactive",
+  "injury_status": "IR",
   "injury_note": "Knee"
  },
  "3020": {
@@ -26762,7 +26770,7 @@
  "7050": {
   "name": "Josiah Deguara",
   "pos": "TE",
-  "team": null,
+  "team": "PHI",
   "status": "Active",
   "injury_status": null,
   "injury_note": null
@@ -27786,7 +27794,7 @@
  "3200": {
   "name": "Sterling Shepard",
   "pos": "WR",
-  "team": null,
+  "team": "NYJ",
   "status": "Active",
   "injury_status": null,
   "injury_note": null
@@ -28732,8 +28740,8 @@
   "pos": "TE",
   "team": "NE",
   "status": "Active",
-  "injury_status": null,
-  "injury_note": null
+  "injury_status": "Questionable",
+  "injury_note": "Undisclosed"
  },
  "1765": {
   "name": "Myles White",
@@ -30611,8 +30619,8 @@
   "name": "KeAndre Lambert-Smith",
   "pos": "WR",
   "team": "LAC",
-  "status": "Active",
-  "injury_status": "Questionable",
+  "status": "Inactive",
+  "injury_status": "IR",
   "injury_note": "Hamstring"
  },
  "4750": {
@@ -30738,7 +30746,7 @@
  "5086": {
   "name": "Marquez Valdes-Scantling",
   "pos": "WR",
-  "team": null,
+  "team": "LAC",
   "status": "Active",
   "injury_status": null,
   "injury_note": null
@@ -32386,7 +32394,7 @@
  "6960": {
   "name": "Tyler Johnson",
   "pos": "WR",
-  "team": null,
+  "team": "NYJ",
   "status": "Active",
   "injury_status": null,
   "injury_note": null
