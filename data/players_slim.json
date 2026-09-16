@@ -1028,7 +1028,7 @@
   "pos": "TE",
   "team": "SF",
   "status": "Active",
-  "injury_status": "Questionable",
+  "injury_status": "IR",
   "injury_note": "Knee"
  },
  "3453": {
@@ -7370,7 +7370,7 @@
  "10937": {
   "name": "Jake Moody",
   "pos": "K",
-  "team": "BAL",
+  "team": null,
   "status": "Active",
   "injury_status": null,
   "injury_note": null
@@ -7436,8 +7436,8 @@
   "pos": "WR",
   "team": "TB",
   "status": "Active",
-  "injury_status": "Questionable",
-  "injury_note": "Knee"
+  "injury_status": null,
+  "injury_note": null
  },
  "13430": {
   "name": "RJ Maryland",
@@ -10290,7 +10290,7 @@
  "12523": {
   "name": "Jimmy Horn",
   "pos": "WR",
-  "team": "CAR",
+  "team": null,
   "status": "Active",
   "injury_status": null,
   "injury_note": null
@@ -13242,7 +13242,7 @@
  "13674": {
   "name": "Chris Hilton",
   "pos": "WR",
-  "team": "GB",
+  "team": null,
   "status": "Active",
   "injury_status": null,
   "injury_note": null
@@ -15076,8 +15076,8 @@
   "pos": "RB",
   "team": "NYG",
   "status": "Active",
-  "injury_status": null,
-  "injury_note": null
+  "injury_status": "Questionable",
+  "injury_note": "Illness"
  },
  "3646": {
   "name": "Quayvon Hicks",
@@ -27914,7 +27914,7 @@
  "7559": {
   "name": "Ihmir Smith-Marsette",
   "pos": "WR",
-  "team": "ARI",
+  "team": null,
   "status": "Active",
   "injury_status": null,
   "injury_note": null
@@ -28738,7 +28738,7 @@
  "8041": {
   "name": "Shane Zylstra",
   "pos": "TE",
-  "team": "NE",
+  "team": null,
   "status": "Active",
   "injury_status": "Questionable",
   "injury_note": "Undisclosed"
@@ -29650,7 +29650,7 @@
  "9227": {
   "name": "Israel Abanikanda",
   "pos": "RB",
-  "team": "DAL",
+  "team": null,
   "status": "Active",
   "injury_status": null,
   "injury_note": null

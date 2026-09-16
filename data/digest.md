@@ -1,5 +1,5 @@
 # Sleeper digest — The Climb
-Pulled: 2026-09-16 16:05 UTC · NFL week 2 (regular)
+Pulled: 2026-09-16 18:51 UTC · NFL week 2 (regular)
 
 ## My roster
 - Roschon Johnson (RB-CHI)
@@ -51,31 +51,31 @@ Pulled: 2026-09-16 16:05 UTC · NFL week 2 (regular)
 - TheTroubles 146.16 — The Wizard’s Apprentice 102.10
 
 ## Trending adds (24h, all Sleeper)
-- Devaughn Vele (WR-NO) — 2,536,373 adds
-- Caleb Douglas (WR-MIA) — 1,913,192 adds
-- Tampa Bay Buccaneers (DEF-TB) — 1,628,055 adds
-- Devin Singletary (RB-NYG) — 1,451,385 adds
-- Kaelon Black (RB-SF) — 1,200,192 adds
-- San Francisco 49ers (DEF-SF) — 911,367 adds
-- Carson Wentz (QB-MIN) — 890,670 adds
-- Raheim Sanders (RB-CLE) — 853,184 adds
-- Pat Bryant (WR-DEN) — 449,072 adds
-- Emmett Johnson (RB-KC) — 444,051 adds
-- Demarcus Robinson (WR-SF) — 405,618 adds
-- Mike Gesicki (TE-CIN) — 368,420 adds
-- Mack Hollins (WR-NE) — 353,727 adds
-- Dontayvion Wicks (WR-PHI) — 325,983 adds
-- Bryce Young (QB-CAR) — 286,280 adds
-- Kenyon Sadiq (TE-NYJ) — 277,704 adds
-- Evan Engram (TE-DEN) — 245,696 adds
-- Tyler Shough (QB-NO) — 242,424 adds
-- Matthew Golden (WR-GB) — 232,078 adds
-- Sione Vaki (RB-DET) — 215,369 adds
-- Kendrick Bourne (WR-ARI) — 211,359 adds
-- Kalif Raymond (WR-CHI) — 208,176 adds
-- Cairo Santos (K-CHI) — 193,571 adds
-- Jacory Croskey-Merritt (RB-WAS) — 166,500 adds
-- Roman Wilson (WR-PIT) — 150,822 adds
+- Devaughn Vele (WR-NO) — 2,076,291 adds
+- Caleb Douglas (WR-MIA) — 1,675,688 adds
+- Tampa Bay Buccaneers (DEF-TB) — 1,437,040 adds
+- Devin Singletary (RB-NYG) — 1,274,076 adds
+- Kaelon Black (RB-SF) — 1,028,832 adds
+- Carson Wentz (QB-MIN) — 807,072 adds
+- San Francisco 49ers (DEF-SF) — 805,665 adds
+- Raheim Sanders (RB-CLE) — 803,848 adds
+- Emmett Johnson (RB-KC) — 418,833 adds
+- Pat Bryant (WR-DEN) — 409,288 adds
+- Demarcus Robinson (WR-SF) — 377,190 adds
+- Mack Hollins (WR-NE) — 325,719 adds
+- Mike Gesicki (TE-CIN) — 314,720 adds
+- Dontayvion Wicks (WR-PHI) — 287,040 adds
+- Kenyon Sadiq (TE-NYJ) — 265,986 adds
+- Bryce Young (QB-CAR) — 244,248 adds
+- Evan Engram (TE-DEN) — 217,096 adds
+- Tyler Shough (QB-NO) — 214,600 adds
+- Sione Vaki (RB-DET) — 214,214 adds
+- Matthew Golden (WR-GB) — 208,691 adds
+- Cairo Santos (K-CHI) — 193,613 adds
+- Kendrick Bourne (WR-ARI) — 185,379 adds
+- Kalif Raymond (WR-CHI) — 183,918 adds
+- Jacory Croskey-Merritt (RB-WAS) — 151,524 adds
+- Roman Wilson (WR-PIT) — 138,231 adds
 
 ## League transactions this week
 - free_agent (complete) Playful Secrets: +[Tampa Bay Buccaneers (DEF-TB)] -[Detroit Lions (DEF-DET)]
