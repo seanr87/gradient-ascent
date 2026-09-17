@@ -45,7 +45,7 @@
 | BN | Rachaad White | Draft (R10, pick 114) |
 | BN | Roschon Johnson | Wk 1 (free agent) |
 | BN | Jordan Addison | Draft (R9, pick 103) |
-| BN | Darren Waller | Wk 1 (free agent) |
+| BN | T.J. Hockenson | Wk 2 (free agent) |
 <!-- ROSTER:END -->
 
 *The digest in the repo is the source of truth if it disagrees with this table — update this table when the roster changes.*

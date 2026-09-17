@@ -10290,7 +10290,7 @@
  "12523": {
   "name": "Jimmy Horn",
   "pos": "WR",
-  "team": null,
+  "team": "CLE",
   "status": "Active",
   "injury_status": null,
   "injury_note": null
@@ -23420,7 +23420,7 @@
   "pos": "RB",
   "team": null,
   "status": "Active",
-  "injury_status": "Out",
+  "injury_status": "",
   "injury_note": "Foot"
  },
  "13227": {
