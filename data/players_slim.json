@@ -2874,7 +2874,7 @@
  "13805": {
   "name": "E.J. Williams",
   "pos": "WR",
-  "team": null,
+  "team": "CAR",
   "status": "Active",
   "injury_status": null,
   "injury_note": null
@@ -10794,7 +10794,7 @@
  "11959": {
   "name": "Bryce Oliver",
   "pos": "WR",
-  "team": null,
+  "team": "HOU",
   "status": "Active",
   "injury_status": null,
   "injury_note": null
@@ -12900,8 +12900,8 @@
   "pos": "WR",
   "team": "IND",
   "status": "Active",
-  "injury_status": null,
-  "injury_note": null
+  "injury_status": "Questionable",
+  "injury_note": "Heel"
  },
  "621": {
   "name": "Sam Bradford",
@@ -16668,8 +16668,8 @@
   "pos": "QB",
   "team": "IND",
   "status": "Active",
-  "injury_status": "Questionable",
-  "injury_note": "Groin"
+  "injury_status": null,
+  "injury_note": null
  },
  "6770": {
   "name": "Joe Burrow",
@@ -23268,8 +23268,8 @@
   "pos": "WR",
   "team": null,
   "status": "Active",
-  "injury_status": "Questionable",
-  "injury_note": "Ankle"
+  "injury_status": null,
+  "injury_note": null
  },
  "6097": {
   "name": "Jamal Custis",
@@ -26060,8 +26060,8 @@
   "pos": "RB",
   "team": "IND",
   "status": "Active",
-  "injury_status": null,
-  "injury_note": null
+  "injury_status": "Questionable",
+  "injury_note": "Knee"
  },
  "12467": {
   "name": "Jordan James",
@@ -26164,8 +26164,8 @@
   "pos": "WR",
   "team": "NO",
   "status": "Active",
-  "injury_status": null,
-  "injury_note": null
+  "injury_status": "Questionable",
+  "injury_note": "Hamstring"
  },
  "13305": {
   "name": "Mike Washington",
@@ -29650,7 +29650,7 @@
  "9227": {
   "name": "Israel Abanikanda",
   "pos": "RB",
-  "team": null,
+  "team": "DAL",
   "status": "Active",
   "injury_status": null,
   "injury_note": null
