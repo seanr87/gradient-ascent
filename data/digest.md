@@ -1,5 +1,5 @@
 # Sleeper digest — The Climb
-Pulled: 2026-09-17 15:31 UTC · NFL week 2 (regular)
+Pulled: 2026-09-17 16:02 UTC · NFL week 2 (regular)
 
 ## My roster
 - Roschon Johnson (RB-CHI)
@@ -51,31 +51,31 @@ Pulled: 2026-09-17 15:31 UTC · NFL week 2 (regular)
 - TheTroubles 146.16 — The Wizard’s Apprentice 102.10
 
 ## Trending adds (24h, all Sleeper)
-- Devin Singletary (RB-NYG) — 660,069 adds
-- Caleb Douglas (WR-MIA) — 486,224 adds
-- Tampa Bay Buccaneers (DEF-TB) — 401,885 adds
-- Devaughn Vele (WR-NO) — 329,168 adds
-- Raheim Sanders (RB-CLE) — 320,976 adds
-- Carson Wentz (QB-MIN) — 241,518 adds
-- Kaelon Black (RB-SF) — 234,549 adds
-- Demarcus Robinson (WR-SF) — 221,844 adds
-- San Francisco 49ers (DEF-SF) — 208,626 adds
-- Emmett Johnson (RB-KC) — 191,826 adds
-- Mack Hollins (WR-NE) — 158,421 adds
-- Pat Bryant (WR-DEN) — 153,392 adds
-- Aaron Jones (RB-MIN) — 140,355 adds
-- Cairo Santos (K-CHI) — 137,599 adds
-- Mike Gesicki (TE-CIN) — 129,296 adds
-- Sione Vaki (RB-DET) — 127,197 adds
-- Kenyon Sadiq (TE-NYJ) — 125,856 adds
-- Xavier Hutchinson (WR-HOU) — 108,899 adds
-- Bryce Young (QB-CAR) — 107,824 adds
-- Alvin Kamara (RB-NO) — 107,296 adds
-- Demond Claiborne (RB-MIN) — 107,217 adds
-- Khalil Shakir (WR-BUF) — 101,439 adds
-- Dontayvion Wicks (WR-PHI) — 95,973 adds
-- Evan Engram (TE-DEN) — 92,368 adds
-- MarShawn Lloyd (RB-GB) — 91,503 adds
+- Devin Singletary (RB-NYG) — 635,715 adds
+- Caleb Douglas (WR-MIA) — 456,000 adds
+- Tampa Bay Buccaneers (DEF-TB) — 365,090 adds
+- Raheim Sanders (RB-CLE) — 307,616 adds
+- Devaughn Vele (WR-NO) — 302,582 adds
+- Carson Wentz (QB-MIN) — 224,700 adds
+- Kaelon Black (RB-SF) — 220,192 adds
+- Demarcus Robinson (WR-SF) — 215,694 adds
+- San Francisco 49ers (DEF-SF) — 188,955 adds
+- Emmett Johnson (RB-KC) — 182,574 adds
+- Mack Hollins (WR-NE) — 150,342 adds
+- Pat Bryant (WR-DEN) — 144,392 adds
+- Aaron Jones (RB-MIN) — 139,941 adds
+- Cairo Santos (K-CHI) — 130,669 adds
+- Sione Vaki (RB-DET) — 123,172 adds
+- Mike Gesicki (TE-CIN) — 122,096 adds
+- Kenyon Sadiq (TE-NYJ) — 119,259 adds
+- Xavier Hutchinson (WR-HOU) — 111,069 adds
+- Demond Claiborne (RB-MIN) — 108,225 adds
+- Alvin Kamara (RB-NO) — 105,928 adds
+- Bryce Young (QB-CAR) — 101,600 adds
+- Khalil Shakir (WR-BUF) — 98,073 adds
+- Dontayvion Wicks (WR-PHI) — 89,832 adds
+- MarShawn Lloyd (RB-GB) — 89,289 adds
+- Malik Washington (WR-MIA) — 88,816 adds
 
 ## League transactions this week
 - free_agent (complete) Gradient Ascent: +[T.J. Hockenson (TE-MIN)] -[Darren Waller (TE-CAR)]
