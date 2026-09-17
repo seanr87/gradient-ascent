@@ -14468,8 +14468,8 @@
   "pos": "RB",
   "team": "SF",
   "status": "Active",
-  "injury_status": null,
-  "injury_note": null
+  "injury_status": "Questionable",
+  "injury_note": "Illness"
  },
  "5755": {
   "name": "Duplicate Player",
@@ -15076,8 +15076,8 @@
   "pos": "RB",
   "team": "NYG",
   "status": "Active",
-  "injury_status": "Questionable",
-  "injury_note": "Illness"
+  "injury_status": null,
+  "injury_note": null
  },
  "3646": {
   "name": "Quayvon Hicks",
@@ -20364,8 +20364,8 @@
   "pos": "RB",
   "team": "CIN",
   "status": "Active",
-  "injury_status": null,
-  "injury_note": null
+  "injury_status": "Questionable",
+  "injury_note": "Knee"
  },
  "5837": {
   "name": "Redford Jones",
