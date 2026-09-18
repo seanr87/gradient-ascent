@@ -1,5 +1,5 @@
 # Sleeper digest — The Climb
-Pulled: 2026-09-17 22:50 UTC · NFL week 2 (regular)
+Pulled: 2026-09-18 16:02 UTC · NFL week 2 (regular)
 
 ## My roster
 - Roschon Johnson (RB-CHI)
@@ -30,54 +30,55 @@ Pulled: 2026-09-17 22:50 UTC · NFL week 2 (regular)
 7. Sea Squirts — 0-1, 129.51 PF, waiver #4
 8. What can Brown do for u? — 0-1, 108.36 PF, waiver #3
 9. The Wizard’s Apprentice — 0-1, 102.10 PF, waiver #11
-10. Pierced by a Marksman — 0-1, 92.97 PF, waiver #10
+10. Jameson for Mahomies — 0-1, 92.97 PF, waiver #10
 11. CorneliusJones — 0-1, 84.52 PF, waiver #2
 12. Three Wise Jaylens  — 0-1, 79.17 PF, waiver #1
 
 ## This week's matchups (week 2)
 - Umojan Protectorate 0.00 — Princess Donut's Court 0.00
-- Lawrence of Valinor 0.00 — Three Wise Jaylens  0.00
-- Playful Secrets 0.00 — CorneliusJones 0.00
-- Pierced by a Marksman 0.00 — Sea Squirts 0.00
-- What can Brown do for u? 0.00 — TheTroubles 0.00
-- Gradient Ascent 0.00 — The Wizard’s Apprentice 0.00
+- Three Wise Jaylens  7.10 — Lawrence of Valinor 0.00
+- Playful Secrets 33.20 — CorneliusJones 6.30
+- Sea Squirts 23.30 — Jameson for Mahomies 5.30
+- TheTroubles 43.72 — What can Brown do for u? 15.70
+- Gradient Ascent 30.25 — The Wizard’s Apprentice 23.40
 
 ## Last week's results (week 1)
 - Princess Donut's Court 206.16 — Three Wise Jaylens  79.17
 - Umojan Protectorate 134.10 — CorneliusJones 84.52
 - Lawrence of Valinor 129.70 — Sea Squirts 129.51
 - Playful Secrets 153.66 — What can Brown do for u? 108.36
-- Gradient Ascent 140.46 — Pierced by a Marksman 92.97
+- Gradient Ascent 140.46 — Jameson for Mahomies 92.97
 - TheTroubles 146.16 — The Wizard’s Apprentice 102.10
 
 ## Trending adds (24h, all Sleeper)
-- Devin Singletary (RB-NYG) — 489,519 adds
-- Caleb Douglas (WR-MIA) — 311,568 adds
-- Tampa Bay Buccaneers (DEF-TB) — 256,965 adds
-- Raheim Sanders (RB-CLE) — 220,536 adds
-- Devaughn Vele (WR-NO) — 176,407 adds
-- Demarcus Robinson (WR-SF) — 158,376 adds
-- Xavier Hutchinson (WR-HOU) — 156,646 adds
-- Carson Wentz (QB-MIN) — 152,964 adds
-- San Francisco 49ers (DEF-SF) — 133,188 adds
-- Kaelon Black (RB-SF) [Questionable] — 129,773 adds
-- Cairo Santos (K-CHI) — 115,038 adds
-- Emmett Johnson (RB-KC) — 108,252 adds
-- Mack Hollins (WR-NE) — 104,976 adds
-- Alvin Kamara (RB-NO) — 91,264 adds
-- Mike Gesicki (TE-CIN) — 91,220 adds
-- Sione Vaki (RB-DET) — 90,209 adds
-- Kenyon Sadiq (TE-NYJ) — 86,265 adds
-- Khalil Shakir (WR-BUF) — 85,509 adds
-- Aaron Jones (RB-MIN) — 82,695 adds
-- Pat Bryant (WR-DEN) — 80,976 adds
-- Malik Washington (WR-MIA) — 79,832 adds
-- MarShawn Lloyd (RB-GB) — 74,781 adds
-- Bryce Young (QB-CAR) — 72,132 adds
-- DeeJay Dallas (RB-MIN) — 70,761 adds
-- Matthew Golden (WR-GB) — 63,567 adds
+- Devin Singletary (RB-NYG) — 425,223 adds
+- Caleb Douglas (WR-MIA) — 219,280 adds
+- Keon Coleman (WR-BUF) — 214,380 adds
+- Tampa Bay Buccaneers (DEF-TB) — 180,450 adds
+- Raheim Sanders (RB-CLE) — 153,784 adds
+- Xavier Hutchinson (WR-HOU) — 144,214 adds
+- Demarcus Robinson (WR-SF) — 120,018 adds
+- Khalil Shakir (WR-BUF) — 106,947 adds
+- Devaughn Vele (WR-NO) — 105,280 adds
+- Carson Wentz (QB-MIN) — 105,186 adds
+- Cairo Santos (K-CHI) — 98,728 adds
+- San Francisco 49ers (DEF-SF) — 91,650 adds
+- Alvin Kamara (RB-NO) — 83,288 adds
+- Mike Gesicki (TE-CIN) — 76,316 adds
+- Mack Hollins (WR-NE) — 70,974 adds
+- Malik Washington (WR-MIA) — 66,472 adds
+- Emmett Johnson (RB-KC) — 65,763 adds
+- MarShawn Lloyd (RB-GB) — 64,332 adds
+- Kaelon Black (RB-SF) [Questionable] — 62,825 adds
+- Sione Vaki (RB-DET) — 61,488 adds
+- Matthew Golden (WR-GB) — 61,334 adds
+- Kenyon Sadiq (TE-NYJ) — 61,083 adds
+- Bryce Young (QB-CAR) — 55,796 adds
+- Aaron Jones (RB-MIN) — 52,293 adds
+- Evan Engram (TE-DEN) — 48,648 adds
 
 ## League transactions this week
+- free_agent (complete) The Wizard’s Apprentice: +[Kayshon Boutte (WR-HOU)] -[Dylan Sampson (RB-CLE) [IR]]
 - free_agent (complete) Gradient Ascent: +[T.J. Hockenson (TE-MIN)] -[Darren Waller (TE-CAR)]
 - free_agent (complete) CorneliusJones: +[Khalil Shakir (WR-BUF)] -[Jake Ferguson (TE-DAL)]
 - free_agent (complete) Sea Squirts: +[Caleb Douglas (WR-MIA)] -[Tank Bigsby (RB-PHI)]

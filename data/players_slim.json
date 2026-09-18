@@ -14156,8 +14156,8 @@
   "pos": "WR",
   "team": "BUF",
   "status": "Active",
-  "injury_status": null,
-  "injury_note": null
+  "injury_status": "Out",
+  "injury_note": "Shoulder"
  },
  "12460": {
   "name": "Antwane Wells",
@@ -17204,8 +17204,8 @@
   "pos": "WR",
   "team": "SEA",
   "status": "Active",
-  "injury_status": "Questionable",
-  "injury_note": "Back"
+  "injury_status": null,
+  "injury_note": null
  },
  "3688": {
   "name": "Tra Carson",
@@ -20468,7 +20468,7 @@
   "pos": "RB",
   "team": "NYJ",
   "status": "Active",
-  "injury_status": "Questionable",
+  "injury_status": "Out",
   "injury_note": "Back"
  },
  "11867": {
@@ -20820,7 +20820,7 @@
   "pos": "WR",
   "team": "NYJ",
   "status": "Active",
-  "injury_status": "Questionable",
+  "injury_status": "Out",
   "injury_note": "Ankle"
  },
  "12818": {
@@ -26484,7 +26484,7 @@
   "pos": "RB",
   "team": "BUF",
   "status": "Active",
-  "injury_status": "Questionable",
+  "injury_status": "Out",
   "injury_note": "Hamstring"
  },
  "6803": {
@@ -27732,8 +27732,8 @@
   "pos": "WR",
   "team": "BUF",
   "status": "Active",
-  "injury_status": null,
-  "injury_note": null
+  "injury_status": "Out",
+  "injury_note": "Coach's Decision"
  },
  "8127": {
   "name": "Charlie Kolar",
