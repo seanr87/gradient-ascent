@@ -2172,8 +2172,8 @@
   "pos": "WR",
   "team": "MIN",
   "status": "Active",
-  "injury_status": null,
-  "injury_note": null
+  "injury_status": "Out",
+  "injury_note": "Personal"
  },
  "3338": {
   "name": "Keenan Reynolds",
@@ -3948,8 +3948,8 @@
   "pos": "RB",
   "team": "CHI",
   "status": "Active",
-  "injury_status": "Questionable",
-  "injury_note": "Knee"
+  "injury_status": null,
+  "injury_note": null
  },
  "6146": {
   "name": "Kaden Smith",
@@ -4004,7 +4004,7 @@
   "pos": "QB",
   "team": "ATL",
   "status": "Active",
-  "injury_status": "Questionable",
+  "injury_status": "Doubtful",
   "injury_note": "Oblique"
  },
  "6130": {
@@ -6170,7 +6170,7 @@
  "13749": {
   "name": "Kole Wilson",
   "pos": "WR",
-  "team": "CLE",
+  "team": null,
   "status": "Active",
   "injury_status": null,
   "injury_note": null
@@ -7436,8 +7436,8 @@
   "pos": "WR",
   "team": "TB",
   "status": "Active",
-  "injury_status": null,
-  "injury_note": null
+  "injury_status": "Questionable",
+  "injury_note": "Knee"
  },
  "13430": {
   "name": "RJ Maryland",
@@ -7850,7 +7850,7 @@
  "13816": {
   "name": "Mark Gronowski",
   "pos": "QB",
-  "team": "HOU",
+  "team": null,
   "status": "Active",
   "injury_status": null,
   "injury_note": null
@@ -8268,8 +8268,8 @@
   "pos": "WR",
   "team": "JAX",
   "status": "Active",
-  "injury_status": "Questionable",
-  "injury_note": "Thumb"
+  "injury_status": null,
+  "injury_note": null
  },
  "11529": {
   "name": "Ed Lee",
@@ -8796,7 +8796,7 @@
   "pos": "WR",
   "team": "HOU",
   "status": "Active",
-  "injury_status": "Questionable",
+  "injury_status": "Out",
   "injury_note": "Hamstring"
  },
  "13582": {
@@ -11468,8 +11468,8 @@
   "pos": "WR",
   "team": "LAR",
   "status": "Active",
-  "injury_status": null,
-  "injury_note": null
+  "injury_status": "Questionable",
+  "injury_note": "Hip"
  },
  "13149": {
   "name": "Caden Davis",
@@ -12716,8 +12716,8 @@
   "pos": "WR",
   "team": "WAS",
   "status": "Active",
-  "injury_status": "Questionable",
-  "injury_note": "Groin"
+  "injury_status": null,
+  "injury_note": null
  },
  "3454": {
   "name": "Danny Anthrop",
@@ -12900,8 +12900,8 @@
   "pos": "WR",
   "team": "IND",
   "status": "Active",
-  "injury_status": "Questionable",
-  "injury_note": "Heel"
+  "injury_status": null,
+  "injury_note": null
  },
  "621": {
   "name": "Sam Bradford",
@@ -15308,7 +15308,7 @@
   "pos": "WR",
   "team": "DEN",
   "status": "Active",
-  "injury_status": "Questionable",
+  "injury_status": "Out",
   "injury_note": "Foot"
  },
  "5243": {
@@ -15372,7 +15372,7 @@
   "pos": "QB",
   "team": "ATL",
   "status": "Active",
-  "injury_status": "Questionable",
+  "injury_status": "Out",
   "injury_note": "Knee - ACL"
  },
  "1454": {
@@ -16836,8 +16836,8 @@
   "pos": "QB",
   "team": "LV",
   "status": "Active",
-  "injury_status": null,
-  "injury_note": null
+  "injury_status": "Questionable",
+  "injury_note": "Personal"
  },
  "4301": {
   "name": "Josh Magee",
@@ -17500,8 +17500,8 @@
   "pos": "TE",
   "team": "MIA",
   "status": "Active",
-  "injury_status": "Questionable",
-  "injury_note": "Thumb"
+  "injury_status": null,
+  "injury_note": null
  },
  "3889": {
   "name": "Marquis Bundy",
@@ -17940,8 +17940,8 @@
   "pos": "TE",
   "team": "SF",
   "status": "Active",
-  "injury_status": "Questionable",
-  "injury_note": "Achilles"
+  "injury_status": null,
+  "injury_note": null
  },
  "12100": {
   "name": "Chris Autman-Bell",
@@ -20364,8 +20364,8 @@
   "pos": "RB",
   "team": "CIN",
   "status": "Active",
-  "injury_status": "Questionable",
-  "injury_note": "Knee"
+  "injury_status": null,
+  "injury_note": null
  },
  "5837": {
   "name": "Redford Jones",
@@ -21612,8 +21612,8 @@
   "pos": "RB",
   "team": "CHI",
   "status": "Active",
-  "injury_status": "Questionable",
-  "injury_note": "Hamstring"
+  "injury_status": null,
+  "injury_note": null
  },
  "2205": {
   "name": "Seantavius Jones",
@@ -21988,8 +21988,8 @@
   "pos": "WR",
   "team": "JAX",
   "status": "Active",
-  "injury_status": "Questionable",
-  "injury_note": "Shoulder"
+  "injury_status": null,
+  "injury_note": null
  },
  "5358": {
   "name": "Anthony Manzo-Lewis",
@@ -23084,8 +23084,8 @@
   "pos": "WR",
   "team": "CAR",
   "status": "Active",
-  "injury_status": "Questionable",
-  "injury_note": "Ankle"
+  "injury_status": null,
+  "injury_note": null
  },
  "13316": {
   "name": "Eric Rivers",
@@ -23260,8 +23260,8 @@
   "pos": "WR",
   "team": "LAR",
   "status": "Active",
-  "injury_status": null,
-  "injury_note": null
+  "injury_status": "Questionable",
+  "injury_note": "Quadriceps"
  },
  "5915": {
   "name": "Andy Isabella",
@@ -26532,8 +26532,8 @@
   "pos": "RB",
   "team": "JAX",
   "status": "Active",
-  "injury_status": "Questionable",
-  "injury_note": "Hip"
+  "injury_status": null,
+  "injury_note": null
  },
  "11249": {
   "name": "Chris Smith",
@@ -26548,7 +26548,7 @@
   "pos": "WR",
   "team": "BAL",
   "status": "Active",
-  "injury_status": "Questionable",
+  "injury_status": "Doubtful",
   "injury_note": "Hamstring"
  },
  "5407": {
@@ -28996,8 +28996,8 @@
   "pos": "TE",
   "team": "NO",
   "status": "Active",
-  "injury_status": "Questionable",
-  "injury_note": "Hamstring"
+  "injury_status": null,
+  "injury_note": null
  },
  "6763": {
   "name": "Reggie Begelton",
@@ -30604,7 +30604,7 @@
   "pos": "TE",
   "team": "WAS",
   "status": "Active",
-  "injury_status": "Questionable",
+  "injury_status": "Out",
   "injury_note": "Hamstring"
  },
  "6151": {
@@ -31412,7 +31412,7 @@
   "pos": "TE",
   "team": "LV",
   "status": "Active",
-  "injury_status": "Questionable",
+  "injury_status": "Doubtful",
   "injury_note": "Knee - Meniscus"
  },
  "12826": {
@@ -32292,7 +32292,7 @@
   "pos": "QB",
   "team": "MIN",
   "status": "Active",
-  "injury_status": "Questionable",
+  "injury_status": "Out",
   "injury_note": "Concussion"
  },
  "13783": {
@@ -32500,8 +32500,8 @@
   "pos": "TE",
   "team": "NO",
   "status": "Active",
-  "injury_status": "Questionable",
-  "injury_note": "Illness"
+  "injury_status": null,
+  "injury_note": null
  },
  "12485": {
   "name": "Tez Johnson",
@@ -33156,7 +33156,7 @@
   "pos": "WR",
   "team": "IND",
   "status": "Active",
-  "injury_status": "Questionable",
+  "injury_status": "Out",
   "injury_note": "Ankle"
  },
  "13005": {
