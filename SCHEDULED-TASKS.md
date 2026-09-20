@@ -11,15 +11,48 @@
 | # | Task ID | Routine ID | When (ET) | Output |
 |---|---------|------------|-----------|--------|
 | 1 | `climb-tue-weekly-column` | `trig_01SHaEx1ATL9aDyE6XhFifTt` | Tue 7:30 AM | `docs/_posts/YYYY-MM-DD-week-NN.md`. Skips itself until a week has been played |
-| 2 | `climb-tue-waiver-claims` | `trig_01CRESt3SMxaCi7UDBrQH7Uh` | Tue 9:30 PM | `docs/_decisions/2026-wkNN-tue-waivers.md`. Waivers clear Wed 3:00 AM |
-| 3 | `climb-wed-post-waiver-review` | `trig_0189zh2wC5LqTmQp38hrmVrn` | Wed 12:00 PM | `docs/_decisions/2026-wkNN-wed-review.md` |
-| 4 | `climb-thu-trade-scan` | `trig_01TAsV5kXxdEprxHrxBiunGt` | Thu 8:00 AM | `docs/_decisions/2026-wkNN-thu-trades.md` |
-| 5 | `climb-thu-tnf-check` | `trig_01XyQV9es4MXDvas42VTEFGj` | Thu 5:00 PM | `docs/_decisions/2026-wkNN-thu-tnf.md` |
-| 6 | `climb-sun-final-lineup` | `trig_01CarVocM38YYE8nT6NtiTDa` | Sun 9:00 AM | `docs/_decisions/2026-wkNN-sun-lineup.md` |
-| 7 | `climb-mon-league-chat` | `trig_01MQTa67SoWFDnjWPhyG2jFP` | Mon 8:00 PM | `docs/_decisions/2026-wkNN-mon-chat.md`. Low stakes; proves the whole pipeline weekly |
-| 8 | `climb-note` | `trig_01Ed6DEgsJdd1c6mZYaDwZt1` | Daily 12:00 PM | `docs/_notes/YYYY-MM-DD-HHMM.md`. One line for the site's Notes page; also a daily digest refresh |
+| 2 | `climb-tue-waiver-claims` | `trig_01CRESt3SMxaCi7UDBrQH7Uh` | **Tue 6:00 PM** | `docs/_decisions/2026-wkNN-tue-waivers.md`. Waivers process Wed 3:14 AM |
+| 3 | `climb-tue-waiver-check` | `trig_01MvL5QMr7wPCL2RTfSqizRj` | Tue 10:30 PM | **No file.** Verifies the claims are actually filed in Sleeper. Silent when they are |
+| 4 | `climb-wed-post-waiver-review` | `trig_0189zh2wC5LqTmQp38hrmVrn` | Wed 12:00 PM | `docs/_decisions/2026-wkNN-wed-review.md` |
+| 5 | `climb-thu-trade-scan` | `trig_01TAsV5kXxdEprxHrxBiunGt` | Thu 8:00 AM | `docs/_decisions/2026-wkNN-thu-trades.md` |
+| 6 | `climb-thu-tnf-check` | `trig_01XyQV9es4MXDvas42VTEFGj` | Thu 5:00 PM | `docs/_decisions/2026-wkNN-thu-tnf.md` |
+| 7 | `climb-sun-final-lineup` | `trig_01CarVocM38YYE8nT6NtiTDa` | Sun 9:00 AM | `docs/_decisions/2026-wkNN-sun-lineup.md` |
+| 8 | `climb-mon-league-chat` | `trig_01MQTa67SoWFDnjWPhyG2jFP` | Mon 8:00 PM | `docs/_decisions/2026-wkNN-mon-chat.md`. Low stakes; proves the whole pipeline weekly |
+| 9 | `climb-note` ×10 | see table below | scattered | `docs/_notes/YYYY-MM-DD-HHMM.md`. One line for the site's Notes page; also the data refresh |
 
 Crons are stored with `CRON_TZ=America/New_York`, so they hold their ET times across the November DST change. The scheduler adds a few minutes of jitter.
+
+### Waiver timing — measured, not assumed
+Waivers process **Wednesday 3:14 AM ET**. That is not from league settings; it is the `status_updated` timestamp shared by all nine claims in the Week 1 run (`2026-09-16 07:14 UTC`), read from `/league/<id>/transactions/1`. Settings agree in shape (`waiver_day_of_week: 2`, `waiver_clear_days: 2`) but give no hour.
+
+The claims routine originally fired **Tue 9:30 PM**, leaving 5h36m to the run, essentially all of it overnight. Two weeks running the file was correct, on time, and never executed. The slot moved to **Tue 6:00 PM** to put the decision in front of Sean while he is awake, and `climb-tue-waiver-check` was added at **Tue 10:30 PM** as a last call with about four and a half hours left. The check is silent on success by design — an alarm that fires every week stops being an alarm.
+
+### The note slots
+Ten a week at deliberately irregular hours, replacing the single daily noon run. Sean asked for the times not to be predictable and for a few more of them.
+
+| Routine ID | When (ET) |
+|---|---|
+| `trig_01JysbKd4yNFPadzQyYs5cus` | Mon 8:12 AM |
+| `trig_01Rbh16rV7GGtnXbNj3DAW6Z` | Tue 11:07 AM |
+| `trig_01K14YAWpCadEv4Xb33zovSQ` | Tue 2:33 PM |
+| `trig_01J6B316LXhQzTYTY9iuNRUe` | Wed 9:23 AM |
+| `trig_01K4XM6r2G82r7vFgrb8toQs` | Thu 1:36 PM |
+| `trig_01U5gznM1Xa4SC2XXskZ7VaL` | Thu 7:52 PM |
+| `trig_012e2YuQqNw56YknbUtAUq4M` | Fri 10:19 AM |
+| `trig_01Su64LVwDWADmvhKQ2notdD` | Sat 12:28 PM |
+| `trig_01TxD2AU5sWk3tjkgSY4XAFi` | Sat 4:47 PM |
+| `trig_01XcGx7hFbKeZ1ygN7iD5kC2` | Sun 11:11 AM |
+
+The old daily routine `trig_01Ed6DEgsJdd1c6mZYaDwZt1` must be **disabled by Sean** — see the constraint below. Until it is, there are seventeen notes a week, not ten.
+
+### Constraint: who can edit which routine
+A routine created through the web UI or HTTP API (`created_via: http_api`) **cannot be edited by an agent**, including by me. `update_trigger` refuses with *"Agents can only update routines they created."* Routines 1, 2, and 4 through 8, plus the old daily note, are all in that category: I can read them and I cannot change their cron, their prompt, or their enabled state.
+
+So a schedule change I decide on splits in two. The part I can do — creating a new routine, editing the `tasks/` instructions it reads — I do. The part only Sean can do is changing an existing routine at https://claude.ai/code/routines. Any such change is recorded here as **PENDING** until it is confirmed live, and a task file whose header states a time the live cron does not match is a discrepancy to flag, not to trust.
+
+**Currently pending on Sean:**
+1. `climb-tue-waiver-claims` → change cron to `CRON_TZ=America/New_York 0 18 * * 2` (Tue 6:00 PM). The file header already says 6:00 PM; the live cron still says 9:30 PM.
+2. `climb-note` (`trig_01Ed6DEgsJdd1c6mZYaDwZt1`) → disable. Its ten replacements are already live.
 
 ## Data the tasks depend on
 - `scripts/pull_sleeper.py` writes `data/digest.md` and `data/digest.json`: rosters, standings with waiver position, this and last week's scores, transactions, trending adds and drops. Every routine runs it at the start of its run.

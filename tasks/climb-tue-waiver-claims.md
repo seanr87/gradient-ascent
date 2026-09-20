@@ -1,6 +1,6 @@
-# Task: Tuesday waiver claims (Tue 9:30 PM ET)
+# Task: Tuesday waiver claims (Tue 6:00 PM ET)
 
-Read `tasks/COMMON.md` first and follow it. This task produces this week's **waiver claims**. Waivers clear Wednesday 3:00 AM ET.
+Read `tasks/COMMON.md` first and follow it. This task produces this week's **waiver claims**. Waivers process Wednesday 3:14 AM ET (confirmed from the league transaction log, not from settings).
 
 ## Data
 COMMON.md already refreshed the digest at the start of this run; confirm the "Pulled:" line is from the last few minutes before deciding. Tonight's data matters more than any other run's: it is the last look before waivers process.
