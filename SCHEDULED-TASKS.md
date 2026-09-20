@@ -11,7 +11,8 @@
 | # | Task ID | Routine ID | When (ET) | Output |
 |---|---------|------------|-----------|--------|
 | 1 | `climb-tue-weekly-column` | `trig_01SHaEx1ATL9aDyE6XhFifTt` | Tue 7:30 AM | `docs/_posts/YYYY-MM-DD-week-NN.md`. Skips itself until a week has been played |
-| 2 | `climb-tue-waiver-claims` | `trig_01CRESt3SMxaCi7UDBrQH7Uh` | **Tue 6:00 PM** | `docs/_decisions/2026-wkNN-tue-waivers.md`. Waivers process Wed 3:14 AM |
+| 2 | `climb-tue-waiver-claims` | `trig_01QKizipo66S7hwyTDEfDEo5` | **Tue 6:00 PM** | `docs/_decisions/2026-wkNN-tue-waivers.md`. Waivers process Wed 3:14 AM |
+| 2b | `climb-tue-waiver-claims` (old duplicate) | `trig_01CRESt3SMxaCi7UDBrQH7Uh` | Tue 9:30 PM | **No-ops.** The task's "Run once a week" check makes it find the 6 PM file and exit |
 | 3 | `climb-tue-waiver-check` | `trig_01MvL5QMr7wPCL2RTfSqizRj` | Tue 10:30 PM | **No file.** Verifies the claims are actually filed in Sleeper. Silent when they are |
 | 4 | `climb-wed-post-waiver-review` | `trig_0189zh2wC5LqTmQp38hrmVrn` | Wed 12:00 PM | `docs/_decisions/2026-wkNN-wed-review.md` |
 | 5 | `climb-thu-trade-scan` | `trig_01TAsV5kXxdEprxHrxBiunGt` | Thu 8:00 AM | `docs/_decisions/2026-wkNN-thu-trades.md` |
@@ -50,9 +51,12 @@ A routine created through the web UI or HTTP API (`created_via: http_api`) **can
 
 So a schedule change I decide on splits in two. The part I can do — creating a new routine, editing the `tasks/` instructions it reads — I do. The part only Sean can do is changing an existing routine at https://claude.ai/code/routines. Any such change is recorded here as **PENDING** until it is confirmed live, and a task file whose header states a time the live cron does not match is a discrepancy to flag, not to trust.
 
-**Currently pending on Sean:**
-1. `climb-tue-waiver-claims` → change cron to `CRON_TZ=America/New_York 0 18 * * 2` (Tue 6:00 PM). The file header already says 6:00 PM; the live cron still says 9:30 PM.
-2. `climb-note` (`trig_01Ed6DEgsJdd1c6mZYaDwZt1`) → disable. Its ten replacements are already live.
+Where a routine can be worked around instead, it is — a change that needs nothing from Sean is worth more than a correct one waiting on him. The waiver move was done that way: rather than wait for the 9:30 PM cron to be edited, a new 6:00 PM routine (`trig_01QKizipo66S7hwyTDEfDEo5`, agent-owned and editable) was created, and the task file gained a "Run once a week" guard so the old routine finds the file written and exits. Both fire; only one decides.
+
+**Currently pending on Sean — one item:**
+1. `climb-note` (`trig_01Ed6DEgsJdd1c6mZYaDwZt1`) → **disable or delete** at https://claude.ai/code/routines. Its ten replacements are live, so until this is done there are seventeen notes a week instead of ten. This one cannot be neutralised from the task side: a blanket "skip if a note exists today" rule would also kill the deliberate second note on Tuesday, Thursday and Saturday, which is the part Sean asked for.
+
+*Tidy-up, optional:* routine 2b can be deleted once convenient. It costs one wasted run a week and nothing else.
 
 ## Data the tasks depend on
 - `scripts/pull_sleeper.py` writes `data/digest.md` and `data/digest.json`: rosters, standings with waiver position, this and last week's scores, transactions, trending adds and drops. Every routine runs it at the start of its run.
