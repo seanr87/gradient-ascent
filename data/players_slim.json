@@ -11836,7 +11836,7 @@
   "pos": "WR",
   "team": "SF",
   "status": "Inactive",
-  "injury_status": "Out",
+  "injury_status": "IR",
   "injury_note": "Ankle"
  },
  "582": {
@@ -16836,7 +16836,7 @@
   "pos": "QB",
   "team": "LV",
   "status": "Active",
-  "injury_status": "Questionable",
+  "injury_status": "Out",
   "injury_note": "Personal"
  },
  "4301": {
@@ -20819,8 +20819,8 @@
   "name": "Omar Cooper",
   "pos": "WR",
   "team": "NYJ",
-  "status": "Active",
-  "injury_status": "Out",
+  "status": "Inactive",
+  "injury_status": "IR",
   "injury_note": "Ankle"
  },
  "12818": {
@@ -23260,7 +23260,7 @@
   "pos": "WR",
   "team": "LAR",
   "status": "Active",
-  "injury_status": "Questionable",
+  "injury_status": "Doubtful",
   "injury_note": "Quadriceps"
  },
  "5915": {
@@ -26548,7 +26548,7 @@
   "pos": "WR",
   "team": "BAL",
   "status": "Active",
-  "injury_status": "Doubtful",
+  "injury_status": "Out",
   "injury_note": "Hamstring"
  },
  "5407": {
@@ -31698,7 +31698,7 @@
  "8176": {
   "name": "Danny Gray",
   "pos": "WR",
-  "team": "PHI",
+  "team": null,
   "status": "Active",
   "injury_status": "Questionable",
   "injury_note": "Undisclosed"
@@ -32436,8 +32436,8 @@
   "pos": "WR",
   "team": "PIT",
   "status": "Active",
-  "injury_status": "Questionable",
-  "injury_note": "Foot"
+  "injury_status": "Out",
+  "injury_note": "Ankle"
  },
  "3300": {
   "name": "DeAndre Washington",
