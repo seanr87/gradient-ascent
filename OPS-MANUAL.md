@@ -43,8 +43,8 @@
 | DEF | Buffalo | Draft (R12, pick 138) |
 | BN | Justice Hill | Wk 1 (free agent) |
 | BN | Rachaad White | Draft (R10, pick 114) |
-| BN | Roschon Johnson | Wk 1 (free agent) |
 | BN | Jordan Addison | Draft (R9, pick 103) |
+| BN | Konata Mumpfield | Wk 2 (free agent) |
 | BN | T.J. Hockenson | Wk 2 (free agent) |
 <!-- ROSTER:END -->
 

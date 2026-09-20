@@ -1,13 +1,13 @@
 # Sleeper digest — The Climb
-Pulled: 2026-09-20 13:10 UTC · NFL week 2 (regular)
+Pulled: 2026-09-20 13:44 UTC · NFL week 2 (regular)
 
 ## My roster
-- Roschon Johnson (RB-CHI)
 - Dalton Kincaid (TE-BUF) (STARTER)
 - Jayden Daniels (QB-WAS) (STARTER)
 - Bucky Irving (RB-TB) (STARTER)
 - Cam Skattebo (RB-NYG) (STARTER)
 - Tyler Loop (K-BAL) (STARTER)
+- Konata Mumpfield (WR-LAR)
 - Mike Evans (WR-SF) (STARTER)
 - T.J. Hockenson (TE-MIN)
 - Justice Hill (RB-BAL)
@@ -51,33 +51,34 @@ Pulled: 2026-09-20 13:10 UTC · NFL week 2 (regular)
 - TheTroubles 146.16 — The Wizard’s Apprentice 102.10
 
 ## Trending adds (24h, all Sleeper)
-- Xavier Hutchinson (WR-HOU) — 364,490 adds
-- Roman Wilson (WR-PIT) — 199,233 adds
-- Michael Mayer (TE-LV) — 159,435 adds
-- Keon Coleman (WR-BUF) — 113,607 adds
-- Devin Singletary (RB-NYG) — 100,782 adds
-- Alvin Kamara (RB-NO) — 88,040 adds
-- Cairo Santos (K-CHI) — 61,292 adds
-- Demarcus Robinson (WR-SF) — 54,786 adds
-- Carson Wentz (QB-MIN) — 53,982 adds
-- Caleb Douglas (WR-MIA) — 48,184 adds
-- Tampa Bay Buccaneers (DEF-TB) — 43,565 adds
-- Konata Mumpfield (WR-LAR) — 40,941 adds
-- Devaughn Vele (WR-NO) — 40,313 adds
-- Malik Washington (WR-MIA) — 37,048 adds
-- Matthew Golden (WR-GB) — 36,911 adds
-- Emmett Johnson (RB-KC) — 36,846 adds
-- Raheim Sanders (RB-CLE) — 35,816 adds
-- Mack Hollins (WR-NE) — 33,246 adds
-- Mark Andrews (TE-BAL) — 32,391 adds
-- DeeJay Dallas (RB-MIN) — 31,770 adds
-- Adonai Mitchell (WR-NYJ) — 30,720 adds
-- Rashod Bateman (WR-BAL) — 29,524 adds
-- Kenyon Sadiq (TE-NYJ) — 28,845 adds
-- MarShawn Lloyd (RB-GB) — 27,135 adds
-- Tyler Loop (K-BAL) — 27,000 adds
+- Xavier Hutchinson (WR-HOU) — 371,511 adds
+- Roman Wilson (WR-PIT) — 212,427 adds
+- Michael Mayer (TE-LV) — 165,438 adds
+- Keon Coleman (WR-BUF) — 113,643 adds
+- Devin Singletary (RB-NYG) — 104,751 adds
+- Alvin Kamara (RB-NO) — 89,928 adds
+- Cairo Santos (K-CHI) — 62,986 adds
+- Demarcus Robinson (WR-SF) — 56,712 adds
+- Carson Wentz (QB-MIN) — 55,812 adds
+- Caleb Douglas (WR-MIA) — 48,672 adds
+- Tampa Bay Buccaneers (DEF-TB) — 46,450 adds
+- Konata Mumpfield (WR-LAR) — 45,459 adds
+- Devaughn Vele (WR-NO) — 41,160 adds
+- Malik Washington (WR-MIA) — 38,128 adds
+- Emmett Johnson (RB-KC) — 38,007 adds
+- Matthew Golden (WR-GB) — 37,730 adds
+- Raheim Sanders (RB-CLE) — 35,880 adds
+- Mack Hollins (WR-NE) — 34,410 adds
+- Mark Andrews (TE-BAL) — 33,570 adds
+- DeeJay Dallas (RB-MIN) — 32,586 adds
+- Adonai Mitchell (WR-NYJ) — 31,552 adds
+- Rashod Bateman (WR-BAL) — 30,394 adds
+- Kenyon Sadiq (TE-NYJ) — 29,079 adds
+- Chase McLaughlin (K-TB) — 28,384 adds
+- MarShawn Lloyd (RB-GB) — 27,738 adds
 
 ## League transactions this week
+- free_agent (complete) Gradient Ascent: +[Konata Mumpfield (WR-LAR)] -[Roschon Johnson (RB-CHI)]
 - free_agent (complete) The Wizard’s Apprentice: +[Kayshon Boutte (WR-HOU)] -[Dylan Sampson (RB-CLE) [IR]]
 - free_agent (complete) Gradient Ascent: +[T.J. Hockenson (TE-MIN)] -[Darren Waller (TE-CAR)]
 - free_agent (complete) CorneliusJones: +[Khalil Shakir (WR-BUF)] -[Jake Ferguson (TE-DAL)]

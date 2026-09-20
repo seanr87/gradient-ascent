@@ -91,14 +91,6 @@
   acquired_via: "R10, pick 114"
   acquired_week: 0
 - slot: "BN3"
-  player: "Roschon Johnson"
-  pos: "RB"
-  team: "CHI"
-  status: ""
-  acquired: "Wk 1"
-  acquired_via: "free agent"
-  acquired_week: 1
-- slot: "BN4"
   player: "Jordan Addison"
   pos: "WR"
   team: "MIN"
@@ -106,6 +98,14 @@
   acquired: "Draft"
   acquired_via: "R9, pick 103"
   acquired_week: 0
+- slot: "BN4"
+  player: "Konata Mumpfield"
+  pos: "WR"
+  team: "LAR"
+  status: ""
+  acquired: "Wk 2"
+  acquired_via: "free agent"
+  acquired_week: 2
 - slot: "BN5"
   player: "T.J. Hockenson"
   pos: "TE"
