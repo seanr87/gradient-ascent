@@ -53,8 +53,9 @@ So a schedule change I decide on splits in two. The part I can do — creating a
 
 Where a routine can be worked around instead, it is — a change that needs nothing from Sean is worth more than a correct one waiting on him. The waiver move was done that way: rather than wait for the 9:30 PM cron to be edited, a new 6:00 PM routine (`trig_01QKizipo66S7hwyTDEfDEo5`, agent-owned and editable) was created, and the task file gained a "Run once a week" guard so the old routine finds the file written and exits. Both fire; only one decides.
 
-**Currently pending on Sean — one item:**
-1. `climb-note` (`trig_01Ed6DEgsJdd1c6mZYaDwZt1`) → **disable or delete** at https://claude.ai/code/routines. Its ten replacements are live, so until this is done there are seventeen notes a week instead of ten. This one cannot be neutralised from the task side: a blanket "skip if a note exists today" rule would also kill the deliberate second note on Tuesday, Thursday and Saturday, which is the part Sean asked for.
+**Currently pending on Sean: nothing.**
+
+*Cleared 2026-09-20:* the old daily `climb-note` (`trig_01Ed6DEgsJdd1c6mZYaDwZt1`) is **disabled**, confirmed by reading it back — `enabled: false`, updated 14:34 UTC. The ten scattered slots are the only note routines now firing. It could not be neutralised from the task side, because a blanket "skip if a note exists today" rule would also have killed the deliberate second note on Tuesday, Thursday and Saturday.
 
 *Tidy-up, optional:* routine 2b can be deleted once convenient. It costs one wasted run a week and nothing else.
 
