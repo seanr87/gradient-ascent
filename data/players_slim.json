@@ -4172,8 +4172,8 @@
   "pos": "QB",
   "team": "NO",
   "status": "Active",
-  "injury_status": null,
-  "injury_note": null
+  "injury_status": "Out",
+  "injury_note": "Coach's Decision"
  },
  "2769": {
   "name": "Larry Pinkard",
@@ -7436,8 +7436,8 @@
   "pos": "WR",
   "team": "TB",
   "status": "Active",
-  "injury_status": "Questionable",
-  "injury_note": "Knee"
+  "injury_status": null,
+  "injury_note": null
  },
  "13430": {
   "name": "RJ Maryland",
@@ -10132,8 +10132,8 @@
   "pos": "QB",
   "team": "CAR",
   "status": "Active",
-  "injury_status": null,
-  "injury_note": null
+  "injury_status": "Out",
+  "injury_note": "Coach's Decision"
  },
  "6185": {
   "name": "Easton Stick",
@@ -23612,8 +23612,8 @@
   "pos": "RB",
   "team": "NO",
   "status": "Active",
-  "injury_status": null,
-  "injury_note": null
+  "injury_status": "Out",
+  "injury_note": "Coach's Decision"
  },
  "7670": {
   "name": "Joshua Palmer",
@@ -25316,8 +25316,8 @@
   "pos": "TE",
   "team": "CAR",
   "status": "Active",
-  "injury_status": null,
-  "injury_note": null
+  "injury_status": "Out",
+  "injury_note": "Coach's Decision"
  },
  "4475": {
   "name": "Sefo Liufau",
@@ -30660,8 +30660,8 @@
   "pos": "QB",
   "team": "CLE",
   "status": "Active",
-  "injury_status": null,
-  "injury_note": null
+  "injury_status": "Out",
+  "injury_note": "Coach's Decision"
  },
  "13034": {
   "name": "Tyrone Broden",
@@ -31372,8 +31372,8 @@
   "pos": "QB",
   "team": "PIT",
   "status": "Active",
-  "injury_status": null,
-  "injury_note": null
+  "injury_status": "Out",
+  "injury_note": "Coach's Decision"
  },
  "6126": {
   "name": "Irv Smith",

@@ -1,5 +1,5 @@
 # Sleeper digest — The Climb
-Pulled: 2026-09-20 15:43 UTC · NFL week 2 (regular)
+Pulled: 2026-09-20 16:05 UTC · NFL week 2 (regular)
 
 ## My roster
 - Dalton Kincaid (TE-BUF) (STARTER)
@@ -51,31 +51,31 @@ Pulled: 2026-09-20 15:43 UTC · NFL week 2 (regular)
 - TheTroubles 146.16 — The Wizard’s Apprentice 102.10
 
 ## Trending adds (24h, all Sleeper)
-- Xavier Hutchinson (WR-HOU) — 413,546 adds
-- Roman Wilson (WR-PIT) — 262,404 adds
-- Michael Mayer (TE-LV) — 197,973 adds
-- Devin Singletary (RB-NYG) — 126,900 adds
-- Keon Coleman (WR-BUF) — 116,667 adds
-- Alvin Kamara (RB-NO) — 102,096 adds
-- Cairo Santos (K-CHI) — 72,884 adds
-- Demarcus Robinson (WR-SF) — 66,216 adds
-- Carson Wentz (QB-MIN) — 64,596 adds
-- Konata Mumpfield (WR-LAR) — 63,315 adds
-- Tampa Bay Buccaneers (DEF-TB) — 58,645 adds
-- Caleb Douglas (WR-MIA) — 53,304 adds
-- Devaughn Vele (WR-NO) — 46,207 adds
-- Malik Washington (WR-MIA) — 45,096 adds
-- Emmett Johnson (RB-KC) — 43,983 adds
-- Matthew Golden (WR-GB) — 42,350 adds
-- Mark Andrews (TE-BAL) — 40,716 adds
-- Mack Hollins (WR-NE) — 39,798 adds
-- Malachi Fields (WR-NYG) — 39,100 adds
-- Chase McLaughlin (K-TB) — 38,312 adds
-- Raheim Sanders (RB-CLE) — 38,168 adds
-- DeeJay Dallas (RB-MIN) — 37,434 adds
-- New England Patriots (DEF-NE) — 35,245 adds
-- Adonai Mitchell (WR-NYJ) — 35,032 adds
-- Rashod Bateman (WR-BAL) — 34,759 adds
+- Xavier Hutchinson (WR-HOU) — 449,519 adds
+- Roman Wilson (WR-PIT) — 290,610 adds
+- Michael Mayer (TE-LV) — 218,160 adds
+- Devin Singletary (RB-NYG) — 142,470 adds
+- Keon Coleman (WR-BUF) — 122,085 adds
+- Alvin Kamara (RB-NO) — 111,424 adds
+- Cairo Santos (K-CHI) — 80,458 adds
+- Konata Mumpfield (WR-LAR) — 77,247 adds
+- Demarcus Robinson (WR-SF) — 72,648 adds
+- Carson Wentz (QB-MIN) — 70,320 adds
+- Tampa Bay Buccaneers (DEF-TB) — 66,320 adds
+- Caleb Douglas (WR-MIA) — 56,680 adds
+- Devaughn Vele (WR-NO) — 49,462 adds
+- Malik Washington (WR-MIA) — 49,424 adds
+- Emmett Johnson (RB-KC) — 47,781 adds
+- Malachi Fields (WR-NYG) — 45,960 adds
+- Matthew Golden (WR-GB) — 45,738 adds
+- Mark Andrews (TE-BAL) — 44,523 adds
+- Chase McLaughlin (K-TB) — 44,392 adds
+- Mack Hollins (WR-NE) — 43,476 adds
+- DeeJay Dallas (RB-MIN) — 41,451 adds
+- Raheim Sanders (RB-CLE) — 41,280 adds
+- New England Patriots (DEF-NE) — 39,746 adds
+- Rashod Bateman (WR-BAL) — 37,421 adds
+- Adonai Mitchell (WR-NYJ) — 37,040 adds
 
 ## League transactions this week
 - free_agent (complete) Gradient Ascent: +[Konata Mumpfield (WR-LAR)] -[Roschon Johnson (RB-CHI)]
