@@ -500,8 +500,8 @@
   "pos": "QB",
   "team": "NE",
   "status": "Active",
-  "injury_status": null,
-  "injury_note": null
+  "injury_status": "Out",
+  "injury_note": "Coach's Decision"
  },
  "355": {
   "name": "Brian Leonard",
@@ -4004,7 +4004,7 @@
   "pos": "QB",
   "team": "ATL",
   "status": "Active",
-  "injury_status": "Doubtful",
+  "injury_status": "Out",
   "injury_note": "Oblique"
  },
  "6130": {
@@ -5444,8 +5444,8 @@
   "pos": "QB",
   "team": "CIN",
   "status": "Active",
-  "injury_status": null,
-  "injury_note": null
+  "injury_status": "Out",
+  "injury_note": "Coach's Decision"
  },
  "8113": {
   "name": "Player Invalid",
@@ -7180,8 +7180,8 @@
   "pos": "QB",
   "team": "CHI",
   "status": "Active",
-  "injury_status": null,
-  "injury_note": null
+  "injury_status": "Out",
+  "injury_note": "Coach's Decision"
  },
  "6469": {
   "name": "Davis Koppenhaver",
@@ -9484,8 +9484,8 @@
   "pos": "WR",
   "team": "PHI",
   "status": "Active",
-  "injury_status": null,
-  "injury_note": null
+  "injury_status": "Out",
+  "injury_note": "Coach's Decision"
  },
  "8799": {
   "name": "Zaire Mitchell-Paden",
@@ -11164,8 +11164,8 @@
   "pos": "QB",
   "team": "PHI",
   "status": "Active",
-  "injury_status": null,
-  "injury_note": null
+  "injury_status": "Out",
+  "injury_note": "Coach's Decision"
  },
  "6490": {
   "name": "Mik'Quan Deane",
@@ -16676,8 +16676,8 @@
   "pos": "QB",
   "team": "CIN",
   "status": "Active",
-  "injury_status": "Questionable",
-  "injury_note": "Back"
+  "injury_status": null,
+  "injury_note": null
  },
  "1274": {
   "name": "Gerell Robinson",
@@ -17364,8 +17364,8 @@
   "pos": "TE",
   "team": "HOU",
   "status": "Active",
-  "injury_status": null,
-  "injury_note": null
+  "injury_status": "Out",
+  "injury_note": "Coach's Decision"
  },
  "13776": {
   "name": "Hank Beatty",
@@ -20780,8 +20780,8 @@
   "pos": "K",
   "team": "NYJ",
   "status": "Active",
-  "injury_status": null,
-  "injury_note": null
+  "injury_status": "Out",
+  "injury_note": "Coach's Decision"
  },
  "2394": {
   "name": "Sean Mannion",
@@ -25404,8 +25404,8 @@
   "pos": "QB",
   "team": "PHI",
   "status": "Active",
-  "injury_status": null,
-  "injury_note": null
+  "injury_status": "Out",
+  "injury_note": "Coach's Decision"
  },
  "5008": {
   "name": "Durham Smythe",
@@ -26164,8 +26164,8 @@
   "pos": "WR",
   "team": "NO",
   "status": "Active",
-  "injury_status": "Questionable",
-  "injury_note": "Hamstring"
+  "injury_status": null,
+  "injury_note": null
  },
  "13305": {
   "name": "Mike Washington",
@@ -26372,8 +26372,8 @@
   "pos": "TE",
   "team": "TEN",
   "status": "Active",
-  "injury_status": null,
-  "injury_note": null
+  "injury_status": "Out",
+  "injury_note": "Coach's Decision"
  },
  "12516": {
   "name": "Kalel Mullings",
@@ -31284,8 +31284,8 @@
   "pos": "QB",
   "team": "BAL",
   "status": "Active",
-  "injury_status": null,
-  "injury_note": null
+  "injury_status": "Out",
+  "injury_note": "Coach's Decision"
  },
  "9505": {
   "name": "Deuce Vaughn",
@@ -31812,8 +31812,8 @@
   "pos": "TE",
   "team": "NE",
   "status": "Active",
-  "injury_status": null,
-  "injury_note": null
+  "injury_status": "Out",
+  "injury_note": "Coach's Decision"
  },
  "12658": {
   "name": "Jackson Hawes",
