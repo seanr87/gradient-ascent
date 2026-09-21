@@ -1,14 +1,14 @@
 # Sleeper digest — The Climb
-Pulled: 2026-09-20 16:05 UTC · NFL week 2 (regular)
+Pulled: 2026-09-21 12:15 UTC · NFL week 2 (regular)
 
 ## My roster
 - Dalton Kincaid (TE-BUF) (STARTER)
-- Jayden Daniels (QB-WAS) (STARTER)
+- Jayden Daniels (QB-WAS) [Out] (STARTER)
 - Bucky Irving (RB-TB) (STARTER)
 - Cam Skattebo (RB-NYG) (STARTER)
 - Tyler Loop (K-BAL) (STARTER)
 - Konata Mumpfield (WR-LAR)
-- Mike Evans (WR-SF) (STARTER)
+- Mike Evans (WR-SF) [Questionable] (STARTER)
 - T.J. Hockenson (TE-MIN)
 - Justice Hill (RB-BAL)
 - CeeDee Lamb (WR-DAL) (STARTER)
@@ -35,12 +35,12 @@ Pulled: 2026-09-20 16:05 UTC · NFL week 2 (regular)
 12. Three Wise Jaylens  — 0-1, 79.17 PF, waiver #1
 
 ## This week's matchups (week 2)
-- Umojan Protectorate 0.00 — Princess Donut's Court 0.00
-- Three Wise Jaylens  7.10 — Lawrence of Valinor 0.00
-- Playful Secrets 33.20 — CorneliusJones 6.30
-- Sea Squirts 23.30 — Jameson for Mahomies 5.30
-- TheTroubles 43.72 — What can Brown do for u? 15.70
-- Gradient Ascent 30.25 — The Wizard’s Apprentice 23.40
+- Umojan Protectorate 139.03 — Princess Donut's Court 114.32
+- Three Wise Jaylens  103.76 — Lawrence of Valinor 69.91
+- Playful Secrets 125.60 — CorneliusJones 111.17
+- Jameson for Mahomies 84.98 — Sea Squirts 79.85
+- TheTroubles 106.52 — What can Brown do for u? 83.33
+- The Wizard’s Apprentice 147.36 — Gradient Ascent 109.09
 
 ## Last week's results (week 1)
 - Princess Donut's Court 206.16 — Three Wise Jaylens  79.17
@@ -51,36 +51,37 @@ Pulled: 2026-09-20 16:05 UTC · NFL week 2 (regular)
 - TheTroubles 146.16 — The Wizard’s Apprentice 102.10
 
 ## Trending adds (24h, all Sleeper)
-- Xavier Hutchinson (WR-HOU) — 449,519 adds
-- Roman Wilson (WR-PIT) — 290,610 adds
-- Michael Mayer (TE-LV) — 218,160 adds
-- Devin Singletary (RB-NYG) — 142,470 adds
-- Keon Coleman (WR-BUF) — 122,085 adds
-- Alvin Kamara (RB-NO) — 111,424 adds
-- Cairo Santos (K-CHI) — 80,458 adds
-- Konata Mumpfield (WR-LAR) — 77,247 adds
-- Demarcus Robinson (WR-SF) — 72,648 adds
-- Carson Wentz (QB-MIN) — 70,320 adds
-- Tampa Bay Buccaneers (DEF-TB) — 66,320 adds
-- Caleb Douglas (WR-MIA) — 56,680 adds
-- Devaughn Vele (WR-NO) — 49,462 adds
-- Malik Washington (WR-MIA) — 49,424 adds
-- Emmett Johnson (RB-KC) — 47,781 adds
-- Malachi Fields (WR-NYG) — 45,960 adds
-- Matthew Golden (WR-GB) — 45,738 adds
-- Mark Andrews (TE-BAL) — 44,523 adds
-- Chase McLaughlin (K-TB) — 44,392 adds
-- Mack Hollins (WR-NE) — 43,476 adds
-- DeeJay Dallas (RB-MIN) — 41,451 adds
-- Raheim Sanders (RB-CLE) — 41,280 adds
-- New England Patriots (DEF-NE) — 39,746 adds
-- Rashod Bateman (WR-BAL) — 37,421 adds
-- Adonai Mitchell (WR-NYJ) — 37,040 adds
+- Bryce Young (QB-CAR) — 512,520 adds
+- Tyler Shough (QB-NO) — 352,784 adds
+- Xavier Hutchinson (WR-HOU) — 277,473 adds
+- Tank Bigsby (RB-PHI) — 265,272 adds
+- Darren Waller (TE-CAR) — 257,994 adds
+- Devin Singletary (RB-NYG) — 254,151 adds
+- Tre Tucker (WR-LV) — 250,680 adds
+- Michael Mayer (TE-LV) — 249,561 adds
+- Roman Wilson (WR-PIT) — 205,677 adds
+- Keon Coleman (WR-BUF) — 200,286 adds
+- Tyson Bagent (QB-CHI) — 182,148 adds
+- Emanuel Wilson (RB-SEA) — 180,855 adds
+- Chase McLaughlin (K-TB) — 161,872 adds
+- Alvin Kamara (RB-NO) — 145,824 adds
+- Adonai Mitchell (WR-NYJ) — 141,416 adds
+- Konata Mumpfield (WR-LAR) — 141,120 adds
+- Emmett Johnson (RB-KC) — 107,649 adds
+- Denzel Boston (WR-CLE) — 107,572 adds
+- Marcus Mariota (QB-WAS) — 100,972 adds
+- Malachi Fields (WR-NYG) — 100,080 adds
+- Kirk Cousins (QB-LV) — 91,496 adds
+- C.J. Stroud (QB-HOU) — 90,874 adds
+- Jonah Coleman (RB-DEN) — 90,254 adds
+- Xavier Worthy (WR-KC) — 86,940 adds
+- Jared Goff (QB-DET) — 76,600 adds
 
 ## League transactions this week
+- free_agent (complete) Umojan Protectorate: +[Malachi Fields (WR-NYG)] -[Jayden Reed (WR-GB) [Out]]
 - free_agent (complete) Gradient Ascent: +[Konata Mumpfield (WR-LAR)] -[Roschon Johnson (RB-CHI)]
 - free_agent (complete) The Wizard’s Apprentice: +[Kayshon Boutte (WR-HOU)] -[Dylan Sampson (RB-CLE) [IR]]
 - free_agent (complete) Gradient Ascent: +[T.J. Hockenson (TE-MIN)] -[Darren Waller (TE-CAR)]
 - free_agent (complete) CorneliusJones: +[Khalil Shakir (WR-BUF)] -[Jake Ferguson (TE-DAL)]
-- free_agent (complete) Sea Squirts: +[Caleb Douglas (WR-MIA)] -[Tank Bigsby (RB-PHI)]
+- free_agent (complete) Sea Squirts: +[Caleb Douglas (WR-MIA) [Questionable]] -[Tank Bigsby (RB-PHI)]
 - free_agent (complete) Playful Secrets: +[Tampa Bay Buccaneers (DEF-TB)] -[Detroit Lions (DEF-DET)]

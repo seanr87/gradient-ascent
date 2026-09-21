@@ -6,7 +6,7 @@
   player: "Jayden Daniels"
   pos: "QB"
   team: "WAS"
-  status: ""
+  status: "Out"
   acquired: "Draft"
   acquired_via: "R5, pick 55"
   acquired_week: 0
@@ -46,7 +46,7 @@
   player: "Mike Evans"
   pos: "WR"
   team: "SF"
-  status: ""
+  status: "Questionable"
   acquired: "Draft"
   acquired_via: "R6, pick 66"
   acquired_week: 0
