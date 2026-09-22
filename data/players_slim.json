@@ -18700,8 +18700,8 @@
   "pos": "WR",
   "team": "NYJ",
   "status": "Active",
-  "injury_status": null,
-  "injury_note": null
+  "injury_status": "Questionable",
+  "injury_note": "Knee"
  },
  "7357": {
   "name": "Dan Chisena",
@@ -30684,8 +30684,8 @@
   "pos": "QB",
   "team": "CHI",
   "status": "Active",
-  "injury_status": null,
-  "injury_note": null
+  "injury_status": "Questionable",
+  "injury_note": "Concussion"
  },
  "2586": {
   "name": "Dylan Thompson",
