@@ -13228,7 +13228,7 @@
   "pos": "QB",
   "team": "NYG",
   "status": "Active",
-  "injury_status": "Questionable",
+  "injury_status": "Out",
   "injury_note": "Knee"
  },
  "173": {
@@ -21644,8 +21644,8 @@
   "pos": "RB",
   "team": "LAR",
   "status": "Active",
-  "injury_status": null,
-  "injury_note": null
+  "injury_status": "Out",
+  "injury_note": "Calf"
  },
  "6892": {
   "name": "Nate Stanley",
@@ -30106,7 +30106,7 @@
  "6149": {
   "name": "Darius Slayton",
   "pos": "WR",
-  "team": null,
+  "team": "IND",
   "status": "Active",
   "injury_status": null,
   "injury_note": null

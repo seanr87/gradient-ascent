@@ -1,5 +1,5 @@
 # Sleeper digest — The Climb
-Pulled: 2026-09-22 01:35 UTC · NFL week 2 (regular)
+Pulled: 2026-09-22 11:34 UTC · NFL week 3 (regular)
 
 ## My roster
 - Dalton Kincaid (TE-BUF) (STARTER)
@@ -18,71 +18,63 @@ Pulled: 2026-09-22 01:35 UTC · NFL week 2 (regular)
 - Buffalo Bills (DEF-BUF) (STARTER)
 
 ## My matchup this week
-- Opponent: The Wizard’s Apprentice
+- Opponent: What can Brown do for u?
 
 ## Standings (W-L, points for)
-1. Princess Donut's Court — 1-0, 206.16 PF, waiver #9
-2. Playful Secrets — 1-0, 153.66 PF, waiver #8
-3. TheTroubles — 1-0, 146.16 PF, waiver #7
-4. Gradient Ascent — 1-0, 140.46 PF, waiver #6
-5. Umojan Protectorate — 1-0, 134.10 PF, waiver #5
-6. Lawrence of Valinor — 1-0, 129.70 PF, waiver #12
-7. Sea Squirts — 0-1, 129.51 PF, waiver #4
-8. What can Brown do for u? — 0-1, 108.36 PF, waiver #3
-9. The Wizard’s Apprentice — 0-1, 102.10 PF, waiver #11
-10. Jameson for Mahomies — 0-1, 92.97 PF, waiver #10
-11. CorneliusJones — 0-1, 84.52 PF, waiver #2
-12. Three Wise Jaylens  — 0-1, 79.17 PF, waiver #1
+1. Umojan Protectorate — 2-0, 280.43 PF, waiver #12
+2. Playful Secrets — 2-0, 279.26 PF, waiver #11
+3. TheTroubles — 2-0, 252.68 PF, waiver #10
+4. Princess Donut's Court — 1-1, 320.48 PF, waiver #9
+5. Gradient Ascent — 1-1, 258.05 PF, waiver #8
+6. The Wizard’s Apprentice — 1-1, 249.46 PF, waiver #7
+7. Lawrence of Valinor — 1-1, 237.61 PF, waiver #6
+8. Sea Squirts — 1-1, 236.34 PF, waiver #5
+9. Three Wise Jaylens  — 1-1, 199.13 PF, waiver #4
+10. What can Brown do for u? — 0-2, 196.29 PF, waiver #3
+11. CorneliusJones — 0-2, 195.69 PF, waiver #2
+12. Jameson for Mahomies — 0-2, 189.95 PF, waiver #1
 
-## This week's matchups (week 2)
-- Umojan Protectorate 141.43 — Princess Donut's Court 114.32
-- Three Wise Jaylens  111.16 — Lawrence of Valinor 90.71
+## This week's matchups (week 3)
+- Lawrence of Valinor 0.00 — Princess Donut's Court 0.00
+- Playful Secrets 0.00 — Umojan Protectorate 0.00
+- Jameson for Mahomies 0.00 — Three Wise Jaylens  0.00
+- TheTroubles 0.00 — CorneliusJones 0.00
+- Sea Squirts 0.00 — The Wizard’s Apprentice 0.00
+- What can Brown do for u? 0.00 — Gradient Ascent 0.00
+
+## Last week's results (week 2)
+- Umojan Protectorate 146.33 — Princess Donut's Court 114.32
+- Three Wise Jaylens  119.96 — Lawrence of Valinor 107.91
 - Playful Secrets 125.60 — CorneliusJones 111.17
-- Sea Squirts 92.13 — Jameson for Mahomies 90.98
-- TheTroubles 106.52 — What can Brown do for u? 85.93
-- The Wizard’s Apprentice 147.36 — Gradient Ascent 114.99
-
-## Last week's results (week 1)
-- Princess Donut's Court 206.16 — Three Wise Jaylens  79.17
-- Umojan Protectorate 134.10 — CorneliusJones 84.52
-- Lawrence of Valinor 129.70 — Sea Squirts 129.51
-- Playful Secrets 153.66 — What can Brown do for u? 108.36
-- Gradient Ascent 140.46 — Jameson for Mahomies 92.97
-- TheTroubles 146.16 — The Wizard’s Apprentice 102.10
+- Sea Squirts 106.83 — Jameson for Mahomies 96.98
+- TheTroubles 106.52 — What can Brown do for u? 87.93
+- The Wizard’s Apprentice 147.36 — Gradient Ascent 117.59
 
 ## Trending adds (24h, all Sleeper)
-- Emanuel Wilson (RB-SEA) — 609,903 adds
-- Bryce Young (QB-CAR) — 501,100 adds
-- Tyler Shough (QB-NO) — 407,896 adds
-- Tre Tucker (WR-LV) — 381,930 adds
-- Konata Mumpfield (WR-LAR) — 296,334 adds
-- Malachi Fields (WR-NYG) — 278,085 adds
-- Adonai Mitchell (WR-NYJ) — 277,496 adds
-- Darren Waller (TE-CAR) — 253,611 adds
-- Tank Bigsby (RB-PHI) — 231,833 adds
-- Zach Ertz (TE-PHI) — 212,742 adds
-- Keon Coleman (WR-BUF) — 174,285 adds
-- Denzel Boston (WR-CLE) — 169,282 adds
-- Jonah Coleman (RB-DEN) — 164,868 adds
-- Darnell Mooney (WR-NYG) — 159,345 adds
-- Chase McLaughlin (K-TB) — 146,960 adds
-- Devin Singletary (RB-NYG) — 130,347 adds
-- Tyson Bagent (QB-CHI) — 122,976 adds
-- Kirk Cousins (QB-LV) — 119,376 adds
-- Marcus Mariota (QB-WAS) — 113,376 adds
-- Minnesota Vikings (DEF-MIN) — 101,840 adds
-- Tutu Atwell (WR-LAR) — 91,014 adds
-- Dontayvion Wicks (WR-PHI) — 73,038 adds
-- C.J. Stroud (QB-HOU) — 70,490 adds
-- Jared Goff (QB-DET) — 68,395 adds
-- Emmett Johnson (RB-KC) — 67,266 adds
+- Emanuel Wilson (RB-SEA) — 1,192,932 adds
+- Bryce Young (QB-CAR) — 653,768 adds
+- Tre Tucker (WR-LV) — 589,182 adds
+- Tyler Shough (QB-NO) — 563,904 adds
+- Adonai Mitchell (WR-NYJ) — 558,784 adds
+- Zach Ertz (TE-PHI) — 377,415 adds
+- Darren Waller (TE-CAR) — 349,020 adds
+- Konata Mumpfield (WR-LAR) — 279,963 adds
+- Tank Bigsby (RB-PHI) — 278,537 adds
+- Malachi Fields (WR-NYG) — 259,175 adds
+- Denzel Boston (WR-CLE) — 244,286 adds
+- Jonah Coleman (RB-DEN) — 240,646 adds
+- Keon Coleman (WR-BUF) — 223,776 adds
+- Chase McLaughlin (K-TB) — 220,936 adds
+- Kirk Cousins (QB-LV) — 187,320 adds
+- Minnesota Vikings (DEF-MIN) — 168,980 adds
+- Terrance Ferguson (TE-LAR) — 167,024 adds
+- Marcus Mariota (QB-WAS) — 155,924 adds
+- Darnell Mooney (WR-NYG) — 150,273 adds
+- Tyson Bagent (QB-CHI) — 147,234 adds
+- Dontayvion Wicks (WR-PHI) — 124,497 adds
+- Oronde Gadsden (TE-LAC) — 114,240 adds
+- Kyler Murray (QB-MIN) [Out] — 112,552 adds
+- Jared Goff (QB-DET) — 105,545 adds
+- C.J. Stroud (QB-HOU) — 92,288 adds
 
 ## League transactions this week
-- free_agent (complete) The Wizard’s Apprentice: +[Xavier Smith (WR-LAR)] -[Michael Wilson (WR-ARI)]
-- free_agent (complete) Umojan Protectorate: +[Malachi Fields (WR-NYG)] -[Jayden Reed (WR-GB) [Out]]
-- free_agent (complete) Gradient Ascent: +[Konata Mumpfield (WR-LAR)] -[Roschon Johnson (RB-CHI)]
-- free_agent (complete) The Wizard’s Apprentice: +[Kayshon Boutte (WR-HOU)] -[Dylan Sampson (RB-CLE) [IR]]
-- free_agent (complete) Gradient Ascent: +[T.J. Hockenson (TE-MIN)] -[Darren Waller (TE-CAR)]
-- free_agent (complete) CorneliusJones: +[Khalil Shakir (WR-BUF)] -[Jake Ferguson (TE-DAL)]
-- free_agent (complete) Sea Squirts: +[Caleb Douglas (WR-MIA) [Questionable]] -[Tank Bigsby (RB-PHI)]
-- free_agent (complete) Playful Secrets: +[Tampa Bay Buccaneers (DEF-TB)] -[Detroit Lions (DEF-DET)]
