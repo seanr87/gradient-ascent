@@ -2780,8 +2780,8 @@
   "pos": "TE",
   "team": null,
   "status": "Inactive",
-  "injury_status": "Questionable",
-  "injury_note": "Undisclosed"
+  "injury_status": null,
+  "injury_note": null
  },
  "2957": {
   "name": "Ernst Brun",
@@ -2860,8 +2860,8 @@
   "pos": "WR",
   "team": "LAR",
   "status": "Active",
-  "injury_status": null,
-  "injury_note": null
+  "injury_status": "Out",
+  "injury_note": "Coach's Decision"
  },
  "2503": {
   "name": "A.J. Derby",
@@ -4340,8 +4340,8 @@
   "pos": "RB",
   "team": "ATL",
   "status": "Active",
-  "injury_status": null,
-  "injury_note": null
+  "injury_status": "Questionable",
+  "injury_note": "Ankle"
  },
  "11060": {
   "name": "Robert Burns",
@@ -6066,7 +6066,7 @@
  "1339": {
   "name": "Zach Ertz",
   "pos": "TE",
-  "team": null,
+  "team": "PHI",
   "status": "Active",
   "injury_status": null,
   "injury_note": null
@@ -7084,8 +7084,8 @@
   "pos": "TE",
   "team": "ATL",
   "status": "Active",
-  "injury_status": null,
-  "injury_note": null
+  "injury_status": "Questionable",
+  "injury_note": "Shoulder"
  },
  "11957": {
   "name": "Sam Schnee",
@@ -11468,7 +11468,7 @@
   "pos": "WR",
   "team": "LAR",
   "status": "Active",
-  "injury_status": "Questionable",
+  "injury_status": "Out",
   "injury_note": "Hip"
  },
  "13149": {
@@ -16620,8 +16620,8 @@
   "pos": "TE",
   "team": "NYG",
   "status": "Active",
-  "injury_status": null,
-  "injury_note": null
+  "injury_status": "Out",
+  "injury_note": "Coach's Decision"
  },
  "4650": {
   "name": "Billy Brown",
@@ -18868,8 +18868,8 @@
   "pos": "QB",
   "team": "LAR",
   "status": "Active",
-  "injury_status": null,
-  "injury_note": null
+  "injury_status": "Out",
+  "injury_note": "Coach's Decision"
  },
  "7087": {
   "name": "Jonathan Ward",
@@ -23260,7 +23260,7 @@
   "pos": "WR",
   "team": "LAR",
   "status": "Active",
-  "injury_status": "Doubtful",
+  "injury_status": "Out",
   "injury_note": "Quadriceps"
  },
  "5915": {
@@ -27739,8 +27739,8 @@
   "name": "Charlie Kolar",
   "pos": "TE",
   "team": "LAC",
-  "status": "Active",
-  "injury_status": "Questionable",
+  "status": "Inactive",
+  "injury_status": "Out",
   "injury_note": "Forearm"
  },
  "2094": {
@@ -32075,7 +32075,7 @@
   "name": "David Njoku",
   "pos": "TE",
   "team": "LAC",
-  "status": "Active",
+  "status": "Inactive",
   "injury_status": "Out",
   "injury_note": "Knee"
  },
