@@ -1,5 +1,5 @@
 # Sleeper digest — The Climb
-Pulled: 2026-09-22 11:34 UTC · NFL week 3 (regular)
+Pulled: 2026-09-22 15:09 UTC · NFL week 3 (regular)
 
 ## My roster
 - Dalton Kincaid (TE-BUF) (STARTER)
@@ -51,30 +51,30 @@ Pulled: 2026-09-22 11:34 UTC · NFL week 3 (regular)
 - The Wizard’s Apprentice 147.36 — Gradient Ascent 117.59
 
 ## Trending adds (24h, all Sleeper)
-- Emanuel Wilson (RB-SEA) — 1,192,932 adds
-- Bryce Young (QB-CAR) — 653,768 adds
-- Tre Tucker (WR-LV) — 589,182 adds
-- Tyler Shough (QB-NO) — 563,904 adds
-- Adonai Mitchell (WR-NYJ) — 558,784 adds
-- Zach Ertz (TE-PHI) — 377,415 adds
-- Darren Waller (TE-CAR) — 349,020 adds
-- Konata Mumpfield (WR-LAR) — 279,963 adds
-- Tank Bigsby (RB-PHI) — 278,537 adds
-- Malachi Fields (WR-NYG) — 259,175 adds
-- Denzel Boston (WR-CLE) — 244,286 adds
-- Jonah Coleman (RB-DEN) — 240,646 adds
-- Keon Coleman (WR-BUF) — 223,776 adds
-- Chase McLaughlin (K-TB) — 220,936 adds
-- Kirk Cousins (QB-LV) — 187,320 adds
-- Minnesota Vikings (DEF-MIN) — 168,980 adds
-- Terrance Ferguson (TE-LAR) — 167,024 adds
-- Marcus Mariota (QB-WAS) — 155,924 adds
-- Darnell Mooney (WR-NYG) — 150,273 adds
-- Tyson Bagent (QB-CHI) — 147,234 adds
-- Dontayvion Wicks (WR-PHI) — 124,497 adds
-- Oronde Gadsden (TE-LAC) — 114,240 adds
-- Kyler Murray (QB-MIN) [Out] — 112,552 adds
-- Jared Goff (QB-DET) — 105,545 adds
-- C.J. Stroud (QB-HOU) — 92,288 adds
+- Emanuel Wilson (RB-SEA) — 1,654,200 adds
+- Adonai Mitchell (WR-NYJ) — 862,488 adds
+- Bryce Young (QB-CAR) — 823,780 adds
+- Tre Tucker (WR-LV) — 737,022 adds
+- Tyler Shough (QB-NO) — 709,240 adds
+- Zach Ertz (TE-PHI) — 483,201 adds
+- Darren Waller (TE-CAR) — 431,253 adds
+- Tank Bigsby (RB-PHI) — 325,689 adds
+- Denzel Boston (WR-CLE) — 310,226 adds
+- Jonah Coleman (RB-DEN) — 309,580 adds
+- Keon Coleman (WR-BUF) — 304,245 adds
+- Konata Mumpfield (WR-LAR) — 278,001 adds
+- Chase McLaughlin (K-TB) — 266,928 adds
+- Malachi Fields (WR-NYG) — 254,400 adds
+- Kirk Cousins (QB-LV) — 248,176 adds
+- Minnesota Vikings (DEF-MIN) — 242,750 adds
+- Terrance Ferguson (TE-LAR) — 214,240 adds
+- Marcus Mariota (QB-WAS) — 209,360 adds
+- Tyson Bagent (QB-CHI) — 188,466 adds
+- Dontayvion Wicks (WR-PHI) — 178,710 adds
+- Kyler Murray (QB-MIN) [Out] — 177,208 adds
+- Oronde Gadsden (TE-LAC) — 167,185 adds
+- Jared Goff (QB-DET) — 150,365 adds
+- Darnell Mooney (WR-NYG) — 149,508 adds
+- C.J. Stroud (QB-HOU) — 111,643 adds
 
 ## League transactions this week
