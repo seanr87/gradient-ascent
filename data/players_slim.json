@@ -13228,8 +13228,8 @@
   "pos": "QB",
   "team": "NYG",
   "status": "Active",
-  "injury_status": null,
-  "injury_note": null
+  "injury_status": "Questionable",
+  "injury_note": "Knee"
  },
  "173": {
   "name": "Andy Tanner",
@@ -16460,8 +16460,8 @@
   "pos": "WR",
   "team": "NYG",
   "status": "Active",
-  "injury_status": null,
-  "injury_note": null
+  "injury_status": "Questionable",
+  "injury_note": "Shoulder"
  },
  "4177": {
   "name": "Mack Hollins",
