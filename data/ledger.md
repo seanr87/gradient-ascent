@@ -2,29 +2,30 @@
 
 Rewritten in full every Tuesday at 6:00 AM ET by the process review; `## State` and `## Open threads` updated by every decision run in the same commit as its decision. Hard cap 150 lines. Older weeks roll up; git history is the archive. Cite a thesis or lesson by name instead of re-arguing it.
 
-Last full rewrite: 2026-09-23 (built from every decision and post through Week 3 Tuesday). Last touched: 2026-09-23.
+Last full rewrite: 2026-09-23 (built from every decision and post through Week 3 Tuesday). Last touched: 2026-09-23 (Wed post-waiver review).
 
 ## State
 - Record 1-1, 258.05 PF, 5th of 12. NFL Week 3. Opponent: What can Brown do for u? (0-2, 196.29 PF, league-low scorer, waiver #3).
-- Waiver position #8 of 12 (rolling; a won claim drops me to #12). Waivers process Wed ~3:05 AM ET per Sleeper's transaction screen; the task files still say 3:14 (see Open threads).
+- Waiver position #8 of 12, held (rolling, applied continuously mid-run: each won claim rolls you to the back before the next pass is read).
 - Roster (14) post-waivers: QB Daniels [Doubtful], Mariota; RB Irving, Skattebo, J. Hill; WR Nacua [Q], Lamb, Evans [Q], Addison, Mumpfield; TE Kincaid, Hockenson; K Loop; DEF Buffalo.
 - Holes: **RB depth — three backs total** after White left on claim 1, for two slots and a flex. QB is bridged (Mariota) and Daniels upgraded Out → Doubtful. Nacua upgraded Out → Questionable.
-- Waivers processed Wed ~3:05 AM: **Mariota/White cleared; Wilson and Mitchell both failed** (Mumpfield still rostered). Waiver position held at #8. Noon review owns the full reconciliation, the FA pivot and the notes cleanup.
+- Waivers processed Wed 3:13:21 AM ET (measured): **Mariota/White cleared (seq 4); Wilson lost to Sea Squirts' first claim from #5 (seq 1); Mitchell lost to Umojan (seq 8) because winning claim 1 rolled me behind them.** Reconciled in `2026-wk03-wed-review`; no FA pivot, notes cleaned (3 orphans deleted).
 - Nothing pending in Sleeper. Hockenson-for-Pickens declined; Downs fallback cancelled (see Open threads).
-- Next runs: Wed review (what cleared, Mariota fallback if needed), Thu trade scan, Thu TNF, Sun lineup.
+- Next runs: Thu trade scan, Thu TNF, Sun lineup. Thursday owns the Friday wire window (see Wilson thread).
 
 ## Open threads
-- **Daniels (QB, elbow, Out, no timetable).** Mariota is the bridge. Drop Mariota the week Daniels is cleared; he has no other job here. Check status every run. Source: `2026-wk03-tue-waivers`.
-- **Mariota claim.** Nobody ahead of me at #1–#7 needs a QB; Princess Donut's Court (#9, both QBs Out) is the only competitor and sits behind me. If it somehow fails, Wednesday adds a free-agent QB (Stroud or Young) with White as the drop, before anything else.
-- **Nacua (WR, hip, Out Wk 2, McVay "hopeful" for Wk 3).** Starts when active. If Out again Sunday, WR2 is Addison unless Mitchell landed. Unwind: none; he is the WR1.
-- **Evans (WR, hip, Questionable, "managed").** Sunday check. If Out, FLEX goes to the best available RB (Hill or Wilson).
+- **Daniels (QB, elbow, Doubtful, no timetable, expected to miss multiple games).** Mariota is the bridge. Drop Mariota the week Daniels is cleared; he has no other job here. Check status every run. Source: `2026-wk03-tue-waivers`.
+- **Nacua (WR, hip, Questionable, McVay noncommittal vs DEN).** Starts when active. If Out again Sunday, WR2 is Addison and Mumpfield is the third body. Unwind: none; he is the WR1.
+- **Evans (WR, hip, Questionable, "managed").** Sunday check. If Out, FLEX is Addison; Hill is the fallback if the receiver room empties further.
 - **Hockenson trade — CLOSED for this week.** Pickens declined by Lawrence of Valinor Tue night. **Do not send the Josh Downs fallback**; it is cancelled. They added Jake Ferguson off the wire Wed morning (Bowers now Q behind him, Goedert gone), so the TE hole the offer was priced against no longer exists. TE supply is glutted league-wide (Ertz, Schultz, Ferguson, Gadsden, Waller all moved or on the wire). Only genuine TE buyer left: The Wizard's Apprentice (Harold Fannin is their whole room) — one buyer who knows it, so expect to pay rather than be paid. Source: `2026-wk03-wed-trade-standdown`.
-- **Wilson / Mitchell claims — both lost, both rostered elsewhere.** Wilson to Sea Squirts, Mitchell to Umojan Protectorate. Neither cleared to free agency, so there is no Wednesday pivot to either. Mumpfield survives as the drop. White is now a free agent if a body is ever needed back.
+- **Wilson — back on the wire, on waivers until ~Fri 8:40 AM ET.** Sea Squirts won him at 3:13 AM and dropped him at 8:38 AM for Tre Tucker; dropped players sit on waivers two days (`waiver_clear_days: 2`), so he was not addable Wednesday. **Thursday owns this:** if he shows as a free agent and Price (Q, rostered by Sea Squirts) is out or limited, ADD Wilson / DROP Hockenson, first-come (Lesson 4). Unwind: Price declared active and healthy — then he is a bench flier, not an add.
+- **Eagles backfield — free agents now.** Bigsby (13 carries, 33 yds, TD; 26 snaps) and Shipley (51% snaps, 7 carries, 2 rec) split behind Barkley, whose stinger MRI result is unannounced; they play Monday night, so the add can wait for the Friday injury report. If Barkley is ruled out, Bigsby over Hockenson is the call — the carries and the goal line beat the snaps in this scoring.
 - **RB depth (new, Wed).** Three backs — Irving, Skattebo, Hill — for two slots and a flex, and no White behind them. This is now the roster's thinnest position and the one Thursday's scan should shop for. Thesis 3 (trade WR for RB) points straight at it: five receivers, three backs.
-- **Mumpfield.** Bought as Nacua's Monday-night hedge; that job is over. First drop the next time a body is needed. Source: `2026-wk02-sun-lineup`.
-- **R. White.** Worst roster player, drop on claim 1. If he survives, he is still the first drop for any RB add.
+- **For Tuesday's process review, two items.** (1) **Thesis 5's kill condition is met** — a filed claim landed (Mariota, Wk 3), so "free agency is the real acquisition channel" needs rewriting, not repeating. (2) Waiver processing now measured twice from `status_updated`: 3:14:05 AM (Wk 1 run) and 3:13:21 AM (Wk 2 run). I cannot edit `## Theses`; this is the handoff.
+- **Mumpfield.** Bought as Nacua's Monday-night hedge; that job is over, but he survives while Nacua and Evans are both Questionable. **Hockenson is now the drop of record** for any add — second TE in a one-TE format, trade value gone. Drop Mumpfield instead once both receivers are confirmed active.
+- **White — gone, on waivers until Friday.** Dropped on claim 1. If a body is ever needed back he is the cheapest one, and Washington without Daniels is why he was cut.
 - **Buffalo DEF.** 12.00, 9.25. Streaming swap is a free-agent move by matchup, never a claim. Revisit Sunday if the matchup is bad.
-- **Waiver processing time.** Sleeper's screen shows ~3:05 AM ET; the registry measured 3:14 from Week 1's `status_updated`; OPS says 3:00. Every `Do by` says 3:00 until the process review settles it from two weeks of claim timestamps. Source: `2026-wk03-tue-trades`.
+- **Waiver processing time.** Measured 3:14:05 AM ET (Wk 1) and 3:13:21 AM ET (Wk 2); Sleeper's screen says ~3:05, OPS says 3:00. Every `Do by` says 3:00 until the process review settles it. Source: `2026-wk03-wed-review`.
 - **Monday chat slot fires before MNF.** Structural; the process review may move the slot now that the routine is agent-owned. Rule in force: cite only games with every starter finished. Source: `2026-wk02-sun-chat`.
 - **League chat is unreadable by API.** Replies happen only when Sean screenshots it. Display names recorded in `2026-wk02-sun-chat`.
 - **`data/correspondence.md` — new, built at Sean's request 2026-09-23, NOT yet wired into the process.** Per-manager record of every message sent and received, with a standing read per manager. Seeded from every decision file to date. **For Tuesday's process review:** adopt it into COMMON (a "Correspondence" section: any run that sends or receives a message appends in the same commit; record a trade offer's message *text*, not just the GET line; `DRAFTED` until Sean confirms it went out, then `SENT`) and add `data/correspondence.md` to COMMON's git-add line and its `data/` write carve-out. I could not do this myself — `tasks/` is the review's alone. Kill condition if adopted: two consecutive weeks where no run appends and no standing read changes a trade decision. Until adopted, no run reads it and it decays.

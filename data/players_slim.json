@@ -1482,7 +1482,7 @@
  "11579": {
   "name": "Audric Estime",
   "pos": "RB",
-  "team": "NO",
+  "team": null,
   "status": "Inactive",
   "injury_status": "Questionable",
   "injury_note": "Thigh"
@@ -2874,7 +2874,7 @@
  "13805": {
   "name": "E.J. Williams",
   "pos": "WR",
-  "team": "CAR",
+  "team": null,
   "status": "Active",
   "injury_status": null,
   "injury_note": null
@@ -2930,7 +2930,7 @@
  "6045": {
   "name": "Gary Jennings",
   "pos": "WR",
-  "team": "LAC",
+  "team": null,
   "status": "Active",
   "injury_status": null,
   "injury_note": null
@@ -10522,7 +10522,7 @@
  "8157": {
   "name": "Bailey Zappe",
   "pos": "QB",
-  "team": "NYJ",
+  "team": null,
   "status": "Active",
   "injury_status": null,
   "injury_note": null
@@ -13228,7 +13228,7 @@
   "pos": "QB",
   "team": "NYG",
   "status": "Active",
-  "injury_status": "Doubtful",
+  "injury_status": "Out",
   "injury_note": "Knee - MCL"
  },
  "173": {
@@ -17378,7 +17378,7 @@
  "14041": {
   "name": "Anderson Castle",
   "pos": "RB",
-  "team": "IND",
+  "team": null,
   "status": "Active",
   "injury_status": null,
   "injury_note": null
@@ -28282,7 +28282,7 @@
  "14038": {
   "name": "Trayvon Rudolph",
   "pos": "WR",
-  "team": "MIN",
+  "team": null,
   "status": "Active",
   "injury_status": null,
   "injury_note": null
