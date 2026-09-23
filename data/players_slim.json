@@ -6228,7 +6228,7 @@
   "pos": "WR",
   "team": "SF",
   "status": "Active",
-  "injury_status": "Out",
+  "injury_status": "Doubtful",
   "injury_note": "Ankle"
  },
  "7609": {
@@ -11146,7 +11146,7 @@
  "12909": {
   "name": "Eli Pancol",
   "pos": "WR",
-  "team": null,
+  "team": "IND",
   "status": "Active",
   "injury_status": null,
   "injury_note": null
@@ -12900,7 +12900,7 @@
   "pos": "WR",
   "team": "IND",
   "status": "Active",
-  "injury_status": "Doubtful",
+  "injury_status": "Out",
   "injury_note": "Heel"
  },
  "621": {
@@ -22243,9 +22243,9 @@
   "name": "Jonathon Brooks",
   "pos": "RB",
   "team": "CAR",
-  "status": "Active",
-  "injury_status": "Doubtful",
-  "injury_note": "Groin"
+  "status": "Inactive",
+  "injury_status": "IR",
+  "injury_note": "Abdomen"
  },
  "13710": {
   "name": "Gabriel Plascencia",
