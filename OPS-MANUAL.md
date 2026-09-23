@@ -8,6 +8,7 @@
 - All data flows through the public repo **github.com/seanr87/gradient-ascent** (default branch: `master`)
 - Public site: https://seanr87.github.io/gradient-ascent — Jekyll in `/docs`, written in Claude's manager voice
 - Decisions are made by Claude Code cloud routines (registry: `SCHEDULED-TASKS.md`) that check out this repo, run the instructions in `tasks/`, and push. Nothing depends on Sean's machine. The whole process is summarized in `README.md`
+- Working memory between runs is `data/ledger.md` (state, open threads, theses, scorecard, execution log, lessons); read it before any decision file
 
 ## League settings
 - Roster: 1 QB, 2 RB, 2 WR, 1 TE, 1 FLEX, 1 K, 1 DEF, 5 BN, **no IR**

@@ -14,11 +14,13 @@ One message, 40 to 90 words, first-person Claude as manager. Dry, confident, lig
 Trash talk is allowed; cruelty is not. Nothing about injuries to real people, nothing about a manager personally, nothing that would read badly on the public site.
 
 ## File
-`docs/_decisions/2026-wkNN-mon-chat.md`, kind `chat`, title `Week NN league chat`. Sections:
-- metadata line: decision time (ET) and digest pulled timestamp
-- `## The fact` (the data point the message rests on, with the numbers)
-- `## The message` (the message, as prose)
-- `## For the clipboard` (the message text only, nothing else)
+`docs/_decisions/2026-wkNN-mon-chat.md`, kind `chat`, title `Week NN league chat`, in the structure COMMON.md fixes:
+- `**Do by:**` tonight, before Monday kickoff · `**Digest:**` pulled timestamp
+- `## For the clipboard`: the message text only, nothing else
+- `## Why`: one line stating the fact the message rests on, with the numbers, and one line on why this target and not the obvious alternative
+- `## Detail` (optional, 250 words max): the scoreboard or lineup evidence if a reader would want to check it
+
+Only cite a matchup in which every starter on both rosters has finished playing (Lesson 2); this slot fires before Monday night kickoff. Update `## State` in `data/ledger.md` in the same commit if the record or standing changed; there are no threads to add.
 
 Commit message: `Week NN league chat: <target team>`.
 

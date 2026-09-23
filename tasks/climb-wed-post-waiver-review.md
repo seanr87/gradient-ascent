@@ -17,12 +17,13 @@ Ruthless indifference: no consolation adds, no loyalty.
 Roster notes (COMMON.md): the refresh will print `NOTE MISSING` for any claim that cleared without a note and `NOTE ORPHAN` for every player dropped this morning. Write the missing ones, delete the orphans, and write a note for every pivot `ADD` in this file, all in this commit. This is the run where the roster page most often falls behind, so do not skip it.
 
 ## File
-`docs/_decisions/2026-wkNN-wed-review.md`, kind `review`, title `Week NN post-waiver review`. Sections:
-- metadata line: decision time (ET) and digest pulled timestamp
-- `## What cleared` (claim, result, who got him if not me)
-- `## Around the league`
-- `## Roster implications`
-- `## For the clipboard` (ADD/DROP lines or `NO ACTION`)
+`docs/_decisions/2026-wkNN-wed-review.md`, kind `review`, title `Week NN post-waiver review`, in the structure COMMON.md fixes:
+- `**Do by:**` "now" for any pivot add (free agency is first-come) · `**Digest:**` pulled timestamp
+- `## For the clipboard`: pivot ADD/DROP lines or `NO ACTION`
+- `## Why`: one line per Tuesday claim (cleared, or who got him and at what priority), one line per pivot add, then at most 3 passed-on players
+- `## Detail` (optional, 250 words max): notable moves by other managers and what each signals, any starting slot that now looks different for Sunday, sources as one line of links
+
+Update `## State` and `## Open threads` in `data/ledger.md` in the same commit: close each cleared or lost claim's thread, add a thread for every pivot add and for any missed player worth a Thursday look.
 
 Do not hand-edit the roster table in `OPS-MANUAL.md`; the pull workflow regenerates it.
 

@@ -7,10 +7,12 @@ A fantasy football team in **The Climb** (12-team, half-PPR Sleeper league) mana
 Every decision runs the same five steps, on a schedule, with no human in the loop until the last one.
 
 1. **Pull.** A Claude Code cloud routine checks out this repo and runs `scripts/pull_sleeper.py`, which reads the public Sleeper API (no credentials) and writes `data/digest.md` and `data/digest.json`: every roster, standings, scores, transactions, trending adds, injuries. The refreshed data is committed first, so every decision is traceable to the exact data it saw.
-2. **Decide.** The routine reads `OPS-MANUAL.md` (league settings, scoring edges, principles, roster), the digest, and every prior file in `docs/_decisions/` and `docs/_posts/`. That is Claude's entire memory; nothing carries over between runs except what is committed.
-3. **Publish.** The decision is written to `docs/_decisions/` as a dated file that ends with a `## For the clipboard` section containing only the lines to paste into Sleeper. It is committed and pushed to `master`, and GitHub Pages publishes it at `/decisions/` within about a minute. Decision files are never edited afterward; corrections go in the weekly column.
+2. **Decide.** The routine reads `OPS-MANUAL.md` (league settings, scoring edges, principles, roster), the digest, `data/ledger.md` (state, open threads, standing theses, a scorecard of past calls, an execution log, and lessons; capped at 150 lines), this week's files in `docs/_decisions/`, and the most recent post. That is Claude's entire memory; older decisions are read only when the ledger points to them, and nothing carries over between runs except what is committed.
+3. **Publish.** The decision is written to `docs/_decisions/` as a dated file that opens with the deadline and a `## For the clipboard` section containing only the lines to paste into Sleeper, then one line of reasoning per call, then optional detail, 400 words at most. The same commit updates the ledger's state and open threads. It is pushed to `master`, and GitHub Pages publishes it at `/decisions/` within about a minute. Decision files are never edited afterward; corrections go in the weekly column.
 4. **Notify.** The routine sends Sean a push notification with the clipboard lines.
 5. **Execute.** Sean pastes the lines into Sleeper. He decides nothing.
+
+Every Tuesday the column run closes the loop: it grades last week's calls Right, Wrong or Unknown in the ledger's scorecard (wrong-by-luck and wrong-by-process separately), audits which clipboard lines actually landed in Sleeper, rewrites the ledger to its cap, and distills lessons only from actual results. When a lesson has held for two weeks or a wrong call had a process cause, it opens at most one pull request a week against `tasks/`; it never merges it, and routines never commit to `tasks/` directly.
 
 ## The schedule (Eastern time)
 
@@ -37,13 +39,14 @@ The routine IDs, environment, and run history are in `SCHEDULED-TASKS.md`.
 | `tasks/climb-*.md` | One file per routine: the specific decision and output format |
 | `scripts/` | `pull_sleeper.py` (data) and `update_roster.py` (roster table and site data) |
 | `data/` | The latest digest, committed on every refresh |
+| `data/ledger.md` | Working memory, 150 lines max: state, open threads, theses, scorecard, execution log, lessons. Every decision run updates state and threads; the Tuesday column rewrites the rest |
 | `docs/` | The Jekyll site: `_decisions/`, `_posts/`, `_notes/`, pages, layouts |
 | `docs/_data/notes.yml` | One line per rostered player saying why he was picked; the roster page's Notes column. Every run that adds a player writes his line |
 | `.github/workflows/sleeper-pull.yml` | Fallback data pull, about 45 minutes before each routine slot |
 
 ## Changing how it behaves
 
-Edit the task files in `tasks/` and commit. The live routines carry only a short bootstrap prompt that says "read `tasks/COMMON.md` and `tasks/<task-id>.md` and follow them", so the repo is the single source of truth and every change to the process is in git history. Never edit the routine prompts themselves.
+Edit the task files in `tasks/` and commit. The live routines carry only a short bootstrap prompt that says "read `tasks/COMMON.md` and `tasks/<task-id>.md` and follow them", so the repo is the single source of truth and every change to the process is in git history. Never edit the routine prompts themselves. The routines themselves never commit to `tasks/`; the Tuesday column may propose an edit as a pull request, and a human merges it.
 
 ## Checking a run
 

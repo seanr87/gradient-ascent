@@ -11,19 +11,20 @@ Look for trades that make Gradient Ascent better under the manual's scoring edge
 Produce at most two proposals, zero if nothing clears the bar. A lopsided proposal gets declined and wastes Sean's time, so weigh acceptance odds. For each proposal:
 - Counterpart team name and manager display name from the digest
 - `GIVE: [players]` and `GET: [players]`, exact
-- Why it helps me (two or three sentences, data-backed)
-- Why they should accept (one or two sentences, honest)
 - `PITCH:` the exact message Sean pastes into league chat or a DM, in my voice, under 80 words, no exclamation points
+- Under `## Why`, one line on why it helps me and one on why they should accept, both data-backed and honest
 
 For each player on a `GET:` line, write his note in `docs/_data/notes.yml` in this commit (COMMON.md, Roster notes); if the trade is declined the line is harmless, and if it is accepted the roster page is already right.
 
-If nothing clears the bar, write `NO PROPOSALS` with one paragraph on why and what would change that.
+If nothing clears the bar, the clipboard is `NO ACTION` and `## Why` says in one line what would change that.
 
 ## File
-`docs/_decisions/2026-wkNN-thu-trades.md`, kind `trades`, title `Week NN trade scan`. Sections:
-- metadata line: decision time (ET) and digest pulled timestamp
-- `## Proposals` (numbered, or `NO PROPOSALS`)
-- `## Passed on` (two or three rejected ideas, one line each)
-- `## For the clipboard` (per proposal: counterpart, GIVE/GET lines, PITCH text; or `NO ACTION`)
+`docs/_decisions/2026-wkNN-thu-trades.md`, kind `trades`, title `Week NN trade scan`, in the structure COMMON.md fixes:
+- `**Do by:**` when the pitch should be sent (usually today, so the counterpart can answer before Sunday) · `**Digest:**` pulled timestamp
+- `## For the clipboard`: per proposal, the counterpart, the GIVE/GET lines and the PITCH text, in the order to send them and with any "only if proposal 1 is declined" condition stated; or `NO ACTION`
+- `## Why`: two lines per proposal (helps me; why they accept), then at most 3 passed-on ideas, one line each
+- `## Detail` (optional, 250 words max): positional shape of the league if it drove the pick, sources as one line of links
+
+Update `## State` and `## Open threads` in `data/ledger.md` in the same commit: one thread per proposal sent, with the fallback and the condition that retires it.
 
 Commit message: `Week NN trade scan: <summary>`.

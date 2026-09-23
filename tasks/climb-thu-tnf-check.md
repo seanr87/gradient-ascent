@@ -8,18 +8,19 @@ COMMON.md already refreshed the digest at the start of this run, so injury desig
 ## The call
 Determine which NFL teams play tonight. If the digest does not say and web search cannot confirm, say so plainly and give a conditional call ("if X plays tonight, START").
 
-For every player on my roster whose NFL team plays tonight, starters and bench alike, output exactly one line, `START [player, position-team]` or `BENCH [player, position-team]`, followed by a one-line reason. When starting a Thursday player commits a FLEX or positional slot before the Sunday slate is known, name the Sunday alternative and say why the Thursday player wins or loses that comparison under this scoring. A Questionable Thursday player with no Sunday fallback is a real risk: no IR slot, no second chance after lock.
+For every player on my roster whose NFL team plays tonight, starters and bench alike, output exactly one line in the clipboard, `START [player, position-team]` or `BENCH [player, position-team]`, with its one-line reason under `## Why`. When starting a Thursday player commits a FLEX or positional slot before the Sunday slate is known, name the Sunday alternative and say why the Thursday player wins or loses that comparison under this scoring. A Questionable Thursday player with no Sunday fallback is a real risk: no IR slot, no second chance after lock.
 
 If no rostered player plays tonight, write `NO THURSDAY PLAYERS` and note in one paragraph any Thursday-game player on this week's opponent's roster.
 
 Also list any of my players with a new injury designation since the last decision file, as a heads-up for Sunday, without making Sunday's call yet.
 
 ## File
-`docs/_decisions/2026-wkNN-thu-tnf.md`, kind `thursday`, title `Week NN Thursday call`. Sections:
-- metadata line: decision time (ET), digest pulled timestamp, Thursday game and kickoff if known
-- `## Call` (START/BENCH lines or `NO THURSDAY PLAYERS`)
-- `## Reasoning`
-- `## Injury watch for Sunday`
-- `## For the clipboard` (only START/BENCH lines, or `NO ACTION`)
+`docs/_decisions/2026-wkNN-thu-tnf.md`, kind `thursday`, title `Week NN Thursday call`, in the structure COMMON.md fixes:
+- `**Do by:**` tonight's kickoff (ET), naming the game · `**Digest:**` pulled timestamp
+- `## For the clipboard`: only START/BENCH lines, or `NO ACTION` (which covers `NO THURSDAY PLAYERS`)
+- `## Why`: one line per START/BENCH call, naming the Sunday alternative where a slot is being locked early; if no rostered player plays tonight, one line saying so and one on any Thursday player on my opponent's roster
+- `## Detail` (optional, 250 words max): the injury watch for Sunday, one line per rostered player with a new designation since the last decision file, no Sunday call made; sources as one line of links
+
+Update `## State` and `## Open threads` in `data/ledger.md` in the same commit: locked slots, new injury designations.
 
 Commit message: `Week NN Thursday call: <summary>`.

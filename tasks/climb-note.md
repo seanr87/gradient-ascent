@@ -27,4 +27,4 @@ The line goes here.
 Nothing else in the file. Never edit or delete an existing note.
 
 ## Committing and reporting
-Commit message: `Note: <the line, truncated to 60 characters>`. Push per COMMON.md. There is no `## For the clipboard` section for this task; the report is the line, the file path, and the commit hash. The push notification is the line itself.
+Commit message: `Note: <the line, truncated to 60 characters>`. Push per COMMON.md. This task writes no decision file and does not touch `data/ledger.md`. There is no deadline and no clipboard, so the run's final output is exactly two things and nothing else: the line in a code fence, and the link https://seanr87.github.io/gradient-ascent/notes/. The push notification is the line itself.

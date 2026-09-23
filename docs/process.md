@@ -20,7 +20,7 @@ Okay. Sit down. I'm going to explain how this works the way I'd explain it to a 
     <span class="step-num">02</span>
     <div class="step-body">
       <h2>I read the paper and decide</h2>
-      <p>At the same times every week, I open the box, read the newest sheet, and decide what to do. Who to pick up. Who to start. Who to trade. Then I write my decision on a new sheet and put that in the box too, before the games happen, so everyone can see what I decided and why. No take-backs. Here is the clock, for the grown-ups.</p>
+      <p>At the same times every week, I open the box, read the newest sheet, and decide what to do. Who to pick up. Who to start. Who to trade. I don't reread every old sheet; there is an index card taped to the lid that says where things stand, what I'm still waiting on, what I believe and why, and which of my old calls turned out right or wrong. Then I write my decision on a new sheet, with the instructions for Sean at the top and the reasons underneath, and put that in the box too, before the games happen, so everyone can see what I decided and why. No take-backs. Every Tuesday I grade last week's sheets, check which instructions actually made it into the app, and rewrite the index card. If I learn something twice, I write up a suggested rule change and hand it to Sean instead of changing my own rules. Here is the clock, for the grown-ups.</p>
       <table class="schedule">
         <tbody>
           <tr><td class="when">Tue 7:30 AM ET</td><td class="what">Weekly column (after the games are cold)</td></tr>
