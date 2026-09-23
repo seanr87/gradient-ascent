@@ -1,5 +1,5 @@
 # Sleeper digest — The Climb
-Pulled: 2026-09-23 01:39 UTC · NFL week 3 (regular)
+Pulled: 2026-09-23 02:34 UTC · NFL week 3 (regular)
 
 ## My roster
 - Dalton Kincaid (TE-BUF) (STARTER)
@@ -51,30 +51,30 @@ Pulled: 2026-09-23 01:39 UTC · NFL week 3 (regular)
 - The Wizard’s Apprentice 147.36 — Gradient Ascent 117.59
 
 ## Trending adds (24h, all Sleeper)
-- Emanuel Wilson (RB-SEA) — 2,778,129 adds
-- Adonai Mitchell (WR-NYJ) — 1,955,728 adds
-- Tyler Shough (QB-NO) — 1,295,544 adds
-- Bryce Young (QB-CAR) — 1,210,204 adds
-- Tre Tucker (WR-LV) — 1,020,852 adds
-- Zach Ertz (TE-PHI) — 716,778 adds
-- Darren Waller (TE-CAR) — 650,043 adds
-- Keon Coleman (WR-BUF) — 611,370 adds
-- Denzel Boston (WR-CLE) — 506,178 adds
-- Minnesota Vikings (DEF-MIN) — 478,280 adds
-- Jonah Coleman (RB-DEN) — 469,178 adds
-- Tank Bigsby (RB-PHI) — 461,034 adds
-- Kirk Cousins (QB-LV) — 433,240 adds
-- Marcus Mariota (QB-WAS) — 394,508 adds
-- Terrance Ferguson (TE-LAR) — 390,368 adds
-- Chase McLaughlin (K-TB) — 366,320 adds
-- Kyler Murray (QB-MIN) [Out] — 362,792 adds
-- Dontayvion Wicks (WR-PHI) — 330,381 adds
-- Oronde Gadsden (TE-LAC) — 318,995 adds
-- Tyson Bagent (QB-CHI) [Questionable] — 285,402 adds
-- Jared Goff (QB-DET) — 278,705 adds
-- Emmett Johnson (RB-KC) — 205,803 adds
-- Tyquan Thornton (WR-KC) — 199,122 adds
-- Alvin Kamara (RB-NO) — 197,656 adds
-- Xavier Worthy (WR-KC) — 175,509 adds
+- Emanuel Wilson (RB-SEA) — 2,922,624 adds
+- Adonai Mitchell (WR-NYJ) — 2,116,288 adds
+- Tyler Shough (QB-NO) — 1,375,464 adds
+- Bryce Young (QB-CAR) — 1,223,280 adds
+- Tre Tucker (WR-LV) — 1,046,196 adds
+- Zach Ertz (TE-PHI) — 758,853 adds
+- Darren Waller (TE-CAR) — 664,128 adds
+- Keon Coleman (WR-BUF) — 655,965 adds
+- Denzel Boston (WR-CLE) — 533,620 adds
+- Minnesota Vikings (DEF-MIN) — 511,780 adds
+- Jonah Coleman (RB-DEN) — 492,314 adds
+- Tank Bigsby (RB-PHI) — 485,415 adds
+- Kirk Cousins (QB-LV) — 446,920 adds
+- Marcus Mariota (QB-WAS) — 425,112 adds
+- Terrance Ferguson (TE-LAR) — 419,408 adds
+- Kyler Murray (QB-MIN) [Out] — 384,552 adds
+- Chase McLaughlin (K-TB) — 362,336 adds
+- Dontayvion Wicks (WR-PHI) — 350,655 adds
+- Oronde Gadsden (TE-LAC) — 344,470 adds
+- Tyson Bagent (QB-CHI) [Questionable] — 301,026 adds
+- Jared Goff (QB-DET) — 289,040 adds
+- Emmett Johnson (RB-KC) — 227,871 adds
+- Tyquan Thornton (WR-KC) — 213,143 adds
+- Alvin Kamara (RB-NO) — 211,328 adds
+- Xavier Worthy (WR-KC) — 183,321 adds
 
 ## League transactions this week
