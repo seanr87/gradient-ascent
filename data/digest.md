@@ -1,5 +1,5 @@
 # Sleeper digest — The Climb
-Pulled: 2026-09-22 18:34 UTC · NFL week 3 (regular)
+Pulled: 2026-09-23 00:53 UTC · NFL week 3 (regular)
 
 ## My roster
 - Dalton Kincaid (TE-BUF) (STARTER)
@@ -32,12 +32,12 @@ Pulled: 2026-09-22 18:34 UTC · NFL week 3 (regular)
 9. Three Wise Jaylens  — 1-1, 199.13 PF, waiver #4
 10. What can Brown do for u? — 0-2, 196.29 PF, waiver #3
 11. CorneliusJones — 0-2, 195.69 PF, waiver #2
-12. Jameson for Mahomies — 0-2, 189.95 PF, waiver #1
+12. Lost in the Land of Love — 0-2, 189.95 PF, waiver #1
 
 ## This week's matchups (week 3)
 - Lawrence of Valinor 0.00 — Princess Donut's Court 0.00
 - Playful Secrets 0.00 — Umojan Protectorate 0.00
-- Jameson for Mahomies 0.00 — Three Wise Jaylens  0.00
+- Lost in the Land of Love 0.00 — Three Wise Jaylens  0.00
 - TheTroubles 0.00 — CorneliusJones 0.00
 - Sea Squirts 0.00 — The Wizard’s Apprentice 0.00
 - What can Brown do for u? 0.00 — Gradient Ascent 0.00
@@ -46,35 +46,35 @@ Pulled: 2026-09-22 18:34 UTC · NFL week 3 (regular)
 - Umojan Protectorate 146.33 — Princess Donut's Court 114.32
 - Three Wise Jaylens  119.96 — Lawrence of Valinor 107.91
 - Playful Secrets 125.60 — CorneliusJones 111.17
-- Sea Squirts 106.83 — Jameson for Mahomies 96.98
+- Sea Squirts 106.83 — Lost in the Land of Love 96.98
 - TheTroubles 106.52 — What can Brown do for u? 87.93
 - The Wizard’s Apprentice 147.36 — Gradient Ascent 117.59
 
 ## Trending adds (24h, all Sleeper)
-- Emanuel Wilson (RB-SEA) — 2,117,970 adds
-- Adonai Mitchell (WR-NYJ) — 1,246,080 adds
-- Bryce Young (QB-CAR) — 1,006,712 adds
-- Tre Tucker (WR-LV) — 884,220 adds
-- Tyler Shough (QB-NO) — 866,592 adds
-- Zach Ertz (TE-PHI) — 608,022 adds
-- Darren Waller (TE-CAR) — 534,528 adds
-- Keon Coleman (WR-BUF) — 411,804 adds
-- Denzel Boston (WR-CLE) — 384,162 adds
-- Jonah Coleman (RB-DEN) — 376,284 adds
-- Tank Bigsby (RB-PHI) — 371,616 adds
-- Minnesota Vikings (DEF-MIN) — 326,170 adds
-- Chase McLaughlin (K-TB) — 320,352 adds
-- Kirk Cousins (QB-LV) — 314,152 adds
-- Konata Mumpfield (WR-LAR) — 276,039 adds
-- Terrance Ferguson (TE-LAR) — 272,128 adds
-- Marcus Mariota (QB-WAS) — 264,060 adds
-- Malachi Fields (WR-NYG) — 249,165 adds
-- Kyler Murray (QB-MIN) [Out] — 242,280 adds
-- Dontayvion Wicks (WR-PHI) — 238,566 adds
-- Tyson Bagent (QB-CHI) [Questionable] — 232,998 adds
-- Oronde Gadsden (TE-LAC) — 223,290 adds
-- Jared Goff (QB-DET) — 197,760 adds
-- Darnell Mooney (WR-NYG) — 148,509 adds
-- Tyquan Thornton (WR-KC) — 142,842 adds
+- Emanuel Wilson (RB-SEA) — 2,723,877 adds
+- Adonai Mitchell (WR-NYJ) — 1,864,952 adds
+- Tyler Shough (QB-NO) — 1,263,728 adds
+- Bryce Young (QB-CAR) — 1,225,632 adds
+- Tre Tucker (WR-LV) — 1,019,574 adds
+- Zach Ertz (TE-PHI) — 702,423 adds
+- Darren Waller (TE-CAR) — 641,133 adds
+- Keon Coleman (WR-BUF) — 586,080 adds
+- Denzel Boston (WR-CLE) — 493,226 adds
+- Minnesota Vikings (DEF-MIN) — 459,955 adds
+- Jonah Coleman (RB-DEN) — 458,394 adds
+- Tank Bigsby (RB-PHI) — 449,610 adds
+- Kirk Cousins (QB-LV) — 431,072 adds
+- Marcus Mariota (QB-WAS) — 379,260 adds
+- Terrance Ferguson (TE-LAR) — 372,336 adds
+- Chase McLaughlin (K-TB) — 364,928 adds
+- Kyler Murray (QB-MIN) [Out] — 351,792 adds
+- Dontayvion Wicks (WR-PHI) — 320,535 adds
+- Oronde Gadsden (TE-LAC) — 305,105 adds
+- Tyson Bagent (QB-CHI) [Questionable] — 278,832 adds
+- Jared Goff (QB-DET) — 274,635 adds
+- Emmett Johnson (RB-KC) — 192,942 adds
+- Tyquan Thornton (WR-KC) — 191,807 adds
+- Alvin Kamara (RB-NO) — 189,992 adds
+- C.J. Stroud (QB-HOU) — 174,734 adds
 
 ## League transactions this week
