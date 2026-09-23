@@ -1,19 +1,19 @@
 # Sleeper digest — The Climb
-Pulled: 2026-09-23 05:09 UTC · NFL week 3 (regular)
+Pulled: 2026-09-23 11:36 UTC · NFL week 3 (regular)
 
 ## My roster
 - Dalton Kincaid (TE-BUF) (STARTER)
-- Jayden Daniels (QB-WAS) [Out] (STARTER)
+- Jayden Daniels (QB-WAS) [Doubtful] (STARTER)
 - Bucky Irving (RB-TB) (STARTER)
 - Cam Skattebo (RB-NYG) (STARTER)
 - Tyler Loop (K-BAL) (STARTER)
 - Konata Mumpfield (WR-LAR)
 - Mike Evans (WR-SF) [Questionable] (STARTER)
+- Marcus Mariota (QB-WAS)
 - T.J. Hockenson (TE-MIN)
 - Justice Hill (RB-BAL)
 - CeeDee Lamb (WR-DAL) (STARTER)
-- Rachaad White (RB-WAS)
-- Puka Nacua (WR-LAR) [Out] (STARTER)
+- Puka Nacua (WR-LAR) [Questionable] (STARTER)
 - Jordan Addison (WR-MIN)
 - Buffalo Bills (DEF-BUF) (STARTER)
 
@@ -21,18 +21,18 @@ Pulled: 2026-09-23 05:09 UTC · NFL week 3 (regular)
 - Opponent: What can Brown do for u?
 
 ## Standings (W-L, points for)
-1. Umojan Protectorate — 2-0, 280.43 PF, waiver #12
-2. Playful Secrets — 2-0, 279.26 PF, waiver #11
-3. TheTroubles — 2-0, 252.68 PF, waiver #10
-4. Princess Donut's Court — 1-1, 320.48 PF, waiver #9
+1. Umojan Protectorate — 2-0, 280.43 PF, waiver #10
+2. Playful Secrets — 2-0, 279.26 PF, waiver #9
+3. TheTroubles — 2-0, 252.68 PF, waiver #5
+4. Princess Donut's Court — 1-1, 320.48 PF, waiver #4
 5. Gradient Ascent — 1-1, 258.05 PF, waiver #8
 6. The Wizard’s Apprentice — 1-1, 249.46 PF, waiver #7
-7. Lawrence of Valinor — 1-1, 237.61 PF, waiver #6
-8. Sea Squirts — 1-1, 236.34 PF, waiver #5
-9. Three Wise Jaylens  — 1-1, 199.13 PF, waiver #4
-10. What can Brown do for u? — 0-2, 196.29 PF, waiver #3
-11. CorneliusJones — 0-2, 195.69 PF, waiver #2
-12. Lost in the Land of Love — 0-2, 189.95 PF, waiver #1
+7. Lawrence of Valinor — 1-1, 237.61 PF, waiver #12
+8. Sea Squirts — 1-1, 236.34 PF, waiver #6
+9. Three Wise Jaylens  — 1-1, 199.13 PF, waiver #3
+10. What can Brown do for u? — 0-2, 196.29 PF, waiver #2
+11. CorneliusJones — 0-2, 195.69 PF, waiver #1
+12. Lost in the Land of Love — 0-2, 189.95 PF, waiver #11
 
 ## This week's matchups (week 3)
 - Lawrence of Valinor 0.00 — Princess Donut's Court 0.00
@@ -51,30 +51,33 @@ Pulled: 2026-09-23 05:09 UTC · NFL week 3 (regular)
 - The Wizard’s Apprentice 147.36 — Gradient Ascent 117.59
 
 ## Trending adds (24h, all Sleeper)
-- Emanuel Wilson (RB-SEA) — 3,230,721 adds
-- Adonai Mitchell (WR-NYJ) — 2,452,432 adds
-- Tyler Shough (QB-NO) — 1,534,584 adds
-- Bryce Young (QB-CAR) — 1,252,468 adds
-- Tre Tucker (WR-LV) — 1,092,408 adds
-- Zach Ertz (TE-PHI) — 857,286 adds
-- Keon Coleman (WR-BUF) — 748,116 adds
-- Darren Waller (TE-CAR) — 704,817 adds
-- Denzel Boston (WR-CLE) — 588,240 adds
-- Minnesota Vikings (DEF-MIN) — 582,095 adds
-- Jonah Coleman (RB-DEN) — 537,408 adds
-- Tank Bigsby (RB-PHI) — 532,784 adds
-- Marcus Mariota (QB-WAS) — 488,208 adds
-- Kirk Cousins (QB-LV) — 472,584 adds
-- Terrance Ferguson (TE-LAR) — 428,048 adds
-- Kyler Murray (QB-MIN) [Out] — 424,808 adds
-- Oronde Gadsden (TE-LAC) — 401,755 adds
-- Dontayvion Wicks (WR-PHI) — 390,300 adds
-- Chase McLaughlin (K-TB) — 360,880 adds
-- Tyson Bagent (QB-CHI) [Questionable] — 330,300 adds
-- Jared Goff (QB-DET) — 308,405 adds
-- Emmett Johnson (RB-KC) — 271,107 adds
-- Tyquan Thornton (WR-KC) — 239,890 adds
-- Alvin Kamara (RB-NO) — 239,344 adds
-- Xavier Worthy (WR-KC) — 196,236 adds
+- Emanuel Wilson (RB-SEA) — 3,319,308 adds
+- Adonai Mitchell (WR-NYJ) — 2,644,432 adds
+- Tyler Shough (QB-NO) — 1,643,720 adds
+- Bryce Young (QB-CAR) — 1,159,944 adds
+- Tre Tucker (WR-LV) — 1,061,322 adds
+- Zach Ertz (TE-PHI) — 916,461 adds
+- Keon Coleman (WR-BUF) — 822,843 adds
+- Darren Waller (TE-CAR) — 732,546 adds
+- Minnesota Vikings (DEF-MIN) — 645,635 adds
+- Denzel Boston (WR-CLE) — 582,388 adds
+- Tank Bigsby (RB-PHI) — 566,552 adds
+- Jonah Coleman (RB-DEN) — 521,546 adds
+- Kirk Cousins (QB-LV) — 506,744 adds
+- Kyler Murray (QB-MIN) — 494,480 adds
+- Marcus Mariota (QB-WAS) — 492,716 adds
+- Terrance Ferguson (TE-LAR) — 474,352 adds
+- Oronde Gadsden (TE-LAC) — 443,735 adds
+- Dontayvion Wicks (WR-PHI) — 402,072 adds
+- Chase McLaughlin (K-TB) — 395,728 adds
+- Tyson Bagent (QB-CHI) [Questionable] — 324,372 adds
+- Jared Goff (QB-DET) — 320,335 adds
+- Emmett Johnson (RB-KC) — 318,438 adds
+- Alvin Kamara (RB-NO) — 270,952 adds
+- Tyquan Thornton (WR-KC) — 254,821 adds
+- C.J. Stroud (QB-HOU) — 213,626 adds
 
 ## League transactions this week
+- free_agent (complete) Lawrence of Valinor: +[Jake Ferguson (TE-DAL)] -[Zach Ertz (TE-PHI)]
+- free_agent (complete) Lost in the Land of Love: +[Dontayvion Wicks (WR-PHI)] -[Woody Marks (RB-HOU)]
+- free_agent (complete) Lost in the Land of Love: +[Dalton Schultz (TE-HOU)] -[Oronde Gadsden (TE-LAC)]

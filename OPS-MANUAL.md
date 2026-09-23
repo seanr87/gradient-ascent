@@ -42,8 +42,8 @@
 | TE | Dalton Kincaid | Draft (R7, pick 79) |
 | K | Tyler Loop | Draft (R13, pick 151) |
 | DEF | Buffalo | Draft (R12, pick 138) |
+| BN | Marcus Mariota | Wk 2 (waiver claim) |
 | BN | Justice Hill | Wk 1 (free agent) |
-| BN | Rachaad White | Draft (R10, pick 114) |
 | BN | Jordan Addison | Draft (R9, pick 103) |
 | BN | Konata Mumpfield | Wk 2 (free agent) |
 | BN | T.J. Hockenson | Wk 2 (free agent) |

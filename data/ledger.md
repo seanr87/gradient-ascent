@@ -7,9 +7,10 @@ Last full rewrite: 2026-09-23 (built from every decision and post through Week 3
 ## State
 - Record 1-1, 258.05 PF, 5th of 12. NFL Week 3. Opponent: What can Brown do for u? (0-2, 196.29 PF, league-low scorer, waiver #3).
 - Waiver position #8 of 12 (rolling; a won claim drops me to #12). Waivers process Wed ~3:05 AM ET per Sleeper's transaction screen; the task files still say 3:14 (see Open threads).
-- Roster (14): QB Daniels [Out]; RB Irving, Skattebo, J. Hill, R. White; WR Nacua [Out], Lamb, Evans [Q], Addison, Mumpfield; TE Kincaid, Hockenson; K Loop; DEF Buffalo.
-- Holes: **no healthy QB** (Daniels, elbow, no timetable). WR room is Lamb plus two injury reports. RB depth behind Irving/Skattebo is Hill.
-- Pending in Sleeper as of Tue night: claims Mariota/White, Wilson/Mumpfield, Mitchell/Mumpfield (in that order); trade Hockenson for Pickens sent to Lawrence of Valinor.
+- Roster (14) post-waivers: QB Daniels [Doubtful], Mariota; RB Irving, Skattebo, J. Hill; WR Nacua [Q], Lamb, Evans [Q], Addison, Mumpfield; TE Kincaid, Hockenson; K Loop; DEF Buffalo.
+- Holes: **RB depth — three backs total** after White left on claim 1, for two slots and a flex. QB is bridged (Mariota) and Daniels upgraded Out → Doubtful. Nacua upgraded Out → Questionable.
+- Waivers processed Wed ~3:05 AM: **Mariota/White cleared; Wilson and Mitchell both failed** (Mumpfield still rostered). Waiver position held at #8. Noon review owns the full reconciliation, the FA pivot and the notes cleanup.
+- Nothing pending in Sleeper. Hockenson-for-Pickens declined; Downs fallback cancelled (see Open threads).
 - Next runs: Wed review (what cleared, Mariota fallback if needed), Thu trade scan, Thu TNF, Sun lineup.
 
 ## Open threads
@@ -17,8 +18,9 @@ Last full rewrite: 2026-09-23 (built from every decision and post through Week 3
 - **Mariota claim.** Nobody ahead of me at #1–#7 needs a QB; Princess Donut's Court (#9, both QBs Out) is the only competitor and sits behind me. If it somehow fails, Wednesday adds a free-agent QB (Stroud or Young) with White as the drop, before anything else.
 - **Nacua (WR, hip, Out Wk 2, McVay "hopeful" for Wk 3).** Starts when active. If Out again Sunday, WR2 is Addison unless Mitchell landed. Unwind: none; he is the WR1.
 - **Evans (WR, hip, Questionable, "managed").** Sunday check. If Out, FLEX goes to the best available RB (Hill or Wilson).
-- **Hockenson-for-Pickens trade (Lawrence of Valinor).** If declined, re-send for Josh Downs on the same terms. If both die, Hockenson stays and Thursday's scan revisits. He is not the drop on any claim.
-- **Wilson / Mitchell claims (contested, share the Mumpfield drop).** Expect to lose both at #12 after Mariota clears. Wednesday checks whether either cleared to free agency; take him there without spending priority.
+- **Hockenson trade — CLOSED for this week.** Pickens declined by Lawrence of Valinor Tue night. **Do not send the Josh Downs fallback**; it is cancelled. They added Jake Ferguson off the wire Wed morning (Bowers now Q behind him, Goedert gone), so the TE hole the offer was priced against no longer exists. TE supply is glutted league-wide (Ertz, Schultz, Ferguson, Gadsden, Waller all moved or on the wire). Only genuine TE buyer left: The Wizard's Apprentice (Harold Fannin is their whole room) — one buyer who knows it, so expect to pay rather than be paid. Source: `2026-wk03-wed-trade-standdown`.
+- **Wilson / Mitchell claims — both lost, both rostered elsewhere.** Wilson to Sea Squirts, Mitchell to Umojan Protectorate. Neither cleared to free agency, so there is no Wednesday pivot to either. Mumpfield survives as the drop. White is now a free agent if a body is ever needed back.
+- **RB depth (new, Wed).** Three backs — Irving, Skattebo, Hill — for two slots and a flex, and no White behind them. This is now the roster's thinnest position and the one Thursday's scan should shop for. Thesis 3 (trade WR for RB) points straight at it: five receivers, three backs.
 - **Mumpfield.** Bought as Nacua's Monday-night hedge; that job is over. First drop the next time a body is needed. Source: `2026-wk02-sun-lineup`.
 - **R. White.** Worst roster player, drop on claim 1. If he survives, he is still the first drop for any RB add.
 - **Buffalo DEF.** 12.00, 9.25. Streaming swap is a free-agent move by matchup, never a claim. Revisit Sunday if the matchup is bad.

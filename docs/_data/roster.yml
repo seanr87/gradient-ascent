@@ -6,7 +6,7 @@
   player: "Jayden Daniels"
   pos: "QB"
   team: "WAS"
-  status: "Out"
+  status: "Doubtful"
   acquired: "Draft"
   acquired_via: "R5, pick 55"
   acquired_week: 0
@@ -30,7 +30,7 @@
   player: "Puka Nacua"
   pos: "WR"
   team: "LAR"
-  status: "Out"
+  status: "Questionable"
   acquired: "Draft"
   acquired_via: "R1, pick 7"
   acquired_week: 0
@@ -75,6 +75,14 @@
   acquired_via: "R12, pick 138"
   acquired_week: 0
 - slot: "BN1"
+  player: "Marcus Mariota"
+  pos: "QB"
+  team: "WAS"
+  status: ""
+  acquired: "Wk 2"
+  acquired_via: "waiver claim"
+  acquired_week: 2
+- slot: "BN2"
   player: "Justice Hill"
   pos: "RB"
   team: "BAL"
@@ -82,14 +90,6 @@
   acquired: "Wk 1"
   acquired_via: "free agent"
   acquired_week: 1
-- slot: "BN2"
-  player: "Rachaad White"
-  pos: "RB"
-  team: "WAS"
-  status: ""
-  acquired: "Draft"
-  acquired_via: "R10, pick 114"
-  acquired_week: 0
 - slot: "BN3"
   player: "Jordan Addison"
   pos: "WR"
