@@ -1,9 +1,9 @@
 # Sleeper digest — The Climb
-Pulled: 2026-09-23 16:17 UTC · NFL week 3 (regular)
+Pulled: 2026-09-23 19:00 UTC · NFL week 3 (regular)
 
 ## My roster
 - Dalton Kincaid (TE-BUF) (STARTER)
-- Jayden Daniels (QB-WAS) [Doubtful] (STARTER)
+- Jayden Daniels (QB-WAS) [Out] (STARTER)
 - Bucky Irving (RB-TB) (STARTER)
 - Cam Skattebo (RB-NYG) (STARTER)
 - Tyler Loop (K-BAL) (STARTER)
@@ -51,31 +51,31 @@ Pulled: 2026-09-23 16:17 UTC · NFL week 3 (regular)
 - The Wizard’s Apprentice 147.36 — Gradient Ascent 117.59
 
 ## Trending adds (24h, all Sleeper)
-- Emanuel Wilson (RB-SEA) — 3,125,673 adds
-- Adonai Mitchell (WR-NYJ) — 2,573,464 adds
-- Tyler Shough (QB-NO) — 1,638,952 adds
-- Tre Tucker (WR-LV) — 978,630 adds
-- Bryce Young (QB-CAR) — 955,668 adds
-- Zach Ertz (TE-PHI) — 930,987 adds
-- Keon Coleman (WR-BUF) — 863,100 adds
-- Darren Waller (TE-CAR) — 735,354 adds
-- Minnesota Vikings (DEF-MIN) — 652,850 adds
-- Tank Bigsby (RB-PHI) — 575,575 adds
-- Kyler Murray (QB-MIN) — 564,336 adds
-- Kirk Cousins (QB-LV) — 555,664 adds
-- Denzel Boston (WR-CLE) — 516,624 adds
-- Terrance Ferguson (TE-LAR) — 500,416 adds
-- Marcus Mariota (QB-WAS) — 450,616 adds
-- Jonah Coleman (RB-DEN) — 448,322 adds
-- Oronde Gadsden (TE-LAC) — 445,455 adds
-- Chase McLaughlin (K-TB) — 428,384 adds
-- Dontayvion Wicks (WR-PHI) — 382,926 adds
-- Emmett Johnson (RB-KC) — 365,481 adds
-- Jared Goff (QB-DET) — 314,020 adds
-- Alvin Kamara (RB-NO) — 304,832 adds
-- Tyson Bagent (QB-CHI) [Questionable] — 288,180 adds
-- Tyquan Thornton (WR-KC) — 267,519 adds
-- C.J. Stroud (QB-HOU) — 251,314 adds
+- Emanuel Wilson (RB-SEA) — 2,795,643 adds
+- Adonai Mitchell (WR-NYJ) — 2,322,392 adds
+- Tyler Shough (QB-NO) — 1,549,520 adds
+- Zach Ertz (TE-PHI) — 882,630 adds
+- Tre Tucker (WR-LV) — 864,006 adds
+- Keon Coleman (WR-BUF) — 816,930 adds
+- Bryce Young (QB-CAR) — 772,000 adds
+- Darren Waller (TE-CAR) — 673,182 adds
+- Minnesota Vikings (DEF-MIN) — 603,415 adds
+- Kyler Murray (QB-MIN) — 583,944 adds
+- Kirk Cousins (QB-LV) — 562,824 adds
+- Tank Bigsby (RB-PHI) — 540,141 adds
+- Terrance Ferguson (TE-LAR) — 480,920 adds
+- Denzel Boston (WR-CLE) — 443,952 adds
+- Oronde Gadsden (TE-LAC) — 420,315 adds
+- Chase McLaughlin (K-TB) — 407,376 adds
+- Marcus Mariota (QB-WAS) — 406,852 adds
+- Jonah Coleman (RB-DEN) — 375,362 adds
+- Emmett Johnson (RB-KC) — 368,577 adds
+- Dontayvion Wicks (WR-PHI) — 344,241 adds
+- Alvin Kamara (RB-NO) — 303,152 adds
+- Jared Goff (QB-DET) — 290,750 adds
+- C.J. Stroud (QB-HOU) — 266,420 adds
+- Tyquan Thornton (WR-KC) — 255,822 adds
+- Tyson Bagent (QB-CHI) [Questionable] — 248,766 adds
 
 ## League transactions this week
 - free_agent (complete) Sea Squirts: +[Tre Tucker (WR-LV)] -[Emanuel Wilson (RB-SEA)]

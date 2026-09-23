@@ -10092,7 +10092,7 @@
   "pos": "WR",
   "team": null,
   "status": "Active",
-  "injury_status": "Out",
+  "injury_status": "",
   "injury_note": "Knee - ACL"
  },
  "8013": {
@@ -11507,9 +11507,9 @@
   "name": "Andrei Iosivas",
   "pos": "WR",
   "team": "CIN",
-  "status": "Active",
-  "injury_status": null,
-  "injury_note": null
+  "status": "Inactive",
+  "injury_status": "Out",
+  "injury_note": "Thumb"
  },
  "4285": {
   "name": "Robert Davis",
@@ -12612,8 +12612,8 @@
   "pos": "RB",
   "team": "TEN",
   "status": "Active",
-  "injury_status": null,
-  "injury_note": null
+  "injury_status": "Questionable",
+  "injury_note": "Undisclosed"
  },
  "5384": {
   "name": "Jonah Trinnaman",
@@ -12899,7 +12899,7 @@
   "name": "Alec Pierce",
   "pos": "WR",
   "team": "IND",
-  "status": "Active",
+  "status": "Inactive",
   "injury_status": "Out",
   "injury_note": "Heel"
  },
@@ -21596,8 +21596,8 @@
   "pos": "RB",
   "team": "TEN",
   "status": "Active",
-  "injury_status": null,
-  "injury_note": null
+  "injury_status": "Questionable",
+  "injury_note": "Undisclosed"
  },
  "11570": {
   "name": "Rasheen Ali",
@@ -22988,8 +22988,8 @@
   "pos": "RB",
   "team": "MIN",
   "status": "Active",
-  "injury_status": null,
-  "injury_note": null
+  "injury_status": "Questionable",
+  "injury_note": "Undisclosed"
  },
  "4515": {
   "name": "B.J. Johnson",
@@ -24276,8 +24276,8 @@
   "pos": "RB",
   "team": "PIT",
   "status": "Active",
-  "injury_status": null,
-  "injury_note": null
+  "injury_status": "Questionable",
+  "injury_note": "Undisclosed"
  },
  "120": {
   "name": "Adam Vinatieri",
@@ -31428,7 +31428,7 @@
   "pos": "QB",
   "team": "WAS",
   "status": "Active",
-  "injury_status": "Doubtful",
+  "injury_status": "Out",
   "injury_note": "Elbow"
  },
  "4319": {
