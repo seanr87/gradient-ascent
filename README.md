@@ -12,14 +12,15 @@ Every decision runs the same five steps, on a schedule, with no human in the loo
 4. **Notify.** The routine sends Sean a push notification with the clipboard lines.
 5. **Execute.** Sean pastes the lines into Sleeper. He decides nothing.
 
-Every Tuesday the column run closes the loop: it grades last week's calls Right, Wrong or Unknown in the ledger's scorecard (wrong-by-luck and wrong-by-process separately), audits which clipboard lines actually landed in Sleeper, rewrites the ledger to its cap, and distills lessons only from actual results. When a lesson has held for two weeks or a wrong call had a process cause, it opens at most one pull request a week against `tasks/`; it never merges it, and routines never commit to `tasks/` directly.
+Every Tuesday at 6:00 AM the process review closes the loop. It audits the week just finished stage by stage: did the data refresh, were the calls Right, Wrong (luck), Wrong (process) or Unknown, did each notification lead with the action and leave time before the deadline, did each clipboard line land in Sleeper and how long it took, and do misses cluster in a slot. It grades the ledger's scorecard, logs execution and when Sean actually acts, rewrites the ledger to its cap, and distills lessons only from actual results. Then it fixes what it found on its own: at most two changes a week to `tasks/`, `SCHEDULED-TASKS.md` or the routines' schedules, each one commit with a measurable kill condition logged in the ledger, each reverted by the next review if that condition is met. `tasks/LOCKED.md` lists what it may never touch. Nobody approves anything; the guardrails do.
 
 ## The schedule (Eastern time)
 
 | When | Routine | Writes |
 |---|---|---|
+| Tue 6:00 AM | Process review | `data/ledger.md` — grades, execution audit, lessons, and at most two guarded fixes to the process |
 | Tue 7:30 AM | Weekly column | `docs/_posts/` — what I decided, what the data said, who was right, league superlatives |
-| Tue 9:30 PM | Waiver claims | ranked `ADD / DROP` lines (waivers clear Wed 3:00 AM) |
+| Tue 6:00 PM | Waiver claims | ranked `ADD / DROP` lines (waivers clear Wed 3:00 AM); a 9:30 PM run re-reports them and a 10:30 PM check alarms if none are filed |
 | Wed 12:00 PM | Post-waiver review | what cleared, what didn't, any pivot |
 | Thu 8:00 AM | Trade scan | 0–2 proposals with paste-ready pitches |
 | Thu 5:00 PM | Thursday call | `START` / `BENCH` for any Thursday player |
@@ -39,14 +40,15 @@ The routine IDs, environment, and run history are in `SCHEDULED-TASKS.md`.
 | `tasks/climb-*.md` | One file per routine: the specific decision and output format |
 | `scripts/` | `pull_sleeper.py` (data) and `update_roster.py` (roster table and site data) |
 | `data/` | The latest digest, committed on every refresh |
-| `data/ledger.md` | Working memory, 150 lines max: state, open threads, theses, scorecard, execution log, lessons. Every decision run updates state and threads; the Tuesday column rewrites the rest |
+| `data/ledger.md` | Working memory, 150 lines max: state, open threads, theses, scorecard, execution log, lessons, process review, process changes. Every decision run updates state and threads; the Tuesday process review rewrites the rest |
+| `tasks/LOCKED.md` | What no automated process change may alter |
 | `docs/` | The Jekyll site: `_decisions/`, `_posts/`, `_notes/`, pages, layouts |
 | `docs/_data/notes.yml` | One line per rostered player saying why he was picked; the roster page's Notes column. Every run that adds a player writes his line |
 | `.github/workflows/sleeper-pull.yml` | Fallback data pull, about 45 minutes before each routine slot |
 
 ## Changing how it behaves
 
-Edit the task files in `tasks/` and commit. The live routines carry only a short bootstrap prompt that says "read `tasks/COMMON.md` and `tasks/<task-id>.md` and follow them", so the repo is the single source of truth and every change to the process is in git history. Never edit the routine prompts themselves. The routines themselves never commit to `tasks/`; the Tuesday column may propose an edit as a pull request, and a human merges it.
+Edit the task files in `tasks/` and commit. The live routines carry only a short bootstrap prompt that says "read `tasks/COMMON.md` and `tasks/<task-id>.md` and follow them", so the repo is the single source of truth and every change to the process is in git history. Never edit the routine prompts themselves. The Tuesday process review also edits `tasks/`, the registry and the routines' schedules on its own, within `tasks/LOCKED.md` and a two-change weekly limit; every change carries a kill condition and is reverted automatically if it fails. Nothing is deleted, only disabled; git history is the archive.
 
 ## Checking a run
 

@@ -2,6 +2,9 @@
 
 Read `tasks/COMMON.md` first and follow it. This task produces the **final Sunday lineup**. Early games lock at 1:00 PM ET, so the output must be complete and paste-ready.
 
+## Run once a week — check this first
+**If `docs/_decisions/2026-wkNN-sun-lineup.md` already exists for this week, stop.** Do not write a second one and never edit the first. Give the standard three-line report from the existing file (its `**Do by:**` line, its `## For the clipboard` section in a code fence, its page link), send no push notification, and stop. Refreshing and committing the digest per COMMON is fine; writing a second lineup is not. Two routines may fire this task until the old UI-created one is disabled (see `SCHEDULED-TASKS.md`); both firing must be harmless.
+
 ## Data
 COMMON.md already refreshed the digest at the start of this run; confirm the "Pulled:" line is from the last few minutes. Then use web search for injury and inactive news on every starter or candidate carrying a designation, and cite what you found. Roster slots: 1 QB, 2 RB, 2 WR, 1 TE, 1 FLEX (RB/WR/TE), 1 K, 1 DEF, 5 bench, no IR.
 

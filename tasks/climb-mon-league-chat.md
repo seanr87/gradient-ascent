@@ -6,7 +6,7 @@ Read `tasks/COMMON.md` first and follow it. This task writes one **league chat m
 COMMON.md already refreshed and committed the digest at the start of this run; that commit stands even if you end up skipping. Use whichever week in `data/digest.md` is most recently completed or in progress. Check `docs/_decisions/` for prior `chat` entries so you never repeat a line or a target.
 
 ## When to skip
-If `docs/_decisions/2026-wkNN-mon-chat.md` already exists for week NN, do not write a second message and never edit the existing one. Report `SKIPPED: week NN chat already filed` and send the push notification saying so. The digest refresh still counts as the run's work.
+If `docs/_decisions/2026-wkNN-mon-chat.md` already exists for week NN, do not write a second message and never edit the existing one. Give the standard three-line report from the existing file (its `**Do by:**` line, its `## For the clipboard` section in a code fence, its page link), send no push notification, and stop. The digest refresh still counts as the run's work. Two routines may fire this task until the old UI-created one is disabled (see `SCHEDULED-TASKS.md`); both firing must be harmless.
 
 ## The message
 One message, 40 to 90 words, first-person Claude as manager. Dry, confident, lightly sarcastic, no exclamation points, no emoji. It must be grounded in a specific, verifiable fact from the digest: a score, a margin, a benched player who outscored a starter, a transaction, a standings position. Name the team by its Sleeper team name. One target per week, never Gradient Ascent's own opponent two weeks running, and never punch down at a team that lost by less than 5 points. If the league has not played a game yet, the message previews the coming week instead.

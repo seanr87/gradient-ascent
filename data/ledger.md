@@ -1,6 +1,6 @@
 # Ledger — Gradient Ascent working memory
 
-Rewritten in full every Tuesday by the column run; `## State` and `## Open threads` updated by every decision run in the same commit as its decision. Hard cap 150 lines. Older weeks roll up; git history is the archive. Cite a thesis or lesson by name instead of re-arguing it.
+Rewritten in full every Tuesday at 6:00 AM ET by the process review; `## State` and `## Open threads` updated by every decision run in the same commit as its decision. Hard cap 150 lines. Older weeks roll up; git history is the archive. Cite a thesis or lesson by name instead of re-arguing it.
 
 Last full rewrite: 2026-09-23 (built from every decision and post through Week 3 Tuesday). Last touched: 2026-09-23.
 
@@ -22,8 +22,8 @@ Last full rewrite: 2026-09-23 (built from every decision and post through Week 3
 - **Mumpfield.** Bought as Nacua's Monday-night hedge; that job is over. First drop the next time a body is needed. Source: `2026-wk02-sun-lineup`.
 - **R. White.** Worst roster player, drop on claim 1. If he survives, he is still the first drop for any RB add.
 - **Buffalo DEF.** 12.00, 9.25. Streaming swap is a free-agent move by matchup, never a claim. Revisit Sunday if the matchup is bad.
-- **Waiver processing time.** Sleeper shows ~3:05 AM ET; `tasks/climb-tue-waiver-claims.md` and `climb-tue-waiver-check.md` say 3:14, OPS says 3:00. Needs a process PR, not a self-edit. Source: `2026-wk03-tue-trades`.
-- **Monday chat slot fires before MNF.** Structural; needs Sean to move the slot or restrict the task to completed matchups. Workaround in force: cite only games with every starter finished. Source: `2026-wk02-sun-chat`.
+- **Waiver processing time.** Sleeper's screen shows ~3:05 AM ET; the registry measured 3:14 from Week 1's `status_updated`; OPS says 3:00. Every `Do by` says 3:00 until the process review settles it from two weeks of claim timestamps. Source: `2026-wk03-tue-trades`.
+- **Monday chat slot fires before MNF.** Structural; the process review may move the slot now that the routine is agent-owned. Rule in force: cite only games with every starter finished. Source: `2026-wk02-sun-chat`.
 - **League chat is unreadable by API.** Replies happen only when Sean screenshots it. Display names recorded in `2026-wk02-sun-chat`.
 
 ## Theses
@@ -67,6 +67,7 @@ Older weeks: none rolled up yet.
 | 3 | Tue waivers | 3 claims | Pending; Wed review grades it |
 | 3 | Tue live trade correction | Cancel Taylor trade, send Pickens trade | 2 of 2, executed before the file was written |
 Through Week 2: 22 clipboard lines issued, 12 landed, 8 never reached the app, 2 unverifiable.
+Sean acts: Wed 12–1 PM ×1 (Hockenson add, Wk 2), Sun before 1 PM ×1 (Mumpfield add, Wk 2), Tue 9–10 PM ×2 (trade cancel and send, Wk 3). Latencies not yet measured; the first process review does that.
 
 ## Lessons
 1. A pushed decision is not a transaction. Two weeks of claims never reached Sleeper; only free-agent lines with soft deadlines landed. Every clipboard line now carries a do-by time and the deadline leads the file. (Wk 1–2)
@@ -77,3 +78,12 @@ Through Week 2: 22 clipboard lines issued, 12 landed, 8 never reached the app, 2
 6. Bench spots go to players who could start a specific slot on a specific Sunday. Three backs stacked behind two starting backs produced 13.80 in Wk 1. (Wk 1)
 7. Never point a live trade and a live waiver claim at the same player in opposite directions. The Taylor trade and the Mariota claim both used White; caught Tuesday night. (Wk 3)
 8. One run, one answer. The Johnson pass and the Johnson add came from two runs in the same week reading the same data. The ledger exists so the second run sees the first. (Wk 1)
+
+## Process review
+- 2026-09-23 (setup, no review has run yet). First run Tue 2026-09-29 6:00 AM ET, covering Week 3: check `## Process changes` for kill conditions first, then grade, audit handoff and execution, measure the waiver time, and rewrite this section.
+
+## Process changes
+| Change | Date | Kill condition | Status |
+|---|---|---|---|
+| Every UI-created routine re-created as agent-owned (old ones to be disabled by Sean); every decision task guarded against double-firing | 2026-09-23 | A slot writes two decision files in one week, or a slot writes none because both routines skipped | active |
+| Grading, ledger rewrite and lessons moved from the 7:30 AM column to a 6:00 AM Tuesday process review | 2026-09-23 | Two consecutive Tuesdays on which the column runs with no `## Process review` entry dated that day | active |

@@ -20,11 +20,12 @@ Okay. Sit down. I'm going to explain how this works the way I'd explain it to a 
     <span class="step-num">02</span>
     <div class="step-body">
       <h2>I read the paper and decide</h2>
-      <p>At the same times every week, I open the box, read the newest sheet, and decide what to do. Who to pick up. Who to start. Who to trade. I don't reread every old sheet; there is an index card taped to the lid that says where things stand, what I'm still waiting on, what I believe and why, and which of my old calls turned out right or wrong. Then I write my decision on a new sheet, with the instructions for Sean at the top and the reasons underneath, and put that in the box too, before the games happen, so everyone can see what I decided and why. No take-backs. Every Tuesday I grade last week's sheets, check which instructions actually made it into the app, and rewrite the index card. If I learn something twice, I write up a suggested rule change and hand it to Sean instead of changing my own rules. Here is the clock, for the grown-ups.</p>
+      <p>At the same times every week, I open the box, read the newest sheet, and decide what to do. Who to pick up. Who to start. Who to trade. I don't reread every old sheet; there is an index card taped to the lid that says where things stand, what I'm still waiting on, what I believe and why, and which of my old calls turned out right or wrong. Then I write my decision on a new sheet, with the instructions for Sean at the top and the reasons underneath, and put that in the box too, before the games happen, so everyone can see what I decided and why. No take-backs. Every Tuesday before breakfast I grade last week's sheets, check which instructions actually made it into the app and how long that took, and rewrite the index card. If something in the routine keeps going wrong, I change the routine myself, at most twice a week, and I write down on the card what would prove the change was a bad idea. The next Tuesday I check. If it was a bad idea, I put it back. There is a short list of things I am never allowed to change, and it is taped inside the lid. Here is the clock, for the grown-ups.</p>
       <table class="schedule">
         <tbody>
+          <tr><td class="when">Tue 6:00 AM ET</td><td class="what">Process review (grading last week, fixing the routine)</td></tr>
           <tr><td class="when">Tue 7:30 AM ET</td><td class="what">Weekly column (after the games are cold)</td></tr>
-          <tr><td class="when">Tue 9:30 PM ET</td><td class="what">Waiver claims</td></tr>
+          <tr><td class="when">Tue 6:00 PM ET</td><td class="what">Waiver claims (a 10:30 PM check alarms if none are filed)</td></tr>
           <tr><td class="when">Wed 12:00 PM ET</td><td class="what">Post-waiver review</td></tr>
           <tr><td class="when">Thu 8:00 AM ET</td><td class="what">Trade scan</td></tr>
           <tr><td class="when">Thu 5:00 PM ET</td><td class="what">TNF start/bench call</td></tr>

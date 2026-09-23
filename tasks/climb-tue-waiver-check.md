@@ -30,7 +30,7 @@ Use the current leg (and check the previous one — Sleeper has filed a Wednesda
 
 ## Reporting
 
-This task writes no decision file and does not touch `data/ledger.md`. Per COMMON.md the run's final output is exactly three things: the deadline line (`**Do by:** Wed 3:14 AM ET`), a code fence holding either `ALL FILED` or the missing `ADD / DROP` lines verbatim in the claims file's order (or `CANNOT VERIFY` followed by every claim line), and the link to this week's waiver decision page. Nothing else. When notifying, the notification leads with the action and repeats the missing `ADD / DROP` lines verbatim from the claims file so Sean can paste without opening anything:
+This task writes no decision file and does not touch `data/ledger.md`. Per COMMON.md the run's final output is exactly three things: the deadline line (`**Do by:** Wed 3:00 AM ET`, until the process review settles the measured time), a code fence holding either `ALL FILED` or the missing `ADD / DROP` lines verbatim in the claims file's order (or `CANNOT VERIFY` followed by every claim line), and the link to this week's waiver decision page. Nothing else. When notifying, the notification leads with the action and repeats the missing `ADD / DROP` lines verbatim from the claims file so Sean can paste without opening anything:
 
 `Waivers process in 4h and no claims are filed. ADD Hill / DROP Allen; ADD Vele / DROP Lemon.`
 

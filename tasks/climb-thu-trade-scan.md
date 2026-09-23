@@ -2,6 +2,9 @@
 
 Read `tasks/COMMON.md` first and follow it. This task produces the weekly **trade scan**.
 
+## Run once a week — check this first
+**If `docs/_decisions/2026-wkNN-thu-trades.md` already exists for this week, stop.** Do not write a second one and never edit the first. Give the standard three-line report from the existing file (its `**Do by:**` line, its `## For the clipboard` section in a code fence, its page link), send no push notification, and stop. Refreshing and committing the digest per COMMON is fine; writing a second scan is not. Two routines may fire this task until the old UI-created one is disabled (see `SCHEDULED-TASKS.md`); both firing must be harmless.
+
 ## Data
 COMMON.md already refreshed the digest at the start of this run. Use `all_rosters` and `standings` in `data/digest.json` for every team's roster, record, and points.
 
