@@ -1,5 +1,5 @@
 # Sleeper digest — The Climb
-Pulled: 2026-09-24 12:03 UTC · NFL week 3 (regular)
+Pulled: 2026-09-24 15:48 UTC · NFL week 3 (regular)
 
 ## My roster
 - Dalton Kincaid (TE-BUF) (STARTER)
@@ -51,31 +51,31 @@ Pulled: 2026-09-24 12:03 UTC · NFL week 3 (regular)
 - The Wizard’s Apprentice 147.36 — Gradient Ascent 117.59
 
 ## Trending adds (24h, all Sleeper)
-- Emanuel Wilson (RB-SEA) — 889,929 adds
-- Adonai Mitchell (WR-NYJ) — 719,800 adds
-- Tyler Shough (QB-NO) — 505,104 adds
-- Kyler Murray (QB-MIN) — 384,632 adds
-- Keon Coleman (WR-BUF) [Questionable] — 370,683 adds
-- Zach Ertz (TE-PHI) — 369,180 adds
-- Kirk Cousins (QB-LV) — 353,960 adds
-- Darren Waller (TE-CAR) — 350,280 adds
-- Tre Tucker (WR-LV) — 300,216 adds
-- Chase McLaughlin (K-TB) — 269,552 adds
-- Alvin Kamara (RB-NO) — 263,392 adds
-- Tank Bigsby (RB-PHI) — 260,575 adds
-- AJ Dillon (RB-CAR) — 247,968 adds
-- Minnesota Vikings (DEF-MIN) — 231,175 adds
-- Terrance Ferguson (TE-LAR) [Questionable] — 204,864 adds
-- C.J. Stroud (QB-HOU) — 190,099 adds
-- Emmett Johnson (RB-KC) — 186,255 adds
-- Xavier Worthy (WR-KC) — 160,353 adds
-- Tyquan Thornton (WR-KC) — 156,114 adds
-- Oronde Gadsden (TE-LAC) — 148,680 adds
-- Bryce Young (QB-CAR) — 146,656 adds
-- New York Giants (DEF-NYG) — 133,488 adds
-- Dontayvion Wicks (WR-PHI) — 130,449 adds
-- Jared Goff (QB-DET) — 125,850 adds
-- Malik Washington (WR-MIA) — 120,648 adds
+- Emanuel Wilson (RB-SEA) — 623,718 adds
+- Adonai Mitchell (WR-NYJ) — 497,576 adds
+- Tyler Shough (QB-NO) — 345,264 adds
+- Kyler Murray (QB-MIN) — 297,512 adds
+- Zach Ertz (TE-PHI) — 279,828 adds
+- Kirk Cousins (QB-LV) — 272,480 adds
+- Darren Waller (TE-CAR) — 269,208 adds
+- Keon Coleman (WR-BUF) [Questionable] — 261,675 adds
+- Alvin Kamara (RB-NO) — 227,568 adds
+- AJ Dillon (RB-CAR) — 209,984 adds
+- Tre Tucker (WR-LV) — 207,084 adds
+- Chase McLaughlin (K-TB) — 196,792 adds
+- Tank Bigsby (RB-PHI) — 184,408 adds
+- Terrance Ferguson (TE-LAR) [Questionable] — 153,832 adds
+- C.J. Stroud (QB-HOU) — 150,017 adds
+- Minnesota Vikings (DEF-MIN) — 149,710 adds
+- Emmett Johnson (RB-KC) — 135,153 adds
+- Xavier Worthy (WR-KC) — 126,306 adds
+- Tyquan Thornton (WR-KC) — 124,593 adds
+- Oronde Gadsden (TE-LAC) — 103,060 adds
+- Bryce Young (QB-CAR) — 99,812 adds
+- Malik Washington (WR-MIA) — 97,728 adds
+- New York Giants (DEF-NYG) — 94,128 adds
+- Dontayvion Wicks (WR-PHI) — 94,008 adds
+- MarShawn Lloyd (RB-GB) — 90,909 adds
 
 ## League transactions this week
 - free_agent (complete) Lost in the Land of Love: +[Chase McLaughlin (K-TB)] -[Jason Myers (K-SEA)]
