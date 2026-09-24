@@ -5060,8 +5060,8 @@
   "pos": "QB",
   "team": "ATL",
   "status": "Active",
-  "injury_status": null,
-  "injury_note": null
+  "injury_status": "Out",
+  "injury_note": "Coach's Decision"
  },
  "626": {
   "name": "Jim Dray",
@@ -10372,8 +10372,8 @@
   "pos": "RB",
   "team": "DEN",
   "status": "Active",
-  "injury_status": "Questionable",
-  "injury_note": "Hamstring"
+  "injury_status": null,
+  "injury_note": null
  },
  "350": {
   "name": "Mark Sanchez",
@@ -11964,8 +11964,8 @@
   "pos": "RB",
   "team": "PHI",
   "status": "Active",
-  "injury_status": null,
-  "injury_note": null
+  "injury_status": "Questionable",
+  "injury_note": "Foot"
  },
  "12540": {
   "name": "Chimere Dike",
@@ -13227,7 +13227,7 @@
   "name": "Jaxson Dart",
   "pos": "QB",
   "team": "NYG",
-  "status": "Active",
+  "status": "Inactive",
   "injury_status": "IR",
   "injury_note": "Knee - Meniscus"
  },
@@ -15900,8 +15900,8 @@
   "pos": "WR",
   "team": "PHI",
   "status": "Active",
-  "injury_status": null,
-  "injury_note": null
+  "injury_status": "Questionable",
+  "injury_note": "Hamstring"
  },
  "2918": {
   "name": "Demetrius Wilson",
@@ -23380,8 +23380,8 @@
   "pos": "RB",
   "team": "PHI",
   "status": "Active",
-  "injury_status": null,
-  "injury_note": null
+  "injury_status": "Questionable",
+  "injury_note": "Abdomen"
  },
  "7218": {
   "name": "Cam Sutton",
@@ -23988,8 +23988,8 @@
   "pos": "WR",
   "team": "LV",
   "status": "Active",
-  "injury_status": "Questionable",
-  "injury_note": "Hamstring"
+  "injury_status": null,
+  "injury_note": null
  },
  "13026": {
   "name": "Moochie Dixon",
@@ -31868,8 +31868,8 @@
   "pos": "QB",
   "team": "ATL",
   "status": "Active",
-  "injury_status": null,
-  "injury_note": null
+  "injury_status": "Out",
+  "injury_note": "Coach's Decision"
  },
  "12324": {
   "name": "William Thompson",
@@ -33172,8 +33172,8 @@
   "pos": "RB",
   "team": "DEN",
   "status": "Active",
-  "injury_status": "Questionable",
-  "injury_note": "Hamstring"
+  "injury_status": null,
+  "injury_note": null
  },
  "5278": {
   "name": "Jarvion Franklin",
