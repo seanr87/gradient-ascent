@@ -2,21 +2,22 @@
 
 Rewritten in full every Tuesday at 6:00 AM ET by the process review; `## State` and `## Open threads` updated by every decision run in the same commit as its decision. Hard cap 150 lines. Older weeks roll up; git history is the archive. Cite a thesis or lesson by name instead of re-arguing it.
 
-Last full rewrite: 2026-09-23 (built from every decision and post through Week 3 Tuesday). Last touched: 2026-09-23 (Wed post-waiver review).
+Last full rewrite: 2026-09-23 (built from every decision and post through Week 3 Tuesday). Last touched: 2026-09-24 (Thu TNF call).
 
 ## State
 - Record 1-1, 258.05 PF, 5th of 12. NFL Week 3. Opponent: What can Brown do for u? (0-2, 196.29 PF, league-low scorer, waiver #3).
 - Waiver position #8 of 12, held (rolling, applied continuously mid-run: each won claim rolls you to the back before the next pass is read).
-- Roster (14) post-waivers: QB Daniels [Doubtful], Mariota; RB Irving, Skattebo, J. Hill; WR Nacua [Q], Lamb, Evans [Q], Addison, Mumpfield; TE Kincaid, Hockenson; K Loop; DEF Buffalo.
-- Holes: **RB depth — three backs total** after White left on claim 1, for two slots and a flex. QB is bridged (Mariota) and Daniels upgraded Out → Doubtful. Nacua upgraded Out → Questionable.
+- Roster (14): QB Daniels [Out], Mariota; RB Irving, Skattebo, J. Hill; WR Nacua [Q], Lamb, Evans [Q], Addison, Mumpfield; TE Kincaid, Hockenson; K Loop; DEF Buffalo.
+- Holes: **RB depth — three backs total** after White left on claim 1, for two slots and a flex. **QB: Daniels Doubtful → Out Thu; Mariota is the Week 3 starter both for Washington and for me.** Nacua and Evans still Questionable.
+- **No rostered player in Thursday's game (Atlanta at Green Bay); no slot locked early.** Neither does the opponent. Source: `2026-wk03-thu-tnf`.
 - Waivers processed Wed 3:13:21 AM ET (measured): **Mariota/White cleared (seq 4); Wilson lost to Sea Squirts' first claim from #5 (seq 1); Mitchell lost to Umojan (seq 8) because winning claim 1 rolled me behind them.** Reconciled in `2026-wk03-wed-review`; no FA pivot, notes cleaned (3 orphans deleted).
 - Pending in Sleeper: **Hockenson for Emmett Johnson — confirmed sent by Sean Thu 2026-09-24, awaiting WCHolland's answer.** Nothing else. Hockenson-for-Pickens declined; Downs fallback cancelled (see Open threads).
 - Next runs: Thu TNF, Fri wire window (Wilson), Sun lineup.
 
 ## Open threads
-- **Daniels (QB, elbow, Doubtful, no timetable, expected to miss multiple games).** Mariota is the bridge. Drop Mariota the week Daniels is cleared; he has no other job here. Check status every run. Source: `2026-wk03-tue-waivers`.
-- **Nacua (WR, hip, Questionable, McVay noncommittal vs DEN).** Starts when active. If Out again Sunday, WR2 is Addison and Mumpfield is the third body. Unwind: none; he is the WR1.
-- **Evans (WR, hip, Questionable, "managed").** Sunday check. If Out, FLEX is Addison; Hill is the fallback if the receiver room empties further.
+- **Daniels (QB, dislocated left elbow, now Out; Quinn started Mariota vs SEA, no fracture, specialists, no timetable).** Mariota starts for me until Daniels is cleared; drop Mariota that week, he has no other job here. Check status every run. Source: `2026-wk03-thu-tnf`.
+- **Nacua (WR, hip/groin, Questionable, out of Wed walkthrough, limited all week, McVay noncommittal for SNF at DEN).** Starts when active. If Out again Sunday, WR2 is Addison and Mumpfield is the third body. Unwind: none; he is the WR1.
+- **Evans (WR, hip, Questionable, trending up — good chance to practice Thu/Fri and play vs ARI).** Sunday check. If Out, FLEX is Addison; Hill is the fallback if the receiver room empties further.
 - **Hockenson for Emmett Johnson (RB-KC) — sent Thu 2026-09-24, confirmed by Sean, live in Sleeper.** Do not point any other move at Hockenson while it stands (Lesson 7). No fallback: if declined, Hockenson stays and is the drop of record on the next add. Retires when they answer, or Sunday kickoff. Their TE room is Fannin alone but Fannin is producing (14 targets in two weeks), so this is insurance they can also buy free off the wire — expect a decline. Do not re-pitch a tight end into this league; every TE room is functional. Source: `2026-wk03-thu-trades`.
 - **Nacua and Evans both DNP Wednesday.** Addison is therefore a probable starter, not surplus, and is not tradeable this week. The Addison-for-Kamara pitch to What can Brown do for u? (best positional fit in the league) is held for next Thursday — they are this Sunday's opponent.
 - **Hockenson trade to Lawrence of Valinor — CLOSED.** Pickens declined by Lawrence of Valinor Tue night. **Do not send the Josh Downs fallback**; it is cancelled. They added Jake Ferguson off the wire Wed morning (Bowers now Q behind him, Goedert gone), so the TE hole the offer was priced against no longer exists. TE supply is glutted league-wide (Ertz, Schultz, Ferguson, Gadsden, Waller all moved or on the wire). Only genuine TE buyer left: The Wizard's Apprentice (Harold Fannin is their whole room) — one buyer who knows it, so expect to pay rather than be paid. Source: `2026-wk03-wed-trade-standdown`.
