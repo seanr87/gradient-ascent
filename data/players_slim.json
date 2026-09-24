@@ -2292,8 +2292,8 @@
   "pos": "QB",
   "team": "SEA",
   "status": "Active",
-  "injury_status": "Questionable",
-  "injury_note": "Lower Body"
+  "injury_status": null,
+  "injury_note": null
  },
  "5809": {
   "name": "Ja'Quan Gardner",
@@ -6108,8 +6108,8 @@
   "pos": "RB",
   "team": "SEA",
   "status": "Active",
-  "injury_status": "Questionable",
-  "injury_note": "Chest"
+  "injury_status": null,
+  "injury_note": null
  },
  "11589": {
   "name": "Trey Benson",
@@ -8868,8 +8868,8 @@
   "pos": "TE",
   "team": "LAR",
   "status": "Active",
-  "injury_status": "Questionable",
-  "injury_note": "Ankle"
+  "injury_status": null,
+  "injury_note": null
  },
  "8694": {
   "name": "Henry Litwin",
@@ -17204,8 +17204,8 @@
   "pos": "WR",
   "team": "SEA",
   "status": "Active",
-  "injury_status": "Questionable",
-  "injury_note": "Back"
+  "injury_status": null,
+  "injury_note": null
  },
  "3688": {
   "name": "Tra Carson",
