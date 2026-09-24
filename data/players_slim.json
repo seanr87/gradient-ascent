@@ -2930,7 +2930,7 @@
  "6045": {
   "name": "Gary Jennings",
   "pos": "WR",
-  "team": null,
+  "team": "LAC",
   "status": "Active",
   "injury_status": null,
   "injury_note": null
@@ -9796,8 +9796,8 @@
   "pos": "TE",
   "team": "TEN",
   "status": "Active",
-  "injury_status": null,
-  "injury_note": null
+  "injury_status": "Questionable",
+  "injury_note": "Illness"
  },
  "13909": {
   "name": "Elijah Tau-Tolliver",
@@ -13228,8 +13228,8 @@
   "pos": "QB",
   "team": "NYG",
   "status": "Active",
-  "injury_status": "Out",
-  "injury_note": "Knee - MCL"
+  "injury_status": "IR",
+  "injury_note": "Knee - Meniscus"
  },
  "173": {
   "name": "Andy Tanner",
@@ -16460,8 +16460,8 @@
   "pos": "WR",
   "team": "NYG",
   "status": "Active",
-  "injury_status": "Questionable",
-  "injury_note": "Shoulder"
+  "injury_status": null,
+  "injury_note": null
  },
  "4177": {
   "name": "Mack Hollins",
@@ -23074,7 +23074,7 @@
  "12865": {
   "name": "AJ Henning",
   "pos": "WR",
-  "team": null,
+  "team": "MIA",
   "status": "Active",
   "injury_status": null,
   "injury_note": null
@@ -23612,8 +23612,8 @@
   "pos": "RB",
   "team": "NO",
   "status": "Active",
-  "injury_status": null,
-  "injury_note": null
+  "injury_status": "Questionable",
+  "injury_note": "Illness"
  },
  "7670": {
   "name": "Joshua Palmer",
@@ -24580,8 +24580,8 @@
   "pos": "WR",
   "team": "CAR",
   "status": "Active",
-  "injury_status": null,
-  "injury_note": null
+  "injury_status": "Questionable",
+  "injury_note": "Knee"
  },
  "4146": {
   "name": "Dede Westbrook",
@@ -25868,8 +25868,8 @@
   "pos": "WR",
   "team": "NYJ",
   "status": "Active",
-  "injury_status": null,
-  "injury_note": null
+  "injury_status": "Questionable",
+  "injury_note": "Finger"
  },
  "4767": {
   "name": "Dane Evans",
@@ -28180,8 +28180,8 @@
   "pos": "K",
   "team": "CHI",
   "status": "Active",
-  "injury_status": null,
-  "injury_note": null
+  "injury_status": "Questionable",
+  "injury_note": "Hip"
  },
  "3412": {
   "name": "Devon Johnson",
