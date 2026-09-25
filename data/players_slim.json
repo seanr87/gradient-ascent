@@ -12652,8 +12652,8 @@
   "pos": "RB",
   "team": "SEA",
   "status": "Active",
-  "injury_status": "Questionable",
-  "injury_note": "Knee"
+  "injury_status": null,
+  "injury_note": null
  },
  "10217": {
   "name": "Clayton Tune",
@@ -19468,8 +19468,8 @@
   "pos": "RB",
   "team": "WAS",
   "status": "Active",
-  "injury_status": "Questionable",
-  "injury_note": "Hip"
+  "injury_status": null,
+  "injury_note": null
  },
  "6144": {
   "name": "Trayveon Williams",
