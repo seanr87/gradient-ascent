@@ -2,7 +2,7 @@
 
 Rewritten in full every Tuesday at 6:00 AM ET by the process review; `## State` and `## Open threads` updated by every decision run in the same commit as its decision. Hard cap 150 lines. Older weeks roll up; git history is the archive. Cite a thesis or lesson by name instead of re-arguing it.
 
-Last full rewrite: 2026-09-23 (built from every decision and post through Week 3 Tuesday). Last touched: 2026-09-24 (Thu TNF call).
+Last full rewrite: 2026-09-23 (built from every decision and post through Week 3 Tuesday). Last touched: 2026-09-26 (Sat chat reply).
 
 ## State
 - Record 1-1, 258.05 PF, 5th of 12. NFL Week 3. Opponent: What can Brown do for u? (0-2, 196.29 PF, league-low scorer, waiver #3).
@@ -12,7 +12,8 @@ Last full rewrite: 2026-09-23 (built from every decision and post through Week 3
 - **No rostered player in Thursday's game (Atlanta at Green Bay); no slot locked early.** Neither does the opponent. Source: `2026-wk03-thu-tnf`.
 - Waivers processed Wed 3:13:21 AM ET (measured): **Mariota/White cleared (seq 4); Wilson lost to Sea Squirts' first claim from #5 (seq 1); Mitchell lost to Umojan (seq 8) because winning claim 1 rolled me behind them.** Reconciled in `2026-wk03-wed-review`; no FA pivot, notes cleaned (3 orphans deleted).
 - Pending in Sleeper: **Hockenson for Emmett Johnson — confirmed sent by Sean Thu 2026-09-24, awaiting WCHolland's answer.** Nothing else. Hockenson-for-Pickens declined; Downs fallback cancelled (see Open threads).
-- Next runs: Thu TNF, Fri wire window (Wilson), Sun lineup.
+- Next runs: Sun lineup (9:00 AM ET), Mon chat, Tue process review.
+- Chat thread live four days running: Sat reply sent to Lost in the Land of Love over their Chase McLaughlin round trip (added Thu 5:58 AM, dropped Fri 3:18 PM). Lawrence of Valinor's anti-AI jab left unanswered on purpose. Source: `2026-wk03-sat-chat`.
 
 ## Open threads
 - **Daniels (QB, dislocated left elbow, now Out; Quinn started Mariota vs SEA, no fracture, specialists, no timetable).** Mariota starts for me until Daniels is cleared; drop Mariota that week, he has no other job here. Check status every run. Source: `2026-wk03-thu-tnf`.
@@ -30,7 +31,7 @@ Last full rewrite: 2026-09-23 (built from every decision and post through Week 3
 - **Buffalo DEF.** 12.00, 9.25. Streaming swap is a free-agent move by matchup, never a claim. Revisit Sunday if the matchup is bad.
 - **Waiver processing time.** Measured 3:14:05 AM ET (Wk 1) and 3:13:21 AM ET (Wk 2); Sleeper's screen says ~3:05, OPS says 3:00. Every `Do by` says 3:00 until the process review settles it. Source: `2026-wk03-wed-review`.
 - **Monday chat slot fires before MNF.** Structural; the process review may move the slot now that the routine is agent-owned. Rule in force: cite only games with every starter finished. Source: `2026-wk02-sun-chat`.
-- **League chat is unreadable by API.** Replies happen only when Sean screenshots it. Display names in `2026-wk02-sun-chat`, plus **theBigScone = Lost in the Land of Love**, **omarhouse = Three Wise Jaylens**, **Kyber1138 = Playful Secrets** (`2026-wk03-fri-chat`, `-chat-2`). Live replies are written as a `kind: chat` file the same day; Monday's slot keeps the scheduled message.
+- **League chat is unreadable by API.** Replies happen only when Sean screenshots it. Display names in `2026-wk02-sun-chat`, plus **theBigScone = Lost in the Land of Love**, **omarhouse = Three Wise Jaylens**, **Kyber1138 = Playful Secrets**, **SpaceElf = Lawrence of Valinor**, **OldLatrobe = TheTroubles** (`2026-wk03-fri-chat`, `-chat-2`, `-sat-chat`). Live replies are written as a `kind: chat` file the same day; Monday's slot keeps the scheduled message.
 - **`data/correspondence.md` — new, built at Sean's request 2026-09-23, NOT yet wired into the process.** Per-manager record of every message sent and received, with a standing read per manager. Seeded from every decision file to date. **For Tuesday's process review:** adopt it into COMMON (a "Correspondence" section: any run that sends or receives a message appends in the same commit; record a trade offer's message *text*, not just the GET line; `DRAFTED` until Sean confirms it went out, then `SENT`) and add `data/correspondence.md` to COMMON's git-add line and its `data/` write carve-out. I could not do this myself — `tasks/` is the review's alone. Kill condition if adopted: two consecutive weeks where no run appends and no standing read changes a trade decision. Until adopted, no run reads it and it decays.
 
 ## Theses
