@@ -1,5 +1,5 @@
 # Sleeper digest — The Climb
-Pulled: 2026-09-26 16:28 UTC · NFL week 3 (regular)
+Pulled: 2026-09-26 17:23 UTC · NFL week 3 (regular)
 
 ## My roster
 - Dalton Kincaid (TE-BUF) (STARTER)
@@ -51,31 +51,31 @@ Pulled: 2026-09-26 16:28 UTC · NFL week 3 (regular)
 - The Wizard’s Apprentice 147.36 — Gradient Ascent 117.59
 
 ## Trending adds (24h, all Sleeper)
-- Terrance Ferguson (TE-LAR) — 311,944 adds
-- Darren Waller (TE-CAR) — 191,610 adds
-- Sam Darnold (QB-SEA) — 130,179 adds
-- AJ Dillon (RB-CAR) — 115,144 adds
-- Malik Washington (WR-MIA) — 105,144 adds
-- Emanuel Wilson (RB-SEA) — 97,047 adds
-- Kirk Cousins (QB-LV) — 90,040 adds
-- Adonai Mitchell (WR-NYJ) [Questionable] — 85,600 adds
-- Emmett Johnson (RB-KC) — 84,636 adds
-- Xavier Hutchinson (WR-HOU) — 82,495 adds
-- Alvin Kamara (RB-NO) — 66,808 adds
-- Kyler Murray (QB-MIN) — 63,480 adds
-- Chase McLaughlin (K-TB) — 58,400 adds
-- Keon Coleman (WR-BUF) [Questionable] — 56,016 adds
-- Deshaun Watson (QB-CLE) — 47,448 adds
-- Xavier Worthy (WR-KC) — 46,539 adds
-- Khalil Shakir (WR-BUF) — 45,504 adds
-- Tyquan Thornton (WR-KC) — 45,479 adds
-- Tre Tucker (WR-LV) — 44,580 adds
-- Isaiah Williams (WR-NYJ) — 40,452 adds
-- Oronde Gadsden (TE-LAC) — 40,380 adds
-- Zach Ertz (TE-PHI) — 37,872 adds
-- Justice Hill (RB-BAL) — 37,755 adds
-- Tyler Shough (QB-NO) — 35,720 adds
-- New York Giants (DEF-NYG) — 34,932 adds
+- Terrance Ferguson (TE-LAR) — 321,688 adds
+- Darren Waller (TE-CAR) — 183,294 adds
+- Sam Darnold (QB-SEA) — 126,219 adds
+- AJ Dillon (RB-CAR) — 110,664 adds
+- Malik Washington (WR-MIA) — 108,648 adds
+- Emanuel Wilson (RB-SEA) — 89,163 adds
+- Kirk Cousins (QB-LV) — 86,872 adds
+- Xavier Hutchinson (WR-HOU) — 85,925 adds
+- Emmett Johnson (RB-KC) — 85,347 adds
+- Adonai Mitchell (WR-NYJ) [Questionable] — 82,632 adds
+- Alvin Kamara (RB-NO) — 65,080 adds
+- Kyler Murray (QB-MIN) — 60,560 adds
+- Chase McLaughlin (K-TB) — 57,000 adds
+- Keon Coleman (WR-BUF) [Questionable] — 55,152 adds
+- Deshaun Watson (QB-CLE) — 45,680 adds
+- Khalil Shakir (WR-BUF) — 45,603 adds
+- Xavier Worthy (WR-KC) — 44,874 adds
+- Tyquan Thornton (WR-KC) — 44,597 adds
+- Tre Tucker (WR-LV) — 43,110 adds
+- Isaiah Williams (WR-NYJ) — 41,010 adds
+- Oronde Gadsden (TE-LAC) — 39,870 adds
+- Justice Hill (RB-BAL) — 37,611 adds
+- Zach Ertz (TE-PHI) — 36,576 adds
+- Eli Heidenreich (RB-PIT) — 34,752 adds
+- New York Giants (DEF-NYG) — 34,540 adds
 
 ## League transactions this week
 - free_agent (complete) TheTroubles: +[San Francisco 49ers (DEF-SF)] -[Los Angeles Chargers (DEF-LAC)]
