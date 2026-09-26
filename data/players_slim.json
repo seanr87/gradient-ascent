@@ -11508,7 +11508,7 @@
   "pos": "WR",
   "team": "CIN",
   "status": "Inactive",
-  "injury_status": "Out",
+  "injury_status": "IR",
   "injury_note": "Thumb"
  },
  "4285": {
@@ -11964,8 +11964,8 @@
   "pos": "RB",
   "team": "PHI",
   "status": "Active",
-  "injury_status": "Questionable",
-  "injury_note": "Foot"
+  "injury_status": null,
+  "injury_note": null
  },
  "12540": {
   "name": "Chimere Dike",
@@ -14180,7 +14180,7 @@
   "pos": "TE",
   "team": "PHI",
   "status": "Active",
-  "injury_status": "Doubtful",
+  "injury_status": "Out",
   "injury_note": "Knee - MCL"
  },
  "12849": {
@@ -15900,8 +15900,8 @@
   "pos": "WR",
   "team": "PHI",
   "status": "Active",
-  "injury_status": "Questionable",
-  "injury_note": "Hamstring"
+  "injury_status": null,
+  "injury_note": null
  },
  "2918": {
   "name": "Demetrius Wilson",
@@ -16532,7 +16532,7 @@
   "pos": "WR",
   "team": "PHI",
   "status": "Active",
-  "injury_status": "Questionable",
+  "injury_status": "Out",
   "injury_note": "Ankle"
  },
  "11169": {
@@ -16836,7 +16836,7 @@
   "pos": "QB",
   "team": "LV",
   "status": "Active",
-  "injury_status": "Questionable",
+  "injury_status": "Out",
   "injury_note": "Personal"
  },
  "4301": {
@@ -20468,7 +20468,7 @@
   "pos": "RB",
   "team": "NYJ",
   "status": "Active",
-  "injury_status": "Doubtful",
+  "injury_status": "Out",
   "injury_note": "Back"
  },
  "11867": {
@@ -23380,8 +23380,8 @@
   "pos": "RB",
   "team": "PHI",
   "status": "Active",
-  "injury_status": "Questionable",
-  "injury_note": "Abdomen"
+  "injury_status": null,
+  "injury_note": null
  },
  "7218": {
   "name": "Cam Sutton",
@@ -28180,8 +28180,8 @@
   "pos": "K",
   "team": "CHI",
   "status": "Active",
-  "injury_status": "Questionable",
-  "injury_note": "Hip"
+  "injury_status": null,
+  "injury_note": null
  },
  "3412": {
   "name": "Devon Johnson",
@@ -28484,7 +28484,7 @@
   "pos": "QB",
   "team": "CHI",
   "status": "Active",
-  "injury_status": "Doubtful",
+  "injury_status": "Out",
   "injury_note": "Hamstring"
  },
  "2247": {

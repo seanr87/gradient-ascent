@@ -3,13 +3,13 @@
 # acquired is "Draft" or "Wk N"; acquired_via says how (round and pick,
 # free agent, waiver claim, trade); acquired_week is 0 for the draft.
 - slot: "QB"
-  player: "Jayden Daniels"
+  player: "Marcus Mariota"
   pos: "QB"
   team: "WAS"
-  status: "Out"
-  acquired: "Draft"
-  acquired_via: "R5, pick 55"
-  acquired_week: 0
+  status: ""
+  acquired: "Wk 2"
+  acquired_via: "waiver claim"
+  acquired_week: 2
 - slot: "RB"
   player: "Bucky Irving"
   pos: "RB"
@@ -75,13 +75,13 @@
   acquired_via: "R12, pick 138"
   acquired_week: 0
 - slot: "BN1"
-  player: "Marcus Mariota"
+  player: "Jayden Daniels"
   pos: "QB"
   team: "WAS"
-  status: ""
-  acquired: "Wk 2"
-  acquired_via: "waiver claim"
-  acquired_week: 2
+  status: "Out"
+  acquired: "Draft"
+  acquired_via: "R5, pick 55"
+  acquired_week: 0
 - slot: "BN2"
   player: "Justice Hill"
   pos: "RB"
