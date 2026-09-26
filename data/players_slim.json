@@ -2740,8 +2740,8 @@
   "pos": "WR",
   "team": "BAL",
   "status": "Active",
-  "injury_status": "Questionable",
-  "injury_note": "Ankle"
+  "injury_status": null,
+  "injury_note": null
  },
  "6970": {
   "name": "Stephen Sullivan",
@@ -3316,8 +3316,8 @@
   "pos": "WR",
   "team": "LAC",
   "status": "Active",
-  "injury_status": "Questionable",
-  "injury_note": "Hip"
+  "injury_status": "Out",
+  "injury_note": "Quadriceps"
  },
  "13939": {
   "name": "Gabriel Benyard",
@@ -8268,8 +8268,8 @@
   "pos": "WR",
   "team": "JAX",
   "status": "Active",
-  "injury_status": "Questionable",
-  "injury_note": "Thumb"
+  "injury_status": null,
+  "injury_note": null
  },
  "11529": {
   "name": "Ed Lee",
@@ -8314,7 +8314,7 @@
  "12946": {
   "name": "Dontae Fleming",
   "pos": "WR",
-  "team": "MIN",
+  "team": null,
   "status": "Inactive",
   "injury_status": null,
   "injury_note": null
@@ -8796,7 +8796,7 @@
   "pos": "WR",
   "team": "HOU",
   "status": "Active",
-  "injury_status": "Questionable",
+  "injury_status": "Out",
   "injury_note": "Hamstring"
  },
  "13582": {
@@ -9100,7 +9100,7 @@
   "pos": "WR",
   "team": "MIA",
   "status": "Active",
-  "injury_status": "Questionable",
+  "injury_status": "Out",
   "injury_note": "Ankle"
  },
  "6263": {
@@ -9115,8 +9115,8 @@
   "name": "Rico Dowdle",
   "pos": "RB",
   "team": "PIT",
-  "status": "Active",
-  "injury_status": "Questionable",
+  "status": "Inactive",
+  "injury_status": "Out",
   "injury_note": "Toe"
  },
  "11301": {
@@ -9588,8 +9588,8 @@
   "pos": "WR",
   "team": "MIA",
   "status": "Active",
-  "injury_status": "Questionable",
-  "injury_note": "Knee"
+  "injury_status": null,
+  "injury_note": null
  },
  "7521": {
   "name": "Chris Blair",
@@ -9796,8 +9796,8 @@
   "pos": "TE",
   "team": "TEN",
   "status": "Active",
-  "injury_status": "Questionable",
-  "injury_note": "Illness"
+  "injury_status": null,
+  "injury_note": null
  },
  "13909": {
   "name": "Elijah Tau-Tolliver",
@@ -11468,8 +11468,8 @@
   "pos": "WR",
   "team": "LAR",
   "status": "Active",
-  "injury_status": "Questionable",
-  "injury_note": "Groin"
+  "injury_status": "Doubtful",
+  "injury_note": "Hip"
  },
  "13149": {
   "name": "Caden Davis",
@@ -12356,8 +12356,8 @@
   "pos": "RB",
   "team": "PHI",
   "status": "Active",
-  "injury_status": "Questionable",
-  "injury_note": "Arm"
+  "injury_status": null,
+  "injury_note": null
  },
  "8778": {
   "name": "Justin Rigg",
@@ -12612,8 +12612,8 @@
   "pos": "RB",
   "team": "TEN",
   "status": "Active",
-  "injury_status": "Questionable",
-  "injury_note": "Undisclosed"
+  "injury_status": null,
+  "injury_note": null
  },
  "5384": {
   "name": "Jonah Trinnaman",
@@ -12716,8 +12716,8 @@
   "pos": "WR",
   "team": "WAS",
   "status": "Active",
-  "injury_status": "Questionable",
-  "injury_note": "Groin"
+  "injury_status": null,
+  "injury_note": null
  },
  "3454": {
   "name": "Danny Anthrop",
@@ -12828,8 +12828,8 @@
   "pos": "RB",
   "team": "SEA",
   "status": "Active",
-  "injury_status": "Questionable",
-  "injury_note": "Chest"
+  "injury_status": null,
+  "injury_note": null
  },
  "10211": {
   "name": "Camerun Peoples",
@@ -12900,7 +12900,7 @@
   "pos": "WR",
   "team": "IND",
   "status": "Inactive",
-  "injury_status": "Out",
+  "injury_status": "IR",
   "injury_note": "Heel"
  },
  "621": {
@@ -16532,8 +16532,8 @@
   "pos": "WR",
   "team": "PHI",
   "status": "Active",
-  "injury_status": null,
-  "injury_note": null
+  "injury_status": "Questionable",
+  "injury_note": "Ankle"
  },
  "11169": {
   "name": "Dresser Winn",
@@ -17236,8 +17236,8 @@
   "pos": "QB",
   "team": "LAC",
   "status": "Active",
-  "injury_status": null,
-  "injury_note": null
+  "injury_status": "Questionable",
+  "injury_note": "Groin"
  },
  "1085": {
   "name": "Brandon Weeden",
@@ -18292,8 +18292,8 @@
   "pos": "RB",
   "team": "NE",
   "status": "Active",
-  "injury_status": "Questionable",
-  "injury_note": "Knee"
+  "injury_status": null,
+  "injury_note": null
  },
  "5117": {
   "name": "Jordan Thomas",
@@ -20468,7 +20468,7 @@
   "pos": "RB",
   "team": "NYJ",
   "status": "Active",
-  "injury_status": "Questionable",
+  "injury_status": "Doubtful",
   "injury_note": "Back"
  },
  "11867": {
@@ -21172,8 +21172,8 @@
   "pos": "RB",
   "team": "NO",
   "status": "Active",
-  "injury_status": "Questionable",
-  "injury_note": "Hamstring"
+  "injury_status": null,
+  "injury_note": null
  },
  "12217": {
   "name": "Shawn Bowman",
@@ -21612,8 +21612,8 @@
   "pos": "RB",
   "team": "CHI",
   "status": "Active",
-  "injury_status": "Questionable",
-  "injury_note": "Undisclosed"
+  "injury_status": null,
+  "injury_note": null
  },
  "2205": {
   "name": "Seantavius Jones",
@@ -21860,7 +21860,7 @@
   "pos": "WR",
   "team": "NO",
   "status": "Active",
-  "injury_status": "Questionable",
+  "injury_status": "Out",
   "injury_note": "Hamstring"
  },
  "2915": {
@@ -22202,7 +22202,7 @@
  "6290": {
   "name": "Scotty Miller",
   "pos": "WR",
-  "team": "CHI",
+  "team": null,
   "status": "Active",
   "injury_status": null,
   "injury_note": null
@@ -22988,8 +22988,8 @@
   "pos": "RB",
   "team": "MIN",
   "status": "Active",
-  "injury_status": "Questionable",
-  "injury_note": "Undisclosed"
+  "injury_status": null,
+  "injury_note": null
  },
  "4515": {
   "name": "B.J. Johnson",
@@ -23140,7 +23140,7 @@
   "pos": "TE",
   "team": "NYJ",
   "status": "Active",
-  "injury_status": "Doubtful",
+  "injury_status": "Out",
   "injury_note": "Thumb"
  },
  "13242": {
@@ -23228,8 +23228,8 @@
   "pos": "RB",
   "team": "MIN",
   "status": "Active",
-  "injury_status": "Questionable",
-  "injury_note": "Toe"
+  "injury_status": null,
+  "injury_note": null
  },
  "2597": {
   "name": "Michael Dyer",
@@ -23260,8 +23260,8 @@
   "pos": "WR",
   "team": "LAR",
   "status": "Active",
-  "injury_status": "Questionable",
-  "injury_note": "Quadriceps"
+  "injury_status": null,
+  "injury_note": null
  },
  "5915": {
   "name": "Andy Isabella",
@@ -23612,8 +23612,8 @@
   "pos": "RB",
   "team": "NO",
   "status": "Active",
-  "injury_status": "Questionable",
-  "injury_note": "Illness"
+  "injury_status": null,
+  "injury_note": null
  },
  "7670": {
   "name": "Joshua Palmer",
@@ -26532,8 +26532,8 @@
   "pos": "RB",
   "team": "JAX",
   "status": "Active",
-  "injury_status": "Questionable",
-  "injury_note": "Hip"
+  "injury_status": null,
+  "injury_note": null
  },
  "11249": {
   "name": "Chris Smith",
@@ -26900,7 +26900,7 @@
   "pos": "RB",
   "team": "DEN",
   "status": "Active",
-  "injury_status": "Questionable",
+  "injury_status": "Out",
   "injury_note": "Ankle"
  },
  "11168": {
@@ -30604,7 +30604,7 @@
   "pos": "TE",
   "team": "WAS",
   "status": "Active",
-  "injury_status": "Questionable",
+  "injury_status": "Out",
   "injury_note": "Hamstring"
  },
  "6151": {
@@ -31780,8 +31780,8 @@
   "pos": "RB",
   "team": "MIA",
   "status": "Active",
-  "injury_status": "Questionable",
-  "injury_note": "Neck"
+  "injury_status": "Doubtful",
+  "injury_note": "Foot"
  },
  "198": {
   "name": "Kellen Clemens",
@@ -33156,7 +33156,7 @@
   "pos": "WR",
   "team": "IND",
   "status": "Active",
-  "injury_status": "Questionable",
+  "injury_status": "Out",
   "injury_note": "Ankle"
  },
  "13005": {

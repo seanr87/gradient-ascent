@@ -1,5 +1,5 @@
 # Sleeper digest — The Climb
-Pulled: 2026-09-25 14:21 UTC · NFL week 3 (regular)
+Pulled: 2026-09-26 16:28 UTC · NFL week 3 (regular)
 
 ## My roster
 - Dalton Kincaid (TE-BUF) (STARTER)
@@ -13,7 +13,7 @@ Pulled: 2026-09-25 14:21 UTC · NFL week 3 (regular)
 - T.J. Hockenson (TE-MIN)
 - Justice Hill (RB-BAL)
 - CeeDee Lamb (WR-DAL) (STARTER)
-- Puka Nacua (WR-LAR) [Questionable] (STARTER)
+- Puka Nacua (WR-LAR) [Doubtful] (STARTER)
 - Jordan Addison (WR-MIN)
 - Buffalo Bills (DEF-BUF) (STARTER)
 
@@ -51,33 +51,35 @@ Pulled: 2026-09-25 14:21 UTC · NFL week 3 (regular)
 - The Wizard’s Apprentice 147.36 — Gradient Ascent 117.59
 
 ## Trending adds (24h, all Sleeper)
-- Emanuel Wilson (RB-SEA) — 368,757 adds
-- Darren Waller (TE-CAR) — 331,632 adds
-- Adonai Mitchell (WR-NYJ) [Questionable] — 233,616 adds
-- AJ Dillon (RB-CAR) — 217,624 adds
-- Kyler Murray (QB-MIN) — 194,384 adds
-- Kirk Cousins (QB-LV) — 177,496 adds
-- Terrance Ferguson (TE-LAR) — 170,280 adds
-- Tyler Shough (QB-NO) — 166,152 adds
-- Alvin Kamara (RB-NO) — 162,208 adds
-- Chase McLaughlin (K-TB) — 147,808 adds
-- Keon Coleman (WR-BUF) [Questionable] — 109,143 adds
-- Zach Ertz (TE-PHI) — 105,597 adds
-- Minnesota Vikings (DEF-MIN) — 96,590 adds
-- Xavier Worthy (WR-KC) — 96,444 adds
-- Tre Tucker (WR-LV) — 96,162 adds
-- Tyquan Thornton (WR-KC) — 90,223 adds
-- Emmett Johnson (RB-KC) — 87,129 adds
-- C.J. Stroud (QB-HOU) — 86,177 adds
-- Malik Washington (WR-MIA) — 79,888 adds
-- Tank Bigsby (RB-PHI) [Questionable] — 74,984 adds
-- New York Giants (DEF-NYG) — 73,576 adds
-- Detroit Lions (DEF-DET) — 69,723 adds
-- Khalil Shakir (WR-BUF) — 64,188 adds
-- MarShawn Lloyd (RB-GB) — 61,848 adds
-- Deshaun Watson (QB-CLE) — 60,536 adds
+- Terrance Ferguson (TE-LAR) — 311,944 adds
+- Darren Waller (TE-CAR) — 191,610 adds
+- Sam Darnold (QB-SEA) — 130,179 adds
+- AJ Dillon (RB-CAR) — 115,144 adds
+- Malik Washington (WR-MIA) — 105,144 adds
+- Emanuel Wilson (RB-SEA) — 97,047 adds
+- Kirk Cousins (QB-LV) — 90,040 adds
+- Adonai Mitchell (WR-NYJ) [Questionable] — 85,600 adds
+- Emmett Johnson (RB-KC) — 84,636 adds
+- Xavier Hutchinson (WR-HOU) — 82,495 adds
+- Alvin Kamara (RB-NO) — 66,808 adds
+- Kyler Murray (QB-MIN) — 63,480 adds
+- Chase McLaughlin (K-TB) — 58,400 adds
+- Keon Coleman (WR-BUF) [Questionable] — 56,016 adds
+- Deshaun Watson (QB-CLE) — 47,448 adds
+- Xavier Worthy (WR-KC) — 46,539 adds
+- Khalil Shakir (WR-BUF) — 45,504 adds
+- Tyquan Thornton (WR-KC) — 45,479 adds
+- Tre Tucker (WR-LV) — 44,580 adds
+- Isaiah Williams (WR-NYJ) — 40,452 adds
+- Oronde Gadsden (TE-LAC) — 40,380 adds
+- Zach Ertz (TE-PHI) — 37,872 adds
+- Justice Hill (RB-BAL) — 37,755 adds
+- Tyler Shough (QB-NO) — 35,720 adds
+- New York Giants (DEF-NYG) — 34,932 adds
 
 ## League transactions this week
+- free_agent (complete) TheTroubles: +[San Francisco 49ers (DEF-SF)] -[Los Angeles Chargers (DEF-LAC)]
+- free_agent (complete) Lost in the Land of Love: +[Harrison Butker (K-KC)] -[Chase McLaughlin (K-TB)]
 - free_agent (complete) Princess Donut's Court: +[Jordan Love (QB-GB)] -[Jaxson Dart (QB-NYG) [IR]]
 - free_agent (complete) Lost in the Land of Love: +[Chase McLaughlin (K-TB)] -[Jason Myers (K-SEA)]
 - free_agent (complete) Sea Squirts: +[Tre Tucker (WR-LV)] -[Emanuel Wilson (RB-SEA)]
