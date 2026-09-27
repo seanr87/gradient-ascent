@@ -6227,8 +6227,8 @@
   "name": "Demarcus Robinson",
   "pos": "WR",
   "team": "SF",
-  "status": "Active",
-  "injury_status": "Doubtful",
+  "status": "Inactive",
+  "injury_status": "IR",
   "injury_note": "Ankle"
  },
  "7609": {
@@ -26899,8 +26899,8 @@
   "name": "Jonah Coleman",
   "pos": "RB",
   "team": "DEN",
-  "status": "Active",
-  "injury_status": "Out",
+  "status": "Inactive",
+  "injury_status": "IR",
   "injury_note": "Ankle"
  },
  "11168": {
