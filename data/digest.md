@@ -1,5 +1,5 @@
 # Sleeper digest — The Climb
-Pulled: 2026-09-27 15:13 UTC · NFL week 3 (regular)
+Pulled: 2026-09-27 16:57 UTC · NFL week 3 (regular)
 
 ## My roster
 - Dalton Kincaid (TE-BUF) (STARTER)
@@ -51,31 +51,31 @@ Pulled: 2026-09-27 15:13 UTC · NFL week 3 (regular)
 - The Wizard’s Apprentice 147.36 — Gradient Ascent 117.59
 
 ## Trending adds (24h, all Sleeper)
-- Terrance Ferguson (TE-LAR) — 495,760 adds
-- Malik Washington (WR-MIA) — 217,192 adds
-- Emmett Johnson (RB-KC) — 179,586 adds
-- Xavier Hutchinson (WR-HOU) — 170,044 adds
-- Tyreek Hill (WR-None) — 144,096 adds
-- Darren Waller (TE-CAR) — 133,425 adds
-- Sam Darnold (QB-SEA) — 110,898 adds
-- Alvin Kamara (RB-NO) — 96,432 adds
-- Kirk Cousins (QB-LV) — 82,776 adds
-- AJ Dillon (RB-CAR) — 78,096 adds
-- New York Giants (DEF-NYG) — 75,320 adds
-- Tyson Bagent (QB-CHI) [Questionable] — 75,258 adds
-- Isaiah Williams (WR-NYJ) — 72,168 adds
-- Adonai Mitchell (WR-NYJ) [Questionable] — 69,808 adds
-- Chase McLaughlin (K-TB) — 66,704 adds
-- Kyler Murray (QB-MIN) — 62,320 adds
-- Travis Homer (RB-PIT) — 60,616 adds
-- Keon Coleman (WR-BUF) [Questionable] — 59,976 adds
-- Justice Hill (RB-BAL) — 57,339 adds
-- Khalil Shakir (WR-BUF) — 56,871 adds
-- Emanuel Wilson (RB-SEA) — 54,855 adds
-- Tyquan Thornton (WR-KC) — 46,312 adds
-- Oronde Gadsden (TE-LAC) — 44,835 adds
-- Deshaun Watson (QB-CLE) — 44,192 adds
-- Eli Heidenreich (RB-PIT) — 43,700 adds
+- Terrance Ferguson (TE-LAR) — 622,528 adds
+- Malik Washington (WR-MIA) — 284,624 adds
+- Tyreek Hill (WR-None) — 261,664 adds
+- Xavier Hutchinson (WR-HOU) — 229,509 adds
+- Emmett Johnson (RB-KC) — 222,543 adds
+- Isaiah Williams (WR-NYJ) — 185,394 adds
+- Darren Waller (TE-CAR) — 154,926 adds
+- Sam Darnold (QB-SEA) — 135,156 adds
+- Alvin Kamara (RB-NO) — 123,704 adds
+- New York Giants (DEF-NYG) — 118,400 adds
+- Kirk Cousins (QB-LV) — 105,376 adds
+- Travis Homer (RB-PIT) — 98,544 adds
+- Tyson Bagent (QB-CHI) [Questionable] — 97,290 adds
+- AJ Dillon (RB-CAR) — 87,088 adds
+- Chase McLaughlin (K-TB) — 86,328 adds
+- Justice Hill (RB-BAL) — 78,885 adds
+- Kyler Murray (QB-MIN) — 78,416 adds
+- Keon Coleman (WR-BUF) — 74,241 adds
+- Adonai Mitchell (WR-NYJ) [Out] — 69,752 adds
+- Kenyon Sadiq (TE-NYJ) — 67,680 adds
+- Emanuel Wilson (RB-SEA) — 63,954 adds
+- Khalil Shakir (WR-BUF) — 63,342 adds
+- Deshaun Watson (QB-CLE) — 55,192 adds
+- Tyquan Thornton (WR-KC) — 54,908 adds
+- Oronde Gadsden (TE-LAC) — 54,845 adds
 
 ## League transactions this week
 - free_agent (complete) The Wizard’s Apprentice: +[Terrance Ferguson (TE-LAR)] -[Jonah Coleman (RB-DEN) [IR]]

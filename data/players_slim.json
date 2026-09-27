@@ -500,8 +500,8 @@
   "pos": "QB",
   "team": "NE",
   "status": "Active",
-  "injury_status": null,
-  "injury_note": null
+  "injury_status": "Out",
+  "injury_note": "Coach's Decision"
  },
  "355": {
   "name": "Brian Leonard",
@@ -2796,8 +2796,8 @@
   "pos": "WR",
   "team": "JAX",
   "status": "Active",
-  "injury_status": null,
-  "injury_note": null
+  "injury_status": "Out",
+  "injury_note": "Coach's Decision"
  },
  "12866": {
   "name": "Jalin Conyers",
@@ -2972,8 +2972,8 @@
   "pos": "TE",
   "team": "CIN",
   "status": "Active",
-  "injury_status": null,
-  "injury_note": null
+  "injury_status": "Out",
+  "injury_note": "Coach's Decision"
  },
  "2282": {
   "name": "Fitzgerald Toussaint",
@@ -3580,7 +3580,7 @@
   "pos": "TE",
   "team": "NE",
   "status": "Active",
-  "injury_status": "Questionable",
+  "injury_status": "Out",
   "injury_note": "Thigh"
  },
  "12250": {
@@ -4012,8 +4012,8 @@
   "pos": "RB",
   "team": "NYG",
   "status": "Active",
-  "injury_status": null,
-  "injury_note": null
+  "injury_status": "Out",
+  "injury_note": "Coach's Decision"
  },
  "3531": {
   "name": "Marshaun Coprich",
@@ -7348,8 +7348,8 @@
   "pos": "WR",
   "team": "SEA",
   "status": "Active",
-  "injury_status": null,
-  "injury_note": null
+  "injury_status": "Out",
+  "injury_note": "Coach's Decision"
  },
  "12455": {
   "name": "Brashard Smith",
@@ -8020,8 +8020,8 @@
   "pos": "RB",
   "team": "TEN",
   "status": "Active",
-  "injury_status": null,
-  "injury_note": null
+  "injury_status": "Out",
+  "injury_note": "Coach's Decision"
  },
  "8167": {
   "name": "Christian Watson",
@@ -10132,8 +10132,8 @@
   "pos": "QB",
   "team": "CAR",
   "status": "Active",
-  "injury_status": null,
-  "injury_note": null
+  "injury_status": "Out",
+  "injury_note": "Coach's Decision"
  },
  "6185": {
   "name": "Easton Stick",
@@ -10748,8 +10748,8 @@
   "pos": "RB",
   "team": "PIT",
   "status": "Active",
-  "injury_status": null,
-  "injury_note": null
+  "injury_status": "Out",
+  "injury_note": "Coach's Decision"
  },
  "5772": {
   "name": "Aaron Lacombe",
@@ -13996,8 +13996,8 @@
   "pos": "QB",
   "team": "IND",
   "status": "Active",
-  "injury_status": null,
-  "injury_note": null
+  "injury_status": "Out",
+  "injury_note": "Coach's Decision"
  },
  "12118": {
   "name": "Jacob Warren",
@@ -14156,8 +14156,8 @@
   "pos": "WR",
   "team": "BUF",
   "status": "Active",
-  "injury_status": "Questionable",
-  "injury_note": "Shoulder - AC Joint"
+  "injury_status": null,
+  "injury_note": null
  },
  "12460": {
   "name": "Antwane Wells",
@@ -14972,8 +14972,8 @@
   "pos": "TE",
   "team": "DET",
   "status": "Active",
-  "injury_status": null,
-  "injury_note": null
+  "injury_status": "Out",
+  "injury_note": "Coach's Decision"
  },
  "2189": {
   "name": "Tyler Gaffney",
@@ -15980,8 +15980,8 @@
   "pos": "QB",
   "team": "PIT",
   "status": "Active",
-  "injury_status": null,
-  "injury_note": null
+  "injury_status": "Out",
+  "injury_note": "Coach's Decision"
  },
  "8002": {
   "name": "Shane Buechele",
@@ -16620,8 +16620,8 @@
   "pos": "TE",
   "team": "NYG",
   "status": "Active",
-  "injury_status": null,
-  "injury_note": null
+  "injury_status": "Out",
+  "injury_note": "Coach's Decision"
  },
  "4650": {
   "name": "Billy Brown",
@@ -17236,8 +17236,8 @@
   "pos": "QB",
   "team": "LAC",
   "status": "Active",
-  "injury_status": "Questionable",
-  "injury_note": "Groin"
+  "injury_status": null,
+  "injury_note": null
  },
  "1085": {
   "name": "Brandon Weeden",
@@ -17364,8 +17364,8 @@
   "pos": "TE",
   "team": "HOU",
   "status": "Active",
-  "injury_status": null,
-  "injury_note": null
+  "injury_status": "Out",
+  "injury_note": "Coach's Decision"
  },
  "13776": {
   "name": "Hank Beatty",
@@ -18388,8 +18388,8 @@
   "pos": "TE",
   "team": "KC",
   "status": "Active",
-  "injury_status": null,
-  "injury_note": null
+  "injury_status": "Out",
+  "injury_note": "Coach's Decision"
  },
  "12531": {
   "name": "Trevor Etienne",
@@ -19956,8 +19956,8 @@
   "pos": "QB",
   "team": "LAC",
   "status": "Active",
-  "injury_status": null,
-  "injury_note": null
+  "injury_status": "Out",
+  "injury_note": "Coach's Decision"
  },
  "1299": {
   "name": "Kyle Miller",
@@ -20436,8 +20436,8 @@
   "pos": "QB",
   "team": "MIA",
   "status": "Active",
-  "injury_status": null,
-  "injury_note": null
+  "injury_status": "Out",
+  "injury_note": "Coach's Decision"
  },
  "4050": {
   "name": "Cyril Grayson",
@@ -20780,8 +20780,8 @@
   "pos": "K",
   "team": "NYJ",
   "status": "Active",
-  "injury_status": null,
-  "injury_note": null
+  "injury_status": "Out",
+  "injury_note": "Coach's Decision"
  },
  "2394": {
   "name": "Sean Mannion",
@@ -21596,8 +21596,8 @@
   "pos": "RB",
   "team": "TEN",
   "status": "Active",
-  "injury_status": "Questionable",
-  "injury_note": "Undisclosed"
+  "injury_status": null,
+  "injury_note": null
  },
  "11570": {
   "name": "Rasheen Ali",
@@ -23084,8 +23084,8 @@
   "pos": "WR",
   "team": "CAR",
   "status": "Active",
-  "injury_status": "Questionable",
-  "injury_note": "Ankle"
+  "injury_status": null,
+  "injury_note": null
  },
  "13316": {
   "name": "Eric Rivers",
@@ -24276,8 +24276,8 @@
   "pos": "RB",
   "team": "PIT",
   "status": "Active",
-  "injury_status": "Questionable",
-  "injury_note": "Undisclosed"
+  "injury_status": null,
+  "injury_note": null
  },
  "120": {
   "name": "Adam Vinatieri",
@@ -24580,7 +24580,7 @@
   "pos": "WR",
   "team": "CAR",
   "status": "Active",
-  "injury_status": "Questionable",
+  "injury_status": "Out",
   "injury_note": "Knee"
  },
  "4146": {
@@ -24604,8 +24604,8 @@
   "pos": "WR",
   "team": "BUF",
   "status": "Active",
-  "injury_status": "Questionable",
-  "injury_note": "Ankle"
+  "injury_status": null,
+  "injury_note": null
  },
  "7744": {
   "name": "Antonio Nunn",
@@ -25012,8 +25012,8 @@
   "pos": "QB",
   "team": "KC",
   "status": "Active",
-  "injury_status": null,
-  "injury_note": null
+  "injury_status": "Out",
+  "injury_note": "Coach's Decision"
  },
  "2593": {
   "name": "Antwan Goodley",
@@ -25316,8 +25316,8 @@
   "pos": "TE",
   "team": "CAR",
   "status": "Active",
-  "injury_status": null,
-  "injury_note": null
+  "injury_status": "Out",
+  "injury_note": "Coach's Decision"
  },
  "4475": {
   "name": "Sefo Liufau",
@@ -25868,7 +25868,7 @@
   "pos": "WR",
   "team": "NYJ",
   "status": "Active",
-  "injury_status": "Questionable",
+  "injury_status": "Out",
   "injury_note": "Finger"
  },
  "4767": {
@@ -26060,8 +26060,8 @@
   "pos": "RB",
   "team": "IND",
   "status": "Active",
-  "injury_status": null,
-  "injury_note": null
+  "injury_status": "Out",
+  "injury_note": "Coach's Decision"
  },
  "12467": {
   "name": "Jordan James",
@@ -26372,8 +26372,8 @@
   "pos": "TE",
   "team": "TEN",
   "status": "Active",
-  "injury_status": null,
-  "injury_note": null
+  "injury_status": "Out",
+  "injury_note": "Coach's Decision"
  },
  "12516": {
   "name": "Kalel Mullings",
@@ -26756,8 +26756,8 @@
   "pos": "WR",
   "team": "MIA",
   "status": "Active",
-  "injury_status": "Questionable",
-  "injury_note": "Hip"
+  "injury_status": null,
+  "injury_note": null
  },
  "6778": {
   "name": "Chris Streveler",
@@ -27732,8 +27732,8 @@
   "pos": "WR",
   "team": "BUF",
   "status": "Active",
-  "injury_status": null,
-  "injury_note": null
+  "injury_status": "Out",
+  "injury_note": "Coach's Decision"
  },
  "8127": {
   "name": "Charlie Kolar",
@@ -30108,8 +30108,8 @@
   "pos": "WR",
   "team": "IND",
   "status": "Active",
-  "injury_status": null,
-  "injury_note": null
+  "injury_status": "Out",
+  "injury_note": "Coach's Decision"
  },
  "1868": {
   "name": "Crockett Gillmore",
@@ -30412,8 +30412,8 @@
   "pos": "QB",
   "team": "SEA",
   "status": "Active",
-  "injury_status": null,
-  "injury_note": null
+  "injury_status": "Out",
+  "injury_note": "Coach's Decision"
  },
  "665": {
   "name": "Dennis Dixon",
@@ -30660,8 +30660,8 @@
   "pos": "QB",
   "team": "CLE",
   "status": "Active",
-  "injury_status": null,
-  "injury_note": null
+  "injury_status": "Out",
+  "injury_note": "Coach's Decision"
  },
  "13034": {
   "name": "Tyrone Broden",
@@ -31372,8 +31372,8 @@
   "pos": "QB",
   "team": "PIT",
   "status": "Active",
-  "injury_status": null,
-  "injury_note": null
+  "injury_status": "Out",
+  "injury_note": "Coach's Decision"
  },
  "6126": {
   "name": "Irv Smith",
@@ -31780,7 +31780,7 @@
   "pos": "RB",
   "team": "MIA",
   "status": "Active",
-  "injury_status": "Doubtful",
+  "injury_status": "Out",
   "injury_note": "Foot"
  },
  "198": {
@@ -32436,8 +32436,8 @@
   "pos": "WR",
   "team": "PIT",
   "status": "Active",
-  "injury_status": "Questionable",
-  "injury_note": "Foot"
+  "injury_status": null,
+  "injury_note": null
  },
  "3300": {
   "name": "DeAndre Washington",
