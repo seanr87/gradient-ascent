@@ -27,12 +27,12 @@
   acquired_via: "R4, pick 42"
   acquired_week: 0
 - slot: "WR"
-  player: "Puka Nacua"
+  player: "Jordan Addison"
   pos: "WR"
-  team: "LAR"
-  status: "Doubtful"
+  team: "MIN"
+  status: ""
   acquired: "Draft"
-  acquired_via: "R1, pick 7"
+  acquired_via: "R9, pick 103"
   acquired_week: 0
 - slot: "WR"
   player: "CeeDee Lamb"
@@ -91,14 +91,6 @@
   acquired_via: "free agent"
   acquired_week: 1
 - slot: "BN3"
-  player: "Jordan Addison"
-  pos: "WR"
-  team: "MIN"
-  status: ""
-  acquired: "Draft"
-  acquired_via: "R9, pick 103"
-  acquired_week: 0
-- slot: "BN4"
   player: "Konata Mumpfield"
   pos: "WR"
   team: "LAR"
@@ -106,6 +98,14 @@
   acquired: "Wk 2"
   acquired_via: "free agent"
   acquired_week: 2
+- slot: "BN4"
+  player: "Puka Nacua"
+  pos: "WR"
+  team: "LAR"
+  status: "Doubtful"
+  acquired: "Draft"
+  acquired_via: "R1, pick 7"
+  acquired_week: 0
 - slot: "BN5"
   player: "T.J. Hockenson"
   pos: "TE"

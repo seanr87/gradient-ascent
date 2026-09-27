@@ -1,5 +1,5 @@
 # Sleeper digest — The Climb
-Pulled: 2026-09-27 13:10 UTC · NFL week 3 (regular)
+Pulled: 2026-09-27 15:13 UTC · NFL week 3 (regular)
 
 ## My roster
 - Dalton Kincaid (TE-BUF) (STARTER)
@@ -13,8 +13,8 @@ Pulled: 2026-09-27 13:10 UTC · NFL week 3 (regular)
 - T.J. Hockenson (TE-MIN)
 - Justice Hill (RB-BAL)
 - CeeDee Lamb (WR-DAL) (STARTER)
-- Puka Nacua (WR-LAR) [Doubtful] (STARTER)
-- Jordan Addison (WR-MIN)
+- Puka Nacua (WR-LAR) [Doubtful]
+- Jordan Addison (WR-MIN) (STARTER)
 - Buffalo Bills (DEF-BUF) (STARTER)
 
 ## My matchup this week
@@ -51,33 +51,34 @@ Pulled: 2026-09-27 13:10 UTC · NFL week 3 (regular)
 - The Wizard’s Apprentice 147.36 — Gradient Ascent 117.59
 
 ## Trending adds (24h, all Sleeper)
-- Terrance Ferguson (TE-LAR) — 423,944 adds
-- Malik Washington (WR-MIA) — 180,072 adds
-- Emmett Johnson (RB-KC) — 153,882 adds
-- Xavier Hutchinson (WR-HOU) — 141,456 adds
-- Darren Waller (TE-CAR) — 121,194 adds
-- Sam Darnold (QB-SEA) — 97,110 adds
-- Tyreek Hill (WR-None) — 90,616 adds
-- Alvin Kamara (RB-NO) — 80,320 adds
-- AJ Dillon (RB-CAR) — 75,640 adds
-- Kirk Cousins (QB-LV) — 69,768 adds
-- Isaiah Williams (WR-NYJ) — 62,460 adds
-- Adonai Mitchell (WR-NYJ) [Questionable] — 61,816 adds
-- Tyson Bagent (QB-CHI) [Questionable] — 58,932 adds
-- Chase McLaughlin (K-TB) — 56,160 adds
-- New York Giants (DEF-NYG) — 54,412 adds
-- Kyler Murray (QB-MIN) — 53,464 adds
-- Travis Homer (RB-PIT) — 51,288 adds
-- Keon Coleman (WR-BUF) [Questionable] — 50,148 adds
-- Emanuel Wilson (RB-SEA) — 49,491 adds
-- Khalil Shakir (WR-BUF) — 49,284 adds
-- Justice Hill (RB-BAL) — 48,168 adds
-- Eli Heidenreich (RB-PIT) — 43,266 adds
-- Tyquan Thornton (WR-KC) — 40,789 adds
-- Oronde Gadsden (TE-LAC) — 40,470 adds
-- Deshaun Watson (QB-CLE) — 39,224 adds
+- Terrance Ferguson (TE-LAR) — 495,760 adds
+- Malik Washington (WR-MIA) — 217,192 adds
+- Emmett Johnson (RB-KC) — 179,586 adds
+- Xavier Hutchinson (WR-HOU) — 170,044 adds
+- Tyreek Hill (WR-None) — 144,096 adds
+- Darren Waller (TE-CAR) — 133,425 adds
+- Sam Darnold (QB-SEA) — 110,898 adds
+- Alvin Kamara (RB-NO) — 96,432 adds
+- Kirk Cousins (QB-LV) — 82,776 adds
+- AJ Dillon (RB-CAR) — 78,096 adds
+- New York Giants (DEF-NYG) — 75,320 adds
+- Tyson Bagent (QB-CHI) [Questionable] — 75,258 adds
+- Isaiah Williams (WR-NYJ) — 72,168 adds
+- Adonai Mitchell (WR-NYJ) [Questionable] — 69,808 adds
+- Chase McLaughlin (K-TB) — 66,704 adds
+- Kyler Murray (QB-MIN) — 62,320 adds
+- Travis Homer (RB-PIT) — 60,616 adds
+- Keon Coleman (WR-BUF) [Questionable] — 59,976 adds
+- Justice Hill (RB-BAL) — 57,339 adds
+- Khalil Shakir (WR-BUF) — 56,871 adds
+- Emanuel Wilson (RB-SEA) — 54,855 adds
+- Tyquan Thornton (WR-KC) — 46,312 adds
+- Oronde Gadsden (TE-LAC) — 44,835 adds
+- Deshaun Watson (QB-CLE) — 44,192 adds
+- Eli Heidenreich (RB-PIT) — 43,700 adds
 
 ## League transactions this week
+- free_agent (complete) The Wizard’s Apprentice: +[Terrance Ferguson (TE-LAR)] -[Jonah Coleman (RB-DEN) [IR]]
 - free_agent (complete) Lawrence of Valinor: +[Woody Marks (RB-HOU)] -[Bryce Young (QB-CAR)]
 - free_agent (complete) TheTroubles: +[San Francisco 49ers (DEF-SF)] -[Los Angeles Chargers (DEF-LAC)]
 - free_agent (complete) Lost in the Land of Love: +[Harrison Butker (K-KC)] -[Chase McLaughlin (K-TB)]
