@@ -46,7 +46,7 @@
   player: "Mike Evans"
   pos: "WR"
   team: "SF"
-  status: "Questionable"
+  status: "Out"
   acquired: "Draft"
   acquired_via: "R6, pick 66"
   acquired_week: 0
@@ -102,7 +102,7 @@
   player: "Puka Nacua"
   pos: "WR"
   team: "LAR"
-  status: "Doubtful"
+  status: "Out"
   acquired: "Draft"
   acquired_via: "R1, pick 7"
   acquired_week: 0

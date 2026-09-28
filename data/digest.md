@@ -1,5 +1,5 @@
 # Sleeper digest — The Climb
-Pulled: 2026-09-27 16:57 UTC · NFL week 3 (regular)
+Pulled: 2026-09-28 12:13 UTC · NFL week 3 (regular)
 
 ## My roster
 - Dalton Kincaid (TE-BUF) (STARTER)
@@ -8,12 +8,12 @@ Pulled: 2026-09-27 16:57 UTC · NFL week 3 (regular)
 - Cam Skattebo (RB-NYG) (STARTER)
 - Tyler Loop (K-BAL) (STARTER)
 - Konata Mumpfield (WR-LAR)
-- Mike Evans (WR-SF) [Questionable] (STARTER)
+- Mike Evans (WR-SF) [Out] (STARTER)
 - Marcus Mariota (QB-WAS) (STARTER)
 - T.J. Hockenson (TE-MIN)
 - Justice Hill (RB-BAL)
 - CeeDee Lamb (WR-DAL) (STARTER)
-- Puka Nacua (WR-LAR) [Doubtful]
+- Puka Nacua (WR-LAR) [Out]
 - Jordan Addison (WR-MIN) (STARTER)
 - Buffalo Bills (DEF-BUF) (STARTER)
 
@@ -35,12 +35,12 @@ Pulled: 2026-09-27 16:57 UTC · NFL week 3 (regular)
 12. Lost in the Land of Love — 0-2, 189.95 PF, waiver #11
 
 ## This week's matchups (week 3)
-- Lawrence of Valinor 39.30 — Princess Donut's Court 18.48
-- Playful Secrets 21.10 — Umojan Protectorate 2.00
-- Three Wise Jaylens  26.40 — Lost in the Land of Love 0.00
-- TheTroubles 5.10 — CorneliusJones 0.00
-- Sea Squirts 0.00 — The Wizard’s Apprentice 0.00
-- What can Brown do for u? 0.00 — Gradient Ascent 0.00
+- Lawrence of Valinor 144.03 — Princess Donut's Court 127.13
+- Playful Secrets 137.04 — Umojan Protectorate 101.86
+- Three Wise Jaylens  141.55 — Lost in the Land of Love 78.34
+- CorneliusJones 120.33 — TheTroubles 73.81
+- Sea Squirts 121.88 — The Wizard’s Apprentice 121.79
+- What can Brown do for u? 117.84 — Gradient Ascent 116.72
 
 ## Last week's results (week 2)
 - Umojan Protectorate 146.33 — Princess Donut's Court 114.32
@@ -51,34 +51,34 @@ Pulled: 2026-09-27 16:57 UTC · NFL week 3 (regular)
 - The Wizard’s Apprentice 147.36 — Gradient Ascent 117.59
 
 ## Trending adds (24h, all Sleeper)
-- Terrance Ferguson (TE-LAR) — 622,528 adds
-- Malik Washington (WR-MIA) — 284,624 adds
-- Tyreek Hill (WR-None) — 261,664 adds
-- Xavier Hutchinson (WR-HOU) — 229,509 adds
-- Emmett Johnson (RB-KC) — 222,543 adds
-- Isaiah Williams (WR-NYJ) — 185,394 adds
-- Darren Waller (TE-CAR) — 154,926 adds
-- Sam Darnold (QB-SEA) — 135,156 adds
-- Alvin Kamara (RB-NO) — 123,704 adds
-- New York Giants (DEF-NYG) — 118,400 adds
-- Kirk Cousins (QB-LV) — 105,376 adds
-- Travis Homer (RB-PIT) — 98,544 adds
-- Tyson Bagent (QB-CHI) [Questionable] — 97,290 adds
-- AJ Dillon (RB-CAR) — 87,088 adds
-- Chase McLaughlin (K-TB) — 86,328 adds
-- Justice Hill (RB-BAL) — 78,885 adds
-- Kyler Murray (QB-MIN) — 78,416 adds
-- Keon Coleman (WR-BUF) — 74,241 adds
-- Adonai Mitchell (WR-NYJ) [Out] — 69,752 adds
-- Kenyon Sadiq (TE-NYJ) — 67,680 adds
-- Emanuel Wilson (RB-SEA) — 63,954 adds
-- Khalil Shakir (WR-BUF) — 63,342 adds
-- Deshaun Watson (QB-CLE) — 55,192 adds
-- Tyquan Thornton (WR-KC) — 54,908 adds
-- Oronde Gadsden (TE-LAC) — 54,845 adds
+- Ollie Gordon (RB-MIA) [Questionable] — 1,977,115 adds
+- Tyreek Hill (WR-None) — 694,304 adds
+- Kenyon Sadiq (TE-NYJ) — 570,708 adds
+- Terrance Ferguson (TE-LAR) [Questionable] — 473,936 adds
+- Malik Washington (WR-MIA) — 242,472 adds
+- Sam Darnold (QB-SEA) — 197,376 adds
+- Kirk Cousins (QB-LV) — 194,824 adds
+- Braelon Allen (RB-NYJ) — 172,120 adds
+- Isaiah Williams (WR-NYJ) — 167,982 adds
+- Jordan Addison (WR-MIN) — 166,068 adds
+- Xavier Hutchinson (WR-HOU) — 148,134 adds
+- Darren Waller (TE-CAR) — 139,707 adds
+- Alvin Kamara (RB-NO) — 126,728 adds
+- Roman Wilson (WR-PIT) — 124,443 adds
+- Emmett Johnson (RB-KC) — 117,864 adds
+- Las Vegas Raiders (DEF-LV) — 104,658 adds
+- Chase McLaughlin (K-TB) — 103,288 adds
+- Keaton Mitchell (RB-LAC) — 100,476 adds
+- New York Giants (DEF-NYG) — 99,956 adds
+- Deshaun Watson (QB-CLE) — 94,880 adds
+- Tyler Shough (QB-NO) — 83,680 adds
+- Konata Mumpfield (WR-LAR) — 81,765 adds
+- Minnesota Vikings (DEF-MIN) — 79,125 adds
+- Justice Hill (RB-BAL) — 75,321 adds
+- Kyler Murray (QB-MIN) — 73,864 adds
 
 ## League transactions this week
-- free_agent (complete) The Wizard’s Apprentice: +[Terrance Ferguson (TE-LAR)] -[Jonah Coleman (RB-DEN) [IR]]
+- free_agent (complete) The Wizard’s Apprentice: +[Terrance Ferguson (TE-LAR) [Questionable]] -[Jonah Coleman (RB-DEN) [IR]]
 - free_agent (complete) Lawrence of Valinor: +[Woody Marks (RB-HOU)] -[Bryce Young (QB-CAR)]
 - free_agent (complete) TheTroubles: +[San Francisco 49ers (DEF-SF)] -[Los Angeles Chargers (DEF-LAC)]
 - free_agent (complete) Lost in the Land of Love: +[Harrison Butker (K-KC)] -[Chase McLaughlin (K-TB)]
