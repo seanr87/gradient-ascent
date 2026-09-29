@@ -1,5 +1,5 @@
 # Sleeper digest — The Climb
-Pulled: 2026-09-29 10:05 UTC · NFL week 4 (regular)
+Pulled: 2026-09-29 11:31 UTC · NFL week 4 (regular)
 
 ## My roster
 - Dalton Kincaid (TE-BUF) (STARTER)
@@ -51,30 +51,30 @@ Pulled: 2026-09-29 10:05 UTC · NFL week 4 (regular)
 - What can Brown do for u? 124.84 — Gradient Ascent 116.72
 
 ## Trending adds (24h, all Sleeper)
-- Ollie Gordon (RB-MIA) [Questionable] — 4,652,354 adds
-- Kenyon Sadiq (TE-NYJ) — 1,093,383 adds
-- Braelon Allen (RB-NYJ) — 905,452 adds
-- Tyreek Hill (WR-None) — 392,224 adds
-- Alvin Kamara (RB-NO) — 304,728 adds
-- Keaton Mitchell (RB-LAC) — 289,089 adds
-- Konata Mumpfield (WR-LAR) — 255,933 adds
-- Kirk Cousins (QB-LV) — 235,688 adds
-- Jordan Addison (WR-MIN) — 221,859 adds
-- Las Vegas Raiders (DEF-LV) — 199,122 adds
-- Keenan Allen (WR-IND) — 186,872 adds
-- Roman Wilson (WR-PIT) — 171,000 adds
-- Tyler Higbee (TE-LAR) — 161,055 adds
-- Darren Waller (TE-CAR) — 153,477 adds
-- Jaylen Wright (RB-MIA) [Out] — 134,718 adds
-- Kalif Raymond (WR-CHI) — 119,662 adds
-- Sam Darnold (QB-SEA) — 117,060 adds
-- Malik Washington (WR-MIA) — 116,840 adds
-- Austin Ekeler (RB-None) — 110,048 adds
-- Minnesota Vikings (DEF-MIN) — 103,385 adds
-- Jakobi Meyers (WR-JAX) — 94,740 adds
-- J.J. McCarthy (QB-NYG) [Out] — 94,305 adds
-- Baltimore Ravens (DEF-BAL) — 92,415 adds
-- Deshaun Watson (QB-CLE) — 91,288 adds
-- Michael Wilson (WR-ARI) — 75,888 adds
+- Ollie Gordon (RB-MIA) [Questionable] — 4,848,347 adds
+- Kenyon Sadiq (TE-NYJ) — 1,161,018 adds
+- Braelon Allen (RB-NYJ) — 1,011,540 adds
+- Tyreek Hill (WR-None) — 405,688 adds
+- Alvin Kamara (RB-NO) — 336,400 adds
+- Keaton Mitchell (RB-LAC) — 310,878 adds
+- Konata Mumpfield (WR-LAR) — 275,607 adds
+- Kirk Cousins (QB-LV) — 246,784 adds
+- Jordan Addison (WR-MIN) — 237,006 adds
+- Las Vegas Raiders (DEF-LV) — 209,214 adds
+- Keenan Allen (WR-IND) — 205,720 adds
+- Tyler Higbee (TE-LAR) — 186,939 adds
+- Roman Wilson (WR-PIT) — 179,370 adds
+- Darren Waller (TE-CAR) — 166,536 adds
+- Jaylen Wright (RB-MIA) [Out] — 147,166 adds
+- Kalif Raymond (WR-CHI) — 139,782 adds
+- Malik Washington (WR-MIA) — 122,504 adds
+- Sam Darnold (QB-SEA) — 120,429 adds
+- Minnesota Vikings (DEF-MIN) — 116,100 adds
+- Austin Ekeler (RB-None) — 111,460 adds
+- Baltimore Ravens (DEF-BAL) — 109,161 adds
+- Jakobi Meyers (WR-JAX) — 100,140 adds
+- J.J. McCarthy (QB-NYG) [Out] — 96,558 adds
+- Deshaun Watson (QB-CLE) — 96,272 adds
+- Isaiah Davis (RB-NYJ) — 89,730 adds
 
 ## League transactions this week
