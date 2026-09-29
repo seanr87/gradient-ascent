@@ -5106,10 +5106,10 @@
  "8500": {
   "name": "John FitzPatrick",
   "pos": "TE",
-  "team": null,
+  "team": "CLE",
   "status": "Active",
-  "injury_status": "Questionable",
-  "injury_note": "Achilles"
+  "injury_status": null,
+  "injury_note": null
  },
  "4037": {
   "name": "Chris Godwin",
@@ -29058,7 +29058,7 @@
  "13862": {
   "name": "Treyvhon Saunders",
   "pos": "WR",
-  "team": null,
+  "team": "HOU",
   "status": "Active",
   "injury_status": null,
   "injury_note": null
