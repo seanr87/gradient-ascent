@@ -1484,8 +1484,8 @@
   "pos": "RB",
   "team": null,
   "status": "Inactive",
-  "injury_status": "Questionable",
-  "injury_note": "Thigh"
+  "injury_status": null,
+  "injury_note": null
  },
  "11572": {
   "name": "Player Invalid",
@@ -8947,7 +8947,7 @@
   "name": "Josh Oliver",
   "pos": "TE",
   "team": "MIN",
-  "status": "Active",
+  "status": "Inactive",
   "injury_status": "Out",
   "injury_note": "Biceps"
  },
@@ -9538,7 +9538,7 @@
  "4663": {
   "name": "Austin Ekeler",
   "pos": "RB",
-  "team": null,
+  "team": "WAS",
   "status": "Active",
   "injury_status": null,
   "injury_note": null
@@ -15946,8 +15946,8 @@
  "12476": {
   "name": "Devin Neal",
   "pos": "RB",
-  "team": null,
-  "status": "Inactive",
+  "team": "MIN",
+  "status": "Active",
   "injury_status": "Questionable",
   "injury_note": "Hamstring"
  },
@@ -16850,7 +16850,7 @@
  "6037": {
   "name": "Brett Rypien",
   "pos": "QB",
-  "team": null,
+  "team": "TB",
   "status": "Active",
   "injury_status": null,
   "injury_note": null
@@ -17284,7 +17284,7 @@
   "pos": "WR",
   "team": "LV",
   "status": "Inactive",
-  "injury_status": "Out",
+  "injury_status": "IR",
   "injury_note": "Forearm"
  },
  "6223": {
@@ -27756,8 +27756,8 @@
   "pos": "WR",
   "team": null,
   "status": "Inactive",
-  "injury_status": "Questionable",
-  "injury_note": "Leg"
+  "injury_status": null,
+  "injury_note": null
  },
  "12883": {
   "name": "Joshua Simon",
@@ -27890,7 +27890,7 @@
  "4718": {
   "name": "Dare Ogunbowale",
   "pos": "RB",
-  "team": "LV",
+  "team": "HOU",
   "status": "Active",
   "injury_status": null,
   "injury_note": null
@@ -33650,7 +33650,7 @@
  "2334": {
   "name": "Phillip Dorsett",
   "pos": "WR",
-  "team": null,
+  "team": "LV",
   "status": "Active",
   "injury_status": null,
   "injury_note": null
