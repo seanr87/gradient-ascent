@@ -8,17 +8,20 @@ Last full rewrite: 2026-09-29 (first process review, covering Week 3). Last touc
 - **Week 3 final: lost 116.72 to What can Brown do for u? 124.84 (8.12).** Record 1-2, 374.77 PF, 8th of 12. NFL Week 4 opens Thu. Opponent: CorneliusJones (1-2, 343.82 PF, waiver #3).
 - Waiver position #5 of 12 (rolling; winning a claim drops me to #12).
 - Roster (14): QB Daniels [Out], Mariota; RB Irving, Skattebo, J. Hill; WR Lamb, Addison, Mumpfield, **Nacua [Out], Evans [Out]**; TE Kincaid, Hockenson; K Loop; DEF Buffalo.
-- Holes: **WR — Nacua and Evans both Out in the 2026-09-29 pull, three healthy receivers for two slots and a flex.** RB depth still three backs. QB: Mariota starts while Daniels is Out.
-- Pending in Sleeper: nothing. Last week's offers (Taylor, Pickens, Emmett Johnson) all dead. Hockenson is the drop of record.
-- Next runs: Tue column 7:30 AM, Tue waivers 6:00 PM (Do by Wed 3:00 AM ET; last week's landed 8:58 PM), Wed review, Thu scan.
+- Holes: **RB — Irving, Skattebo and Justice Hill for two slots and a flex; Hill is a backup in Baltimore.** WR is not a hole: Nacua may return Wk 4 (Schefter) and Evans is day-to-day (Rapoport), so the digest `Out` tags are Wk 3 residue. QB: Mariota starts while Daniels is Out.
+- Pending in Sleeper: **4 waiver claims filed Tue 6:20 PM, all sharing DROP Hockenson (Gordon, B. Allen, Raymond, K. Allen). Do by Wed 3:00 AM ET.** Last week's offers all dead.
+- Next runs: Wed post-waiver review 12:00 PM, Thu trade scan, Thu TNF.
 - Chat targets used: Wk1 Three Wise Jaylens, Wk2 CorneliusJones, Wk3 Lost in the Land of Love, then Princess Donut's Court (Mon). Sources: `2026-wk03-mon-chat`.
 
 ## Open threads
 - **Daniels (QB, dislocated elbow, Out, no timetable).** Mariota starts. Drop Mariota the week Daniels is cleared. Check status every run.
-- **Nacua (WR, Out) and Evans (WR, Out) — both flagged Out in the 2026-09-29 pull.** Addison and Lamb are the only sure receivers; Mumpfield now starts. WR is the claim priority for Tuesday's run. Drop candidates: Hockenson first, then Hill.
-- **RB depth.** Irving, Skattebo, Hill for two slots and a flex. Eagles backfield (Bigsby, Shipley) was free after Barkley's stinger; check Barkley's status. Thesis 3 trade market is dead (three offers, three refusals).
-- **Addison for Kamara pitch to What can Brown do for u?** Held; Addison is now a certain starter, so do not send.
-- **Wilson (RB-SEA)** cycled through Sea Squirts and back to the wire (Tre Tucker took his spot Wed 8:38 AM). Check if still free on Tuesday.
+- **Nacua (WR, hip) and Evans (WR, ribs).** Both `Out` in the pull, but Nacua has a Wk 4 chance and Evans is day-to-day. Unwinds when either is cleared; if both are still Out Sunday, Mumpfield starts and WR becomes a claim again.
+- **Wk 4 claim 1: Gordon (RB-MIA) / DROP Hockenson.** Achane out for the season. Unwinds Wed 3:14 AM: won, or lost to one of the four managers ahead of me.
+- **Wk 4 claim 2: B. Allen (RB-NYJ) / DROP Hockenson.** Backup to claim 1. Unwinds when Hall's quad heals even if won.
+- **Wk 4 claims 3-4: Raymond (WR-CHI), K. Allen (WR-IND) / DROP Hockenson.** Backups to 1-2; cancelled by any earlier win.
+- **Four orphan notes in `notes.yml`** (Gordon, B. Allen, Raymond, K. Allen) until Wednesday's review settles what cleared. Delete the losers then.
+- **RB depth.** Thesis 3 trade market is dead (three offers, three refusals); the wire is the only channel.
+- **Addison for Kamara pitch to What can Brown do for u?** Held; Addison is a certain starter, so do not send.
 - **Buffalo DEF.** 9.50 in Wk 3 (12.00, 9.25 before). Streaming is a free-agent move, never a claim.
 - **Waiver processing time.** 3:14:05 AM ET (2026-09-16) and 3:13:21 AM (2026-09-23) — different minutes, not settled. Every `Do by` stays 3:00 AM ET.
 - **Double-fire.** Both Sunday-lineup routines ran in full on 2026-09-27; the guard held (one file). Sean still has to disable the seven UI routines in `SCHEDULED-TASKS.md`.
