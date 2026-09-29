@@ -8898,7 +8898,7 @@
  "10221": {
   "name": "Ronnie Bell",
   "pos": "WR",
-  "team": "LV",
+  "team": null,
   "status": "Active",
   "injury_status": null,
   "injury_note": null
@@ -9402,7 +9402,7 @@
  "10215": {
   "name": "Jake Haener",
   "pos": "QB",
-  "team": "NYG",
+  "team": null,
   "status": "Active",
   "injury_status": null,
   "injury_note": null
