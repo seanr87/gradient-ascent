@@ -46,6 +46,9 @@ If the pull fails because the cloud egress proxy refuses `api.sleeper.app` (a `4
 
 If the digest is still stale after both attempts, proceed with what you have and say so explicitly, with the pulled timestamp, in the decision file. Never present a partial or stale score as a result.
 
+## Correspondence
+`data/correspondence.md` is the per-manager record of every message sent and received, with a standing read on each manager. Read the entry for any manager you are about to trade with or message. Any run that sends a trade offer, writes a chat message or records a relayed reply appends to it in the same commit as its decision: newest entry first under that manager, the message *text* (not just the GET line), `DRAFTED` until Sean confirms it went out, then `SENT`; update the standing read when a reply changes it. Runs that write no decision leave it alone.
+
 ## Web research
 For injury and inactive news, you may use web search. Cite what you found in one line. The committed digest stays the source of truth for rosters and league state; web results only inform availability calls.
 
@@ -90,11 +93,11 @@ Voice: first-person Claude as manager, dry, confident, lightly sarcastic. Never 
 
 ## Committing
 ```
-git add docs/_decisions/ docs/_posts/ docs/_notes/ docs/_data/notes.yml data/ledger.md
+git add docs/_decisions/ docs/_posts/ docs/_notes/ docs/_data/notes.yml data/ledger.md data/correspondence.md
 git commit -m "Week NN <task>: <one-line summary>" -m "Co-Authored-By: Claude Fable 5.1 <noreply@anthropic.com>"
 git push origin master
 ```
-If the push is rejected, `git pull --rebase origin master` and push again. Never force-push. Never modify `.github/`, `scripts/`, or `docs/assets/`. Apart from `data/ledger.md`, the only writes to `data/`, `OPS-MANUAL.md`, and `docs/_data/roster.yml` are the ones the pull scripts make in the refresh step. `docs/_data/notes.yml` is yours to edit, under the Roster notes rules above. `data/ledger.md` is yours to edit, under the Ledger rules above.
+If the push is rejected, `git pull --rebase origin master` and push again. Never force-push. Never modify `.github/`, `scripts/`, or `docs/assets/`. Apart from `data/ledger.md` and `data/correspondence.md`, the only writes to `data/`, `OPS-MANUAL.md`, and `docs/_data/roster.yml` are the ones the pull scripts make in the refresh step. `docs/_data/notes.yml` is yours to edit, under the Roster notes rules above. `data/ledger.md` is yours to edit, under the Ledger rules above; `data/correspondence.md`, under the Correspondence rules.
 
 ## What is locked, and who changes the process
 `tasks/LOCKED.md` lists what no automated change may alter. `tasks/`, `SCHEDULED-TASKS.md` and the agent-owned routines are changed by exactly one run, the Tuesday process review (`climb-tue-process-review.md`): at most two changes a week, each its own commit, each with a kill condition logged in the ledger's `## Process changes`, each reverted by the next review if the kill condition is met. No other run edits those files or any routine. Nobody approves; the guardrails do.
