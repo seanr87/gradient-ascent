@@ -3818,10 +3818,10 @@
  "13431": {
   "name": "Miles Kitselman",
   "pos": "TE",
-  "team": null,
-  "status": "Inactive",
-  "injury_status": "Questionable",
-  "injury_note": "Leg"
+  "team": "DET",
+  "status": "Active",
+  "injury_status": null,
+  "injury_note": null
  },
  "13310": {
   "name": "Miller Moss",
@@ -7724,8 +7724,8 @@
   "pos": "QB",
   "team": "TB",
   "status": "Active",
-  "injury_status": "Questionable",
-  "injury_note": "Hand"
+  "injury_status": "Out",
+  "injury_note": "Thumb"
  },
  "4137": {
   "name": "James Conner",
@@ -8948,8 +8948,8 @@
   "pos": "TE",
   "team": "MIN",
   "status": "Active",
-  "injury_status": "Questionable",
-  "injury_note": "Arm"
+  "injury_status": "Out",
+  "injury_note": "Biceps"
  },
  "11367": {
   "name": "Daewood Davis",
@@ -11164,8 +11164,8 @@
   "pos": "QB",
   "team": "PHI",
   "status": "Active",
-  "injury_status": null,
-  "injury_note": null
+  "injury_status": "Out",
+  "injury_note": "Coach's Decision"
  },
  "6490": {
   "name": "Mik'Quan Deane",
@@ -13666,7 +13666,7 @@
  "11565": {
   "name": "J.J. McCarthy",
   "pos": "QB",
-  "team": "MIN",
+  "team": "NYG",
   "status": "Active",
   "injury_status": "Out",
   "injury_note": "Coach's Decision"
@@ -15283,9 +15283,9 @@
   "name": "De'Von Achane",
   "pos": "RB",
   "team": "MIA",
-  "status": "Active",
-  "injury_status": "Out",
-  "injury_note": "Knee"
+  "status": "Inactive",
+  "injury_status": "IR",
+  "injury_note": "Knee - ACL"
  },
  "5536": {
   "name": "Dontrell Hilliard",
@@ -21172,8 +21172,8 @@
   "pos": "RB",
   "team": "NO",
   "status": "Active",
-  "injury_status": "Questionable",
-  "injury_note": "Undisclosed"
+  "injury_status": "Out",
+  "injury_note": "Hamstring"
  },
  "12217": {
   "name": "Shawn Bowman",
@@ -24988,8 +24988,8 @@
   "pos": "WR",
   "team": "CLE",
   "status": "Active",
-  "injury_status": null,
-  "injury_note": null
+  "injury_status": "Questionable",
+  "injury_note": "Knee"
  },
  "13645": {
   "name": "Michael Wortham",
@@ -25404,8 +25404,8 @@
   "pos": "QB",
   "team": "PHI",
   "status": "Active",
-  "injury_status": null,
-  "injury_note": null
+  "injury_status": "Out",
+  "injury_note": "Coach's Decision"
  },
  "5008": {
   "name": "Durham Smythe",
@@ -26196,8 +26196,8 @@
   "pos": "QB",
   "team": "BUF",
   "status": "Active",
-  "injury_status": null,
-  "injury_note": null
+  "injury_status": "Questionable",
+  "injury_note": "Knee"
  },
  "11053": {
   "name": "Antoine Green",
@@ -28538,7 +28538,7 @@
  "9490": {
   "name": "Tyler Scott",
   "pos": "WR",
-  "team": null,
+  "team": "LV",
   "status": "Active",
   "injury_status": null,
   "injury_note": null

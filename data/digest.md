@@ -1,5 +1,5 @@
 # Sleeper digest — The Climb
-Pulled: 2026-09-28 12:13 UTC · NFL week 3 (regular)
+Pulled: 2026-09-29 00:03 UTC · NFL week 3 (regular)
 
 ## My roster
 - Dalton Kincaid (TE-BUF) (STARTER)
@@ -51,31 +51,31 @@ Pulled: 2026-09-28 12:13 UTC · NFL week 3 (regular)
 - The Wizard’s Apprentice 147.36 — Gradient Ascent 117.59
 
 ## Trending adds (24h, all Sleeper)
-- Ollie Gordon (RB-MIA) [Questionable] — 1,977,115 adds
-- Tyreek Hill (WR-None) — 694,304 adds
-- Kenyon Sadiq (TE-NYJ) — 570,708 adds
-- Terrance Ferguson (TE-LAR) [Questionable] — 473,936 adds
-- Malik Washington (WR-MIA) — 242,472 adds
-- Sam Darnold (QB-SEA) — 197,376 adds
-- Kirk Cousins (QB-LV) — 194,824 adds
-- Braelon Allen (RB-NYJ) — 172,120 adds
-- Isaiah Williams (WR-NYJ) — 167,982 adds
-- Jordan Addison (WR-MIN) — 166,068 adds
-- Xavier Hutchinson (WR-HOU) — 148,134 adds
-- Darren Waller (TE-CAR) — 139,707 adds
-- Alvin Kamara (RB-NO) — 126,728 adds
-- Roman Wilson (WR-PIT) — 124,443 adds
-- Emmett Johnson (RB-KC) — 117,864 adds
-- Las Vegas Raiders (DEF-LV) — 104,658 adds
-- Chase McLaughlin (K-TB) — 103,288 adds
-- Keaton Mitchell (RB-LAC) — 100,476 adds
-- New York Giants (DEF-NYG) — 99,956 adds
-- Deshaun Watson (QB-CLE) — 94,880 adds
-- Tyler Shough (QB-NO) — 83,680 adds
-- Konata Mumpfield (WR-LAR) — 81,765 adds
-- Minnesota Vikings (DEF-MIN) — 79,125 adds
-- Justice Hill (RB-BAL) — 75,321 adds
-- Kyler Murray (QB-MIN) — 73,864 adds
+- Ollie Gordon (RB-MIA) [Questionable] — 4,030,551 adds
+- Kenyon Sadiq (TE-NYJ) — 833,157 adds
+- Braelon Allen (RB-NYJ) — 521,784 adds
+- Tyreek Hill (WR-None) — 414,672 adds
+- Kirk Cousins (QB-LV) — 205,856 adds
+- Jordan Addison (WR-MIN) — 190,458 adds
+- Keaton Mitchell (RB-LAC) — 184,986 adds
+- Konata Mumpfield (WR-LAR) — 183,006 adds
+- Alvin Kamara (RB-NO) — 164,440 adds
+- Las Vegas Raiders (DEF-LV) — 150,552 adds
+- Roman Wilson (WR-PIT) — 139,824 adds
+- Sam Darnold (QB-SEA) — 126,198 adds
+- Darren Waller (TE-CAR) — 112,824 adds
+- Keenan Allen (WR-IND) — 110,868 adds
+- Malik Washington (WR-MIA) — 92,608 adds
+- Deshaun Watson (QB-CLE) — 84,712 adds
+- Austin Ekeler (RB-None) — 80,136 adds
+- J.J. McCarthy (QB-NYG) [Out] — 78,306 adds
+- Jaylen Wright (RB-MIA) [Out] — 78,298 adds
+- Tyler Higbee (TE-LAR) — 70,443 adds
+- Minnesota Vikings (DEF-MIN) — 69,720 adds
+- Jakobi Meyers (WR-JAX) — 69,660 adds
+- Chase McLaughlin (K-TB) — 61,280 adds
+- Tyler Shough (QB-NO) — 59,800 adds
+- Michael Wilson (WR-ARI) — 59,058 adds
 
 ## League transactions this week
 - free_agent (complete) The Wizard’s Apprentice: +[Terrance Ferguson (TE-LAR) [Questionable]] -[Jonah Coleman (RB-DEN) [IR]]
