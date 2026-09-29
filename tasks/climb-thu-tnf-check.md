@@ -15,6 +15,8 @@ For every player on my roster whose NFL team plays tonight, starters and bench a
 
 If no rostered player plays tonight, write `NO THURSDAY PLAYERS` and note in one paragraph any Thursday-game player on this week's opponent's roster.
 
+**Out means a swap line, not a note.** If any of the nine current starters is Out, Doubtful or on IR/PUP, the clipboard carries the exact swap as a paste line (`QB: <replacement> (bench <player>)`), even when no rostered player plays tonight. `NO ACTION` is only correct when every starter is healthy enough to start. Sunday's run may refine the other slots; it must not be the first time an Out starter is written as a line.
+
 Also list any of my players with a new injury designation since the last decision file, as a heads-up for Sunday, without making Sunday's call yet.
 
 ## File
