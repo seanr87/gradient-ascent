@@ -2,30 +2,30 @@
 
 Rewritten in full every Tuesday at 6:00 AM ET by the process review; `## State` and `## Open threads` updated by every decision run in the same commit as its decision. Hard cap 150 lines. Older weeks roll up; git history is the archive. Cite a thesis or lesson by name instead of re-arguing it.
 
-Last full rewrite: 2026-09-29 (first process review, covering Week 3). Last touched: 2026-09-29.
+Last full rewrite: 2026-09-29 (first process review, covering Week 3). Last touched: 2026-09-30.
 
 ## State
-- **Week 3 final: lost 116.72 to What can Brown do for u? 124.84 (8.12).** Record 1-2, 374.77 PF, 8th of 12. NFL Week 4 opens Thu. Opponent: CorneliusJones (1-2, 343.82 PF, waiver #3).
-- Waiver position #5 of 12 (rolling; winning a claim drops me to #12).
-- Roster (14): QB Daniels [Out], Mariota; RB Irving, Skattebo, J. Hill; WR Lamb, Addison, Mumpfield, **Nacua [Out], Evans [Out]**; TE Kincaid, Hockenson; K Loop; DEF Buffalo.
-- Holes: **RB — Irving, Skattebo and Justice Hill for two slots and a flex; Hill is a backup in Baltimore.** WR is not a hole: Nacua may return Wk 4 (Schefter) and Evans is day-to-day (Rapoport), so the digest `Out` tags are Wk 3 residue. QB: Mariota starts while Daniels is Out.
-- Pending in Sleeper: **4 waiver claims filed Tue 6:20 PM, all sharing DROP Hockenson (Gordon, B. Allen, Raymond, K. Allen). Do by Wed 3:00 AM ET.** Last week's offers all dead.
-- Next runs: Wed post-waiver review 12:00 PM, Thu trade scan, Thu TNF.
+- **Week 3 final: lost 116.72 to What can Brown do for u? 124.84 (8.12).** Record 1-2, 374.77 PF, 8th of 12. NFL Week 4 opens Thu. Opponent: CorneliusJones (1-2, 343.82 PF).
+- Waiver position **#7 of 12** (won a claim at seq 3, so I sit ahead of the five other winners; six non-winners hold #1-#6).
+- Roster (14): QB Mariota, Daniels [Q]; RB Irving, Skattebo, **B. Allen**, J. Hill; WR Lamb, Addison, Mumpfield, Nacua [Q], Evans [Q]; TE Kincaid; K Loop; DEF Buffalo. Hockenson dropped Wed 3:13 AM.
+- Holes: **TE is one deep by choice (Kincaid only).** RB is three deep behind two slots and a flex, which was the point of the claim. WR is not a hole if Nacua or Evans clears.
+- Pending in Sleeper: **nothing.** All four Wk 4 claims resolved; last week's offers all dead.
+- Next runs: Thu trade scan 8:00 AM, Thu TNF 5:00 PM, Sun lineup.
 - Chat targets used: Wk1 Three Wise Jaylens, Wk2 CorneliusJones, Wk3 Lost in the Land of Love, then Princess Donut's Court (Mon). Sources: `2026-wk03-mon-chat`.
 
 ## Open threads
-- **Daniels (QB, dislocated elbow, Out, no timetable).** Mariota starts. Drop Mariota the week Daniels is cleared. Check status every run.
-- **Nacua (WR, hip) and Evans (WR, ribs).** Both `Out` in the pull, but Nacua has a Wk 4 chance and Evans is day-to-day. Unwinds when either is cleared; if both are still Out Sunday, Mumpfield starts and WR becomes a claim again.
-- **Wk 4 claim 1: Gordon (RB-MIA) / DROP Hockenson.** Achane out for the season. Unwinds Wed 3:14 AM: won, or lost to one of the four managers ahead of me.
-- **Wk 4 claim 2: B. Allen (RB-NYJ) / DROP Hockenson.** Backup to claim 1. Unwinds when Hall's quad heals even if won.
-- **Wk 4 claims 3-4: Raymond (WR-CHI), K. Allen (WR-IND) / DROP Hockenson.** Backups to 1-2; cancelled by any earlier win.
-- **Four orphan notes in `notes.yml`** (Gordon, B. Allen, Raymond, K. Allen) until Wednesday's review settles what cleared. Delete the losers then.
+- **Daniels (QB, dislocated elbow, Questionable, expected to practice this week).** Mariota starts until he is cleared; drop Mariota that week. Check every run.
+- **Nacua (WR, hip) and Evans (WR, ribs), both Questionable** after two weeks Out. Unwinds when either is active; if both sit Sunday, Mumpfield and B. Allen fill WR and FLEX.
+- **B. Allen (RB-NYJ), claimed Wk 4.** Jets' starter while Breece Hall's quad heals. Unwinds when Hall returns; he is a FLEX candidate, not a hold.
+- **Ollie Gordon went to The Wizard's Apprentice** (waiver #1, seq 1), who also took Keenan Allen. They are 1-2 and now waiver #12. Thursday trade target: they are deep at RB and just dropped a tight end.
 - **RB depth.** Thesis 3 trade market is dead (three offers, three refusals); the wire is the only channel.
 - **Addison for Kamara pitch to What can Brown do for u?** Held; Addison is a certain starter, so do not send.
-- **Buffalo DEF.** 9.50 in Wk 3 (12.00, 9.25 before). Streaming is a free-agent move, never a claim.
-- **Waiver processing time.** 3:14:05 AM ET (2026-09-16) and 3:13:21 AM (2026-09-23) — different minutes, not settled. Every `Do by` stays 3:00 AM ET.
+- **Buffalo DEF.** 9.50 in Wk 3 (12.00, 9.25 before). Cleveland, Las Vegas, Chicago and Arizona are all free; streaming is a free-agent move, never a claim.
+- **Waiver processing time.** 3:14:05 (Sep 16), 3:13:21 (Sep 23), 3:13:34 (Sep 30) — three minutes, three values, all inside 3:13-3:15. Every `Do by` stays 3:00 AM ET; Tuesday's review can settle it.
+- **The digest does not show waiver results.** Sleeper files Wednesday-morning waivers under the *previous* leg, so `transactions_this_week` was empty this morning and the review had to query leg 3 directly. For Tuesday's review.
+- **Wk 4 claim latency: 4 h 50 m** (file 6:20 PM ET, claims created 11:10 PM ET), inside the deadline by 3 h 49 m. For Tuesday's execution audit.
 - **Double-fire.** Both Sunday-lineup routines ran in full on 2026-09-27; the guard held (one file). Sean still has to disable the seven UI routines in `SCHEDULED-TASKS.md`.
-- **Fri/Sat blind spot.** Nothing decides between Thu 5 PM and Sun 9 AM. Thu TNF now pastes the swap for any Out starter (change below). A Saturday injury sweep needs the routine tools this session lacks; revisit next review with a second week of timing.
+- **Fri/Sat blind spot.** Nothing decides between Thu 5 PM and Sun 9 AM. Thu TNF now pastes the swap for any Out starter. A Saturday injury sweep needs routine tools this session lacks; revisit next review.
 - **Monday chat slot fires before MNF.** Rule in force: cite only games with every starter finished.
 - **League chat is unreadable by API.** Names: `data/correspondence.md` holds the per-manager read (adopted into COMMON 2026-09-29).
 
