@@ -1154,7 +1154,7 @@
  "12971": {
   "name": "Ke'Shawn Williams",
   "pos": "WR",
-  "team": "CIN",
+  "team": null,
   "status": "Active",
   "injury_status": null,
   "injury_note": null
@@ -2371,8 +2371,8 @@
   "name": "Jayden Reed",
   "pos": "WR",
   "team": "GB",
-  "status": "Active",
-  "injury_status": "Doubtful",
+  "status": "Inactive",
+  "injury_status": "Out",
   "injury_note": "Neck"
  },
  "7534": {
@@ -7364,8 +7364,8 @@
   "pos": "QB",
   "team": "BAL",
   "status": "Active",
-  "injury_status": null,
-  "injury_note": null
+  "injury_status": "Questionable",
+  "injury_note": "Undisclosed"
  },
  "10937": {
   "name": "Jake Moody",
@@ -7988,8 +7988,8 @@
   "pos": "TE",
   "team": "NYJ",
   "status": "Active",
-  "injury_status": null,
-  "injury_note": null
+  "injury_status": "Questionable",
+  "injury_note": "Undisclosed"
  },
  "12755": {
   "name": "Kelly Akharaiyi",
@@ -9124,7 +9124,7 @@
   "pos": "RB",
   "team": "PIT",
   "status": "Active",
-  "injury_status": "Questionable",
+  "injury_status": "Out",
   "injury_note": "Toe"
  },
  "11301": {
@@ -9410,7 +9410,7 @@
  "10215": {
   "name": "Jake Haener",
   "pos": "QB",
-  "team": null,
+  "team": "NYG",
   "status": "Active",
   "injury_status": null,
   "injury_note": null
@@ -10738,7 +10738,7 @@
  "11384": {
   "name": "Owen Wright",
   "pos": "RB",
-  "team": null,
+  "team": "LV",
   "status": "Active",
   "injury_status": null,
   "injury_note": null
@@ -10802,7 +10802,7 @@
  "11959": {
   "name": "Bryce Oliver",
   "pos": "WR",
-  "team": "HOU",
+  "team": null,
   "status": "Active",
   "injury_status": null,
   "injury_note": null
@@ -11338,7 +11338,7 @@
  "8143": {
   "name": "Jerome Ford",
   "pos": "RB",
-  "team": "MIN",
+  "team": null,
   "status": "Active",
   "injury_status": null,
   "injury_note": null
@@ -12620,8 +12620,8 @@
   "pos": "RB",
   "team": "TEN",
   "status": "Active",
-  "injury_status": null,
-  "injury_note": null
+  "injury_status": "Questionable",
+  "injury_note": "Ankle"
  },
  "5384": {
   "name": "Jonah Trinnaman",
@@ -19634,7 +19634,7 @@
  "2078": {
   "name": "Odell Beckham",
   "pos": "WR",
-  "team": "NYG",
+  "team": null,
   "status": "Active",
   "injury_status": null,
   "injury_note": null
@@ -20786,7 +20786,7 @@
  "11058": {
   "name": "Blake Grupe",
   "pos": "K",
-  "team": "NYJ",
+  "team": null,
   "status": "Active",
   "injury_status": null,
   "injury_note": null
@@ -21604,8 +21604,8 @@
   "pos": "RB",
   "team": "TEN",
   "status": "Active",
-  "injury_status": null,
-  "injury_note": null
+  "injury_status": "Questionable",
+  "injury_note": "Ankle"
  },
  "11570": {
   "name": "Rasheen Ali",
@@ -21698,7 +21698,7 @@
  "12154": {
   "name": "Messiah Swinson",
   "pos": "TE",
-  "team": "CLE",
+  "team": null,
   "status": "Active",
   "injury_status": null,
   "injury_note": null
@@ -23148,7 +23148,7 @@
   "pos": "TE",
   "team": "NYJ",
   "status": "Active",
-  "injury_status": "Questionable",
+  "injury_status": "Doubtful",
   "injury_note": "Thumb"
  },
  "13242": {
@@ -24588,7 +24588,7 @@
   "pos": "WR",
   "team": "CAR",
   "status": "Active",
-  "injury_status": "Questionable",
+  "injury_status": "Doubtful",
   "injury_note": "Knee"
  },
  "4146": {
@@ -24642,7 +24642,7 @@
  "9489": {
   "name": "Justin Shorter",
   "pos": "WR",
-  "team": "LV",
+  "team": null,
   "status": "Inactive",
   "injury_status": "Questionable",
   "injury_note": "Undisclosed"
@@ -24996,7 +24996,7 @@
   "pos": "WR",
   "team": "CLE",
   "status": "Active",
-  "injury_status": "Questionable",
+  "injury_status": "Out",
   "injury_note": "Knee"
  },
  "13645": {
@@ -25876,7 +25876,7 @@
   "pos": "WR",
   "team": "NYJ",
   "status": "Active",
-  "injury_status": "Questionable",
+  "injury_status": "Doubtful",
   "injury_note": "Finger"
  },
  "4767": {
@@ -26058,7 +26058,7 @@
  "7537": {
   "name": "Jaret Patterson",
   "pos": "RB",
-  "team": "MIN",
+  "team": null,
   "status": "Active",
   "injury_status": null,
   "injury_note": null
@@ -31944,7 +31944,7 @@
   "injury_note": null
  },
  "11506": {
-  "name": "Jalen Moreno-Cropper",
+  "name": "Jalen Cropper",
   "pos": "WR",
   "team": "NO",
   "status": "Active",
@@ -32408,7 +32408,7 @@
   "injury_note": null
  },
  "11068": {
-  "name": "Mitchell Tinsley",
+  "name": "Mitch Tinsley",
   "pos": "WR",
   "team": "CIN",
   "status": "Active",
@@ -32732,7 +32732,7 @@
   "pos": "RB",
   "team": "NYJ",
   "status": "Active",
-  "injury_status": "Questionable",
+  "injury_status": "Doubtful",
   "injury_note": "Thigh"
  },
  "8175": {
@@ -33034,7 +33034,7 @@
  "13949": {
   "name": "Damon Bankston",
   "pos": "RB",
-  "team": "GB",
+  "team": null,
   "status": "Active",
   "injury_status": null,
   "injury_note": null
