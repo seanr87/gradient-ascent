@@ -1,19 +1,19 @@
 # Sleeper digest — The Climb
-Pulled: 2026-09-30 05:58 UTC · NFL week 4 (regular)
+Pulled: 2026-09-30 13:24 UTC · NFL week 4 (regular)
 
 ## My roster
 - Dalton Kincaid (TE-BUF) (STARTER)
-- Jayden Daniels (QB-WAS) [Out]
+- Jayden Daniels (QB-WAS) [Questionable]
+- Braelon Allen (RB-NYJ)
 - Bucky Irving (RB-TB) (STARTER)
 - Cam Skattebo (RB-NYG) (STARTER)
 - Tyler Loop (K-BAL) (STARTER)
 - Konata Mumpfield (WR-LAR)
-- Mike Evans (WR-SF) [Out] (STARTER)
+- Mike Evans (WR-SF) [Questionable] (STARTER)
 - Marcus Mariota (QB-WAS) (STARTER)
-- T.J. Hockenson (TE-MIN)
 - Justice Hill (RB-BAL)
 - CeeDee Lamb (WR-DAL) (STARTER)
-- Puka Nacua (WR-LAR) [Out]
+- Puka Nacua (WR-LAR) [Questionable]
 - Jordan Addison (WR-MIN) (STARTER)
 - Buffalo Bills (DEF-BUF) (STARTER)
 
@@ -21,18 +21,18 @@ Pulled: 2026-09-30 05:58 UTC · NFL week 4 (regular)
 - Opponent: CorneliusJones
 
 ## Standings (W-L, points for)
-1. Playful Secrets — 3-0, 416.30 PF, waiver #12
-2. Umojan Protectorate — 2-1, 393.59 PF, waiver #11
-3. Lawrence of Valinor — 2-1, 381.64 PF, waiver #10
-4. Sea Squirts — 2-1, 358.22 PF, waiver #9
-5. Three Wise Jaylens  — 2-1, 354.30 PF, waiver #8
-6. TheTroubles — 2-1, 336.99 PF, waiver #7
-7. Princess Donut's Court — 1-2, 447.61 PF, waiver #6
-8. Gradient Ascent — 1-2, 374.77 PF, waiver #5
-9. The Wizard’s Apprentice — 1-2, 371.25 PF, waiver #4
-10. CorneliusJones — 1-2, 343.82 PF, waiver #3
-11. What can Brown do for u? — 1-2, 321.13 PF, waiver #2
-12. Lost in the Land of Love — 0-3, 273.49 PF, waiver #1
+1. Playful Secrets — 3-0, 416.30 PF, waiver #10
+2. Umojan Protectorate — 2-1, 393.59 PF, waiver #9
+3. Lawrence of Valinor — 2-1, 381.64 PF, waiver #6
+4. Sea Squirts — 2-1, 358.22 PF, waiver #5
+5. Three Wise Jaylens  — 2-1, 354.30 PF, waiver #4
+6. TheTroubles — 2-1, 336.99 PF, waiver #3
+7. Princess Donut's Court — 1-2, 447.61 PF, waiver #8
+8. Gradient Ascent — 1-2, 374.77 PF, waiver #7
+9. The Wizard’s Apprentice — 1-2, 371.25 PF, waiver #12
+10. CorneliusJones — 1-2, 343.82 PF, waiver #2
+11. What can Brown do for u? — 1-2, 321.13 PF, waiver #1
+12. Lost in the Land of Love — 0-3, 273.49 PF, waiver #11
 
 ## This week's matchups (week 4)
 - Playful Secrets 0.00 — Princess Donut's Court 0.00
@@ -51,30 +51,31 @@ Pulled: 2026-09-30 05:58 UTC · NFL week 4 (regular)
 - What can Brown do for u? 124.84 — Gradient Ascent 116.72
 
 ## Trending adds (24h, all Sleeper)
-- Ollie Gordon (RB-MIA) [Questionable] — 6,262,515 adds
-- Braelon Allen (RB-NYJ) — 2,726,664 adds
-- Kenyon Sadiq (TE-NYJ) — 2,472,210 adds
-- Konata Mumpfield (WR-LAR) — 918,180 adds
-- Tyler Higbee (TE-LAR) — 841,572 adds
-- Alvin Kamara (RB-NO) — 793,800 adds
-- Kalif Raymond (WR-CHI) — 660,538 adds
-- Keaton Mitchell (RB-LAC) — 579,186 adds
-- Keenan Allen (WR-IND) — 567,784 adds
-- Tyreek Hill (WR-None) — 544,632 adds
-- Darren Waller (TE-CAR) — 455,733 adds
-- Isaiah Davis (RB-NYJ) — 451,278 adds
-- Jordan Addison (WR-MIN) — 451,116 adds
-- Jaylen Wright (RB-MIA) [Out] — 390,536 adds
-- Baltimore Ravens (DEF-BAL) — 376,110 adds
-- Kirk Cousins (QB-LV) — 331,520 adds
-- Roman Wilson (WR-PIT) — 314,118 adds
-- Minnesota Vikings (DEF-MIN) — 310,600 adds
-- Las Vegas Raiders (DEF-LV) — 302,310 adds
-- Cleveland Browns (DEF-CLE) — 277,319 adds
-- Pittsburgh Steelers (DEF-PIT) — 277,062 adds
-- Kendre Miller (RB-NO) — 268,774 adds
-- Chris Bell (WR-MIA) — 262,493 adds
-- Jakobi Meyers (WR-JAX) — 229,326 adds
-- Malik Washington (WR-MIA) — 196,832 adds
+- Ollie Gordon (RB-MIA) — 5,698,175 adds
+- Braelon Allen (RB-NYJ) — 2,546,200 adds
+- Kenyon Sadiq (TE-NYJ) — 2,427,714 adds
+- Konata Mumpfield (WR-LAR) — 1,070,109 adds
+- Tyler Higbee (TE-LAR) — 919,638 adds
+- Alvin Kamara (RB-NO) — 865,344 adds
+- Kalif Raymond (WR-CHI) — 733,004 adds
+- Keaton Mitchell (RB-LAC) — 654,048 adds
+- Keenan Allen (WR-IND) — 602,568 adds
+- Tyreek Hill (WR-None) — 570,920 adds
+- Darren Waller (TE-CAR) — 559,836 adds
+- Isaiah Davis (RB-NYJ) — 473,247 adds
+- Jaylen Wright (RB-MIA) [Questionable] — 432,784 adds
+- Jordan Addison (WR-MIN) — 432,099 adds
+- Cleveland Browns (DEF-CLE) — 398,944 adds
+- Baltimore Ravens (DEF-BAL) — 390,285 adds
+- Kirk Cousins (QB-LV) — 346,600 adds
+- Las Vegas Raiders (DEF-LV) — 324,636 adds
+- Roman Wilson (WR-PIT) — 321,642 adds
+- Pittsburgh Steelers (DEF-PIT) — 313,218 adds
+- Kendre Miller (RB-NO) — 312,582 adds
+- Chris Bell (WR-MIA) — 302,001 adds
+- Minnesota Vikings (DEF-MIN) — 300,995 adds
+- Jakobi Meyers (WR-JAX) — 256,422 adds
+- Malik Washington (WR-MIA) — 219,856 adds
 
 ## League transactions this week
+- free_agent (complete) Lost in the Land of Love: +[Matt Gay (K-LV)] -[Harrison Butker (K-KC)]
