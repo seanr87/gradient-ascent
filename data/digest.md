@@ -1,5 +1,5 @@
 # Sleeper digest — The Climb
-Pulled: 2026-09-30 13:24 UTC · NFL week 4 (regular)
+Pulled: 2026-09-30 16:09 UTC · NFL week 4 (regular)
 
 ## My roster
 - Dalton Kincaid (TE-BUF) (STARTER)
@@ -51,31 +51,31 @@ Pulled: 2026-09-30 13:24 UTC · NFL week 4 (regular)
 - What can Brown do for u? 124.84 — Gradient Ascent 116.72
 
 ## Trending adds (24h, all Sleeper)
-- Ollie Gordon (RB-MIA) — 5,698,175 adds
-- Braelon Allen (RB-NYJ) — 2,546,200 adds
-- Kenyon Sadiq (TE-NYJ) — 2,427,714 adds
-- Konata Mumpfield (WR-LAR) — 1,070,109 adds
-- Tyler Higbee (TE-LAR) — 919,638 adds
-- Alvin Kamara (RB-NO) — 865,344 adds
-- Kalif Raymond (WR-CHI) — 733,004 adds
-- Keaton Mitchell (RB-LAC) — 654,048 adds
-- Keenan Allen (WR-IND) — 602,568 adds
-- Tyreek Hill (WR-None) — 570,920 adds
-- Darren Waller (TE-CAR) — 559,836 adds
-- Isaiah Davis (RB-NYJ) — 473,247 adds
-- Jaylen Wright (RB-MIA) [Questionable] — 432,784 adds
-- Jordan Addison (WR-MIN) — 432,099 adds
-- Cleveland Browns (DEF-CLE) — 398,944 adds
-- Baltimore Ravens (DEF-BAL) — 390,285 adds
-- Kirk Cousins (QB-LV) — 346,600 adds
-- Las Vegas Raiders (DEF-LV) — 324,636 adds
-- Roman Wilson (WR-PIT) — 321,642 adds
-- Pittsburgh Steelers (DEF-PIT) — 313,218 adds
-- Kendre Miller (RB-NO) — 312,582 adds
-- Chris Bell (WR-MIA) — 302,001 adds
-- Minnesota Vikings (DEF-MIN) — 300,995 adds
-- Jakobi Meyers (WR-JAX) — 256,422 adds
-- Malik Washington (WR-MIA) — 219,856 adds
+- Ollie Gordon (RB-MIA) — 4,873,120 adds
+- Braelon Allen (RB-NYJ) — 2,208,184 adds
+- Kenyon Sadiq (TE-NYJ) — 2,183,535 adds
+- Konata Mumpfield (WR-LAR) — 1,086,156 adds
+- Tyler Higbee (TE-LAR) — 893,133 adds
+- Alvin Kamara (RB-NO) — 827,528 adds
+- Kalif Raymond (WR-CHI) — 718,804 adds
+- Keaton Mitchell (RB-LAC) — 639,603 adds
+- Darren Waller (TE-CAR) — 572,715 adds
+- Keenan Allen (WR-IND) — 568,016 adds
+- Tyreek Hill (WR-None) — 534,272 adds
+- Cleveland Browns (DEF-CLE) — 443,583 adds
+- Isaiah Davis (RB-NYJ) — 428,913 adds
+- Jaylen Wright (RB-MIA) [Questionable] — 415,704 adds
+- Jordan Addison (WR-MIN) — 381,231 adds
+- Baltimore Ravens (DEF-BAL) — 355,254 adds
+- Kirk Cousins (QB-LV) — 329,704 adds
+- Las Vegas Raiders (DEF-LV) — 314,832 adds
+- Kendre Miller (RB-NO) — 311,750 adds
+- Chris Bell (WR-MIA) — 302,610 adds
+- Roman Wilson (WR-PIT) — 300,897 adds
+- Pittsburgh Steelers (DEF-PIT) — 300,822 adds
+- Minnesota Vikings (DEF-MIN) — 263,945 adds
+- Jakobi Meyers (WR-JAX) — 253,818 adds
+- Malik Washington (WR-MIA) — 214,208 adds
 
 ## League transactions this week
 - free_agent (complete) Lost in the Land of Love: +[Matt Gay (K-LV)] -[Harrison Butker (K-KC)]

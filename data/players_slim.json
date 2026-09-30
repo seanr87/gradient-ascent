@@ -1482,8 +1482,8 @@
  "11579": {
   "name": "Audric Estime",
   "pos": "RB",
-  "team": null,
-  "status": "Inactive",
+  "team": "MIN",
+  "status": "Active",
   "injury_status": null,
   "injury_note": null
  },
@@ -2188,8 +2188,8 @@
   "pos": "RB",
   "team": "WAS",
   "status": "Active",
-  "injury_status": null,
-  "injury_note": null
+  "injury_status": "Questionable",
+  "injury_note": "Shoulder"
  },
  "6496": {
   "name": "Cole Hedlund",
@@ -7435,8 +7435,8 @@
   "name": "Jalen McMillan",
   "pos": "WR",
   "team": "TB",
-  "status": "Active",
-  "injury_status": "Out",
+  "status": "Inactive",
+  "injury_status": "IR",
   "injury_note": "Knee - PCL"
  },
  "13430": {
@@ -27762,8 +27762,8 @@
  "12001": {
   "name": "Lawrence Keys",
   "pos": "WR",
-  "team": null,
-  "status": "Inactive",
+  "team": "DET",
+  "status": "Active",
   "injury_status": null,
   "injury_note": null
  },
