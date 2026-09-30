@@ -314,7 +314,7 @@
  "4992": {
   "name": "Dante Pettis",
   "pos": "WR",
-  "team": null,
+  "team": "SF",
   "status": "Active",
   "injury_status": null,
   "injury_note": null
@@ -3148,8 +3148,8 @@
   "pos": "WR",
   "team": "DEN",
   "status": "Active",
-  "injury_status": null,
-  "injury_note": null
+  "injury_status": "Questionable",
+  "injury_note": "Leg"
  },
  "6738": {
   "name": "Cedric Benson",
@@ -8948,7 +8948,7 @@
   "pos": "TE",
   "team": "MIN",
   "status": "Inactive",
-  "injury_status": "Out",
+  "injury_status": "IR",
   "injury_note": "Biceps"
  },
  "11367": {
@@ -15604,8 +15604,8 @@
   "pos": "RB",
   "team": null,
   "status": "Active",
-  "injury_status": "Questionable",
-  "injury_note": "Undisclosed"
+  "injury_status": null,
+  "injury_note": null
  },
  "2191": {
   "name": "Marcus Lucas",
@@ -19916,8 +19916,8 @@
   "pos": "WR",
   "team": null,
   "status": "Inactive",
-  "injury_status": "Questionable",
-  "injury_note": "Concussion"
+  "injury_status": null,
+  "injury_note": null
  },
  "13677": {
   "name": "Noah Short",
@@ -25292,8 +25292,8 @@
   "pos": "WR",
   "team": null,
   "status": "Active",
-  "injury_status": null,
-  "injury_note": null
+  "injury_status": "Out",
+  "injury_note": "Undisclosed"
  },
  "323": {
   "name": "Jamaal Charles",
@@ -27980,8 +27980,8 @@
   "pos": "RB",
   "team": null,
   "status": "Inactive",
-  "injury_status": "Questionable",
-  "injury_note": "Undisclosed"
+  "injury_status": null,
+  "injury_note": null
  },
  "8200": {
   "name": "Kevin Austin",
