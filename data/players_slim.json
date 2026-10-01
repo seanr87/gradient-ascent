@@ -17178,7 +17178,7 @@
  "12151": {
   "name": "Julian Hicks",
   "pos": "WR",
-  "team": "SEA",
+  "team": null,
   "status": "Active",
   "injury_status": null,
   "injury_note": null
@@ -19394,7 +19394,7 @@
  "11257": {
   "name": "Shedrick Jackson",
   "pos": "WR",
-  "team": "BAL",
+  "team": null,
   "status": "Active",
   "injury_status": null,
   "injury_note": null
@@ -20786,7 +20786,7 @@
  "11058": {
   "name": "Blake Grupe",
   "pos": "K",
-  "team": null,
+  "team": "NYJ",
   "status": "Active",
   "injury_status": null,
   "injury_note": null
