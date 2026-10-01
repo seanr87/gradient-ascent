@@ -1,5 +1,5 @@
 # Sleeper digest — The Climb
-Pulled: 2026-10-01 17:36 UTC · NFL week 4 (regular)
+Pulled: 2026-10-01 21:07 UTC · NFL week 4 (regular)
 
 ## My roster
 - Dalton Kincaid (TE-BUF) (STARTER)
@@ -51,33 +51,33 @@ Pulled: 2026-10-01 17:36 UTC · NFL week 4 (regular)
 - What can Brown do for u? 124.84 — Gradient Ascent 116.72
 
 ## Trending adds (24h, all Sleeper)
-- Tyreek Hill (WR-None) — 494,976 adds
-- Konata Mumpfield (WR-LAR) — 410,193 adds
-- Tyler Higbee (TE-LAR) — 233,640 adds
-- Ollie Gordon (RB-MIA) — 233,191 adds
-- Cleveland Browns (DEF-CLE) — 225,442 adds
-- Alvin Kamara (RB-NO) — 224,712 adds
-- Kenyon Sadiq (TE-NYJ) [Questionable] — 217,386 adds
-- Darren Waller (TE-CAR) — 212,085 adds
-- Kirk Cousins (QB-LV) — 147,648 adds
-- Isaiah Davis (RB-NYJ) — 144,549 adds
-- Kalif Raymond (WR-CHI) — 137,250 adds
-- Keenan Allen (WR-IND) — 134,136 adds
-- Keaton Mitchell (RB-LAC) [Questionable] — 131,094 adds
-- Braelon Allen (RB-NYJ) — 130,276 adds
-- Las Vegas Raiders (DEF-LV) — 110,526 adds
-- Roman Wilson (WR-PIT) — 97,560 adds
-- Skyy Moore (WR-GB) — 96,504 adds
-- Spencer Shrader (K-IND) — 91,676 adds
-- C.J. Stroud (QB-HOU) — 88,641 adds
-- Deshaun Watson (QB-CLE) — 84,520 adds
-- Malik Washington (WR-MIA) — 81,200 adds
-- Raheim Sanders (RB-CLE) — 79,640 adds
-- Brian Robinson (RB-ATL) — 73,470 adds
-- Jordan Addison (WR-MIN) — 71,370 adds
-- Kendre Miller (RB-NO) — 68,388 adds
+- Tyreek Hill (WR-None) — 498,912 adds
+- Konata Mumpfield (WR-LAR) — 380,133 adds
+- Alvin Kamara (RB-NO) — 259,272 adds
+- Tyler Higbee (TE-LAR) — 226,773 adds
+- Cleveland Browns (DEF-CLE) — 221,270 adds
+- Darren Waller (TE-CAR) — 206,865 adds
+- Ollie Gordon (RB-MIA) — 199,262 adds
+- Kenyon Sadiq (TE-NYJ) [Questionable] — 188,109 adds
+- Isaiah Davis (RB-NYJ) — 176,787 adds
+- Kirk Cousins (QB-LV) — 139,368 adds
+- Keenan Allen (WR-IND) [Questionable] — 124,104 adds
+- Kalif Raymond (WR-CHI) — 122,844 adds
+- Braelon Allen (RB-NYJ) — 112,468 adds
+- Las Vegas Raiders (DEF-LV) — 104,940 adds
+- Keaton Mitchell (RB-LAC) [Questionable] — 101,196 adds
+- Roman Wilson (WR-PIT) — 99,990 adds
+- Skyy Moore (WR-GB) — 92,888 adds
+- Kendre Miller (RB-NO) — 90,628 adds
+- C.J. Stroud (QB-HOU) — 87,556 adds
+- Spencer Shrader (K-IND) — 86,498 adds
+- Raheim Sanders (RB-CLE) — 83,680 adds
+- Deshaun Watson (QB-CLE) — 77,680 adds
+- Malik Washington (WR-MIA) — 77,552 adds
+- Brian Robinson (RB-ATL) — 71,694 adds
+- MarShawn Lloyd (RB-GB) — 66,798 adds
 
 ## League transactions this week
 - free_agent (complete) What can Brown do for u?: +[Green Bay Packers (DEF-GB)] -[Jacksonville Jaguars (DEF-JAX)]
-- free_agent (complete) Umojan Protectorate: +[Brian Robinson (RB-ATL)] -[Chris Godwin (WR-TB) [Questionable]]
+- free_agent (complete) Umojan Protectorate: +[Brian Robinson (RB-ATL)] -[Chris Godwin (WR-TB)]
 - free_agent (complete) Lost in the Land of Love: +[Matt Gay (K-LV)] -[Harrison Butker (K-KC)]

@@ -3948,8 +3948,8 @@
   "pos": "RB",
   "team": "CHI",
   "status": "Active",
-  "injury_status": null,
-  "injury_note": null
+  "injury_status": "Questionable",
+  "injury_note": "Knee"
  },
  "6146": {
   "name": "Kaden Smith",
@@ -5116,8 +5116,8 @@
   "pos": "WR",
   "team": "TB",
   "status": "Active",
-  "injury_status": "Questionable",
-  "injury_note": "Ankle"
+  "injury_status": null,
+  "injury_note": null
  },
  "5244": {
   "name": "Devin Gray",
@@ -6674,7 +6674,7 @@
  "5781": {
   "name": "Malik Turner",
   "pos": "WR",
-  "team": null,
+  "team": "SF",
   "status": "Active",
   "injury_status": null,
   "injury_note": null
@@ -7364,8 +7364,8 @@
   "pos": "QB",
   "team": "BAL",
   "status": "Active",
-  "injury_status": "Questionable",
-  "injury_note": "Undisclosed"
+  "injury_status": null,
+  "injury_note": null
  },
  "10937": {
   "name": "Jake Moody",
@@ -9660,8 +9660,8 @@
   "pos": "TE",
   "team": "JAX",
   "status": "Active",
-  "injury_status": null,
-  "injury_note": null
+  "injury_status": "Questionable",
+  "injury_note": "Illness"
  },
  "736": {
   "name": "Joique Bell",
@@ -12620,8 +12620,8 @@
   "pos": "RB",
   "team": "TEN",
   "status": "Active",
-  "injury_status": "Questionable",
-  "injury_note": "Ankle"
+  "injury_status": null,
+  "injury_note": null
  },
  "5384": {
   "name": "Jonah Trinnaman",
@@ -18100,8 +18100,8 @@
   "pos": "WR",
   "team": "IND",
   "status": "Active",
-  "injury_status": null,
-  "injury_note": null
+  "injury_status": "Questionable",
+  "injury_note": "Groin"
  },
  "5699": {
   "name": "Matt Fleming",
@@ -21179,8 +21179,8 @@
   "name": "Travis Etienne",
   "pos": "RB",
   "team": "NO",
-  "status": "Active",
-  "injury_status": "Out",
+  "status": "Inactive",
+  "injury_status": "IR",
   "injury_note": "Hamstring"
  },
  "12217": {
@@ -23428,7 +23428,7 @@
   "pos": "RB",
   "team": null,
   "status": "Active",
-  "injury_status": "Out",
+  "injury_status": "",
   "injury_note": "Foot"
  },
  "13227": {
@@ -25420,8 +25420,8 @@
   "pos": "TE",
   "team": "BAL",
   "status": "Active",
-  "injury_status": "Questionable",
-  "injury_note": "Heel"
+  "injury_status": null,
+  "injury_note": null
  },
  "2286": {
   "name": "Andrew Furney",
@@ -26556,8 +26556,8 @@
   "pos": "WR",
   "team": "BAL",
   "status": "Active",
-  "injury_status": "Questionable",
-  "injury_note": "Hamstring"
+  "injury_status": null,
+  "injury_note": null
  },
  "5407": {
   "name": "Ervin Philips",
@@ -31139,7 +31139,7 @@
   "name": "Zach Charbonnet",
   "pos": "RB",
   "team": "SEA",
-  "status": "Active",
+  "status": "Inactive",
   "injury_status": "PUP",
   "injury_note": "Knee - ACL"
  },
@@ -33164,8 +33164,8 @@
   "pos": "WR",
   "team": "IND",
   "status": "Active",
-  "injury_status": "Questionable",
-  "injury_note": "Ankle"
+  "injury_status": null,
+  "injury_note": null
  },
  "13005": {
   "name": "Anthony Torres",
