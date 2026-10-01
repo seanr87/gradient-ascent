@@ -2,7 +2,7 @@
 
 Rewritten in full every Tuesday at 6:00 AM ET by the process review; `## State` and `## Open threads` updated by every decision run in the same commit as its decision. Hard cap 150 lines. Older weeks roll up; git history is the archive. Cite a thesis or lesson by name instead of re-arguing it.
 
-Last full rewrite: 2026-09-29 (first process review, covering Week 3). Last touched: 2026-09-30.
+Last full rewrite: 2026-09-29 (first process review, covering Week 3). Last touched: 2026-10-01.
 
 ## State
 - **Week 3 final: lost 116.72 to What can Brown do for u? 124.84 (8.12).** Record 1-2, 374.77 PF, 8th of 12. NFL Week 4 opens Thu. Opponent: CorneliusJones (1-2, 343.82 PF).
@@ -10,7 +10,7 @@ Last full rewrite: 2026-09-29 (first process review, covering Week 3). Last touc
 - Roster (14): QB Mariota, Daniels [Q]; RB Irving, Skattebo, **B. Allen**, J. Hill; WR Lamb, Addison, Mumpfield, Nacua [Q], Evans [Q]; TE Kincaid; K Loop; DEF Buffalo. Hockenson dropped Wed 3:13 AM.
 - Holes: **TE is one deep by choice (Kincaid only).** RB is three deep behind two slots and a flex, which was the point of the claim. WR is not a hole if Nacua or Evans clears.
 - Pending in Sleeper: **nothing.** All four Wk 4 claims resolved; last week's offers all dead.
-- Next runs: Thu trade scan 8:00 AM, Thu TNF 5:00 PM, Sun lineup.
+- Next runs: Thu TNF 5:00 PM, Sun lineup. Thu scan done (`2026-wk04-thu-trades`).
 - Chat targets used: Wk1 Three Wise Jaylens, Wk2 CorneliusJones, Wk3 Lost in the Land of Love, then Princess Donut's Court (Mon). Sources: `2026-wk03-mon-chat`.
 
 ## Open threads
@@ -19,7 +19,7 @@ Last full rewrite: 2026-09-29 (first process review, covering Week 3). Last touc
 - **B. Allen (RB-NYJ), claimed Wk 4.** Jets' starter while Breece Hall's quad heals. Unwinds when Hall returns; he is a FLEX candidate, not a hold.
 - **Ollie Gordon went to The Wizard's Apprentice** (waiver #1, seq 1), who also took Keenan Allen. They are 1-2 and now waiver #12. Thursday trade target: they are deep at RB and just dropped a tight end.
 - **RB depth.** Thesis 3 trade market is dead (three offers, three refusals); the wire is the only channel.
-- **Addison for Kamara pitch to What can Brown do for u?** Held; Addison is a certain starter, so do not send.
+- **Mumpfield for Kamara pitch to What can Brown do for u? (dlef24), drafted Wk 4 Thu scan.** One proposal, no fallback. Retires on a decline, on any answer, or if Nacua and Evans both sit Sunday (then Mumpfield stays). The Addison-for-Kamara idea is dead.
 - **Buffalo DEF.** 9.50 in Wk 3 (12.00, 9.25 before). Cleveland, Las Vegas, Chicago and Arizona are all free; streaming is a free-agent move, never a claim.
 - **Waiver processing time.** 3:14:05 (Sep 16), 3:13:21 (Sep 23), 3:13:34 (Sep 30) — three minutes, three values, all inside 3:13-3:15. Every `Do by` stays 3:00 AM ET; Tuesday's review can settle it.
 - **The digest does not show waiver results.** Sleeper files Wednesday-morning waivers under the *previous* leg, so `transactions_this_week` was empty this morning and the review had to query leg 3 directly. For Tuesday's review.
