@@ -212,8 +212,8 @@
   "pos": "RB",
   "team": "TB",
   "status": "Active",
-  "injury_status": "Questionable",
-  "injury_note": "Lower Body"
+  "injury_status": null,
+  "injury_note": null
  },
  "1195": {
   "name": "Doug Martin",
@@ -2188,7 +2188,7 @@
   "pos": "RB",
   "team": "WAS",
   "status": "Active",
-  "injury_status": "Questionable",
+  "injury_status": "Out",
   "injury_note": "Shoulder"
  },
  "6496": {
@@ -3076,7 +3076,7 @@
   "pos": "TE",
   "team": "TB",
   "status": "Active",
-  "injury_status": "Questionable",
+  "injury_status": "Out",
   "injury_note": "Elbow"
  },
  "8213": {
@@ -3316,7 +3316,7 @@
   "pos": "WR",
   "team": "LAC",
   "status": "Active",
-  "injury_status": "Questionable",
+  "injury_status": "Out",
   "injury_note": "Quadriceps"
  },
  "13939": {
@@ -3948,8 +3948,8 @@
   "pos": "RB",
   "team": "CHI",
   "status": "Active",
-  "injury_status": "Questionable",
-  "injury_note": "Knee"
+  "injury_status": null,
+  "injury_note": null
  },
  "6146": {
   "name": "Kaden Smith",
@@ -5026,7 +5026,7 @@
  "5773": {
   "name": "KhaDarel Hodge",
   "pos": "WR",
-  "team": "SF",
+  "team": null,
   "status": "Active",
   "injury_status": "Questionable",
   "injury_note": "Knee"
@@ -7780,8 +7780,8 @@
   "pos": "TE",
   "team": "NYJ",
   "status": "Active",
-  "injury_status": "Questionable",
-  "injury_note": "Knee"
+  "injury_status": null,
+  "injury_note": null
  },
  "12068": {
   "name": "Mason Pline",
@@ -8268,8 +8268,8 @@
   "pos": "WR",
   "team": "JAX",
   "status": "Active",
-  "injury_status": "Questionable",
-  "injury_note": "Thumb"
+  "injury_status": null,
+  "injury_note": null
  },
  "11529": {
   "name": "Ed Lee",
@@ -8804,8 +8804,8 @@
   "pos": "WR",
   "team": "HOU",
   "status": "Active",
-  "injury_status": "Questionable",
-  "injury_note": "Hamstring"
+  "injury_status": null,
+  "injury_note": null
  },
  "13582": {
   "name": "Anthony Smith",
@@ -8875,8 +8875,8 @@
   "name": "Terrance Ferguson",
   "pos": "TE",
   "team": "LAR",
-  "status": "Active",
-  "injury_status": "Doubtful",
+  "status": "Inactive",
+  "injury_status": "IR",
   "injury_note": "Ankle"
  },
  "8694": {
@@ -9108,7 +9108,7 @@
   "pos": "WR",
   "team": "MIA",
   "status": "Active",
-  "injury_status": "Questionable",
+  "injury_status": "Out",
   "injury_note": "Ankle"
  },
  "6263": {
@@ -9572,8 +9572,8 @@
   "pos": "RB",
   "team": "LAC",
   "status": "Active",
-  "injury_status": "Questionable",
-  "injury_note": "Ankle"
+  "injury_status": null,
+  "injury_note": null
  },
  "1059": {
   "name": "Bobby Rainey",
@@ -9596,8 +9596,8 @@
   "pos": "WR",
   "team": "MIA",
   "status": "Active",
-  "injury_status": "Questionable",
-  "injury_note": "Knee"
+  "injury_status": null,
+  "injury_note": null
  },
  "7521": {
   "name": "Chris Blair",
@@ -9660,8 +9660,8 @@
   "pos": "TE",
   "team": "JAX",
   "status": "Active",
-  "injury_status": "Questionable",
-  "injury_note": "Illness"
+  "injury_status": null,
+  "injury_note": null
  },
  "736": {
   "name": "Joique Bell",
@@ -9826,7 +9826,7 @@
  "5938": {
   "name": "Lil'Jordan Humphrey",
   "pos": "WR",
-  "team": "DEN",
+  "team": null,
   "status": "Active",
   "injury_status": null,
   "injury_note": null
@@ -10051,8 +10051,8 @@
   "name": "British Brooks",
   "pos": "RB",
   "team": "HOU",
-  "status": "Active",
-  "injury_status": "Questionable",
+  "status": "Inactive",
+  "injury_status": "IR",
   "injury_note": "Hamstring"
  },
  "14061": {
@@ -11228,8 +11228,8 @@
   "pos": "TE",
   "team": "WAS",
   "status": "Active",
-  "injury_status": "Questionable",
-  "injury_note": "Ribs"
+  "injury_status": null,
+  "injury_note": null
  },
  "1706": {
   "name": "Jack Doyle",
@@ -11476,8 +11476,8 @@
   "pos": "WR",
   "team": "LAR",
   "status": "Active",
-  "injury_status": "Questionable",
-  "injury_note": "Hip"
+  "injury_status": null,
+  "injury_note": null
  },
  "13149": {
   "name": "Caden Davis",
@@ -11972,8 +11972,8 @@
   "pos": "RB",
   "team": "PHI",
   "status": "Active",
-  "injury_status": "Questionable",
-  "injury_note": "Foot"
+  "injury_status": null,
+  "injury_note": null
  },
  "12540": {
   "name": "Chimere Dike",
@@ -12660,8 +12660,8 @@
   "pos": "RB",
   "team": "SEA",
   "status": "Active",
-  "injury_status": "Questionable",
-  "injury_note": "Ribs"
+  "injury_status": null,
+  "injury_note": null
  },
  "10217": {
   "name": "Clayton Tune",
@@ -12836,7 +12836,7 @@
   "pos": "RB",
   "team": "SEA",
   "status": "Active",
-  "injury_status": "Questionable",
+  "injury_status": "Out",
   "injury_note": "Chest"
  },
  "10211": {
@@ -14164,8 +14164,8 @@
   "pos": "WR",
   "team": "BUF",
   "status": "Active",
-  "injury_status": "Questionable",
-  "injury_note": "Shoulder"
+  "injury_status": null,
+  "injury_note": null
  },
  "12460": {
   "name": "Antwane Wells",
@@ -14188,7 +14188,7 @@
   "pos": "TE",
   "team": "PHI",
   "status": "Active",
-  "injury_status": "Doubtful",
+  "injury_status": "Out",
   "injury_note": "Knee - MCL"
  },
  "12849": {
@@ -15084,8 +15084,8 @@
   "pos": "RB",
   "team": "NYG",
   "status": "Active",
-  "injury_status": "Questionable",
-  "injury_note": "Knee"
+  "injury_status": null,
+  "injury_note": null
  },
  "3646": {
   "name": "Quayvon Hicks",
@@ -15908,7 +15908,7 @@
   "pos": "WR",
   "team": "PHI",
   "status": "Active",
-  "injury_status": "Questionable",
+  "injury_status": "Out",
   "injury_note": "Hamstring"
  },
  "2918": {
@@ -16228,8 +16228,8 @@
   "pos": "WR",
   "team": null,
   "status": "Inactive",
-  "injury_status": "Questionable",
-  "injury_note": "Undisclosed"
+  "injury_status": null,
+  "injury_note": null
  },
  "12548": {
   "name": "Lenny Krieg",
@@ -16540,7 +16540,7 @@
   "pos": "WR",
   "team": "PHI",
   "status": "Active",
-  "injury_status": "Questionable",
+  "injury_status": "Out",
   "injury_note": "Ankle"
  },
  "11169": {
@@ -18100,7 +18100,7 @@
   "pos": "WR",
   "team": "IND",
   "status": "Active",
-  "injury_status": "Questionable",
+  "injury_status": "Out",
   "injury_note": "Groin"
  },
  "5699": {
@@ -22924,8 +22924,8 @@
   "pos": "WR",
   "team": "WAS",
   "status": "Active",
-  "injury_status": null,
-  "injury_note": null
+  "injury_status": "Doubtful",
+  "injury_note": "Hamstring"
  },
  "7096": {
   "name": "Kaleb Barker",
@@ -23148,7 +23148,7 @@
   "pos": "TE",
   "team": "NYJ",
   "status": "Active",
-  "injury_status": "Doubtful",
+  "injury_status": "Out",
   "injury_note": "Thumb"
  },
  "13242": {
@@ -24588,7 +24588,7 @@
   "pos": "WR",
   "team": "CAR",
   "status": "Active",
-  "injury_status": "Doubtful",
+  "injury_status": "Out",
   "injury_note": "Knee"
  },
  "4146": {
@@ -24612,8 +24612,8 @@
   "pos": "WR",
   "team": "BUF",
   "status": "Active",
-  "injury_status": "Questionable",
-  "injury_note": "Ankle"
+  "injury_status": null,
+  "injury_note": null
  },
  "7744": {
   "name": "Antonio Nunn",
@@ -24644,8 +24644,8 @@
   "pos": "WR",
   "team": null,
   "status": "Inactive",
-  "injury_status": "Questionable",
-  "injury_note": "Undisclosed"
+  "injury_status": null,
+  "injury_note": null
  },
  "8559": {
   "name": "Josh Babicz",
@@ -25132,7 +25132,7 @@
   "pos": "WR",
   "team": "MIN",
   "status": "Active",
-  "injury_status": "Questionable",
+  "injury_status": "Out",
   "injury_note": "Ankle"
  },
  "391": {
@@ -25876,7 +25876,7 @@
   "pos": "WR",
   "team": "NYJ",
   "status": "Active",
-  "injury_status": "Doubtful",
+  "injury_status": "Out",
   "injury_note": "Finger"
  },
  "4767": {
@@ -26540,8 +26540,8 @@
   "pos": "RB",
   "team": "JAX",
   "status": "Active",
-  "injury_status": "Questionable",
-  "injury_note": "Hip"
+  "injury_status": null,
+  "injury_note": null
  },
  "11249": {
   "name": "Chris Smith",
@@ -26556,8 +26556,8 @@
   "pos": "WR",
   "team": "BAL",
   "status": "Active",
-  "injury_status": null,
-  "injury_note": null
+  "injury_status": "Questionable",
+  "injury_note": "Hamstring"
  },
  "5407": {
   "name": "Ervin Philips",
@@ -26914,7 +26914,7 @@
  "11168": {
   "name": "Xavier Smith",
   "pos": "WR",
-  "team": "LAR",
+  "team": null,
   "status": "Active",
   "injury_status": null,
   "injury_note": null
@@ -27748,7 +27748,7 @@
   "pos": "TE",
   "team": "LAC",
   "status": "Active",
-  "injury_status": "Doubtful",
+  "injury_status": "Out",
   "injury_note": "Forearm"
  },
  "2094": {
@@ -28492,7 +28492,7 @@
   "pos": "QB",
   "team": "CHI",
   "status": "Active",
-  "injury_status": "Doubtful",
+  "injury_status": "Out",
   "injury_note": "Hamstring"
  },
  "2247": {
@@ -30612,8 +30612,8 @@
   "pos": "TE",
   "team": "WAS",
   "status": "Active",
-  "injury_status": "Questionable",
-  "injury_note": "Hamstring"
+  "injury_status": null,
+  "injury_note": null
  },
  "6151": {
   "name": "Miles Sanders",
@@ -32460,8 +32460,8 @@
   "pos": "RB",
   "team": "BUF",
   "status": "Active",
-  "injury_status": null,
-  "injury_note": null
+  "injury_status": "Questionable",
+  "injury_note": "Hamstring"
  },
  "7334": {
   "name": "Earnest Edwards",
@@ -32732,8 +32732,8 @@
   "pos": "RB",
   "team": "NYJ",
   "status": "Active",
-  "injury_status": "Doubtful",
-  "injury_note": "Thigh"
+  "injury_status": "Out",
+  "injury_note": "Quadriceps"
  },
  "8175": {
   "name": "Reggie Roberson",

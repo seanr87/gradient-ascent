@@ -1,11 +1,11 @@
 # Sleeper digest — The Climb
-Pulled: 2026-10-02 14:21 UTC · NFL week 4 (regular)
+Pulled: 2026-10-03 16:29 UTC · NFL week 4 (regular)
 
 ## My roster
 - Dalton Kincaid (TE-BUF) (STARTER)
 - Jayden Daniels (QB-WAS) [Out]
 - Braelon Allen (RB-NYJ)
-- Bucky Irving (RB-TB) [Questionable] (STARTER)
+- Bucky Irving (RB-TB) (STARTER)
 - Cam Skattebo (RB-NYG) (STARTER)
 - Tyler Loop (K-BAL) (STARTER)
 - Konata Mumpfield (WR-LAR)
@@ -13,7 +13,7 @@ Pulled: 2026-10-02 14:21 UTC · NFL week 4 (regular)
 - Marcus Mariota (QB-WAS) (STARTER)
 - Justice Hill (RB-BAL)
 - CeeDee Lamb (WR-DAL) (STARTER)
-- Puka Nacua (WR-LAR) [Questionable]
+- Puka Nacua (WR-LAR)
 - Jordan Addison (WR-MIN) (STARTER)
 - Buffalo Bills (DEF-BUF) (STARTER)
 
@@ -51,33 +51,36 @@ Pulled: 2026-10-02 14:21 UTC · NFL week 4 (regular)
 - What can Brown do for u? 124.84 — Gradient Ascent 116.72
 
 ## Trending adds (24h, all Sleeper)
-- Tyreek Hill (WR-None) — 557,224 adds
-- Roman Wilson (WR-PIT) — 396,963 adds
-- Isaiah Davis (RB-NYJ) — 353,277 adds
-- Alvin Kamara (RB-NO) — 340,456 adds
-- Konata Mumpfield (WR-LAR) — 314,739 adds
-- Darren Waller (TE-CAR) — 203,742 adds
-- Tyler Higbee (TE-LAR) — 193,680 adds
-- Cleveland Browns (DEF-CLE) — 170,065 adds
-- Kirk Cousins (QB-LV) — 125,384 adds
-- Kendre Miller (RB-NO) — 124,620 adds
-- Kenyon Sadiq (TE-NYJ) [Questionable] — 119,718 adds
-- Las Vegas Raiders (DEF-LV) — 95,574 adds
-- Jaylen Wright (RB-MIA) — 95,306 adds
-- Deshaun Watson (QB-CLE) — 93,744 adds
-- KC Concepcion (WR-CLE) — 89,982 adds
-- Ollie Gordon (RB-MIA) — 89,047 adds
-- C.J. Stroud (QB-HOU) — 87,423 adds
-- Keenan Allen (WR-IND) [Questionable] — 87,104 adds
-- Kalif Raymond (WR-CHI) — 84,654 adds
-- Zach Charbonnet (RB-SEA) [PUP] — 82,098 adds
-- Skyy Moore (WR-GB) — 75,184 adds
-- Dontayvion Wicks (WR-PHI) — 74,937 adds
-- Arizona Cardinals (DEF-ARI) — 71,736 adds
-- Malik Washington (WR-MIA) — 71,680 adds
-- MarShawn Lloyd (RB-GB) — 71,136 adds
+- Emanuel Wilson (RB-SEA) — 823,392 adds
+- Roman Wilson (WR-PIT) — 505,791 adds
+- Jauan Jennings (WR-MIN) — 341,621 adds
+- Isaiah Davis (RB-NYJ) — 272,331 adds
+- Darren Waller (TE-CAR) — 165,429 adds
+- Tyler Higbee (TE-LAR) — 161,100 adds
+- Tyreek Hill (WR-None) — 157,712 adds
+- Jordan Addison (WR-MIN) — 108,432 adds
+- Tyson Bagent (QB-CHI) — 108,228 adds
+- Makai Lemon (WR-PHI) — 96,856 adds
+- Dontayvion Wicks (WR-PHI) — 95,712 adds
+- Konata Mumpfield (WR-LAR) — 83,439 adds
+- Alvin Kamara (RB-NO) — 78,296 adds
+- Austin Ekeler (RB-WAS) — 66,912 adds
+- Malik Washington (WR-MIA) — 65,848 adds
+- Las Vegas Raiders (DEF-LV) — 60,600 adds
+- Kenyon Sadiq (TE-NYJ) [Questionable] — 57,987 adds
+- Jacory Croskey-Merritt (RB-WAS) — 55,701 adds
+- Tre' Harris (WR-LAC) — 55,020 adds
+- C.J. Stroud (QB-HOU) — 53,102 adds
+- Chris Bell (WR-MIA) — 49,154 adds
+- Arizona Cardinals (DEF-ARI) — 48,544 adds
+- Kirk Cousins (QB-LV) — 48,488 adds
+- MarShawn Lloyd (RB-GB) — 46,485 adds
+- Skyy Moore (WR-GB) — 43,720 adds
 
 ## League transactions this week
+- free_agent (complete) Lawrence of Valinor: +[Austin Ekeler (RB-WAS)] -[Jake Ferguson (TE-DAL)]
+- free_agent (complete) Umojan Protectorate: +[Spencer Shrader (K-IND)] -[Trey Smack (K-GB)]
+- free_agent (complete) Umojan Protectorate: +[Chicago Bears (DEF-CHI)] -[New England Patriots (DEF-NE)]
 - free_agent (complete) What can Brown do for u?: +[Green Bay Packers (DEF-GB)] -[Jacksonville Jaguars (DEF-JAX)]
 - free_agent (complete) Umojan Protectorate: +[Brian Robinson (RB-ATL)] -[Chris Godwin (WR-TB)]
 - free_agent (complete) Lost in the Land of Love: +[Matt Gay (K-LV)] -[Harrison Butker (K-KC)]
