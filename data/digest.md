@@ -1,5 +1,5 @@
 # Sleeper digest — The Climb
-Pulled: 2026-10-03 16:29 UTC · NFL week 4 (regular)
+Pulled: 2026-10-03 20:47 UTC · NFL week 4 (regular)
 
 ## My roster
 - Dalton Kincaid (TE-BUF) (STARTER)
@@ -51,33 +51,34 @@ Pulled: 2026-10-03 16:29 UTC · NFL week 4 (regular)
 - What can Brown do for u? 124.84 — Gradient Ascent 116.72
 
 ## Trending adds (24h, all Sleeper)
-- Emanuel Wilson (RB-SEA) — 823,392 adds
-- Roman Wilson (WR-PIT) — 505,791 adds
-- Jauan Jennings (WR-MIN) — 341,621 adds
-- Isaiah Davis (RB-NYJ) — 272,331 adds
-- Darren Waller (TE-CAR) — 165,429 adds
-- Tyler Higbee (TE-LAR) — 161,100 adds
-- Tyreek Hill (WR-None) — 157,712 adds
-- Jordan Addison (WR-MIN) — 108,432 adds
-- Tyson Bagent (QB-CHI) — 108,228 adds
-- Makai Lemon (WR-PHI) — 96,856 adds
-- Dontayvion Wicks (WR-PHI) — 95,712 adds
-- Konata Mumpfield (WR-LAR) — 83,439 adds
-- Alvin Kamara (RB-NO) — 78,296 adds
-- Austin Ekeler (RB-WAS) — 66,912 adds
-- Malik Washington (WR-MIA) — 65,848 adds
-- Las Vegas Raiders (DEF-LV) — 60,600 adds
-- Kenyon Sadiq (TE-NYJ) [Questionable] — 57,987 adds
-- Jacory Croskey-Merritt (RB-WAS) — 55,701 adds
-- Tre' Harris (WR-LAC) — 55,020 adds
-- C.J. Stroud (QB-HOU) — 53,102 adds
-- Chris Bell (WR-MIA) — 49,154 adds
-- Arizona Cardinals (DEF-ARI) — 48,544 adds
-- Kirk Cousins (QB-LV) — 48,488 adds
-- MarShawn Lloyd (RB-GB) — 46,485 adds
-- Skyy Moore (WR-GB) — 43,720 adds
+- Emanuel Wilson (RB-SEA) — 1,209,654 adds
+- Roman Wilson (WR-PIT) — 403,596 adds
+- Jauan Jennings (WR-MIN) — 317,184 adds
+- Isaiah Davis (RB-NYJ) — 199,800 adds
+- Tyler Higbee (TE-LAR) — 148,563 adds
+- Darren Waller (TE-CAR) — 142,029 adds
+- Tyson Bagent (QB-CHI) — 105,366 adds
+- Tyreek Hill (WR-None) — 97,928 adds
+- Makai Lemon (WR-PHI) — 87,840 adds
+- Austin Ekeler (RB-WAS) — 80,140 adds
+- Jordan Addison (WR-MIN) — 79,839 adds
+- Dontayvion Wicks (WR-PHI) — 78,603 adds
+- Malik Washington (WR-MIA) — 58,008 adds
+- Alvin Kamara (RB-NO) — 56,472 adds
+- Tre' Harris (WR-LAC) — 54,252 adds
+- Konata Mumpfield (WR-LAR) — 53,442 adds
+- Las Vegas Raiders (DEF-LV) — 52,590 adds
+- Jacory Croskey-Merritt (RB-WAS) — 50,337 adds
+- Kenyon Sadiq (TE-NYJ) [Questionable] — 49,698 adds
+- Chris Bell (WR-MIA) — 48,643 adds
+- C.J. Stroud (QB-HOU) — 47,068 adds
+- Arizona Cardinals (DEF-ARI) — 44,640 adds
+- Keaton Mitchell (RB-LAC) — 40,194 adds
+- MarShawn Lloyd (RB-GB) — 38,916 adds
+- Jakobi Meyers (WR-JAX) — 38,658 adds
 
 ## League transactions this week
+- free_agent (complete) Sea Squirts: +[Emanuel Wilson (RB-SEA)] -[Caleb Douglas (WR-MIA) [Out]]
 - free_agent (complete) Lawrence of Valinor: +[Austin Ekeler (RB-WAS)] -[Jake Ferguson (TE-DAL)]
 - free_agent (complete) Umojan Protectorate: +[Spencer Shrader (K-IND)] -[Trey Smack (K-GB)]
 - free_agent (complete) Umojan Protectorate: +[Chicago Bears (DEF-CHI)] -[New England Patriots (DEF-NE)]

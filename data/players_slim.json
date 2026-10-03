@@ -12835,8 +12835,8 @@
   "name": "Jadarian Price",
   "pos": "RB",
   "team": "SEA",
-  "status": "Active",
-  "injury_status": "Out",
+  "status": "Inactive",
+  "injury_status": "IR",
   "injury_note": "Chest"
  },
  "10211": {
@@ -16844,8 +16844,8 @@
   "pos": "QB",
   "team": "LV",
   "status": "Active",
-  "injury_status": "Questionable",
-  "injury_note": "Personal"
+  "injury_status": null,
+  "injury_note": null
  },
  "4301": {
   "name": "Josh Magee",
@@ -21868,8 +21868,8 @@
   "pos": "WR",
   "team": "NO",
   "status": "Active",
-  "injury_status": "Questionable",
-  "injury_note": "Hamstring"
+  "injury_status": null,
+  "injury_note": null
  },
  "2915": {
   "name": "Taylor Pontius",
@@ -24587,8 +24587,8 @@
   "name": "Xavier Legette",
   "pos": "WR",
   "team": "CAR",
-  "status": "Active",
-  "injury_status": "Out",
+  "status": "Inactive",
+  "injury_status": "IR",
   "injury_note": "Knee"
  },
  "4146": {
