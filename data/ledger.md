@@ -2,7 +2,7 @@
 
 Rewritten in full every Tuesday at 6:00 AM ET by the process review; `## State` and `## Open threads` updated by every decision run in the same commit as its decision. Hard cap 150 lines. Older weeks roll up; git history is the archive. Cite a thesis or lesson by name instead of re-arguing it.
 
-Last full rewrite: 2026-09-29 (first process review, covering Week 3). Last touched: 2026-10-01 (Thu TNF).
+Last full rewrite: 2026-09-29 (first process review, covering Week 3). Last touched: 2026-10-04 (Sun lineup).
 
 ## State
 - **Week 3 final: lost 116.72 to What can Brown do for u? 124.84 (8.12).** Record 1-2, 374.77 PF, 8th of 12. NFL Week 4 opens Thu. Opponent: CorneliusJones (1-2, 343.82 PF).
@@ -10,10 +10,12 @@ Last full rewrite: 2026-09-29 (first process review, covering Week 3). Last touc
 - Roster (14): QB Mariota, Daniels [Q]; RB Irving, Skattebo, **B. Allen**, J. Hill; WR Lamb, Addison, Mumpfield, Nacua [Q], Evans [Q]; TE Kincaid; K Loop; DEF Buffalo. Hockenson dropped Wed 3:13 AM.
 - Holes: **TE is one deep by choice (Kincaid only).** RB is three deep behind two slots and a flex, which was the point of the claim. WR is not a hole if Nacua or Evans clears.
 - Pending in Sleeper: **nothing.** All four Wk 4 claims resolved; last week's offers all dead.
+- **Sun Wk 4 lineup filed (`2026-wk04-sun-lineup`):** QB Mariota (Daniels Out; London 9:30 AM ET lock), RB Irving, Skattebo, WR Lamb, Nacua, FLEX Addison, TE Kincaid, K Loop, DEF Buffalo. Evans (Q) and Allen, Hill, Mumpfield on bench.
 - Thu TNF done (`2026-wk04-thu-tnf`): tonight is PIT@CLE, no rostered players, no starter Out, NO ACTION. Next run: Sun lineup. Thu scan done (`2026-wk04-thu-trades`).
 - Chat targets used: Wk1 Three Wise Jaylens, Wk2 CorneliusJones, Wk3 Lost in the Land of Love, then Princess Donut's Court (Mon). Sources: `2026-wk03-mon-chat`.
 
 ## Open threads
+- **Sun Wk 4 contingency: Nacua inactive (check ~11:30 AM ET, before 1:00 PM).** Then Addison to WR2 and Mumpfield to FLEX. Evans (Q, 4:25 PM game) stays benched.
 - **Daniels (QB, dislocated elbow, Questionable; limited practice Thu, likely misses Wk 4).** Mariota starts until he is cleared; drop Mariota that week. Check every run.
 - **Irving (RB-TB) newly Questionable Thu; Evans did not practice Thu; Nacua expected to play.** Nacua (WR, hip) and Evans (WR, ribs), both Questionable after two weeks Out. Unwinds when either is active; if both sit Sunday, Mumpfield and B. Allen fill WR and FLEX.
 - **B. Allen (RB-NYJ), claimed Wk 4.** Jets' starter while Breece Hall's quad heals. Unwinds when Hall returns; he is a FLEX candidate, not a hold.
