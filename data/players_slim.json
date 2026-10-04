@@ -500,8 +500,8 @@
   "pos": "QB",
   "team": "NE",
   "status": "Active",
-  "injury_status": null,
-  "injury_note": null
+  "injury_status": "Out",
+  "injury_note": "Coach's Decision"
  },
  "355": {
   "name": "Brian Leonard",
@@ -2740,7 +2740,7 @@
   "pos": "WR",
   "team": "BAL",
   "status": "Active",
-  "injury_status": "Questionable",
+  "injury_status": "Out",
   "injury_note": "Ankle"
  },
  "6970": {
@@ -2796,8 +2796,8 @@
   "pos": "WR",
   "team": "JAX",
   "status": "Active",
-  "injury_status": null,
-  "injury_note": null
+  "injury_status": "Out",
+  "injury_note": "Coach's Decision"
  },
  "12866": {
   "name": "Jalin Conyers",
@@ -2860,8 +2860,8 @@
   "pos": "WR",
   "team": "LAR",
   "status": "Active",
-  "injury_status": null,
-  "injury_note": null
+  "injury_status": "Out",
+  "injury_note": "Coach's Decision"
  },
  "2503": {
   "name": "A.J. Derby",
@@ -3580,8 +3580,8 @@
   "pos": "TE",
   "team": "NE",
   "status": "Active",
-  "injury_status": "Questionable",
-  "injury_note": "Thigh"
+  "injury_status": null,
+  "injury_note": null
  },
  "12250": {
   "name": "Riley Sharp",
@@ -4012,8 +4012,8 @@
   "pos": "RB",
   "team": "NYG",
   "status": "Active",
-  "injury_status": null,
-  "injury_note": null
+  "injury_status": "Out",
+  "injury_note": "Coach's Decision"
  },
  "3531": {
   "name": "Marshaun Coprich",
@@ -7988,8 +7988,8 @@
   "pos": "TE",
   "team": "NYJ",
   "status": "Active",
-  "injury_status": "Questionable",
-  "injury_note": "Undisclosed"
+  "injury_status": null,
+  "injury_note": null
  },
  "12755": {
   "name": "Kelly Akharaiyi",
@@ -8020,8 +8020,8 @@
   "pos": "RB",
   "team": "TEN",
   "status": "Active",
-  "injury_status": null,
-  "injury_note": null
+  "injury_status": "Out",
+  "injury_note": "Coach's Decision"
  },
  "8167": {
   "name": "Christian Watson",
@@ -8444,8 +8444,8 @@
   "pos": "QB",
   "team": "ARI",
   "status": "Active",
-  "injury_status": null,
-  "injury_note": null
+  "injury_status": "Out",
+  "injury_note": "Coach's Decision"
  },
  "817": {
   "name": "Jeremy Kerley",
@@ -11172,8 +11172,8 @@
   "pos": "QB",
   "team": "PHI",
   "status": "Active",
-  "injury_status": null,
-  "injury_note": null
+  "injury_status": "Out",
+  "injury_note": "Coach's Decision"
  },
  "6490": {
   "name": "Mik'Quan Deane",
@@ -12004,8 +12004,8 @@
   "pos": "TE",
   "team": "HOU",
   "status": "Active",
-  "injury_status": null,
-  "injury_note": null
+  "injury_status": "Out",
+  "injury_note": "Coach's Decision"
  },
  "3978": {
   "name": "Jacob Huesman",
@@ -12724,8 +12724,8 @@
   "pos": "WR",
   "team": "WAS",
   "status": "Active",
-  "injury_status": null,
-  "injury_note": null
+  "injury_status": "Out",
+  "injury_note": "Ankle"
  },
  "3454": {
   "name": "Danny Anthrop",
@@ -16628,8 +16628,8 @@
   "pos": "TE",
   "team": "NYG",
   "status": "Active",
-  "injury_status": null,
-  "injury_note": null
+  "injury_status": "Out",
+  "injury_note": "Coach's Decision"
  },
  "4650": {
   "name": "Billy Brown",
@@ -18300,8 +18300,8 @@
   "pos": "RB",
   "team": "NE",
   "status": "Active",
-  "injury_status": "Questionable",
-  "injury_note": "Knee"
+  "injury_status": null,
+  "injury_note": null
  },
  "5117": {
   "name": "Jordan Thomas",
@@ -18876,8 +18876,8 @@
   "pos": "QB",
   "team": "LAR",
   "status": "Active",
-  "injury_status": null,
-  "injury_note": null
+  "injury_status": "Out",
+  "injury_note": "Coach's Decision"
  },
  "7087": {
   "name": "Jonathan Ward",
@@ -20524,8 +20524,8 @@
   "pos": "WR",
   "team": "DAL",
   "status": "Active",
-  "injury_status": null,
-  "injury_note": null
+  "injury_status": "Out",
+  "injury_note": "Coach's Decision"
  },
  "6973": {
   "name": "J.J. Taylor",
@@ -21604,8 +21604,8 @@
   "pos": "RB",
   "team": "TEN",
   "status": "Active",
-  "injury_status": "Questionable",
-  "injury_note": "Ankle"
+  "injury_status": null,
+  "injury_note": null
  },
  "11570": {
   "name": "Rasheen Ali",
@@ -22668,8 +22668,8 @@
   "pos": "WR",
   "team": "ARI",
   "status": "Active",
-  "injury_status": null,
-  "injury_note": null
+  "injury_status": "Out",
+  "injury_note": "Coach's Decision"
  },
  "6618": {
   "name": "Isaiah Searight",
@@ -24020,8 +24020,8 @@
   "pos": "RB",
   "team": "DAL",
   "status": "Active",
-  "injury_status": null,
-  "injury_note": null
+  "injury_status": "Out",
+  "injury_note": "Coach's Decision"
  },
  "6002": {
   "name": "Qadree Ollison",
@@ -26380,8 +26380,8 @@
   "pos": "TE",
   "team": "TEN",
   "status": "Active",
-  "injury_status": null,
-  "injury_note": null
+  "injury_status": "Out",
+  "injury_note": "Coach's Decision"
  },
  "12516": {
   "name": "Kalel Mullings",
@@ -26556,8 +26556,8 @@
   "pos": "WR",
   "team": "BAL",
   "status": "Active",
-  "injury_status": "Questionable",
-  "injury_note": "Hamstring"
+  "injury_status": null,
+  "injury_note": null
  },
  "5407": {
   "name": "Ervin Philips",
@@ -27740,8 +27740,8 @@
   "pos": "WR",
   "team": "BUF",
   "status": "Active",
-  "injury_status": null,
-  "injury_note": null
+  "injury_status": "Out",
+  "injury_note": "Coach's Decision"
  },
  "8127": {
   "name": "Charlie Kolar",
@@ -30028,7 +30028,7 @@
   "pos": "QB",
   "team": "WAS",
   "status": "Active",
-  "injury_status": "Questionable",
+  "injury_status": "Out",
   "injury_note": "Knee"
  },
  "8178": {
@@ -31292,8 +31292,8 @@
   "pos": "QB",
   "team": "BAL",
   "status": "Active",
-  "injury_status": null,
-  "injury_note": null
+  "injury_status": "Out",
+  "injury_note": "Coach's Decision"
  },
  "9505": {
   "name": "Deuce Vaughn",
@@ -31820,8 +31820,8 @@
   "pos": "TE",
   "team": "NE",
   "status": "Active",
-  "injury_status": null,
-  "injury_note": null
+  "injury_status": "Out",
+  "injury_note": "Coach's Decision"
  },
  "12658": {
   "name": "Jackson Hawes",
@@ -32460,8 +32460,8 @@
   "pos": "RB",
   "team": "BUF",
   "status": "Active",
-  "injury_status": "Questionable",
-  "injury_note": "Hamstring"
+  "injury_status": null,
+  "injury_note": null
  },
  "7334": {
   "name": "Earnest Edwards",
@@ -33732,8 +33732,8 @@
   "pos": "TE",
   "team": "LAR",
   "status": "Active",
-  "injury_status": "Questionable",
-  "injury_note": "Shoulder"
+  "injury_status": "Out",
+  "injury_note": "Shoulder - AC Joint"
  },
  "3957": {
   "name": "Blake Sims",
