@@ -15,6 +15,7 @@ Last full rewrite: 2026-09-29 (first process review, covering Week 3). Last touc
 - Chat targets used: Wk1 Three Wise Jaylens, Wk2 CorneliusJones, Wk3 Lost in the Land of Love, then Princess Donut's Court (Mon). Sources: `2026-wk03-mon-chat`.
 
 ## Open threads
+- **Sean asked (Sun Wk 4): rethink trade strategy; zero trades through Wk 4.** Four offers, no acceptance (Thesis 3 kill met). For Tuesday's review: decide whether trades stay a channel at all, or shift to waivers/free agency, or change the pitch (smaller asks, managers who actually respond; see `data/correspondence.md`).
 - **Sean asked (Sun Wk 4): timed push reminders for contingency checks (e.g. Nacua inactives ~11:30 AM ET).** For Tuesday's review: have the Sun lineup run schedule one-shot reminders per contingency, or add a fixed Sun ~11:30 AM ET inactives-check routine that pushes only when a swap is owed. Needs a scheduling tool the cloud run may lack; verify first.
 - **Sun Wk 4 contingency: Nacua inactive (check ~11:30 AM ET, before 1:00 PM).** Then Addison to WR2 and Mumpfield to FLEX. Evans (Q, 4:25 PM game) stays benched.
 - **Daniels (QB, dislocated elbow, Questionable; limited practice Thu, likely misses Wk 4).** Mariota starts until he is cleared; drop Mariota that week. Check every run.
