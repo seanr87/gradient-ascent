@@ -1,5 +1,5 @@
 # Sleeper digest — The Climb
-Pulled: 2026-10-04 16:50 UTC · NFL week 4 (regular)
+Pulled: 2026-10-05 12:13 UTC · NFL week 4 (regular)
 
 ## My roster
 - Dalton Kincaid (TE-BUF) (STARTER)
@@ -8,8 +8,8 @@ Pulled: 2026-10-04 16:50 UTC · NFL week 4 (regular)
 - Bucky Irving (RB-TB) (STARTER)
 - Cam Skattebo (RB-NYG) (STARTER)
 - Tyler Loop (K-BAL) (STARTER)
-- Konata Mumpfield (WR-LAR)
-- Mike Evans (WR-SF) [Questionable]
+- Konata Mumpfield (WR-LAR) [Questionable]
+- Mike Evans (WR-SF)
 - Marcus Mariota (QB-WAS) [Out] (STARTER)
 - Justice Hill (RB-BAL)
 - CeeDee Lamb (WR-DAL) (STARTER)
@@ -35,12 +35,12 @@ Pulled: 2026-10-04 16:50 UTC · NFL week 4 (regular)
 12. Lost in the Land of Love — 0-3, 273.49 PF, waiver #11
 
 ## This week's matchups (week 4)
-- Princess Donut's Court 26.35 — Playful Secrets 4.10
-- Lawrence of Valinor 3.10 — Lost in the Land of Love 0.00
-- Umojan Protectorate 17.40 — TheTroubles 6.50
-- Three Wise Jaylens  18.10 — The Wizard’s Apprentice 10.70
-- CorneliusJones 24.20 — Gradient Ascent 5.84
-- What can Brown do for u? 0.00 — Sea Squirts 0.00
+- Princess Donut's Court 132.31 — Playful Secrets 123.78
+- Lost in the Land of Love 141.65 — Lawrence of Valinor 113.98
+- TheTroubles 98.57 — Umojan Protectorate 90.00
+- Three Wise Jaylens  112.17 — The Wizard’s Apprentice 91.15
+- CorneliusJones 115.47 — Gradient Ascent 114.74
+- Sea Squirts 145.12 — What can Brown do for u? 125.71
 
 ## Last week's results (week 3)
 - Lawrence of Valinor 144.03 — Princess Donut's Court 127.13
@@ -51,31 +51,31 @@ Pulled: 2026-10-04 16:50 UTC · NFL week 4 (regular)
 - What can Brown do for u? 124.84 — Gradient Ascent 116.72
 
 ## Trending adds (24h, all Sleeper)
-- Emanuel Wilson (RB-SEA) — 1,238,346 adds
-- Jauan Jennings (WR-MIN) — 430,731 adds
-- Roman Wilson (WR-PIT) — 381,168 adds
-- Brycen Tremayne (WR-CAR) — 284,022 adds
-- Darren Waller (TE-CAR) — 229,185 adds
-- Isaiah Davis (RB-NYJ) — 216,819 adds
-- Tyler Higbee (TE-LAR) — 139,761 adds
-- Arizona Cardinals (DEF-ARI) — 137,288 adds
-- Austin Ekeler (RB-WAS) — 135,452 adds
-- Tyson Bagent (QB-CHI) — 113,148 adds
-- Makai Lemon (WR-PHI) — 95,884 adds
-- Dontayvion Wicks (WR-PHI) — 88,551 adds
-- Malik Washington (WR-MIA) — 87,976 adds
-- C.J. Stroud (QB-HOU) — 82,012 adds
-- Jordan Addison (WR-MIN) — 80,370 adds
-- Kenyon Sadiq (TE-NYJ) — 72,612 adds
-- Laquon Treadwell (WR-IND) — 67,625 adds
-- Tyreek Hill (WR-None) — 64,888 adds
-- Las Vegas Raiders (DEF-LV) — 64,770 adds
-- Jakobi Meyers (WR-JAX) — 59,004 adds
-- Zach Charbonnet (RB-SEA) [PUP] — 57,801 adds
-- Keaton Mitchell (RB-LAC) — 57,591 adds
-- Matt Gay (K-LV) — 56,330 adds
-- Mack Hollins (WR-NE) — 56,022 adds
-- MarShawn Lloyd (RB-GB) — 55,872 adds
+- Emanuel Wilson (RB-SEA) — 833,994 adds
+- Brycen Tremayne (WR-CAR) — 592,191 adds
+- Roman Wilson (WR-PIT) — 561,897 adds
+- Keon Coleman (WR-BUF) — 429,912 adds
+- Jauan Jennings (WR-MIN) — 320,425 adds
+- Dohnte Meyers (WR-CIN) — 261,045 adds
+- Darren Waller (TE-CAR) — 219,105 adds
+- Tank Bigsby (RB-PHI) [Questionable] — 189,007 adds
+- Darius Cooper (WR-PHI) — 182,525 adds
+- Tyreek Hill (WR-None) — 182,008 adds
+- Kirk Cousins (QB-LV) — 177,800 adds
+- Romeo Doubs (WR-NE) — 140,360 adds
+- C.J. Stroud (QB-HOU) — 124,047 adds
+- Tyler Higbee (TE-LAR) — 123,156 adds
+- Tyquan Thornton (WR-KC) [Out] — 109,242 adds
+- Isaiah Davis (RB-NYJ) — 107,019 adds
+- Arizona Cardinals (DEF-ARI) — 104,448 adds
+- Keaton Mitchell (RB-LAC) — 91,683 adds
+- Deshaun Watson (QB-CLE) — 87,568 adds
+- Matt Gay (K-LV) — 80,045 adds
+- Michael Mayer (TE-LV) — 79,794 adds
+- Malik Washington (WR-MIA) — 76,936 adds
+- Joe Mixon (RB-None) [Active] — 74,603 adds
+- Las Vegas Raiders (DEF-LV) — 72,612 adds
+- Ollie Gordon (RB-MIA) — 70,602 adds
 
 ## League transactions this week
 - free_agent (complete) CorneliusJones: +[Dontayvion Wicks (WR-PHI)] -[Zach Charbonnet (RB-SEA) [PUP]]

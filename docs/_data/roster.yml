@@ -102,7 +102,7 @@
   player: "Konata Mumpfield"
   pos: "WR"
   team: "LAR"
-  status: ""
+  status: "Questionable"
   acquired: "Wk 2"
   acquired_via: "free agent"
   acquired_week: 2
@@ -110,7 +110,7 @@
   player: "Mike Evans"
   pos: "WR"
   team: "SF"
-  status: "Questionable"
+  status: ""
   acquired: "Draft"
   acquired_via: "R6, pick 66"
   acquired_week: 0
