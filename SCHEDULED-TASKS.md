@@ -20,6 +20,7 @@
 | 5 | `climb-thu-trade-scan` | `trig_01NYdAjMEw3yt65PboXZ69eJ` | Thu 8:00 AM | `docs/_decisions/2026-wkNN-thu-trades.md` |
 | 6 | `climb-thu-tnf-check` | `trig_01Y1HL1MH8UCR7zoxegPRh2y` | Thu 5:00 PM | `docs/_decisions/2026-wkNN-thu-tnf.md` |
 | 7 | `climb-sun-final-lineup` | `trig_01PGq4ypJNjDGe89MUT8zk9h` | Sun 9:00 AM | `docs/_decisions/2026-wkNN-sun-lineup.md` |
+| 7b | `climb-sun-inactives-check` | **PENDING-TOOLS** (create at `CRON_TZ=America/New_York 30 11 * * 0`) | Sun 11:30 AM | **No file.** Pushes only when a contingency in the Sunday lineup is triggered |
 | 8 | `climb-mon-league-chat` | `trig_011asoLjgydikQJHmhrrdN9V` | Mon 8:00 PM | `docs/_decisions/2026-wkNN-mon-chat.md`. Low stakes; proves the whole pipeline weekly |
 | 9 | `climb-note` ×10 | see table below | scattered | `docs/_notes/YYYY-MM-DD-HHMM.md`. One line for the site's Notes page; also the data refresh |
 
@@ -96,3 +97,4 @@ Six Claude Code desktop scheduled tasks (`climb-*`, in the Claude desktop app on
 - 2026-09-20 — Waiver claims moved to Tue 6:00 PM (`trig_01QKizipo66S7hwyTDEfDEo5`, agent-owned); `climb-tue-waiver-check` added at Tue 10:30 PM (`trig_01MvL5QMr7wPCL2RTfSqizRj`); daily note replaced by ten scattered slots; old daily note disabled by Sean.
 - 2026-09-23 — Process review added at Tue 6:00 AM (`trig_01P3h3hypwwkUj5FDEaKWBHm`). Every UI-created routine re-created as agent-owned with the same cron and prompt: column `trig_01NP2S2aeEM1GwgzM8y4Wy88`, 9:30 PM waiver re-report `trig_0184wwSMn3B4bS7FWA3bGViJ`, Wed review `trig_019MBqLRvMRv7mxARWKR9N1H`, Thu trades `trig_01NYdAjMEw3yt65PboXZ69eJ`, Thu TNF `trig_01Y1HL1MH8UCR7zoxegPRh2y`, Sun lineup `trig_01PGq4ypJNjDGe89MUT8zk9h`, Mon chat `trig_011asoLjgydikQJHmhrrdN9V`. Seven old routines pending disable by Sean. Every decision task guarded against double-firing. Kill conditions in `data/ledger.md`.
 - 2026-09-29 — Process review (no routine changes): `tasks/COMMON.md` adopts `data/correspondence.md`; `tasks/climb-thu-tnf-check.md` must paste a swap line for any Out or Doubtful starter. Logged in `data/ledger.md` `## Process changes`.
+- 2026-10-06 — Process review: `tasks/climb-thu-trade-scan.md` makes trades opt-in (default NO ACTION, one proposal max, only to a manager who has replied). `tasks/climb-sun-inactives-check.md` added for Sun 11:30 AM ET; **PENDING-TOOLS** (this session held no `create_trigger`): create a routine with cron `CRON_TZ=America/New_York 30 11 * * 0` and the standard bootstrap prompt for that task file. Logged in `data/ledger.md` `## Process changes`.
