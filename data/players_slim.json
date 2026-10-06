@@ -4172,8 +4172,8 @@
   "pos": "QB",
   "team": "NO",
   "status": "Active",
-  "injury_status": null,
-  "injury_note": null
+  "injury_status": "Out",
+  "injury_note": "Coach's Decision"
  },
  "2769": {
   "name": "Larry Pinkard",
@@ -4835,8 +4835,8 @@
   "name": "Braxton Berrios",
   "pos": "WR",
   "team": "NYG",
-  "status": "Active",
-  "injury_status": "Questionable",
+  "status": "Inactive",
+  "injury_status": "Out",
   "injury_note": "Foot"
  },
  "7093": {
@@ -5060,8 +5060,8 @@
   "pos": "QB",
   "team": "ATL",
   "status": "Active",
-  "injury_status": null,
-  "injury_note": null
+  "injury_status": "Out",
+  "injury_note": "Coach's Decision"
  },
  "626": {
   "name": "Jim Dray",
@@ -15692,8 +15692,8 @@
   "pos": "RB",
   "team": "ARI",
   "status": "Active",
-  "injury_status": null,
-  "injury_note": null
+  "injury_status": "Questionable",
+  "injury_note": "Ankle"
  },
  "13946": {
   "name": "Jamal Haynes",
@@ -23387,9 +23387,9 @@
   "name": "Tank Bigsby",
   "pos": "RB",
   "team": "PHI",
-  "status": "Active",
-  "injury_status": "Questionable",
-  "injury_note": "Undisclosed"
+  "status": "Inactive",
+  "injury_status": "Out",
+  "injury_note": "Lower Body"
  },
  "7218": {
   "name": "Cam Sutton",
@@ -23426,7 +23426,7 @@
  "4018": {
   "name": "Joe Mixon",
   "pos": "RB",
-  "team": null,
+  "team": "SEA",
   "status": "Active",
   "injury_status": "Active",
   "injury_note": null
@@ -24716,7 +24716,7 @@
   "pos": "TE",
   "team": "NO",
   "status": "Active",
-  "injury_status": "Questionable",
+  "injury_status": "Out",
   "injury_note": "Abdomen"
  },
  "13066": {
@@ -31876,8 +31876,8 @@
   "pos": "QB",
   "team": "ATL",
   "status": "Active",
-  "injury_status": null,
-  "injury_note": null
+  "injury_status": "Out",
+  "injury_note": "Coach's Decision"
  },
  "12324": {
   "name": "William Thompson",
