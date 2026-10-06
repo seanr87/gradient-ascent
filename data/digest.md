@@ -1,5 +1,5 @@
 # Sleeper digest — The Climb
-Pulled: 2026-10-06 16:55 UTC · NFL week 5 (regular)
+Pulled: 2026-10-06 18:34 UTC · NFL week 5 (regular)
 
 ## My roster
 - Dalton Kincaid (TE-BUF) (STARTER)
@@ -51,30 +51,30 @@ Pulled: 2026-10-06 16:55 UTC · NFL week 5 (regular)
 - What can Brown do for u? 147.01 — Sea Squirts 145.12
 
 ## Trending adds (24h, all Sleeper)
-- Keon Coleman (WR-BUF) — 2,298,744 adds
-- Dohnte Meyers (WR-CIN) — 1,553,949 adds
-- Emanuel Wilson (RB-SEA) — 998,712 adds
-- Roman Wilson (WR-PIT) — 788,796 adds
-- Will Shipley (RB-PHI) — 589,886 adds
-- Tyreek Hill (WR-None) — 545,248 adds
-- Kirk Cousins (QB-LV) — 486,624 adds
-- Jacksonville Jaguars (DEF-JAX) — 439,182 adds
-- Brian Robinson (RB-ATL) — 419,628 adds
-- Keaton Mitchell (RB-LAC) — 389,124 adds
-- Romeo Doubs (WR-NE) — 340,816 adds
-- Joe Mixon (RB-SEA) [Active] — 337,842 adds
-- Michael Mayer (TE-LV) — 305,217 adds
-- Tyler Higbee (TE-LAR) — 224,676 adds
-- Mike Gesicki (TE-CIN) — 210,120 adds
-- Matt Gay (K-LV) — 171,280 adds
-- Tyler Allgeier (RB-ARI) — 166,430 adds
-- Darius Cooper (WR-PHI) — 160,706 adds
-- C.J. Stroud (QB-HOU) — 153,006 adds
-- Ollie Gordon (RB-MIA) — 152,656 adds
-- Cleveland Browns (DEF-CLE) — 145,600 adds
-- Aaron Rodgers (QB-PIT) — 135,692 adds
-- Deshaun Watson (QB-CLE) — 121,200 adds
-- Houston Texans (DEF-HOU) — 120,865 adds
-- Malik Washington (WR-MIA) — 107,136 adds
+- Keon Coleman (WR-BUF) — 2,565,459 adds
+- Dohnte Meyers (WR-CIN) — 1,730,889 adds
+- Emanuel Wilson (RB-SEA) — 1,115,883 adds
+- Roman Wilson (WR-PIT) — 857,457 adds
+- Will Shipley (RB-PHI) — 673,440 adds
+- Tyreek Hill (WR-None) — 547,408 adds
+- Kirk Cousins (QB-LV) — 536,488 adds
+- Jacksonville Jaguars (DEF-JAX) — 505,224 adds
+- Brian Robinson (RB-ATL) — 468,534 adds
+- Keaton Mitchell (RB-LAC) — 447,408 adds
+- Romeo Doubs (WR-NE) — 385,112 adds
+- Joe Mixon (RB-SEA) [Active] — 346,249 adds
+- Michael Mayer (TE-LV) — 335,043 adds
+- Tyler Higbee (TE-LAR) — 259,695 adds
+- Mike Gesicki (TE-CIN) — 235,116 adds
+- Tyler Allgeier (RB-ARI) — 191,570 adds
+- Matt Gay (K-LV) — 189,030 adds
+- Darius Cooper (WR-PHI) — 174,202 adds
+- Ollie Gordon (RB-MIA) — 171,024 adds
+- C.J. Stroud (QB-HOU) — 166,397 adds
+- Cleveland Browns (DEF-CLE) — 162,246 adds
+- Aaron Rodgers (QB-PIT) — 156,556 adds
+- Houston Texans (DEF-HOU) — 135,445 adds
+- Deshaun Watson (QB-CLE) — 132,856 adds
+- Malik Washington (WR-MIA) — 123,904 adds
 
 ## League transactions this week

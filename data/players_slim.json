@@ -15788,8 +15788,8 @@
   "pos": "RB",
   "team": null,
   "status": "Inactive",
-  "injury_status": "Questionable",
-  "injury_note": "Groin"
+  "injury_status": null,
+  "injury_note": null
  },
  "4175": {
   "name": "Chad Hansen",
@@ -22210,7 +22210,7 @@
  "6290": {
   "name": "Scotty Miller",
   "pos": "WR",
-  "team": null,
+  "team": "CHI",
   "status": "Active",
   "injury_status": null,
   "injury_note": null
@@ -31298,7 +31298,7 @@
  "9505": {
   "name": "Deuce Vaughn",
   "pos": "RB",
-  "team": null,
+  "team": "HOU",
   "status": "Active",
   "injury_status": null,
   "injury_note": null
