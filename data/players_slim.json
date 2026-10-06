@@ -2626,7 +2626,7 @@
  "6927": {
   "name": "Quez Watkins",
   "pos": "WR",
-  "team": null,
+  "team": "IND",
   "status": "Active",
   "injury_status": null,
   "injury_note": null
@@ -3244,8 +3244,8 @@
   "pos": "RB",
   "team": "SEA",
   "status": "Active",
-  "injury_status": null,
-  "injury_note": null
+  "injury_status": "Out",
+  "injury_note": "Foot"
  },
  "4508": {
   "name": "Gabe Marks",
@@ -7660,8 +7660,8 @@
   "pos": "K",
   "team": "TB",
   "status": "Active",
-  "injury_status": null,
-  "injury_note": null
+  "injury_status": "Questionable",
+  "injury_note": "Groin"
  },
  "13667": {
   "name": "Marcus Burke",
@@ -9154,7 +9154,7 @@
  "13852": {
   "name": "Dontae McMillan",
   "pos": "RB",
-  "team": null,
+  "team": "SEA",
   "status": "Active",
   "injury_status": null,
   "injury_note": null
@@ -10651,8 +10651,8 @@
   "name": "Hunter Long",
   "pos": "TE",
   "team": "ARI",
-  "status": "Active",
-  "injury_status": "Questionable",
+  "status": "Inactive",
+  "injury_status": "IR",
   "injury_note": "Knee"
  },
  "1139": {
@@ -12723,8 +12723,8 @@
   "name": "Jaylin Lane",
   "pos": "WR",
   "team": "WAS",
-  "status": "Active",
-  "injury_status": "Out",
+  "status": "Inactive",
+  "injury_status": "IR",
   "injury_note": "Ankle"
  },
  "3454": {
@@ -15138,7 +15138,7 @@
  "6957": {
   "name": "James Proche",
   "pos": "WR",
-  "team": null,
+  "team": "CLE",
   "status": "Active",
   "injury_status": null,
   "injury_note": null
@@ -20626,10 +20626,10 @@
  "7597": {
   "name": "Kenny Yeboah",
   "pos": "TE",
-  "team": null,
-  "status": "Inactive",
-  "injury_status": "Questionable",
-  "injury_note": "Hamstring"
+  "team": "ARI",
+  "status": "Active",
+  "injury_status": null,
+  "injury_note": null
  },
  "3213": {
   "name": "Trevone Boykin",
@@ -23426,10 +23426,10 @@
  "4018": {
   "name": "Joe Mixon",
   "pos": "RB",
-  "team": "SEA",
+  "team": null,
   "status": "Active",
-  "injury_status": "Active",
-  "injury_note": null
+  "injury_status": "",
+  "injury_note": "Foot"
  },
  "13227": {
   "name": "Mitch Van Vooren",
@@ -33034,7 +33034,7 @@
  "13949": {
   "name": "Damon Bankston",
   "pos": "RB",
-  "team": null,
+  "team": "GB",
   "status": "Active",
   "injury_status": null,
   "injury_note": null
