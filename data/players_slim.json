@@ -22242,7 +22242,7 @@
  "11186": {
   "name": "Carlos Washington",
   "pos": "RB",
-  "team": "MIA",
+  "team": null,
   "status": "Active",
   "injury_status": null,
   "injury_note": null
@@ -30794,7 +30794,7 @@
  "11911": {
   "name": "Jeshaun Jones",
   "pos": "WR",
-  "team": "MIN",
+  "team": null,
   "status": "Active",
   "injury_status": null,
   "injury_note": null
