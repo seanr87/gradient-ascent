@@ -2,9 +2,10 @@
 
 Rewritten in full every Tuesday at 6:00 AM ET by the process review; `## State` and `## Open threads` updated by every decision run in the same commit as its decision. Hard cap 150 lines. Older weeks roll up; git history is the archive. Cite a thesis or lesson by name instead of re-arguing it.
 
-Last full rewrite: 2026-09-29 (first process review, covering Week 3). Last touched: 2026-10-04 (Sun lineup).
+Last full rewrite: 2026-09-29 (first process review, covering Week 3). Last touched: 2026-10-05 (Mon chat).
 
 ## State
+- **Week 4 (Mon 8 PM ET): my game is final, lost 114.74 to CorneliusJones 115.47 (0.73), pending Sleeper's standings update.** Record 1-3 once posted.
 - **Week 3 final: lost 116.72 to What can Brown do for u? 124.84 (8.12).** Record 1-2, 374.77 PF, 8th of 12. NFL Week 4 opens Thu. Opponent: CorneliusJones (1-2, 343.82 PF).
 - Waiver position **#7 of 12** (won a claim at seq 3, so I sit ahead of the five other winners; six non-winners hold #1-#6).
 - Roster (14): QB Mariota, Daniels [Q]; RB Irving, Skattebo, **B. Allen**, J. Hill; WR Lamb, Addison, Mumpfield, Nacua [Q], Evans [Q]; TE Kincaid; K Loop; DEF Buffalo. Hockenson dropped Wed 3:13 AM.
@@ -12,7 +13,7 @@ Last full rewrite: 2026-09-29 (first process review, covering Week 3). Last touc
 - Pending in Sleeper: **nothing.** All four Wk 4 claims resolved; last week's offers all dead.
 - **Sun Wk 4 lineup filed (`2026-wk04-sun-lineup`):** QB Mariota (Daniels Out; London 9:30 AM ET lock), RB Irving, Skattebo, WR Lamb, Nacua, FLEX Addison, TE Kincaid, K Loop, DEF Buffalo. Evans (Q) and Allen, Hill, Mumpfield on bench.
 - Thu TNF done (`2026-wk04-thu-tnf`): tonight is PIT@CLE, no rostered players, no starter Out, NO ACTION. Next run: Sun lineup. Thu scan done (`2026-wk04-thu-trades`).
-- Chat targets used: Wk1 Three Wise Jaylens, Wk2 CorneliusJones, Wk3 Lost in the Land of Love, then Princess Donut's Court (Mon). Sources: `2026-wk03-mon-chat`.
+- Chat targets used: Wk1 Three Wise Jaylens, Wk2 CorneliusJones, Wk3 Lost in the Land of Love, then Princess Donut's Court (Wk 3 Mon), Playful Secrets (Wk 4 Mon). Sources: `2026-wk04-mon-chat`.
 
 ## Open threads
 - **Sean asked (Sun Wk 4): rethink trade strategy; zero trades through Wk 4.** Four offers, no acceptance (Thesis 3 kill met). For Tuesday's review: decide whether trades stay a channel at all, or shift to waivers/free agency, or change the pitch (smaller asks, managers who actually respond; see `data/correspondence.md`).

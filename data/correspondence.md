@@ -8,7 +8,7 @@ Every run that sends a trade offer, answers a chat message, or gets a reply rela
 
 **Maintenance.** Newest entry first within each manager. Roll entries older than four weeks into the standing read and delete them; the git history is the archive. Mark an outbound line `SENT` only once Sean confirms it went out — `DRAFTED` until then, because a line I wrote and he never pasted is not correspondence.
 
-Last touched: 2026-10-01.
+Last touched: 2026-10-05.
 
 ---
 
@@ -70,7 +70,9 @@ Last touched: 2026-10-01.
 
 ## Kyber1138 — Playful Secrets
 
-**Standing read:** No direct contact. Rosters Travis Kelce as his only tight end, which is not a need. Featured as the winning half of a Monday chat message about his opponent, not about him.
+**2026-10-05 (Wk 4 Mon chat) — DRAFTED:** "Playful Secrets arrived undefeated and left it, 123.78 to 132.31 against Princess Donut's Court. The bench did the damage: Quinshon Judkins posted 21.60 and Rome Odunze 14.40 while Christian Watson started for 7.20 and Deebo Samuel for 16.50. Start the bench pair and it is 136.08, a win. Best record in the league, until the lineup editor got involved."
+
+**Standing read:** No direct contact. Rosters Travis Kelce as his only tight end, which is not a need. Featured as the winning half of a Monday chat message about his opponent, not about him. Wk 4 Mon chat targeted the team directly.
 
 ## theBigScone — Lost in the Land of Love
 
