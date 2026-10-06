@@ -1,5 +1,5 @@
 # Sleeper digest — The Climb
-Pulled: 2026-10-06 02:56 UTC · NFL week 4 (regular)
+Pulled: 2026-10-06 10:10 UTC · NFL week 5 (regular)
 
 ## My roster
 - Dalton Kincaid (TE-BUF) (STARTER)
@@ -18,74 +18,63 @@ Pulled: 2026-10-06 02:56 UTC · NFL week 4 (regular)
 - Buffalo Bills (DEF-BUF) (STARTER)
 
 ## My matchup this week
-- Opponent: CorneliusJones
+- Opponent: Umojan Protectorate
 
 ## Standings (W-L, points for)
-1. Playful Secrets — 3-0, 416.30 PF, waiver #10
-2. Umojan Protectorate — 2-1, 393.59 PF, waiver #9
-3. Lawrence of Valinor — 2-1, 381.64 PF, waiver #6
-4. Sea Squirts — 2-1, 358.47 PF, waiver #5
-5. Three Wise Jaylens  — 2-1, 354.30 PF, waiver #4
-6. TheTroubles — 2-1, 336.99 PF, waiver #3
-7. Princess Donut's Court — 1-2, 447.61 PF, waiver #8
-8. Gradient Ascent — 1-2, 374.77 PF, waiver #7
-9. The Wizard’s Apprentice — 1-2, 371.25 PF, waiver #12
-10. CorneliusJones — 1-2, 343.82 PF, waiver #2
-11. What can Brown do for u? — 1-2, 321.13 PF, waiver #1
-12. Lost in the Land of Love — 0-3, 273.49 PF, waiver #11
+1. Playful Secrets — 3-1, 540.08 PF, waiver #12
+2. Lawrence of Valinor — 3-1, 524.82 PF, waiver #11
+3. Umojan Protectorate — 3-1, 500.03 PF, waiver #10
+4. Three Wise Jaylens  — 3-1, 491.47 PF, waiver #9
+5. Princess Donut's Court — 2-2, 579.92 PF, waiver #8
+6. Sea Squirts — 2-2, 503.59 PF, waiver #7
+7. What can Brown do for u? — 2-2, 467.64 PF, waiver #6
+8. CorneliusJones — 2-2, 459.29 PF, waiver #5
+9. TheTroubles — 2-2, 435.56 PF, waiver #4
+10. Gradient Ascent — 1-3, 489.51 PF, waiver #3
+11. The Wizard’s Apprentice — 1-3, 480.50 PF, waiver #2
+12. Lost in the Land of Love — 0-4, 415.14 PF, waiver #1
 
-## This week's matchups (week 4)
+## This week's matchups (week 5)
+- Lost in the Land of Love 0.00 — Princess Donut's Court 0.00
+- Playful Secrets 0.00 — TheTroubles 0.00
+- Lawrence of Valinor 0.00 — The Wizard’s Apprentice 0.00
+- Umojan Protectorate 0.00 — Gradient Ascent 0.00
+- What can Brown do for u? 0.00 — Three Wise Jaylens  0.00
+- Sea Squirts 0.00 — CorneliusJones 0.00
+
+## Last week's results (week 4)
 - Princess Donut's Court 132.31 — Playful Secrets 123.78
-- Lost in the Land of Love 141.65 — Lawrence of Valinor 141.38
-- Umojan Protectorate 100.06 — TheTroubles 98.57
-- Three Wise Jaylens  136.07 — The Wizard’s Apprentice 103.95
+- Lawrence of Valinor 143.18 — Lost in the Land of Love 141.65
+- Umojan Protectorate 106.44 — TheTroubles 98.57
+- Three Wise Jaylens  137.17 — The Wizard’s Apprentice 109.25
 - CorneliusJones 115.47 — Gradient Ascent 114.74
 - What can Brown do for u? 146.51 — Sea Squirts 145.12
 
-## Last week's results (week 3)
-- Lawrence of Valinor 144.03 — Princess Donut's Court 127.13
-- Playful Secrets 137.04 — Umojan Protectorate 113.16
-- Three Wise Jaylens  155.17 — Lost in the Land of Love 83.54
-- CorneliusJones 148.13 — TheTroubles 84.31
-- Sea Squirts 122.13 — The Wizard’s Apprentice 121.79
-- What can Brown do for u? 124.84 — Gradient Ascent 116.72
-
 ## Trending adds (24h, all Sleeper)
-- Keon Coleman (WR-BUF) — 814,806 adds
-- Dohnte Meyers (WR-CIN) — 580,824 adds
-- Tyreek Hill (WR-None) — 565,936 adds
-- Emanuel Wilson (RB-SEA) — 538,371 adds
-- Roman Wilson (WR-PIT) — 500,022 adds
-- Joe Mixon (RB-SEA) [Active] — 233,320 adds
-- Kirk Cousins (QB-LV) — 232,416 adds
-- Will Shipley (RB-PHI) — 164,778 adds
-- Michael Mayer (TE-LV) — 131,076 adds
-- Tank Bigsby (RB-PHI) [Out] — 130,088 adds
-- Romeo Doubs (WR-NE) — 119,224 adds
-- Keaton Mitchell (RB-LAC) — 119,034 adds
-- Darius Cooper (WR-PHI) — 103,243 adds
-- C.J. Stroud (QB-HOU) — 81,592 adds
-- Mike Gesicki (TE-CIN) — 78,604 adds
-- Brian Robinson (RB-ATL) — 78,282 adds
-- Tyler Higbee (TE-LAR) — 73,962 adds
-- Matt Gay (K-LV) — 65,840 adds
-- Deshaun Watson (QB-CLE) — 64,888 adds
-- Jacksonville Jaguars (DEF-JAX) — 60,954 adds
-- Xavier Worthy (WR-KC) — 57,978 adds
-- Ollie Gordon (RB-MIA) — 56,868 adds
-- Kyle Monangai (RB-CHI) [Questionable] — 48,210 adds
-- Tyler Allgeier (RB-ARI) — 44,915 adds
-- Cleveland Browns (DEF-CLE) — 43,869 adds
+- Keon Coleman (WR-BUF) — 1,269,243 adds
+- Dohnte Meyers (WR-CIN) — 901,440 adds
+- Emanuel Wilson (RB-SEA) — 629,955 adds
+- Tyreek Hill (WR-None) — 591,944 adds
+- Roman Wilson (WR-PIT) — 563,373 adds
+- Kirk Cousins (QB-LV) — 297,432 adds
+- Will Shipley (RB-PHI) — 294,860 adds
+- Joe Mixon (RB-SEA) [Active] — 281,235 adds
+- Brian Robinson (RB-ATL) — 241,536 adds
+- Michael Mayer (TE-LV) — 188,793 adds
+- Keaton Mitchell (RB-LAC) — 186,336 adds
+- Romeo Doubs (WR-NE) — 174,088 adds
+- Jacksonville Jaguars (DEF-JAX) — 156,102 adds
+- Mike Gesicki (TE-CIN) — 120,556 adds
+- Darius Cooper (WR-PHI) — 119,252 adds
+- Tank Bigsby (RB-PHI) [Out] — 114,198 adds
+- Tyler Higbee (TE-LAR) — 105,309 adds
+- C.J. Stroud (QB-HOU) — 99,155 adds
+- Matt Gay (K-LV) — 92,185 adds
+- Tyler Allgeier (RB-ARI) — 82,825 adds
+- Ollie Gordon (RB-MIA) — 78,974 adds
+- Deshaun Watson (QB-CLE) — 72,304 adds
+- Cleveland Browns (DEF-CLE) — 65,527 adds
+- KC Concepcion (WR-CLE) — 59,598 adds
+- Xavier Worthy (WR-KC) — 58,788 adds
 
 ## League transactions this week
-- free_agent (complete) CorneliusJones: +[Dontayvion Wicks (WR-PHI)] -[Zach Charbonnet (RB-SEA) [PUP]]
-- free_agent (complete) Lost in the Land of Love: +[Jacoby Brissett (QB-ARI)] -[Dalton Schultz (TE-HOU)]
-- free_agent (complete) Princess Donut's Court: +[Bryce Young (QB-CAR)] -[Jordan Love (QB-GB)]
-- free_agent (complete) Lost in the Land of Love: +[Dalton Schultz (TE-HOU)] -[Kyler Murray (QB-MIN)]
-- free_agent (complete) Sea Squirts: +[Emanuel Wilson (RB-SEA)] -[Caleb Douglas (WR-MIA) [Out]]
-- free_agent (complete) Lawrence of Valinor: +[Austin Ekeler (RB-WAS)] -[Jake Ferguson (TE-DAL)]
-- free_agent (complete) Umojan Protectorate: +[Spencer Shrader (K-IND)] -[Trey Smack (K-GB)]
-- free_agent (complete) Umojan Protectorate: +[Chicago Bears (DEF-CHI)] -[New England Patriots (DEF-NE)]
-- free_agent (complete) What can Brown do for u?: +[Green Bay Packers (DEF-GB)] -[Jacksonville Jaguars (DEF-JAX)]
-- free_agent (complete) Umojan Protectorate: +[Brian Robinson (RB-ATL)] -[Chris Godwin (WR-TB)]
-- free_agent (complete) Lost in the Land of Love: +[Matt Gay (K-LV)] -[Harrison Butker (K-KC)]
