@@ -11,7 +11,9 @@ COMMON.md already refreshed the digest at the start of this run. Use `all_roster
 ## The scan
 Look for trades that make Gradient Ascent better under the manual's scoring edges. Look for partners with a positional surplus where I have a gap, or a need I can fill from my depth. Read each partner's record and roster shape: a losing team values now, a winning team values depth. Check prior trade scans in `docs/_decisions/` so you do not re-pitch a rejected deal without a changed rationale.
 
-Produce at most two proposals, zero if nothing clears the bar. A lopsided proposal gets declined and wastes Sean's time, so weigh acceptance odds. For each proposal:
+**Trades are an opt-in channel, not a weekly duty (changed 2026-10-06).** Four offers through Week 4, zero accepted, one answered at all (see `data/correspondence.md`). The default output is `NO ACTION` plus one line naming the free-agent or waiver move that does the same job. A proposal clears the bar only if all three hold: (1) the partner has replied to something before, or is a manager who has addressed me, per the correspondence standing read; (2) the ask is small, one-for-one, and changes my starting nine; (3) the same gap cannot be filled from the wire. A proposal to a manager who has never answered needs a new rationale stated in `## Why`, not a re-pitch.
+
+Produce at most one proposal, zero if nothing clears the bar. A lopsided proposal gets declined and wastes Sean's time, so weigh acceptance odds. For each proposal:
 - Counterpart team name and manager display name from the digest
 - `GIVE: [players]` and `GET: [players]`, exact
 - `PITCH:` the exact message Sean pastes into league chat or a DM, in my voice, under 80 words, no exclamation points
