@@ -1,5 +1,5 @@
 # Sleeper digest — The Climb
-Pulled: 2026-10-06 00:01 UTC · NFL week 4 (regular)
+Pulled: 2026-10-06 02:56 UTC · NFL week 4 (regular)
 
 ## My roster
 - Dalton Kincaid (TE-BUF) (STARTER)
@@ -36,11 +36,11 @@ Pulled: 2026-10-06 00:01 UTC · NFL week 4 (regular)
 
 ## This week's matchups (week 4)
 - Princess Donut's Court 132.31 — Playful Secrets 123.78
-- Lost in the Land of Love 141.65 — Lawrence of Valinor 113.98
-- TheTroubles 98.57 — Umojan Protectorate 90.00
-- Three Wise Jaylens  112.17 — The Wizard’s Apprentice 91.15
+- Lost in the Land of Love 141.65 — Lawrence of Valinor 141.38
+- Umojan Protectorate 100.06 — TheTroubles 98.57
+- Three Wise Jaylens  136.07 — The Wizard’s Apprentice 103.95
 - CorneliusJones 115.47 — Gradient Ascent 114.74
-- Sea Squirts 145.12 — What can Brown do for u? 125.21
+- What can Brown do for u? 146.51 — Sea Squirts 145.12
 
 ## Last week's results (week 3)
 - Lawrence of Valinor 144.03 — Princess Donut's Court 127.13
@@ -51,31 +51,31 @@ Pulled: 2026-10-06 00:01 UTC · NFL week 4 (regular)
 - What can Brown do for u? 124.84 — Gradient Ascent 116.72
 
 ## Trending adds (24h, all Sleeper)
-- Keon Coleman (WR-BUF) — 669,096 adds
-- Emanuel Wilson (RB-SEA) — 577,467 adds
-- Tyreek Hill (WR-None) — 541,400 adds
-- Roman Wilson (WR-PIT) — 528,696 adds
-- Dohnte Meyers (WR-CIN) — 504,090 adds
-- Kirk Cousins (QB-LV) — 231,184 adds
-- Joe Mixon (RB-SEA) [Active] — 185,745 adds
-- Tank Bigsby (RB-PHI) [Out] — 144,186 adds
-- Romeo Doubs (WR-NE) — 119,752 adds
-- Michael Mayer (TE-LV) — 119,574 adds
-- Darius Cooper (WR-PHI) — 115,808 adds
-- Brycen Tremayne (WR-CAR) — 108,675 adds
-- Keaton Mitchell (RB-LAC) — 107,478 adds
-- Will Shipley (RB-PHI) — 104,798 adds
-- C.J. Stroud (QB-HOU) — 84,525 adds
-- Tyler Higbee (TE-LAR) — 73,143 adds
-- Deshaun Watson (QB-CLE) — 71,600 adds
-- Mike Gesicki (TE-CIN) — 67,808 adds
-- Matt Gay (K-LV) — 65,380 adds
-- Xavier Worthy (WR-KC) — 63,954 adds
-- Ollie Gordon (RB-MIA) — 60,354 adds
-- Jacksonville Jaguars (DEF-JAX) — 49,980 adds
-- Kyle Monangai (RB-CHI) [Questionable] — 49,356 adds
-- Brenton Strange (TE-JAX) — 45,801 adds
-- Cleveland Browns (DEF-CLE) — 41,734 adds
+- Keon Coleman (WR-BUF) — 814,806 adds
+- Dohnte Meyers (WR-CIN) — 580,824 adds
+- Tyreek Hill (WR-None) — 565,936 adds
+- Emanuel Wilson (RB-SEA) — 538,371 adds
+- Roman Wilson (WR-PIT) — 500,022 adds
+- Joe Mixon (RB-SEA) [Active] — 233,320 adds
+- Kirk Cousins (QB-LV) — 232,416 adds
+- Will Shipley (RB-PHI) — 164,778 adds
+- Michael Mayer (TE-LV) — 131,076 adds
+- Tank Bigsby (RB-PHI) [Out] — 130,088 adds
+- Romeo Doubs (WR-NE) — 119,224 adds
+- Keaton Mitchell (RB-LAC) — 119,034 adds
+- Darius Cooper (WR-PHI) — 103,243 adds
+- C.J. Stroud (QB-HOU) — 81,592 adds
+- Mike Gesicki (TE-CIN) — 78,604 adds
+- Brian Robinson (RB-ATL) — 78,282 adds
+- Tyler Higbee (TE-LAR) — 73,962 adds
+- Matt Gay (K-LV) — 65,840 adds
+- Deshaun Watson (QB-CLE) — 64,888 adds
+- Jacksonville Jaguars (DEF-JAX) — 60,954 adds
+- Xavier Worthy (WR-KC) — 57,978 adds
+- Ollie Gordon (RB-MIA) — 56,868 adds
+- Kyle Monangai (RB-CHI) [Questionable] — 48,210 adds
+- Tyler Allgeier (RB-ARI) — 44,915 adds
+- Cleveland Browns (DEF-CLE) — 43,869 adds
 
 ## League transactions this week
 - free_agent (complete) CorneliusJones: +[Dontayvion Wicks (WR-PHI)] -[Zach Charbonnet (RB-SEA) [PUP]]
