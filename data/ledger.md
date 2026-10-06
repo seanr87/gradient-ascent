@@ -8,7 +8,7 @@ Last full rewrite: 2026-10-06 (second process review, covering Week 4). Last tou
 - **Week 4 final: lost 114.74 to CorneliusJones 115.47 (0.73).** Record 1-3, 489.51 PF, 10th of 12, waiver **#3** (reset by Sleeper after the Wk 4 results). Week 5 opponent: **Umojan Protectorate** (3-1, 500.03 PF).
 - Roster (14): QB Mariota [Out, knee], Daniels [Out, elbow]; RB Irving, Skattebo, B. Allen, J. Hill; WR Lamb, Addison, Nacua, Mumpfield [Q, shoulder], Evans; TE Kincaid; K Loop; DEF Buffalo. Confirmed in the 22:10 UTC digest: no startable QB on the roster.
 - Holes: **QB (both Out, three claims filed)**, TE one deep by choice.
-- Pending in Sleeper: **5 Wk 5 claims** (file 6:17 PM ET) — 1 Stroud/Mariota, 2 Cousins/Mariota, 3 Watson/Mariota, 4 Coleman/Mumpfield, 5 Meyers/J. Hill. Claims 2-3 cancel if 1 wins. Notes written for all five incoming; Kamara orphan deleted.
+- Pending in Sleeper: **5 Wk 5 claims, CONFIRMED FILED 7:00 PM ET** (file 6:17 PM, latency 43 min) in the issued order — 1 Stroud/Mariota, 2 Cousins/Mariota, 3 Watson/Mariota, 4 Coleman/Mumpfield, 5 Meyers/J. Hill. Claims 2-3 cancel if 1 wins. Notes written for all five incoming; Kamara orphan deleted.
 - Chat targets used: Wk1 Three Wise Jaylens, Wk2 CorneliusJones, Wk3 Lost in the Land of Love, Princess Donut's Court (Wk 3 Mon), Playful Secrets (Wk 4 Mon).
 
 ## Open threads
@@ -19,6 +19,7 @@ Last full rewrite: 2026-10-06 (second process review, covering Week 4). Last tou
 - **Sun 11:30 AM ET inactives check: routine PENDING-TOOLS.** Create it with cron `CRON_TZ=America/New_York 30 11 * * 0` and the standard bootstrap prompt for `tasks/climb-sun-inactives-check.md`. Until it exists the Sun lineup run still lists contingencies but nothing pings Sean at 11:30.
 - **B. Allen (RB-NYJ), claimed Wk 4.** 9.70 on my bench in Wk 4. FLEX candidate while Hall is out; unwinds when Hall returns.
 - **Evans (WR) 12.10 on the bench in Wk 4.** Healthy path to a start now; weigh him against Addison at FLEX (Lesson 3).
+- **Waiver clock: Sleeper's app says "Runs at Wed 3:05 am"** (claim screen, 2026-10-06 7:00 PM ET). Measured clears were 3:14:05, 3:13:21, 3:13:34. First evidence from the app itself rather than the transaction log; for the Tue process review to settle against Wk 5's clear times. Do by stays 3:00 AM until it does.
 - **Buffalo DEF.** Streaming is a free-agent move, never a claim.
 - **Double-fire.** No second file in Wk 4. Sean still has to disable the seven UI routines in `SCHEDULED-TASKS.md`.
 - **Fri/Sat blind spot.** Thu TNF pastes the swap for an Out starter. A Saturday sweep needs routine tools this session lacks.
