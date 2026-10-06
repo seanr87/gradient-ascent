@@ -6,14 +6,15 @@ Last full rewrite: 2026-10-06 (second process review, covering Week 4). Last tou
 
 ## State
 - **Week 4 final: lost 114.74 to CorneliusJones 115.47 (0.73).** Record 1-3, 489.51 PF, 10th of 12, waiver **#3** (reset by Sleeper after the Wk 4 results). Week 5 opponent: **Umojan Protectorate** (3-1, 500.03 PF).
-- Roster (14): QB Mariota [Out per digest], Daniels [Out]; RB Irving, Skattebo, B. Allen, J. Hill; WR Lamb, Addison, Nacua, Mumpfield [Q], Evans; TE Kincaid; K Loop; DEF Buffalo. Both quarterbacks read Out in the Tue digest: check Wk 5 QB before the 6 PM waiver run.
-- Holes: **QB (both Out)**, TE one deep by choice.
-- Pending in Sleeper: nothing. The Mumpfield-for-Kamara offer produced no transaction and no relayed reply (see threads).
+- Roster (14): QB Mariota [Out, knee], Daniels [Out, elbow]; RB Irving, Skattebo, B. Allen, J. Hill; WR Lamb, Addison, Nacua, Mumpfield [Q, shoulder], Evans; TE Kincaid; K Loop; DEF Buffalo. Confirmed in the 22:10 UTC digest: no startable QB on the roster.
+- Holes: **QB (both Out, three claims filed)**, TE one deep by choice.
+- Pending in Sleeper: **5 Wk 5 claims** (file 6:17 PM ET) — 1 Stroud/Mariota, 2 Cousins/Mariota, 3 Watson/Mariota, 4 Coleman/Mumpfield, 5 Meyers/J. Hill. Claims 2-3 cancel if 1 wins. Notes written for all five incoming; Kamara orphan deleted.
 - Chat targets used: Wk1 Three Wise Jaylens, Wk2 CorneliusJones, Wk3 Lost in the Land of Love, Princess Donut's Court (Wk 3 Mon), Playful Secrets (Wk 4 Mon).
 
 ## Open threads
-- **QB.** Daniels (elbow) and Mariota both tagged Out in the Tue digest. Tue waiver run: find a startable QB first (Cousins LV and Stroud HOU trend). Unwinds when one is cleared.
-- **Mumpfield for Kamara to dlef24 (Wk 4 Thu).** No acceptance, no reply relayed. Retires on any answer or if Mumpfield is needed at WR. The Kamara note in `notes.yml` is an orphan until then.
+- **QB, mandatory.** Both Out; Stroud, then Cousins, then Watson, all on the Mariota drop. Unwinds when one clears (Wed review pivots to free agency if all three fail) or Daniels is cleared — no surgery, braced, so his return ends the rental.
+- **Mumpfield for Kamara to dlef24: CLOSED 2026-10-06.** No reply, trades are opt-in to managers who have replied, and Mumpfield is now claim 4's drop. Kamara note deleted from `notes.yml`.
+- **Coleman (claim 4) and Meyers (claim 5).** Free swings from #12 priority if a QB lands. Unwind: either clears and becomes a FLEX candidate against Addison and Evans (Lesson 3), or fails and costs nothing.
 - **Trades are opt-in as of 2026-10-06** (Thesis 3 retired; see Process changes). Sean's Wk 4 request answered by that change.
 - **Sun 11:30 AM ET inactives check: routine PENDING-TOOLS.** Create it with cron `CRON_TZ=America/New_York 30 11 * * 0` and the standard bootstrap prompt for `tasks/climb-sun-inactives-check.md`. Until it exists the Sun lineup run still lists contingencies but nothing pings Sean at 11:30.
 - **B. Allen (RB-NYJ), claimed Wk 4.** 9.70 on my bench in Wk 4. FLEX candidate while Hall is out; unwinds when Hall returns.
