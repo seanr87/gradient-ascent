@@ -33,7 +33,7 @@
 <!-- ROSTER:START -->
 | Slot | Player | Acquired |
 |------|--------|----------|
-| QB | Marcus Mariota | Wk 2 (waiver claim) |
+| QB | — | — |
 | RB | Bucky Irving | Draft (R3, pick 31) |
 | RB | Cam Skattebo | Draft (R4, pick 42) |
 | WR | Puka Nacua | Draft (R1, pick 7) |
@@ -42,10 +42,11 @@
 | TE | Dalton Kincaid | Draft (R7, pick 79) |
 | K | Tyler Loop | Draft (R13, pick 151) |
 | DEF | Buffalo | Draft (R12, pick 138) |
+| BN | C.J. Stroud | Wk 4 (waiver claim) |
 | BN | Jayden Daniels | Draft (R5, pick 55) |
 | BN | Braelon Allen | Wk 3 (waiver claim) |
-| BN | Justice Hill | Wk 1 (free agent) |
-| BN | Konata Mumpfield | Wk 2 (free agent) |
+| BN | Dohnte Meyers | Wk 4 (waiver claim) |
+| BN | Keon Coleman | Wk 4 (waiver claim) |
 | BN | Mike Evans | Draft (R6, pick 66) |
 <!-- ROSTER:END -->
 
