@@ -1,5 +1,5 @@
 # Sleeper digest — The Climb
-Pulled: 2026-10-07 02:33 UTC · NFL week 5 (regular)
+Pulled: 2026-10-07 06:27 UTC · NFL week 5 (regular)
 
 ## My roster
 - Dalton Kincaid (TE-BUF) (STARTER)
@@ -27,7 +27,7 @@ Pulled: 2026-10-07 02:33 UTC · NFL week 5 (regular)
 4. Three Wise Jaylens  — 3-1, 491.47 PF, waiver #9
 5. Princess Donut's Court — 2-2, 579.92 PF, waiver #8
 6. Sea Squirts — 2-2, 503.59 PF, waiver #7
-7. What can Brown do for u? — 2-2, 467.64 PF, waiver #6
+7. What can Brown do for u? — 2-2, 468.14 PF, waiver #6
 8. CorneliusJones — 2-2, 459.29 PF, waiver #5
 9. TheTroubles — 2-2, 435.56 PF, waiver #4
 10. Gradient Ascent — 1-3, 489.51 PF, waiver #3
@@ -51,30 +51,30 @@ Pulled: 2026-10-07 02:33 UTC · NFL week 5 (regular)
 - What can Brown do for u? 147.01 — Sea Squirts 145.12
 
 ## Trending adds (24h, all Sleeper)
-- Keon Coleman (WR-BUF) — 3,631,347 adds
-- Dohnte Meyers (WR-CIN) — 2,659,221 adds
-- Emanuel Wilson (RB-SEA) — 1,536,453 adds
-- Roman Wilson (WR-PIT) — 1,165,356 adds
-- Will Shipley (RB-PHI) — 1,141,328 adds
-- Jacksonville Jaguars (DEF-JAX) — 863,502 adds
-- Kirk Cousins (QB-LV) — 702,520 adds
-- Keaton Mitchell (RB-LAC) — 682,677 adds
-- Brian Robinson (RB-ATL) — 662,898 adds
-- Romeo Doubs (WR-NE) — 591,808 adds
-- Tyreek Hill (WR-None) — 486,528 adds
-- Michael Mayer (TE-LV) — 460,755 adds
-- Tyler Higbee (TE-LAR) — 427,230 adds
-- Mike Gesicki (TE-CIN) — 373,032 adds
-- Tyler Allgeier (RB-ARI) — 314,080 adds
-- Darius Cooper (WR-PHI) — 294,763 adds
-- Matt Gay (K-LV) — 263,985 adds
-- Aaron Rodgers (QB-PIT) — 244,620 adds
-- Ollie Gordon (RB-MIA) — 242,564 adds
-- Cleveland Browns (DEF-CLE) — 225,001 adds
-- Malik Washington (WR-MIA) — 204,288 adds
-- C.J. Stroud (QB-HOU) — 200,452 adds
-- Houston Texans (DEF-HOU) — 199,865 adds
-- KC Concepcion (WR-CLE) — 191,700 adds
-- Khalil Shakir (WR-BUF) — 183,312 adds
+- Keon Coleman (WR-BUF) — 4,010,166 adds
+- Dohnte Meyers (WR-CIN) — 3,058,569 adds
+- Emanuel Wilson (RB-SEA) — 1,658,178 adds
+- Will Shipley (RB-PHI) — 1,376,456 adds
+- Roman Wilson (WR-PIT) — 1,302,615 adds
+- Jacksonville Jaguars (DEF-JAX) — 1,026,366 adds
+- Keaton Mitchell (RB-LAC) — 795,429 adds
+- Kirk Cousins (QB-LV) — 722,056 adds
+- Romeo Doubs (WR-NE) — 675,528 adds
+- Brian Robinson (RB-ATL) — 604,416 adds
+- Michael Mayer (TE-LV) — 522,729 adds
+- Tyler Higbee (TE-LAR) — 506,736 adds
+- Tyreek Hill (WR-None) — 458,096 adds
+- Mike Gesicki (TE-CIN) — 439,320 adds
+- Tyler Allgeier (RB-ARI) — 370,470 adds
+- Darius Cooper (WR-PHI) — 368,732 adds
+- Matt Gay (K-LV) — 278,110 adds
+- Aaron Rodgers (QB-PIT) — 274,608 adds
+- Ollie Gordon (RB-MIA) — 259,574 adds
+- Cleveland Browns (DEF-CLE) — 243,166 adds
+- Malik Washington (WR-MIA) — 239,392 adds
+- KC Concepcion (WR-CLE) — 228,348 adds
+- Khalil Shakir (WR-BUF) — 220,608 adds
+- Houston Texans (DEF-HOU) — 219,530 adds
+- C.J. Stroud (QB-HOU) — 199,605 adds
 
 ## League transactions this week
