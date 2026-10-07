@@ -1,6 +1,10 @@
 # Ledger — Gradient Ascent working memory
 
-Rewritten in full every Tuesday at 6:00 AM ET by the process review; `## State
+Rewritten in full every Tuesday at 6:00 AM ET by the process review; `## State` and `## Open threads` updated by every decision run in the same commit as its decision. Hard cap 150 lines. Older weeks roll up; git history is the archive. Cite a thesis or lesson by name instead of re-arguing it.
+
+Last full rewrite: 2026-10-06 (second process review, covering Week 4). Last touched: 2026-10-07, Wk 5 post-waiver review.
+
+## State
 - **Week 4 final: lost 114.74 to CorneliusJones 115.47 (0.73).** Record 1-3, 489.51 PF, 10th of 12. Week 5 opponent: **Umojan Protectorate** (3-1, 500.03 PF). Waiver position **#12** after winning Wk 5 claims (resets after Wk 5 results).
 - Roster (14), confirmed in the 2026-10-07 16:13 UTC digest: QB Stroud, Daniels [Q, elbow]; RB Irving, Skattebo, B. Allen; WR Lamb, Addison, Nacua, Coleman, Meyers, Evans; TE Kincaid; K Loop; DEF Buffalo. Mariota, J. Hill, Mumpfield dropped.
 - **Wk 5 claims: 3 of 5 cleared** (Stroud, Coleman, Meyers); Cousins and Watson cancelled by Stroud's win, as designed. Wed review: NO ACTION, no pivot.
@@ -15,7 +19,7 @@ Rewritten in full every Tuesday at 6:00 AM ET by the process review; `## State
 - **Trades are opt-in as of 2026-10-06** (Thesis 3 retired; see Process changes).
 - **Sun 11:30 AM ET inactives check: routine PENDING-TOOLS.** Create it with cron `CRON_TZ=America/New_York 30 11 * * 0` and the standard bootstrap prompt for `tasks/climb-sun-inactives-check.md`.
 - **B. Allen (RB-NYJ), claimed Wk 4.** FLEX candidate while Hall is out; unwinds when Hall returns.
-- **Waiver clock:** the digest's transaction list holds only one free-agent move, no waiver rows, so Wk 5 clear time is unmeasured (clears seen only as roster diffs between the 01:35 and 06:27 UTC pulls). Tue review to settle. Do by stays 3:00 AM.
+- **Waiver clock: Wk 5 measured at 3:13:32 AM ET** (`status_updated` 1791357212169, shared by all nine waiver rows, read from `/league/<id>/transactions/4` — the clears are filed under leg 4, which is why the digest's leg-5 list shows only a free-agent move). Four measurements now: 3:14:05, 3:13:21, 3:13:34, 3:13:32. The app says 3:05; the log says 3:13. Tue review to settle; Do by stays 3:00 AM until it does.
 - **Buffalo DEF.** Streaming is a free-agent move, never a claim.
 - **Double-fire.** Sean still has to disable the seven UI routines in `SCHEDULED-TASKS.md`.
 - **Fri/Sat blind spot.** Thu TNF pastes the swap for an Out starter.
