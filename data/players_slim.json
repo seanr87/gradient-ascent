@@ -316,8 +316,8 @@
   "pos": "WR",
   "team": "SF",
   "status": "Active",
-  "injury_status": null,
-  "injury_note": null
+  "injury_status": "Out",
+  "injury_note": "Undisclosed"
  },
  "3620": {
   "name": "Bralon Addison",
@@ -3076,8 +3076,8 @@
   "pos": "TE",
   "team": "TB",
   "status": "Active",
-  "injury_status": "Questionable",
-  "injury_note": "Elbow"
+  "injury_status": null,
+  "injury_note": null
  },
  "8213": {
   "name": "Dai'Jean Dixon",
@@ -3948,8 +3948,8 @@
   "pos": "RB",
   "team": "CHI",
   "status": "Active",
-  "injury_status": null,
-  "injury_note": null
+  "injury_status": "Questionable",
+  "injury_note": "Hip"
  },
  "6146": {
   "name": "Kaden Smith",
@@ -7850,7 +7850,7 @@
  "13816": {
   "name": "Mark Gronowski",
   "pos": "QB",
-  "team": null,
+  "team": "HOU",
   "status": "Active",
   "injury_status": null,
   "injury_note": null
@@ -10212,8 +10212,8 @@
   "pos": "WR",
   "team": "SF",
   "status": "Active",
-  "injury_status": null,
-  "injury_note": null
+  "injury_status": "Questionable",
+  "injury_note": "Ribs"
  },
  "7562": {
   "name": "Tutu Atwell",
@@ -11228,8 +11228,8 @@
   "pos": "TE",
   "team": "WAS",
   "status": "Active",
-  "injury_status": null,
-  "injury_note": null
+  "injury_status": "Questionable",
+  "injury_note": "Ribs"
  },
  "1706": {
   "name": "Jack Doyle",
@@ -13388,8 +13388,8 @@
   "pos": "RB",
   "team": "WAS",
   "status": "Active",
-  "injury_status": null,
-  "injury_note": null
+  "injury_status": "Questionable",
+  "injury_note": "Groin"
  },
  "3856": {
   "name": "Braxton Deaver",
@@ -13988,8 +13988,8 @@
   "pos": "WR",
   "team": "DAL",
   "status": "Active",
-  "injury_status": null,
-  "injury_note": null
+  "injury_status": "Questionable",
+  "injury_note": "Illness"
  },
  "3516": {
   "name": "Mitch Mathews",
@@ -14188,7 +14188,7 @@
   "pos": "TE",
   "team": "PHI",
   "status": "Active",
-  "injury_status": "Doubtful",
+  "injury_status": "Questionable",
   "injury_note": "Knee - MCL"
  },
  "12849": {
@@ -16468,8 +16468,8 @@
   "pos": "WR",
   "team": "NYG",
   "status": "Active",
-  "injury_status": null,
-  "injury_note": null
+  "injury_status": "Questionable",
+  "injury_note": "Undisclosed"
  },
  "4177": {
   "name": "Mack Hollins",
@@ -21140,8 +21140,8 @@
   "pos": "WR",
   "team": "WAS",
   "status": "Active",
-  "injury_status": null,
-  "injury_note": null
+  "injury_status": "Questionable",
+  "injury_note": "Undisclosed"
  },
  "7522": {
   "name": "Hunter Thedford",
@@ -23148,7 +23148,7 @@
   "pos": "TE",
   "team": "NYJ",
   "status": "Active",
-  "injury_status": "Doubtful",
+  "injury_status": "Questionable",
   "injury_note": "Thumb"
  },
  "13242": {
@@ -23700,8 +23700,8 @@
   "pos": "RB",
   "team": "NE",
   "status": "Active",
-  "injury_status": null,
-  "injury_note": null
+  "injury_status": "Questionable",
+  "injury_note": "Undisclosed"
  },
  "1330": {
   "name": "Junior Hemingway",
@@ -26556,8 +26556,8 @@
   "pos": "WR",
   "team": "BAL",
   "status": "Active",
-  "injury_status": null,
-  "injury_note": null
+  "injury_status": "Questionable",
+  "injury_note": "Hamstring"
  },
  "5407": {
   "name": "Ervin Philips",
@@ -26914,7 +26914,7 @@
  "11168": {
   "name": "Xavier Smith",
   "pos": "WR",
-  "team": null,
+  "team": "SF",
   "status": "Active",
   "injury_status": null,
   "injury_note": null
@@ -30612,8 +30612,8 @@
   "pos": "TE",
   "team": "WAS",
   "status": "Active",
-  "injury_status": null,
-  "injury_note": null
+  "injury_status": "Questionable",
+  "injury_note": "Hamstring"
  },
  "6151": {
   "name": "Miles Sanders",
@@ -31436,8 +31436,8 @@
   "pos": "QB",
   "team": "WAS",
   "status": "Active",
-  "injury_status": "Questionable",
-  "injury_note": "Elbow"
+  "injury_status": null,
+  "injury_note": null
  },
  "4319": {
   "name": "Zach Pascal",
@@ -32036,8 +32036,8 @@
   "pos": "WR",
   "team": "MIN",
   "status": "Active",
-  "injury_status": null,
-  "injury_note": null
+  "injury_status": "Questionable",
+  "injury_note": "Hamstring"
  },
  "2834": {
   "name": "Tom Obarski",
@@ -32444,8 +32444,8 @@
   "pos": "WR",
   "team": "PIT",
   "status": "Active",
-  "injury_status": null,
-  "injury_note": null
+  "injury_status": "Questionable",
+  "injury_note": "Foot"
  },
  "3300": {
   "name": "DeAndre Washington",
