@@ -1,29 +1,25 @@
 # Ledger — Gradient Ascent working memory
 
-Rewritten in full every Tuesday at 6:00 AM ET by the process review; `## State` and `## Open threads` updated by every decision run in the same commit as its decision. Hard cap 150 lines. Older weeks roll up; git history is the archive. Cite a thesis or lesson by name instead of re-arguing it.
-
-Last full rewrite: 2026-10-06 (second process review, covering Week 4). Last touched: same.
-
-## State
-- **Week 4 final: lost 114.74 to CorneliusJones 115.47 (0.73).** Record 1-3, 489.51 PF, 10th of 12, waiver **#3** (reset by Sleeper after the Wk 4 results). Week 5 opponent: **Umojan Protectorate** (3-1, 500.03 PF).
-- Roster (14): QB Mariota [Out, knee], Daniels [Out, elbow]; RB Irving, Skattebo, B. Allen, J. Hill; WR Lamb, Addison, Nacua, Mumpfield [Q, shoulder], Evans; TE Kincaid; K Loop; DEF Buffalo. Confirmed in the 22:10 UTC digest: no startable QB on the roster.
-- Holes: **QB (both Out, three claims filed)**, TE one deep by choice.
-- Pending in Sleeper: **5 Wk 5 claims, CONFIRMED FILED 7:00 PM ET** (file 6:17 PM, latency 43 min) in the issued order — 1 Stroud/Mariota, 2 Cousins/Mariota, 3 Watson/Mariota, 4 Coleman/Mumpfield, 5 Meyers/J. Hill. Claims 2-3 cancel if 1 wins. Notes written for all five incoming; Kamara orphan deleted.
+Rewritten in full every Tuesday at 6:00 AM ET by the process review; `## State
+- **Week 4 final: lost 114.74 to CorneliusJones 115.47 (0.73).** Record 1-3, 489.51 PF, 10th of 12. Week 5 opponent: **Umojan Protectorate** (3-1, 500.03 PF). Waiver position **#12** after winning Wk 5 claims (resets after Wk 5 results).
+- Roster (14), confirmed in the 2026-10-07 16:13 UTC digest: QB Stroud, Daniels [Q, elbow]; RB Irving, Skattebo, B. Allen; WR Lamb, Addison, Nacua, Coleman, Meyers, Evans; TE Kincaid; K Loop; DEF Buffalo. Mariota, J. Hill, Mumpfield dropped.
+- **Wk 5 claims: 3 of 5 cleared** (Stroud, Coleman, Meyers); Cousins and Watson cancelled by Stroud's win, as designed. Wed review: NO ACTION, no pivot.
+- **Sleeper lineup shows no QB starter set** (Stroud and Daniels both unflagged as starters); the Sun lineup run must name one.
+- Holes: none; roster full with 5 bench, no IR.
 - Chat targets used: Wk1 Three Wise Jaylens, Wk2 CorneliusJones, Wk3 Lost in the Land of Love, Princess Donut's Court (Wk 3 Mon), Playful Secrets (Wk 4 Mon).
 
 ## Open threads
-- **QB, mandatory.** Both Out; Stroud, then Cousins, then Watson, all on the Mariota drop. Unwinds when one clears (Wed review pivots to free agency if all three fail) or Daniels is cleared — no surgery, braced, so his return ends the rental.
-- **Mumpfield for Kamara to dlef24: CLOSED 2026-10-06.** No reply, trades are opt-in to managers who have replied, and Mumpfield is now claim 4's drop. Kamara note deleted from `notes.yml`.
-- **Coleman (claim 4) and Meyers (claim 5).** Free swings from #12 priority if a QB lands. Unwind: either clears and becomes a FLEX candidate against Addison and Evans (Lesson 3), or fails and costs nothing.
-- **Trades are opt-in as of 2026-10-06** (Thesis 3 retired; see Process changes). Sean's Wk 4 request answered by that change.
-- **Sun 11:30 AM ET inactives check: routine PENDING-TOOLS.** Create it with cron `CRON_TZ=America/New_York 30 11 * * 0` and the standard bootstrap prompt for `tasks/climb-sun-inactives-check.md`. Until it exists the Sun lineup run still lists contingencies but nothing pings Sean at 11:30.
-- **B. Allen (RB-NYJ), claimed Wk 4.** 9.70 on my bench in Wk 4. FLEX candidate while Hall is out; unwinds when Hall returns.
-- **Evans (WR) 12.10 on the bench in Wk 4.** Healthy path to a start now; weigh him against Addison at FLEX (Lesson 3).
-- **Waiver clock: Sleeper's app says "Runs at Wed 3:05 am"** (claim screen, 2026-10-06 7:00 PM ET). Measured clears were 3:14:05, 3:13:21, 3:13:34. First evidence from the app itself rather than the transaction log; for the Tue process review to settle against Wk 5's clear times. Do by stays 3:00 AM until it does.
+- **QB: Stroud starts unless Daniels is cleared.** Daniels Questionable (elbow, braced, no surgery); Sun lineup decides Stroud vs Daniels at practice reports (Thesis 2: Daniels preferred if healthy).
+- **Coleman and Meyers (cleared Wk 5).** Both FLEX candidates against Addison and Evans (Lesson 3); Sun lineup decides with Evans' and Allen's Wk 4 benched scores in mind.
+- **Thu look: Roman Wilson (WR-PIT), Romeo Doubs (WR-NE), Higbee (TE-LAR), all free.** Only if a bench spot opens; none is droppable today.
+- **Trades are opt-in as of 2026-10-06** (Thesis 3 retired; see Process changes).
+- **Sun 11:30 AM ET inactives check: routine PENDING-TOOLS.** Create it with cron `CRON_TZ=America/New_York 30 11 * * 0` and the standard bootstrap prompt for `tasks/climb-sun-inactives-check.md`.
+- **B. Allen (RB-NYJ), claimed Wk 4.** FLEX candidate while Hall is out; unwinds when Hall returns.
+- **Waiver clock:** the digest's transaction list holds only one free-agent move, no waiver rows, so Wk 5 clear time is unmeasured (clears seen only as roster diffs between the 01:35 and 06:27 UTC pulls). Tue review to settle. Do by stays 3:00 AM.
 - **Buffalo DEF.** Streaming is a free-agent move, never a claim.
-- **Double-fire.** No second file in Wk 4. Sean still has to disable the seven UI routines in `SCHEDULED-TASKS.md`.
-- **Fri/Sat blind spot.** Thu TNF pastes the swap for an Out starter. A Saturday sweep needs routine tools this session lacks.
-- **Monday chat slot fires before MNF.** Rule in force: cite only games with every starter finished.
+- **Double-fire.** Sean still has to disable the seven UI routines in `SCHEDULED-TASKS.md`.
+- **Fri/Sat blind spot.** Thu TNF pastes the swap for an Out starter.
+- **Monday chat slot fires before MNF.** Cite only games with every starter finished.
 - **League chat is unreadable by API.** `data/correspondence.md` holds the per-manager read.
 
 ## Theses
