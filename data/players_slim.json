@@ -2730,7 +2730,7 @@
  "13957": {
   "name": "Kenny Fletcher",
   "pos": "TE",
-  "team": "IND",
+  "team": null,
   "status": "Active",
   "injury_status": null,
   "injury_note": null
@@ -7660,8 +7660,8 @@
   "pos": "K",
   "team": "TB",
   "status": "Active",
-  "injury_status": "Questionable",
-  "injury_note": "Groin"
+  "injury_status": null,
+  "injury_note": null
  },
  "13667": {
   "name": "Marcus Burke",
@@ -15954,7 +15954,7 @@
  "12476": {
   "name": "Devin Neal",
   "pos": "RB",
-  "team": "MIN",
+  "team": null,
   "status": "Active",
   "injury_status": null,
   "injury_note": null
@@ -16986,7 +16986,7 @@
  "13595": {
   "name": "Cash Jones",
   "pos": "RB",
-  "team": "ATL",
+  "team": null,
   "status": "Active",
   "injury_status": null,
   "injury_note": null
@@ -19634,7 +19634,7 @@
  "2078": {
   "name": "Odell Beckham",
   "pos": "WR",
-  "team": null,
+  "team": "MIN",
   "status": "Active",
   "injury_status": null,
   "injury_note": null
@@ -20106,7 +20106,7 @@
  "12939": {
   "name": "Anthony Tyus",
   "pos": "RB",
-  "team": "CAR",
+  "team": null,
   "status": "Active",
   "injury_status": null,
   "injury_note": null
@@ -20618,7 +20618,7 @@
  "10223": {
   "name": "Eric Gray",
   "pos": "RB",
-  "team": "CLE",
+  "team": null,
   "status": "Active",
   "injury_status": null,
   "injury_note": null
@@ -20882,7 +20882,7 @@
  "13963": {
   "name": "Nick DeGennaro",
   "pos": "WR",
-  "team": null,
+  "team": "WAS",
   "status": "Active",
   "injury_status": null,
   "injury_note": null
@@ -22242,7 +22242,7 @@
  "11186": {
   "name": "Carlos Washington",
   "pos": "RB",
-  "team": null,
+  "team": "MIA",
   "status": "Active",
   "injury_status": null,
   "injury_note": null
@@ -26058,7 +26058,7 @@
  "7537": {
   "name": "Jaret Patterson",
   "pos": "RB",
-  "team": null,
+  "team": "CLE",
   "status": "Active",
   "injury_status": null,
   "injury_note": null
@@ -29066,7 +29066,7 @@
  "13862": {
   "name": "Treyvhon Saunders",
   "pos": "WR",
-  "team": "HOU",
+  "team": null,
   "status": "Active",
   "injury_status": "Questionable",
   "injury_note": "Undisclosed"
@@ -30794,7 +30794,7 @@
  "11911": {
   "name": "Jeshaun Jones",
   "pos": "WR",
-  "team": null,
+  "team": "MIN",
   "status": "Active",
   "injury_status": null,
   "injury_note": null

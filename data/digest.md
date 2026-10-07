@@ -1,5 +1,5 @@
 # Sleeper digest — The Climb
-Pulled: 2026-10-07 13:25 UTC · NFL week 5 (regular)
+Pulled: 2026-10-07 16:13 UTC · NFL week 5 (regular)
 
 ## My roster
 - Dalton Kincaid (TE-BUF) (STARTER)
@@ -51,31 +51,31 @@ Pulled: 2026-10-07 13:25 UTC · NFL week 5 (regular)
 - What can Brown do for u? 147.01 — Sea Squirts 145.12
 
 ## Trending adds (24h, all Sleeper)
-- Keon Coleman (WR-BUF) — 3,877,434 adds
-- Dohnte Meyers (WR-CIN) — 3,155,715 adds
-- Emanuel Wilson (RB-SEA) — 1,583,838 adds
-- Will Shipley (RB-PHI) — 1,404,476 adds
-- Roman Wilson (WR-PIT) — 1,343,727 adds
-- Jacksonville Jaguars (DEF-JAX) — 1,169,352 adds
-- Keaton Mitchell (RB-LAC) — 868,014 adds
-- Kirk Cousins (QB-LV) — 782,560 adds
-- Romeo Doubs (WR-NE) — 705,624 adds
-- Brian Robinson (RB-ATL) — 617,688 adds
-- Tyler Higbee (TE-LAR) — 598,500 adds
-- Michael Mayer (TE-LV) — 586,881 adds
-- Mike Gesicki (TE-CIN) — 496,332 adds
-- Tyreek Hill (WR-None) — 429,416 adds
-- Darius Cooper (WR-PHI) — 414,701 adds
-- Tyler Allgeier (RB-ARI) — 401,445 adds
-- Matt Gay (K-LV) — 349,790 adds
-- Aaron Rodgers (QB-PIT) — 340,956 adds
-- Cleveland Browns (DEF-CLE) — 301,224 adds
-- Malik Washington (WR-MIA) — 284,144 adds
-- Khalil Shakir (WR-BUF) — 262,269 adds
-- Ollie Gordon (RB-MIA) — 260,652 adds
-- KC Concepcion (WR-CLE) — 252,684 adds
-- Tre' Harris (WR-LAC) — 234,524 adds
-- MarShawn Lloyd (RB-GB) — 232,848 adds
+- Keon Coleman (WR-BUF) — 3,484,512 adds
+- Dohnte Meyers (WR-CIN) — 2,959,335 adds
+- Emanuel Wilson (RB-SEA) — 1,414,116 adds
+- Will Shipley (RB-PHI) — 1,313,350 adds
+- Roman Wilson (WR-PIT) — 1,252,458 adds
+- Jacksonville Jaguars (DEF-JAX) — 1,128,132 adds
+- Keaton Mitchell (RB-LAC) — 837,306 adds
+- Kirk Cousins (QB-LV) — 746,256 adds
+- Romeo Doubs (WR-NE) — 663,672 adds
+- Tyler Higbee (TE-LAR) — 615,537 adds
+- Brian Robinson (RB-ATL) — 576,600 adds
+- Michael Mayer (TE-LV) — 563,310 adds
+- Mike Gesicki (TE-CIN) — 484,940 adds
+- Darius Cooper (WR-PHI) — 416,696 adds
+- Tyler Allgeier (RB-ARI) — 384,355 adds
+- Tyreek Hill (WR-None) — 377,080 adds
+- Matt Gay (K-LV) — 358,290 adds
+- Aaron Rodgers (QB-PIT) — 347,372 adds
+- Cleveland Browns (DEF-CLE) — 305,046 adds
+- Malik Washington (WR-MIA) — 290,448 adds
+- Khalil Shakir (WR-BUF) — 263,268 adds
+- KC Concepcion (WR-CLE) — 247,752 adds
+- Ollie Gordon (RB-MIA) — 240,359 adds
+- Tre' Harris (WR-LAC) — 239,956 adds
+- MarShawn Lloyd (RB-GB) — 238,392 adds
 
 ## League transactions this week
 - free_agent (complete) The Butker Jihad: +[Will Reichard (K-MIN)] -[Harrison Butker (K-KC)]
