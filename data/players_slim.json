@@ -6946,7 +6946,7 @@
  "13744": {
   "name": "Cameron Ross",
   "pos": "WR",
-  "team": null,
+  "team": "DEN",
   "status": "Active",
   "injury_status": null,
   "injury_note": null
@@ -15610,7 +15610,7 @@
  "13403": {
   "name": "Jam Miller",
   "pos": "RB",
-  "team": null,
+  "team": "ATL",
   "status": "Active",
   "injury_status": null,
   "injury_note": null
@@ -23388,8 +23388,8 @@
   "pos": "RB",
   "team": "PHI",
   "status": "Inactive",
-  "injury_status": "Out",
-  "injury_note": "Lower Body"
+  "injury_status": "IR",
+  "injury_note": "Abdomen"
  },
  "7218": {
   "name": "Cam Sutton",
@@ -29068,8 +29068,8 @@
   "pos": "WR",
   "team": "HOU",
   "status": "Active",
-  "injury_status": null,
-  "injury_note": null
+  "injury_status": "Questionable",
+  "injury_note": "Undisclosed"
  },
  "11197": {
   "name": "Joel Honigford",
