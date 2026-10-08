@@ -1,5 +1,5 @@
 # Sleeper digest — The Climb
-Pulled: 2026-10-08 17:51 UTC · NFL week 5 (regular)
+Pulled: 2026-10-08 21:07 UTC · NFL week 5 (regular)
 
 ## My roster
 - Dalton Kincaid (TE-BUF) (STARTER)
@@ -51,31 +51,31 @@ Pulled: 2026-10-08 17:51 UTC · NFL week 5 (regular)
 - What can Brown do for u? 147.01 — Sea Squirts 145.12
 
 ## Trending adds (24h, all Sleeper)
-- Dohnte Meyers (WR-CIN) — 613,935 adds
-- Keon Coleman (WR-BUF) — 404,937 adds
-- Roman Wilson (WR-PIT) — 377,892 adds
-- Dameon Pierce (RB-PHI) — 373,784 adds
-- Tyler Higbee (TE-LAR) — 291,744 adds
-- Keaton Mitchell (RB-LAC) — 256,986 adds
-- Jacksonville Jaguars (DEF-JAX) — 238,188 adds
-- Kirk Cousins (QB-LV) — 236,424 adds
-- Cleveland Browns (DEF-CLE) — 221,718 adds
-- Tank Dell (WR-HOU) [IR] — 195,048 adds
-- Malik Washington (WR-MIA) — 189,400 adds
-- Darius Cooper (WR-PHI) — 177,933 adds
-- Michael Mayer (TE-LV) — 165,141 adds
-- Emanuel Wilson (RB-SEA) — 158,481 adds
-- Romeo Doubs (WR-NE) — 152,392 adds
-- Matt Gay (K-LV) — 150,505 adds
-- Aaron Rodgers (QB-PIT) — 141,928 adds
-- Will Shipley (RB-PHI) — 140,842 adds
-- Brian Robinson (RB-ATL) — 139,296 adds
-- Mike Gesicki (TE-CIN) — 134,668 adds
-- Isaiah Williams (WR-NYJ) — 124,134 adds
-- Braelon Allen (RB-NYJ) — 114,256 adds
-- MarShawn Lloyd (RB-GB) — 108,549 adds
-- Deshaun Watson (QB-CLE) — 100,632 adds
-- Jayden Daniels (QB-WAS) — 96,480 adds
+- Dohnte Meyers (WR-CIN) — 571,077 adds
+- Roman Wilson (WR-PIT) — 398,673 adds
+- Dameon Pierce (RB-PHI) — 362,856 adds
+- Keon Coleman (WR-BUF) — 335,277 adds
+- Tyler Higbee (TE-LAR) — 277,371 adds
+- Keaton Mitchell (RB-LAC) — 239,031 adds
+- Kirk Cousins (QB-LV) — 214,104 adds
+- Cleveland Browns (DEF-CLE) — 208,740 adds
+- Jacksonville Jaguars (DEF-JAX) — 204,720 adds
+- Malik Washington (WR-MIA) — 186,384 adds
+- Darius Cooper (WR-PHI) — 182,189 adds
+- Michael Mayer (TE-LV) — 151,839 adds
+- Tank Dell (WR-HOU) [IR] — 137,904 adds
+- Matt Gay (K-LV) — 137,560 adds
+- Romeo Doubs (WR-NE) — 135,280 adds
+- Emanuel Wilson (RB-SEA) — 134,775 adds
+- Aaron Rodgers (QB-PIT) — 130,868 adds
+- Isaiah Williams (WR-NYJ) — 124,398 adds
+- Will Shipley (RB-PHI) — 123,302 adds
+- Brian Robinson (RB-ATL) — 123,084 adds
+- Mike Gesicki (TE-CIN) — 121,636 adds
+- Braelon Allen (RB-NYJ) — 107,072 adds
+- MarShawn Lloyd (RB-GB) — 102,681 adds
+- Deshaun Watson (QB-CLE) — 94,328 adds
+- Jayden Daniels (QB-WAS) — 93,136 adds
 
 ## League transactions this week
 - free_agent (complete) Playful Secrets: +[T.J. Hockenson (TE-MIN)] -[Mike Gesicki (TE-CIN)]

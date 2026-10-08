@@ -2740,8 +2740,8 @@
   "pos": "WR",
   "team": "BAL",
   "status": "Active",
-  "injury_status": "Questionable",
-  "injury_note": "Ankle"
+  "injury_status": null,
+  "injury_note": null
  },
  "6970": {
   "name": "Stephen Sullivan",
@@ -3420,8 +3420,8 @@
   "pos": "TE",
   "team": "MIA",
   "status": "Active",
-  "injury_status": null,
-  "injury_note": null
+  "injury_status": "Questionable",
+  "injury_note": "Concussion"
  },
  "5169": {
   "name": "Malik Earl",
@@ -7620,8 +7620,8 @@
   "pos": "QB",
   "team": "NO",
   "status": "Active",
-  "injury_status": "Questionable",
-  "injury_note": "Hand"
+  "injury_status": null,
+  "injury_note": null
  },
  "8536": {
   "name": "Caleb Shudak",
@@ -11228,8 +11228,8 @@
   "pos": "TE",
   "team": "WAS",
   "status": "Active",
-  "injury_status": "Questionable",
-  "injury_note": "Ribs"
+  "injury_status": null,
+  "injury_note": null
  },
  "1706": {
   "name": "Jack Doyle",
@@ -22724,8 +22724,8 @@
   "pos": "WR",
   "team": "BAL",
   "status": "Active",
-  "injury_status": "Questionable",
-  "injury_note": "Shoulder"
+  "injury_status": null,
+  "injury_note": null
  },
  "8783": {
   "name": "Kendric Pryor",
@@ -24892,8 +24892,8 @@
   "pos": "WR",
   "team": "CIN",
   "status": "Active",
-  "injury_status": "Questionable",
-  "injury_note": "Knee"
+  "injury_status": null,
+  "injury_note": null
  },
  "12521": {
   "name": "Elijah Arroyo",
@@ -26172,8 +26172,8 @@
   "pos": "WR",
   "team": "NO",
   "status": "Active",
-  "injury_status": null,
-  "injury_note": null
+  "injury_status": "Questionable",
+  "injury_note": "Foot"
  },
  "13305": {
   "name": "Mike Washington",
@@ -26412,8 +26412,8 @@
   "pos": "TE",
   "team": "TEN",
   "status": "Active",
-  "injury_status": null,
-  "injury_note": null
+  "injury_status": "Questionable",
+  "injury_note": "Hamstring"
  },
  "3668": {
   "name": "Joshua Perkins",
@@ -31052,8 +31052,8 @@
   "pos": "TE",
   "team": "CLE",
   "status": "Active",
-  "injury_status": null,
-  "injury_note": null
+  "injury_status": "Questionable",
+  "injury_note": "Calf"
  },
  "1236": {
   "name": "Joe Banyard",
@@ -31788,8 +31788,8 @@
   "pos": "RB",
   "team": "MIA",
   "status": "Active",
-  "injury_status": null,
-  "injury_note": null
+  "injury_status": "Questionable",
+  "injury_note": "Foot"
  },
  "198": {
   "name": "Kellen Clemens",
