@@ -2,13 +2,14 @@
 
 Rewritten in full every Tuesday at 6:00 AM ET by the process review; `## State` and `## Open threads` updated by every decision run in the same commit as its decision. Hard cap 150 lines. Older weeks roll up; git history is the archive. Cite a thesis or lesson by name instead of re-arguing it.
 
-Last full rewrite: 2026-10-06 (second process review, covering Week 4). Last touched: 2026-10-08, Wk 5 trade scan.
+Last full rewrite: 2026-10-06 (second process review, covering Week 4). Last touched: 2026-10-08, Wk 5 Thursday call.
 
 ## State
 - **Week 4 final: lost 114.74 to CorneliusJones 115.47 (0.73).** Record 1-3, 489.51 PF, 10th of 12. Week 5 opponent: **Umojan Protectorate** (3-1, 500.03 PF). Waiver position **#12** after winning Wk 5 claims (resets after Wk 5 results).
 - Roster (14), confirmed in the 2026-10-07 16:13 UTC digest: QB Stroud, Daniels [Q, elbow]; RB Irving, Skattebo, B. Allen; WR Lamb, Addison, Nacua, Coleman, Meyers, Evans; TE Kincaid; K Loop; DEF Buffalo. Mariota, J. Hill, Mumpfield dropped.
 - **Wk 5 claims: 3 of 5 cleared** (Stroud, Coleman, Meyers); Cousins and Watson cancelled by Stroud's win, as designed. Wed review: NO ACTION, no pivot.
 - **Sleeper lineup shows no QB starter set** (Stroud and Daniels both unflagged as starters); the Sun lineup run must name one.
+- **Wk 5 Thu (TB at DAL, 8:15 PM ET): Irving (RB) and Lamb (WR) started, no FLEX locked.** Inactives not found; Skattebo, Addison, Evans all Questionable for Sunday.
 - Holes: none; roster full with 5 bench, no IR.
 - Chat targets used: Wk1 Three Wise Jaylens, Wk2 CorneliusJones, Wk3 Lost in the Land of Love, Princess Donut's Court (Wk 3 Mon), Playful Secrets (Wk 4 Mon).
 
