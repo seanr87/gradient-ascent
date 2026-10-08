@@ -1244,8 +1244,8 @@
   "pos": "RB",
   "team": "GB",
   "status": "Active",
-  "injury_status": "Questionable",
-  "injury_note": "Hamstring"
+  "injury_status": null,
+  "injury_note": null
  },
  "6823": {
   "name": "Jacob Eason",
@@ -7292,8 +7292,8 @@
   "pos": "WR",
   "team": "PHI",
   "status": "Active",
-  "injury_status": null,
-  "injury_note": null
+  "injury_status": "Questionable",
+  "injury_note": "Hamstring"
  },
  "1346": {
   "name": "Marquise Goodwin",
@@ -12620,8 +12620,8 @@
   "pos": "RB",
   "team": "TEN",
   "status": "Active",
-  "injury_status": "Questionable",
-  "injury_note": "Foot"
+  "injury_status": null,
+  "injury_note": null
  },
  "5384": {
   "name": "Jonah Trinnaman",
@@ -13980,16 +13980,16 @@
   "pos": "RB",
   "team": "LV",
   "status": "Active",
-  "injury_status": null,
-  "injury_note": null
+  "injury_status": "Questionable",
+  "injury_note": "Ankle"
  },
  "10225": {
   "name": "Jonathan Mingo",
   "pos": "WR",
   "team": "DAL",
   "status": "Active",
-  "injury_status": "Questionable",
-  "injury_note": "Illness"
+  "injury_status": null,
+  "injury_note": null
  },
  "3516": {
   "name": "Mitch Mathews",
@@ -14476,8 +14476,8 @@
   "pos": "RB",
   "team": "SF",
   "status": "Active",
-  "injury_status": "Questionable",
-  "injury_note": "Illness"
+  "injury_status": null,
+  "injury_note": null
  },
  "5755": {
   "name": "Duplicate Player",
@@ -15436,8 +15436,8 @@
   "pos": "WR",
   "team": "TEN",
   "status": "Active",
-  "injury_status": null,
-  "injury_note": null
+  "injury_status": "Questionable",
+  "injury_note": "Back"
  },
  "3201": {
   "name": "Roberto Aguayo",
@@ -15828,8 +15828,8 @@
   "pos": "TE",
   "team": "DEN",
   "status": "Active",
-  "injury_status": "Questionable",
-  "injury_note": "Shoulder"
+  "injury_status": null,
+  "injury_note": null
  },
  "13830": {
   "name": "Kyle Dixon",
@@ -20524,8 +20524,8 @@
   "pos": "WR",
   "team": "DAL",
   "status": "Active",
-  "injury_status": null,
-  "injury_note": null
+  "injury_status": "Out",
+  "injury_note": "Coach's Decision"
  },
  "6973": {
   "name": "J.J. Taylor",
@@ -22716,8 +22716,8 @@
   "pos": "TE",
   "team": "TEN",
   "status": "Active",
-  "injury_status": null,
-  "injury_note": null
+  "injury_status": "Questionable",
+  "injury_note": "Knee"
  },
  "7571": {
   "name": "Rashod Bateman",
@@ -25761,7 +25761,7 @@
  },
  "13433": {
   "name": "Riley Nowakowski",
-  "pos": "TE",
+  "pos": "RB",
   "team": "PIT",
   "status": "Active",
   "injury_status": null,
@@ -31420,8 +31420,8 @@
   "pos": "TE",
   "team": "LV",
   "status": "Active",
-  "injury_status": "Questionable",
-  "injury_note": "Knee"
+  "injury_status": null,
+  "injury_note": null
  },
  "12826": {
   "name": "Ulysses Bentley",

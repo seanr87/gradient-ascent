@@ -3,13 +3,13 @@
 # acquired is "Draft" or "Wk N"; acquired_via says how (round and pick,
 # free agent, waiver claim, trade); acquired_week is 0 for the draft.
 - slot: "QB"
-  player: "—"
-  pos: ""
-  team: ""
+  player: "C.J. Stroud"
+  pos: "QB"
+  team: "HOU"
   status: ""
-  acquired: ""
-  acquired_via: ""
-  acquired_week: -1
+  acquired: "Wk 4"
+  acquired_via: "waiver claim"
+  acquired_week: 4
 - slot: "RB"
   player: "Bucky Irving"
   pos: "RB"
@@ -75,14 +75,6 @@
   acquired_via: "R12, pick 138"
   acquired_week: 0
 - slot: "BN1"
-  player: "C.J. Stroud"
-  pos: "QB"
-  team: "HOU"
-  status: ""
-  acquired: "Wk 4"
-  acquired_via: "waiver claim"
-  acquired_week: 4
-- slot: "BN2"
   player: "Jayden Daniels"
   pos: "QB"
   team: "WAS"
@@ -90,7 +82,7 @@
   acquired: "Draft"
   acquired_via: "R5, pick 55"
   acquired_week: 0
-- slot: "BN3"
+- slot: "BN2"
   player: "Braelon Allen"
   pos: "RB"
   team: "NYJ"
@@ -98,7 +90,7 @@
   acquired: "Wk 3"
   acquired_via: "waiver claim"
   acquired_week: 3
-- slot: "BN4"
+- slot: "BN3"
   player: "Dohnte Meyers"
   pos: "WR"
   team: "CIN"
@@ -106,7 +98,7 @@
   acquired: "Wk 4"
   acquired_via: "waiver claim"
   acquired_week: 4
-- slot: "BN5"
+- slot: "BN4"
   player: "Keon Coleman"
   pos: "WR"
   team: "BUF"
@@ -114,7 +106,7 @@
   acquired: "Wk 4"
   acquired_via: "waiver claim"
   acquired_week: 4
-- slot: "BN6"
+- slot: "BN5"
   player: "Mike Evans"
   pos: "WR"
   team: "SF"
