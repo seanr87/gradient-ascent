@@ -10802,7 +10802,7 @@
  "11959": {
   "name": "Bryce Oliver",
   "pos": "WR",
-  "team": null,
+  "team": "HOU",
   "status": "Active",
   "injury_status": null,
   "injury_note": null
@@ -20106,7 +20106,7 @@
  "12939": {
   "name": "Anthony Tyus",
   "pos": "RB",
-  "team": null,
+  "team": "CAR",
   "status": "Active",
   "injury_status": null,
   "injury_note": null
@@ -32444,7 +32444,7 @@
   "pos": "WR",
   "team": "PIT",
   "status": "Active",
-  "injury_status": "Questionable",
+  "injury_status": "Out",
   "injury_note": "Foot"
  },
  "3300": {
