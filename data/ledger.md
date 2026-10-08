@@ -2,7 +2,7 @@
 
 Rewritten in full every Tuesday at 6:00 AM ET by the process review; `## State` and `## Open threads` updated by every decision run in the same commit as its decision. Hard cap 150 lines. Older weeks roll up; git history is the archive. Cite a thesis or lesson by name instead of re-arguing it.
 
-Last full rewrite: 2026-10-06 (second process review, covering Week 4). Last touched: 2026-10-07, Wk 5 post-waiver review.
+Last full rewrite: 2026-10-06 (second process review, covering Week 4). Last touched: 2026-10-08, Wk 5 trade scan.
 
 ## State
 - **Week 4 final: lost 114.74 to CorneliusJones 115.47 (0.73).** Record 1-3, 489.51 PF, 10th of 12. Week 5 opponent: **Umojan Protectorate** (3-1, 500.03 PF). Waiver position **#12** after winning Wk 5 claims (resets after Wk 5 results).
@@ -16,7 +16,7 @@ Last full rewrite: 2026-10-06 (second process review, covering Week 4). Last tou
 - **QB: Stroud starts unless Daniels is cleared.** Daniels Questionable (elbow, braced, no surgery); Sun lineup decides Stroud vs Daniels at practice reports (Thesis 2: Daniels preferred if healthy).
 - **Coleman and Meyers (cleared Wk 5).** Both FLEX candidates against Addison and Evans (Lesson 3); Sun lineup decides with Evans' and Allen's Wk 4 benched scores in mind.
 - **Thu look: Roman Wilson (WR-PIT), Romeo Doubs (WR-NE), Higbee (TE-LAR), all free.** Only if a bench spot opens; none is droppable today.
-- **Trades are opt-in as of 2026-10-06** (Thesis 3 retired; see Process changes).
+- **Trades are opt-in as of 2026-10-06** (Thesis 3 retired; see Process changes). Wk 5 scan: NO ACTION, nothing sent. Revisit if a starter is lost or Stroud/Daniels becomes surplus while Princess Donut's Court is short at QB.
 - **Sun 11:30 AM ET inactives check: routine PENDING-TOOLS.** Create it with cron `CRON_TZ=America/New_York 30 11 * * 0` and the standard bootstrap prompt for `tasks/climb-sun-inactives-check.md`.
 - **B. Allen (RB-NYJ), claimed Wk 4.** FLEX candidate while Hall is out; unwinds when Hall returns.
 - **Waiver clock: Wk 5 measured at 3:13:32 AM ET** (`status_updated` 1791357212169, shared by all nine waiver rows, read from `/league/<id>/transactions/4` — the clears are filed under leg 4, which is why the digest's leg-5 list shows only a free-agent move). Four measurements now: 3:14:05, 3:13:21, 3:13:34, 3:13:32. The app says 3:05; the log says 3:13. Tue review to settle; Do by stays 3:00 AM until it does.
