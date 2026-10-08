@@ -1,5 +1,5 @@
 # Sleeper digest — The Climb
-Pulled: 2026-10-07 20:34 UTC · NFL week 5 (regular)
+Pulled: 2026-10-08 12:10 UTC · NFL week 5 (regular)
 
 ## My roster
 - Dalton Kincaid (TE-BUF) (STARTER)
@@ -7,7 +7,7 @@ Pulled: 2026-10-07 20:34 UTC · NFL week 5 (regular)
 - Braelon Allen (RB-NYJ)
 - Bucky Irving (RB-TB) (STARTER)
 - Keon Coleman (WR-BUF)
-- Cam Skattebo (RB-NYG) (STARTER)
+- Cam Skattebo (RB-NYG) [Questionable] (STARTER)
 - Tyler Loop (K-BAL) (STARTER)
 - Dohnte Meyers (WR-CIN)
 - Mike Evans (WR-SF) [Questionable]
@@ -51,33 +51,36 @@ Pulled: 2026-10-07 20:34 UTC · NFL week 5 (regular)
 - What can Brown do for u? 147.01 — Sea Squirts 145.12
 
 ## Trending adds (24h, all Sleeper)
-- Keon Coleman (WR-BUF) — 2,852,892 adds
-- Dohnte Meyers (WR-CIN) — 2,611,440 adds
-- Will Shipley (RB-PHI) — 1,147,822 adds
-- Emanuel Wilson (RB-SEA) — 1,101,087 adds
-- Roman Wilson (WR-PIT) — 1,100,970 adds
-- Jacksonville Jaguars (DEF-JAX) — 1,030,872 adds
-- Keaton Mitchell (RB-LAC) — 753,012 adds
-- Kirk Cousins (QB-LV) — 661,040 adds
-- Tyler Higbee (TE-LAR) — 601,353 adds
-- Romeo Doubs (WR-NE) — 585,000 adds
-- Michael Mayer (TE-LV) — 518,418 adds
-- Brian Robinson (RB-ATL) — 498,576 adds
-- Mike Gesicki (TE-CIN) — 452,580 adds
-- Darius Cooper (WR-PHI) — 402,332 adds
-- Matt Gay (K-LV) — 350,110 adds
-- Tyler Allgeier (RB-ARI) — 342,615 adds
-- Aaron Rodgers (QB-PIT) — 335,192 adds
-- Cleveland Browns (DEF-CLE) — 305,515 adds
-- Tyreek Hill (WR-None) — 296,304 adds
-- Malik Washington (WR-MIA) — 288,168 adds
-- Khalil Shakir (WR-BUF) — 249,057 adds
-- MarShawn Lloyd (RB-GB) — 235,440 adds
-- KC Concepcion (WR-CLE) — 232,101 adds
-- Tre' Harris (WR-LAC) — 232,060 adds
-- C.J. Stroud (QB-HOU) — 215,586 adds
+- Dohnte Meyers (WR-CIN) — 830,970 adds
+- Keon Coleman (WR-BUF) — 661,986 adds
+- Jacksonville Jaguars (DEF-JAX) — 413,262 adds
+- Roman Wilson (WR-PIT) — 409,662 adds
+- Tyler Higbee (TE-LAR) — 384,183 adds
+- Keaton Mitchell (RB-LAC) — 355,194 adds
+- Kirk Cousins (QB-LV) — 350,424 adds
+- Dameon Pierce (RB-PHI) — 329,272 adds
+- Emanuel Wilson (RB-SEA) — 258,066 adds
+- Cleveland Browns (DEF-CLE) — 257,593 adds
+- Will Shipley (RB-PHI) — 236,776 adds
+- Michael Mayer (TE-LV) — 233,019 adds
+- Matt Gay (K-LV) — 229,920 adds
+- Romeo Doubs (WR-NE) — 226,024 adds
+- Malik Washington (WR-MIA) — 219,552 adds
+- Aaron Rodgers (QB-PIT) — 210,760 adds
+- Brian Robinson (RB-ATL) — 209,280 adds
+- Darius Cooper (WR-PHI) — 202,734 adds
+- Mike Gesicki (TE-CIN) — 195,004 adds
+- Tank Dell (WR-HOU) [IR] — 169,752 adds
+- MarShawn Lloyd (RB-GB) — 145,548 adds
+- Washington Commanders (DEF-WAS) — 144,823 adds
+- C.J. Stroud (QB-HOU) — 142,219 adds
+- Deshaun Watson (QB-CLE) — 137,360 adds
+- Khalil Shakir (WR-BUF) — 131,148 adds
 
 ## League transactions this week
+- free_agent (complete) What can Brown do for u?: +[Cincinnati Bengals (DEF-CIN)] -[Green Bay Packers (DEF-GB)]
+- free_agent (complete) What can Brown do for u?: +[Chris Rodriguez (RB-JAX)] -[Rachaad White (RB-WAS) [Questionable]]
+- free_agent (complete) What can Brown do for u?: +[Rachaad White (RB-WAS) [Questionable]] -[De'Von Achane (RB-MIA) [IR]]
 - free_agent (complete) CorneliusJones: +[Jason Myers (K-SEA)] -[Cameron Dicker (K-LAC)]
 - free_agent (complete) CorneliusJones: +[Romeo Doubs (WR-NE)] -[Khalil Shakir (WR-BUF)]
 - free_agent (complete) CorneliusJones: +[KC Concepcion (WR-CLE)] -[Dontayvion Wicks (WR-PHI)]

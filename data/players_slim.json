@@ -3580,8 +3580,8 @@
   "pos": "TE",
   "team": "NE",
   "status": "Active",
-  "injury_status": "Questionable",
-  "injury_note": "Ankle"
+  "injury_status": null,
+  "injury_note": null
  },
  "12250": {
   "name": "Riley Sharp",
@@ -4836,7 +4836,7 @@
   "pos": "WR",
   "team": "NYG",
   "status": "Inactive",
-  "injury_status": "Out",
+  "injury_status": "IR",
   "injury_note": "Foot"
  },
  "7093": {
@@ -6188,8 +6188,8 @@
   "pos": "TE",
   "team": "NYG",
   "status": "Active",
-  "injury_status": null,
-  "injury_note": null
+  "injury_status": "Questionable",
+  "injury_note": "Knee"
  },
  "592": {
   "name": "Jahvid Best",
@@ -7620,8 +7620,8 @@
   "pos": "QB",
   "team": "NO",
   "status": "Active",
-  "injury_status": null,
-  "injury_note": null
+  "injury_status": "Questionable",
+  "injury_note": "Hand"
  },
  "8536": {
   "name": "Caleb Shudak",
@@ -9596,8 +9596,8 @@
   "pos": "WR",
   "team": "MIA",
   "status": "Active",
-  "injury_status": null,
-  "injury_note": null
+  "injury_status": "Questionable",
+  "injury_note": "Knee"
  },
  "7521": {
   "name": "Chris Blair",
@@ -12620,8 +12620,8 @@
   "pos": "RB",
   "team": "TEN",
   "status": "Active",
-  "injury_status": null,
-  "injury_note": null
+  "injury_status": "Questionable",
+  "injury_note": "Foot"
  },
  "5384": {
   "name": "Jonah Trinnaman",
@@ -12660,8 +12660,8 @@
   "pos": "RB",
   "team": "SEA",
   "status": "Active",
-  "injury_status": null,
-  "injury_note": null
+  "injury_status": "Questionable",
+  "injury_note": "Ribs"
  },
  "10217": {
   "name": "Clayton Tune",
@@ -13412,8 +13412,8 @@
   "pos": "TE",
   "team": "NYG",
   "status": "Active",
-  "injury_status": null,
-  "injury_note": null
+  "injury_status": "Questionable",
+  "injury_note": "Shoulder"
  },
  "3164": {
   "name": "Ezekiel Elliott",
@@ -14476,8 +14476,8 @@
   "pos": "RB",
   "team": "SF",
   "status": "Active",
-  "injury_status": null,
-  "injury_note": null
+  "injury_status": "Questionable",
+  "injury_note": "Illness"
  },
  "5755": {
   "name": "Duplicate Player",
@@ -15828,8 +15828,8 @@
   "pos": "TE",
   "team": "DEN",
   "status": "Active",
-  "injury_status": null,
-  "injury_note": null
+  "injury_status": "Questionable",
+  "injury_note": "Shoulder"
  },
  "13830": {
   "name": "Kyle Dixon",
@@ -16316,8 +16316,8 @@
   "pos": "WR",
   "team": "LV",
   "status": "Active",
-  "injury_status": null,
-  "injury_note": null
+  "injury_status": "Questionable",
+  "injury_note": "Ankle"
  },
  "2238": {
   "name": "John Brown",
@@ -17244,8 +17244,8 @@
   "pos": "QB",
   "team": "LAC",
   "status": "Active",
-  "injury_status": null,
-  "injury_note": null
+  "injury_status": "Questionable",
+  "injury_note": "Groin"
  },
  "1085": {
   "name": "Brandon Weeden",
@@ -18300,8 +18300,8 @@
   "pos": "RB",
   "team": "NE",
   "status": "Active",
-  "injury_status": null,
-  "injury_note": null
+  "injury_status": "Questionable",
+  "injury_note": "Ankle"
  },
  "5117": {
   "name": "Jordan Thomas",
@@ -21868,8 +21868,8 @@
   "pos": "WR",
   "team": "NO",
   "status": "Active",
-  "injury_status": null,
-  "injury_note": null
+  "injury_status": "Questionable",
+  "injury_note": "Thigh"
  },
  "2915": {
   "name": "Taylor Pontius",
@@ -22724,8 +22724,8 @@
   "pos": "WR",
   "team": "BAL",
   "status": "Active",
-  "injury_status": null,
-  "injury_note": null
+  "injury_status": "Questionable",
+  "injury_note": "Shoulder"
  },
  "8783": {
   "name": "Kendric Pryor",
@@ -22796,8 +22796,8 @@
   "pos": "WR",
   "team": null,
   "status": "Inactive",
-  "injury_status": "Questionable",
-  "injury_note": "Undisclosed"
+  "injury_status": null,
+  "injury_note": null
  },
  "11590": {
   "name": "Jase McClellan",
@@ -23148,8 +23148,8 @@
   "pos": "TE",
   "team": "NYJ",
   "status": "Active",
-  "injury_status": "Questionable",
-  "injury_note": "Thumb"
+  "injury_status": null,
+  "injury_note": null
  },
  "13242": {
   "name": "Lawrance Toafili",
@@ -23172,8 +23172,8 @@
   "pos": "RB",
   "team": "NYG",
   "status": "Active",
-  "injury_status": null,
-  "injury_note": null
+  "injury_status": "Questionable",
+  "injury_note": "Shoulder"
  },
  "3621": {
   "name": "Jordan Williams-Lambert",
@@ -25419,8 +25419,8 @@
   "name": "Durham Smythe",
   "pos": "TE",
   "team": "BAL",
-  "status": "Active",
-  "injury_status": "Out",
+  "status": "Inactive",
+  "injury_status": "IR",
   "injury_note": "Achilles"
  },
  "2286": {
@@ -25516,8 +25516,8 @@
   "pos": "WR",
   "team": "LAC",
   "status": "Active",
-  "injury_status": null,
-  "injury_note": null
+  "injury_status": "Questionable",
+  "injury_note": "Chest"
  },
  "5760": {
   "name": "Josh Crockett",
@@ -26154,7 +26154,7 @@
  "8114": {
   "name": "Erik Ezukanma",
   "pos": "WR",
-  "team": null,
+  "team": "PHI",
   "status": "Active",
   "injury_status": null,
   "injury_note": null
@@ -28764,8 +28764,8 @@
   "pos": "RB",
   "team": "NO",
   "status": "Active",
-  "injury_status": null,
-  "injury_note": null
+  "injury_status": "Questionable",
+  "injury_note": "Back"
  },
  "11989": {
   "name": "D.J. Williams",
@@ -31420,8 +31420,8 @@
   "pos": "TE",
   "team": "LV",
   "status": "Active",
-  "injury_status": null,
-  "injury_note": null
+  "injury_status": "Questionable",
+  "injury_note": "Knee"
  },
  "12826": {
   "name": "Ulysses Bentley",
@@ -33164,8 +33164,8 @@
   "pos": "WR",
   "team": "IND",
   "status": "Active",
-  "injury_status": null,
-  "injury_note": null
+  "injury_status": "Questionable",
+  "injury_note": "Hamstring"
  },
  "13005": {
   "name": "Anthony Torres",
