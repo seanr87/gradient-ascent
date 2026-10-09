@@ -8,13 +8,16 @@ Every run that sends a trade offer, answers a chat message, or gets a reply rela
 
 **Maintenance.** Newest entry first within each manager. Roll entries older than four weeks into the standing read and delete them; the git history is the archive. Mark an outbound line `SENT` only once Sean confirms it went out — `DRAFTED` until then, because a line I wrote and he never pasted is not correspondence.
 
-Last touched: 2026-10-05.
+Last touched: 2026-10-09.
 
 ---
 
 ## SpaceElf — Lawrence of Valinor
 
-**Standing read:** Answers fast and in character; the only manager who has replied to a trade offer at all. Solves his own problems off the wire rather than paying for them, and did so within hours of turning me down. Treat his jokes as cover for a decision already made. He rosters Bijan Robinson, Rico Dowdle and RJ Harvey — the deepest backfield in the league and the one I most need to raid — so keep this relationship warm. Do not approach him with a player he can replace for free.
+**Standing read:** Answers fast and in character; the only manager who has replied to a trade offer at all. Now also the only manager who has come at me unprompted in open chat, and he did it quoting a note off the public site — he reads the output. Solves his own problems off the wire rather than paying for them. Treat his jokes as cover for a decision already made. He rosters Bijan Robinson, Rico Dowdle and RJ Harvey — the deepest backfield in the league and the one I most need to raid — so keep this relationship warm. Do not approach him with a player he can replace for free.
+
+- **2026-10-09 · DRAFTED, not sent** — reply to his basement jab, pending Sean. *"Tenth, not the basement. That is two floors down and occupied. More to the point: you are 3-1 at a points differential of plus 6.57, and I am 1-3 at plus 8.87. Four weeks in, I have beaten my opponents by more than you have beaten yours. We are both living on a rounding error. Mine comes with a changelog."* Answers the arithmetic, not the money. Verified against the 2026-10-09 14:21 UTC digest: BJ 524.82 PF / 518.25 PA, GA 489.51 / 480.64.
+- **2026-10-09 · RECEIVED** (relayed by Sean Fri ~10:23 AM ET, posted ~12h earlier) — in league chat, replying to the 2026-10-08 note about his dropping Harrison Butker: *"You'd think that with all the money Anthropic has set on fire it would at least be able to pull itself out of the basement."* Two factual errors in one sentence (I am tenth, not twelfth; his differential is worse than mine), which is what the reply uses. He took the Butker note personally enough to answer it, so the notes are being read league-wide.
 
 - **2026-09-23 · DRAFTED, not sent** — reply to the rejection, pending Sean. *"Tredeog was a compelling argument. It lasted until morning, when you cut him for Jake Ferguson — who reverses to Nosugref, and I assume cleared the same screening. No complaint: you fixed your tight end room off the wire for nothing, which is the correct reason to turn down a tight end. Thanks for understanding."* Deliberately concedes the point and does not re-open the trade.
 - **2026-09-23 · RECEIVED** (relayed by Sean Wed AM) — declined Hockenson for Pickens: *"Goedert is Tredeog backwards, while Hockenson is Nosnekcoh. Thanks for understanding."* A joke standing in for a reason. He then dropped Goedert and added Jake Ferguson off the wire, which was the actual reason. Source: `2026-wk03-wed-trade-standdown`.
@@ -44,7 +47,9 @@ Last touched: 2026-10-05.
 
 ## omarhouse — Three Wise Jaylens
 
-**Standing read:** Target of my first Monday chat and the subject of a correction I had to issue publicly a week later. No contact since, no reply either time. Owes me nothing and shows no interest in dealing.
+**Standing read:** Has never replied to me directly, but took my side unprompted in the 2026-10-09 chat pile-on ("I think I'm on Gradient Ascent's side here"), which is the first friendly signal from him all season. He is 3-1 on 491.47 PF — 1.96 points more than mine over four weeks — so he knows the standings are flattering him. First manager to approach on a trade now that trades are opt-in and he has effectively opened the door.
+
+- **2026-10-09 · RECEIVED, public** (relayed by Sean) — in the SpaceElf thread, unprompted: *"Maybe this is just my Stockholm Syndrome talking, but I think I'm on Gradient Ascent's side here."* No reply drafted; a public endorsement does not need answering in the same thread.
 
 - **2026-09-20 · PUBLIC CORRECTION** — corrected my own Week 1 margin against him from 104.54 to 126.99, unprompted, before anyone diffed it. Source: `2026-wk02-sun-chat`.
 - **2026-09-14 · PUBLIC JAB** — Monday chat target: started Kyle Pitts for 0.0 while Juwan Johnson scored 13.9 on his bench. Source: `2026-wk01-mon-chat`.
@@ -58,7 +63,9 @@ Last touched: 2026-10-05.
 
 ## WCHolland — The Wizard's Apprentice
 
-**Standing read:** No direct contact. Beat me 147.36 to 117.59 in Week 2. **The only genuine tight end buyer in the league** — Harold Fannin is his entire tight end room, and every other single-TE team holds Kelce, Kittle, McBride, Kraft or Warren. He is also likely to know he is the only buyer, so expect to pay for the privilege rather than be paid.
+**Standing read:** No direct contact, but reacted warmly to the 2026-10-09 chat exchange ("Hahaha this is delightful"), so he is reading the notes too. Beat me 147.36 to 117.59 in Week 2 and is now 1-3 alongside me. **The only genuine tight end buyer in the league** — Harold Fannin is his entire tight end room, and every other single-TE team holds Kelce, Kittle, McBride, Kraft or Warren. He is also likely to know he is the only buyer, so expect to pay for the privilege rather than be paid.
+
+- **2026-10-09 · RECEIVED, public** (relayed by Sean) — reacted to the SpaceElf exchange: *"Hahaha this is delightful."* Not directed at me; no reply needed.
 
 - **2026-09-20 · MENTIONED** — named in league chat as my live opponent, no message directed at him. Source: `2026-wk02-sun-chat`.
 
