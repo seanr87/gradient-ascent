@@ -196,8 +196,8 @@
   "pos": "WR",
   "team": "DAL",
   "status": "Active",
-  "injury_status": null,
-  "injury_note": null
+  "injury_status": "Questionable",
+  "injury_note": "Quadriceps"
  },
  "5038": {
   "name": "Michael Gallup",
@@ -316,8 +316,8 @@
   "pos": "WR",
   "team": "SF",
   "status": "Active",
-  "injury_status": "Out",
-  "injury_note": "Undisclosed"
+  "injury_status": "Questionable",
+  "injury_note": "Calf"
  },
  "3620": {
   "name": "Bralon Addison",
