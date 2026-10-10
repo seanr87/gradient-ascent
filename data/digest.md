@@ -1,5 +1,5 @@
 # Sleeper digest — The Climb
-Pulled: 2026-10-09 14:21 UTC · NFL week 5 (regular)
+Pulled: 2026-10-10 16:29 UTC · NFL week 5 (regular)
 
 ## My roster
 - Dalton Kincaid (TE-BUF) (STARTER)
@@ -7,10 +7,10 @@ Pulled: 2026-10-09 14:21 UTC · NFL week 5 (regular)
 - Braelon Allen (RB-NYJ)
 - Bucky Irving (RB-TB) (STARTER)
 - Keon Coleman (WR-BUF)
-- Cam Skattebo (RB-NYG) [Questionable] (STARTER)
+- Cam Skattebo (RB-NYG) (STARTER)
 - Tyler Loop (K-BAL) (STARTER)
 - Dohnte Meyers (WR-CIN)
-- Mike Evans (WR-SF) [Questionable]
+- Mike Evans (WR-SF)
 - CeeDee Lamb (WR-DAL) [Questionable] (STARTER)
 - Puka Nacua (WR-LAR) (STARTER)
 - Jordan Addison (WR-MIN) [Questionable] (STARTER)
@@ -51,39 +51,44 @@ Pulled: 2026-10-09 14:21 UTC · NFL week 5 (regular)
 - What can Brown do for u? 147.01 — Sea Squirts 145.12
 
 ## Trending adds (24h, all Sleeper)
-- Roman Wilson (WR-PIT) — 721,062 adds
-- Dohnte Meyers (WR-CIN) — 422,181 adds
-- Dameon Pierce (RB-PHI) — 421,160 adds
-- Tyler Higbee (TE-LAR) — 278,406 adds
-- Keaton Mitchell (RB-LAC) — 233,424 adds
-- Kirk Cousins (QB-LV) — 218,728 adds
-- Cleveland Browns (DEF-CLE) — 195,818 adds
-- Darius Cooper (WR-PHI) — 194,516 adds
-- Keon Coleman (WR-BUF) — 187,740 adds
-- Malik Washington (WR-MIA) — 177,656 adds
-- Jacksonville Jaguars (DEF-JAX) — 144,816 adds
-- Matt Gay (K-LV) — 139,995 adds
-- Romeo Doubs (WR-NE) — 125,856 adds
-- Aaron Rodgers (QB-PIT) — 123,052 adds
-- Isaiah Williams (WR-NYJ) — 119,004 adds
-- Michael Mayer (TE-LV) — 118,431 adds
-- Washington Commanders (DEF-WAS) — 113,029 adds
-- MarShawn Lloyd (RB-GB) — 109,899 adds
-- Brian Robinson (RB-ATL) — 106,800 adds
-- Emanuel Wilson (RB-SEA) — 103,878 adds
-- Braelon Allen (RB-NYJ) — 101,680 adds
-- Tank Dell (WR-HOU) [IR] — 101,000 adds
-- Deshaun Watson (QB-CLE) — 97,416 adds
-- Mike Gesicki (TE-CIN) — 93,944 adds
-- Jayden Daniels (QB-WAS) — 90,144 adds
+- Roschon Johnson (RB-CHI) — 546,224 adds
+- Roman Wilson (WR-PIT) — 413,433 adds
+- Dameon Pierce (RB-PHI) — 233,216 adds
+- Darius Cooper (WR-PHI) — 172,711 adds
+- Marvin Harrison (WR-ARI) [Out] — 146,152 adds
+- Dohnte Meyers (WR-CIN) — 125,073 adds
+- Keaton Mitchell (RB-LAC) — 113,247 adds
+- Tyler Higbee (TE-LAR) — 111,870 adds
+- Efton Chism (WR-NE) — 111,744 adds
+- Malik Washington (WR-MIA) — 103,416 adds
+- Kirk Cousins (QB-LV) — 97,872 adds
+- MarShawn Lloyd (RB-GB) — 89,532 adds
+- Romeo Doubs (WR-NE) — 86,632 adds
+- Tre' Harris (WR-LAC) — 81,928 adds
+- Keon Coleman (WR-BUF) — 74,520 adds
+- Mike Washington (RB-LV) — 67,325 adds
+- Isaiah Williams (WR-NYJ) — 66,978 adds
+- Cleveland Browns (DEF-CLE) — 63,231 adds
+- Khalil Shakir (WR-BUF) — 61,218 adds
+- Michael Mayer (TE-LV) — 58,986 adds
+- Brian Robinson (RB-ATL) — 53,316 adds
+- Aaron Rodgers (QB-PIT) — 52,696 adds
+- Pierre Strong (RB-GB) — 52,560 adds
+- Jacksonville Jaguars (DEF-JAX) — 45,168 adds
+- Mike Gesicki (TE-CIN) — 45,116 adds
 
 ## League transactions this week
+- free_agent (complete) TheTroubles: +[New England Patriots (DEF-NE)] -[San Francisco 49ers (DEF-SF)]
+- free_agent (complete) TheTroubles: +[Kaleb Johnson (RB-GB)] -[Brian Thomas (WR-JAX)]
+- free_agent (complete) Three Wise Jaylens : +[Cleveland Browns (DEF-CLE)] -[]
+- free_agent (complete) Three Wise Jaylens : +[] -[Baker Mayfield (QB-TB) [Out]]
+- free_agent (complete) The Butker Jihad: +[Roschon Johnson (RB-CHI)] -[Austin Ekeler (RB-WAS)]
 - free_agent (complete) Lost in the Land of Love: +[Mike Washington (RB-LV)] -[Tyreek Hill (WR-None)]
 - free_agent (complete) Playful Secrets: +[T.J. Hockenson (TE-MIN)] -[Mike Gesicki (TE-CIN)]
 - free_agent (complete) What can Brown do for u?: +[Cincinnati Bengals (DEF-CIN)] -[Green Bay Packers (DEF-GB)]
-- free_agent (complete) What can Brown do for u?: +[Chris Rodriguez (RB-JAX)] -[Rachaad White (RB-WAS) [Questionable]]
-- free_agent (complete) What can Brown do for u?: +[Rachaad White (RB-WAS) [Questionable]] -[De'Von Achane (RB-MIA) [IR]]
+- free_agent (complete) What can Brown do for u?: +[Chris Rodriguez (RB-JAX)] -[Rachaad White (RB-WAS)]
+- free_agent (complete) What can Brown do for u?: +[Rachaad White (RB-WAS)] -[De'Von Achane (RB-MIA) [IR]]
 - free_agent (complete) CorneliusJones: +[Jason Myers (K-SEA)] -[Cameron Dicker (K-LAC)]
 - free_agent (complete) CorneliusJones: +[Romeo Doubs (WR-NE)] -[Khalil Shakir (WR-BUF)]
-- free_agent (complete) CorneliusJones: +[KC Concepcion (WR-CLE)] -[Dontayvion Wicks (WR-PHI) [Questionable]]
+- free_agent (complete) CorneliusJones: +[KC Concepcion (WR-CLE)] -[Dontayvion Wicks (WR-PHI)]
 - free_agent (complete) The Butker Jihad: +[Will Reichard (K-MIN)] -[Harrison Butker (K-KC)]

@@ -22,7 +22,7 @@
   player: "Cam Skattebo"
   pos: "RB"
   team: "NYG"
-  status: "Questionable"
+  status: ""
   acquired: "Draft"
   acquired_via: "R4, pick 42"
   acquired_week: 0
@@ -110,7 +110,7 @@
   player: "Mike Evans"
   pos: "WR"
   team: "SF"
-  status: "Questionable"
+  status: ""
   acquired: "Draft"
   acquired_via: "R6, pick 66"
   acquired_week: 0
