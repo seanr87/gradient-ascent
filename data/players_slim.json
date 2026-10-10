@@ -2563,8 +2563,8 @@
   "name": "Chris Brooks",
   "pos": "RB",
   "team": "GB",
-  "status": "Active",
-  "injury_status": "Out",
+  "status": "Inactive",
+  "injury_status": "IR",
   "injury_note": "Ankle"
  },
  "6196": {
@@ -11051,9 +11051,9 @@
   "name": "Tim Patrick",
   "pos": "WR",
   "team": "NYJ",
-  "status": "Inactive",
-  "injury_status": "IR",
-  "injury_note": "Groin"
+  "status": "Active",
+  "injury_status": null,
+  "injury_note": null
  },
  "41": {
   "name": "David Garrard",
@@ -16476,7 +16476,7 @@
   "pos": "WR",
   "team": "NE",
   "status": "Active",
-  "injury_status": "Out",
+  "injury_status": "IR",
   "injury_note": "Calf"
  },
  "12757": {
@@ -17244,7 +17244,7 @@
   "pos": "QB",
   "team": "LAC",
   "status": "Active",
-  "injury_status": "Doubtful",
+  "injury_status": "IR",
   "injury_note": "Groin"
  },
  "1085": {
@@ -18300,7 +18300,7 @@
   "pos": "RB",
   "team": "NE",
   "status": "Active",
-  "injury_status": "Out",
+  "injury_status": "IR",
   "injury_note": "Ankle"
  },
  "5117": {
@@ -23628,7 +23628,7 @@
   "pos": "WR",
   "team": "BUF",
   "status": "Active",
-  "injury_status": "Questionable",
+  "injury_status": "Out",
   "injury_note": "Shoulder"
  },
  "7035": {
@@ -32443,8 +32443,8 @@
   "name": "Michael Pittman",
   "pos": "WR",
   "team": "PIT",
-  "status": "Active",
-  "injury_status": "Out",
+  "status": "Inactive",
+  "injury_status": "IR",
   "injury_note": "Foot"
  },
  "3300": {

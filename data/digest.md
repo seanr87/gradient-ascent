@@ -1,5 +1,5 @@
 # Sleeper digest — The Climb
-Pulled: 2026-10-10 16:29 UTC · NFL week 5 (regular)
+Pulled: 2026-10-10 20:48 UTC · NFL week 5 (regular)
 
 ## My roster
 - Dalton Kincaid (TE-BUF) (STARTER)
@@ -51,31 +51,31 @@ Pulled: 2026-10-10 16:29 UTC · NFL week 5 (regular)
 - What can Brown do for u? 147.01 — Sea Squirts 145.12
 
 ## Trending adds (24h, all Sleeper)
-- Roschon Johnson (RB-CHI) — 546,224 adds
-- Roman Wilson (WR-PIT) — 413,433 adds
-- Dameon Pierce (RB-PHI) — 233,216 adds
-- Darius Cooper (WR-PHI) — 172,711 adds
-- Marvin Harrison (WR-ARI) [Out] — 146,152 adds
-- Dohnte Meyers (WR-CIN) — 125,073 adds
-- Keaton Mitchell (RB-LAC) — 113,247 adds
-- Tyler Higbee (TE-LAR) — 111,870 adds
-- Efton Chism (WR-NE) — 111,744 adds
-- Malik Washington (WR-MIA) — 103,416 adds
-- Kirk Cousins (QB-LV) — 97,872 adds
-- MarShawn Lloyd (RB-GB) — 89,532 adds
-- Romeo Doubs (WR-NE) — 86,632 adds
-- Tre' Harris (WR-LAC) — 81,928 adds
-- Keon Coleman (WR-BUF) — 74,520 adds
-- Mike Washington (RB-LV) — 67,325 adds
-- Isaiah Williams (WR-NYJ) — 66,978 adds
-- Cleveland Browns (DEF-CLE) — 63,231 adds
-- Khalil Shakir (WR-BUF) — 61,218 adds
-- Michael Mayer (TE-LV) — 58,986 adds
-- Brian Robinson (RB-ATL) — 53,316 adds
-- Aaron Rodgers (QB-PIT) — 52,696 adds
-- Pierre Strong (RB-GB) — 52,560 adds
-- Jacksonville Jaguars (DEF-JAX) — 45,168 adds
-- Mike Gesicki (TE-CIN) — 45,116 adds
+- Roschon Johnson (RB-CHI) — 441,216 adds
+- Roman Wilson (WR-PIT) — 308,340 adds
+- Marvin Harrison (WR-ARI) [Out] — 229,988 adds
+- Dameon Pierce (RB-PHI) — 165,736 adds
+- Darius Cooper (WR-PHI) — 157,269 adds
+- Efton Chism (WR-NE) — 123,208 adds
+- Tre' Harris (WR-LAC) — 91,132 adds
+- Tyler Higbee (TE-LAR) — 86,517 adds
+- Dohnte Meyers (WR-CIN) — 85,095 adds
+- Malik Washington (WR-MIA) — 82,640 adds
+- Keaton Mitchell (RB-LAC) — 77,427 adds
+- MarShawn Lloyd (RB-GB) — 76,347 adds
+- Romeo Doubs (WR-NE) — 71,840 adds
+- Kirk Cousins (QB-LV) — 68,912 adds
+- Keon Coleman (WR-BUF) — 65,736 adds
+- Pierre Strong (RB-GB) — 57,726 adds
+- Kendrick Bourne (WR-ARI) — 52,560 adds
+- Khalil Shakir (WR-BUF) — 50,436 adds
+- Cleveland Browns (DEF-CLE) — 50,120 adds
+- Michael Mayer (TE-LV) — 48,015 adds
+- Isaiah Williams (WR-NYJ) — 47,604 adds
+- Brian Robinson (RB-ATL) — 39,342 adds
+- Mike Washington (RB-LV) — 38,908 adds
+- Jacksonville Jaguars (DEF-JAX) — 36,942 adds
+- Aaron Rodgers (QB-PIT) — 36,420 adds
 
 ## League transactions this week
 - free_agent (complete) TheTroubles: +[New England Patriots (DEF-NE)] -[San Francisco 49ers (DEF-SF)]
