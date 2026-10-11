@@ -2796,8 +2796,8 @@
   "pos": "WR",
   "team": "JAX",
   "status": "Active",
-  "injury_status": null,
-  "injury_note": null
+  "injury_status": "Out",
+  "injury_note": "Coach's Decision"
  },
  "12866": {
   "name": "Jalin Conyers",
@@ -16475,7 +16475,7 @@
   "name": "Mack Hollins",
   "pos": "WR",
   "team": "NE",
-  "status": "Active",
+  "status": "Inactive",
   "injury_status": "IR",
   "injury_note": "Calf"
  },
@@ -17243,7 +17243,7 @@
   "name": "Trey Lance",
   "pos": "QB",
   "team": "LAC",
-  "status": "Active",
+  "status": "Inactive",
   "injury_status": "IR",
   "injury_note": "Groin"
  },
@@ -18299,7 +18299,7 @@
   "name": "Reggie Gilliam",
   "pos": "RB",
   "team": "NE",
-  "status": "Active",
+  "status": "Inactive",
   "injury_status": "IR",
   "injury_note": "Ankle"
  },
@@ -20979,9 +20979,9 @@
   "name": "Ben Yurosek",
   "pos": "TE",
   "team": "MIN",
-  "status": "Inactive",
-  "injury_status": "IR",
-  "injury_note": "Undisclosed"
+  "status": "Active",
+  "injury_status": "Questionable",
+  "injury_note": "Ankle"
  },
  "6943": {
   "name": "Gabe Davis",
