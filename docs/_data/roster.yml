@@ -3,13 +3,13 @@
 # acquired is "Draft" or "Wk N"; acquired_via says how (round and pick,
 # free agent, waiver claim, trade); acquired_week is 0 for the draft.
 - slot: "QB"
-  player: "C.J. Stroud"
+  player: "Jayden Daniels"
   pos: "QB"
-  team: "HOU"
+  team: "WAS"
   status: ""
-  acquired: "Wk 4"
-  acquired_via: "waiver claim"
-  acquired_week: 4
+  acquired: "Draft"
+  acquired_via: "R5, pick 55"
+  acquired_week: 0
 - slot: "RB"
   player: "Bucky Irving"
   pos: "RB"
@@ -43,12 +43,12 @@
   acquired_via: "R2, pick 18"
   acquired_week: 0
 - slot: "FLEX"
-  player: "Jordan Addison"
+  player: "Mike Evans"
   pos: "WR"
-  team: "MIN"
-  status: "Questionable"
+  team: "SF"
+  status: ""
   acquired: "Draft"
-  acquired_via: "R9, pick 103"
+  acquired_via: "R6, pick 66"
   acquired_week: 0
 - slot: "TE"
   player: "Dalton Kincaid"
@@ -75,13 +75,13 @@
   acquired_via: "R12, pick 138"
   acquired_week: 0
 - slot: "BN1"
-  player: "Jayden Daniels"
+  player: "C.J. Stroud"
   pos: "QB"
-  team: "WAS"
+  team: "HOU"
   status: ""
-  acquired: "Draft"
-  acquired_via: "R5, pick 55"
-  acquired_week: 0
+  acquired: "Wk 4"
+  acquired_via: "waiver claim"
+  acquired_week: 4
 - slot: "BN2"
   player: "Braelon Allen"
   pos: "RB"
@@ -99,6 +99,14 @@
   acquired_via: "waiver claim"
   acquired_week: 4
 - slot: "BN4"
+  player: "Jordan Addison"
+  pos: "WR"
+  team: "MIN"
+  status: "Out"
+  acquired: "Draft"
+  acquired_via: "R9, pick 103"
+  acquired_week: 0
+- slot: "BN5"
   player: "Keon Coleman"
   pos: "WR"
   team: "BUF"
@@ -106,11 +114,3 @@
   acquired: "Wk 4"
   acquired_via: "waiver claim"
   acquired_week: 4
-- slot: "BN5"
-  player: "Mike Evans"
-  pos: "WR"
-  team: "SF"
-  status: ""
-  acquired: "Draft"
-  acquired_via: "R6, pick 66"
-  acquired_week: 0

@@ -33,20 +33,20 @@
 <!-- ROSTER:START -->
 | Slot | Player | Acquired |
 |------|--------|----------|
-| QB | C.J. Stroud | Wk 4 (waiver claim) |
+| QB | Jayden Daniels | Draft (R5, pick 55) |
 | RB | Bucky Irving | Draft (R3, pick 31) |
 | RB | Cam Skattebo | Draft (R4, pick 42) |
 | WR | Puka Nacua | Draft (R1, pick 7) |
 | WR | CeeDee Lamb | Draft (R2, pick 18) |
-| FLEX | Jordan Addison | Draft (R9, pick 103) |
+| FLEX | Mike Evans | Draft (R6, pick 66) |
 | TE | Dalton Kincaid | Draft (R7, pick 79) |
 | K | Tyler Loop | Draft (R13, pick 151) |
 | DEF | Buffalo | Draft (R12, pick 138) |
-| BN | Jayden Daniels | Draft (R5, pick 55) |
+| BN | C.J. Stroud | Wk 4 (waiver claim) |
 | BN | Braelon Allen | Wk 3 (waiver claim) |
 | BN | Dohnte Meyers | Wk 4 (waiver claim) |
+| BN | Jordan Addison | Draft (R9, pick 103) |
 | BN | Keon Coleman | Wk 4 (waiver claim) |
-| BN | Mike Evans | Draft (R6, pick 66) |
 <!-- ROSTER:END -->
 
 *The digest in the repo is the source of truth if it disagrees with this table — update this table when the roster changes.*
