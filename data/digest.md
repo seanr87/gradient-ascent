@@ -1,5 +1,5 @@
 # Sleeper digest — The Climb
-Pulled: 2026-10-11 17:41 UTC · NFL week 5 (regular)
+Pulled: 2026-10-12 12:13 UTC · NFL week 5 (regular)
 
 ## My roster
 - Dalton Kincaid (TE-BUF) (STARTER)
@@ -35,12 +35,12 @@ Pulled: 2026-10-11 17:41 UTC · NFL week 5 (regular)
 12. Lost in the Land of Love — 0-4, 415.14 PF, waiver #7
 
 ## This week's matchups (week 5)
-- Princess Donut's Court 42.25 — Lost in the Land of Love 5.70
-- Playful Secrets 43.85 — TheTroubles 34.15
-- The Butker Jihad 64.94 — The Wizard’s Apprentice 35.84
-- Umojan Protectorate 55.31 — Gradient Ascent 36.96
-- Three Wise Jaylens  45.90 — What can Brown do for u? 8.55
-- Sea Squirts 23.36 — CorneliusJones 13.40
+- Princess Donut's Court 119.65 — Lost in the Land of Love 94.96
+- Playful Secrets 137.19 — TheTroubles 59.10
+- The Butker Jihad 123.34 — The Wizard’s Apprentice 82.89
+- Umojan Protectorate 151.04 — Gradient Ascent 115.76
+- Three Wise Jaylens  129.35 — What can Brown do for u? 118.87
+- Sea Squirts 158.80 — CorneliusJones 116.76
 
 ## Last week's results (week 4)
 - Princess Donut's Court 132.31 — Playful Secrets 123.78
@@ -51,33 +51,34 @@ Pulled: 2026-10-11 17:41 UTC · NFL week 5 (regular)
 - What can Brown do for u? 147.01 — Sea Squirts 145.12
 
 ## Trending adds (24h, all Sleeper)
-- Roschon Johnson (RB-CHI) — 533,384 adds
-- Roman Wilson (WR-PIT) — 413,658 adds
-- Darius Cooper (WR-PHI) — 273,021 adds
-- Kendrick Bourne (WR-ARI) — 230,283 adds
-- Tyler Higbee (TE-LAR) — 207,108 adds
-- Efton Chism (WR-NE) — 190,904 adds
-- Tre' Harris (WR-LAC) — 161,920 adds
-- MarShawn Lloyd (RB-GB) — 152,271 adds
-- Malik Washington (WR-MIA) — 144,792 adds
-- Keaton Mitchell (RB-LAC) — 142,155 adds
-- Marvin Harrison (WR-ARI) [Out] — 141,068 adds
-- Keon Coleman (WR-BUF) — 136,098 adds
-- Cleveland Browns (DEF-CLE) — 135,058 adds
-- Dameon Pierce (RB-PHI) — 124,840 adds
-- Kirk Cousins (QB-LV) — 115,096 adds
-- Romeo Doubs (WR-NE) — 106,256 adds
-- Washington Commanders (DEF-WAS) — 100,716 adds
-- Khalil Shakir (WR-BUF) — 98,640 adds
-- Pierre Strong (RB-GB) — 92,763 adds
-- Michael Mayer (TE-LV) — 66,960 adds
-- Aaron Rodgers (QB-PIT) — 65,704 adds
-- C.J. Stroud (QB-HOU) — 61,152 adds
-- Matt Gay (K-LV) — 54,920 adds
-- Treylon Burks (WR-WAS) — 53,277 adds
-- Brian Robinson (RB-ATL) — 53,166 adds
+- Darius Cooper (WR-PHI) — 391,426 adds
+- MarShawn Lloyd (RB-GB) — 347,238 adds
+- Roschon Johnson (RB-CHI) — 303,552 adds
+- Tyler Higbee (TE-LAR) — 296,955 adds
+- Roman Wilson (WR-PIT) [Out] — 224,892 adds
+- Kendrick Bourne (WR-ARI) — 208,431 adds
+- Brenton Strange (TE-JAX) — 173,466 adds
+- Keon Coleman (WR-BUF) — 158,652 adds
+- Keaton Mitchell (RB-LAC) — 131,670 adds
+- Tre' Harris (WR-LAC) [Questionable] — 123,444 adds
+- Efton Chism (WR-NE) — 123,280 adds
+- New England Patriots (DEF-NE) — 118,363 adds
+- Malik Washington (WR-MIA) — 115,224 adds
+- Cleveland Browns (DEF-CLE) — 113,526 adds
+- Khalil Shakir (WR-BUF) — 107,739 adds
+- Jayden Daniels (QB-WAS) — 95,824 adds
+- Kirk Cousins (QB-LV) — 91,560 adds
+- Dameon Pierce (RB-PHI) — 87,856 adds
+- Aaron Rodgers (QB-PIT) — 85,956 adds
+- Marvin Harrison (WR-HOU) [Out] — 83,424 adds
+- Kimani Vidal (RB-LAC) — 78,965 adds
+- C.J. Stroud (QB-HOU) — 78,379 adds
+- Washington Commanders (DEF-WAS) — 66,836 adds
+- Brian Robinson (RB-ATL) — 66,294 adds
+- Romeo Doubs (WR-NE) — 66,168 adds
 
 ## League transactions this week
+- free_agent (complete) Lost in the Land of Love: +[Kaelon Black (RB-SF)] -[Mike Washington (RB-LV)]
 - free_agent (complete) Princess Donut's Court: +[Aaron Rodgers (QB-PIT)] -[Xavier Worthy (WR-KC)]
 - free_agent (complete) TheTroubles: +[Najee Harris (RB-NYG)] -[Michael Pittman (WR-PIT) [IR]]
 - free_agent (complete) Sea Squirts: +[Malik Washington (WR-MIA)] -[Courtland Sutton (WR-DEN)]
@@ -87,11 +88,11 @@ Pulled: 2026-10-11 17:41 UTC · NFL week 5 (regular)
 - free_agent (complete) Three Wise Jaylens : +[] -[Baker Mayfield (QB-TB) [Out]]
 - free_agent (complete) The Butker Jihad: +[Roschon Johnson (RB-CHI)] -[Austin Ekeler (RB-WAS)]
 - free_agent (complete) Lost in the Land of Love: +[Mike Washington (RB-LV)] -[Tyreek Hill (WR-None)]
-- free_agent (complete) Playful Secrets: +[T.J. Hockenson (TE-MIN) [Questionable]] -[Mike Gesicki (TE-CIN)]
+- free_agent (complete) Playful Secrets: +[T.J. Hockenson (TE-MIN) [Out]] -[Mike Gesicki (TE-CIN)]
 - free_agent (complete) What can Brown do for u?: +[Cincinnati Bengals (DEF-CIN)] -[Green Bay Packers (DEF-GB)]
 - free_agent (complete) What can Brown do for u?: +[Chris Rodriguez (RB-JAX)] -[Rachaad White (RB-WAS)]
 - free_agent (complete) What can Brown do for u?: +[Rachaad White (RB-WAS)] -[De'Von Achane (RB-MIA) [IR]]
 - free_agent (complete) CorneliusJones: +[Jason Myers (K-SEA)] -[Cameron Dicker (K-LAC)]
 - free_agent (complete) CorneliusJones: +[Romeo Doubs (WR-NE)] -[Khalil Shakir (WR-BUF)]
-- free_agent (complete) CorneliusJones: +[KC Concepcion (WR-CLE)] -[Dontayvion Wicks (WR-PHI)]
+- free_agent (complete) CorneliusJones: +[KC Concepcion (WR-CLE) [Out]] -[Dontayvion Wicks (WR-PHI)]
 - free_agent (complete) The Butker Jihad: +[Will Reichard (K-MIN)] -[Harrison Butker (K-KC)]
