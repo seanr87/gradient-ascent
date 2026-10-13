@@ -1,5 +1,5 @@
 # Sleeper digest — The Climb
-Pulled: 2026-10-13 00:03 UTC · NFL week 5 (regular)
+Pulled: 2026-10-13 03:31 UTC · NFL week 5 (regular)
 
 ## My roster
 - Dalton Kincaid (TE-BUF) (STARTER)
@@ -35,11 +35,11 @@ Pulled: 2026-10-13 00:03 UTC · NFL week 5 (regular)
 12. Lost in the Land of Love — 0-4, 415.14 PF, waiver #7
 
 ## This week's matchups (week 5)
-- Princess Donut's Court 119.65 — Lost in the Land of Love 94.96
-- Playful Secrets 137.19 — TheTroubles 59.10
-- The Butker Jihad 123.34 — The Wizard’s Apprentice 82.89
-- Umojan Protectorate 151.04 — Gradient Ascent 115.76
-- Three Wise Jaylens  129.35 — What can Brown do for u? 118.87
+- Princess Donut's Court 119.65 — Lost in the Land of Love 101.96
+- Playful Secrets 137.19 — TheTroubles 88.36
+- The Butker Jihad 143.94 — The Wizard’s Apprentice 109.49
+- Gradient Ascent 151.31 — Umojan Protectorate 151.04
+- Three Wise Jaylens  147.65 — What can Brown do for u? 122.87
 - Sea Squirts 158.80 — CorneliusJones 116.76
 
 ## Last week's results (week 4)
@@ -51,31 +51,31 @@ Pulled: 2026-10-13 00:03 UTC · NFL week 5 (regular)
 - What can Brown do for u? 147.01 — Sea Squirts 145.12
 
 ## Trending adds (24h, all Sleeper)
-- MarShawn Lloyd (RB-GB) — 334,647 adds
-- Darius Cooper (WR-PHI) — 275,534 adds
-- Dameon Pierce (RB-PHI) — 224,696 adds
-- Brenton Strange (TE-JAX) — 209,304 adds
-- Tyler Higbee (TE-LAR) — 186,138 adds
-- New England Patriots (DEF-NE) — 135,275 adds
-- Kimani Vidal (RB-LAC) — 123,420 adds
-- Keon Coleman (WR-BUF) — 120,861 adds
-- Khalil Shakir (WR-BUF) — 85,599 adds
-- Konata Mumpfield (WR-LAR) — 82,044 adds
-- Kendrick Bourne (WR-ARI) — 70,551 adds
-- San Francisco 49ers (DEF-SF) — 65,892 adds
-- Jayden Daniels (QB-WAS) — 62,208 adds
-- Samaje Perine (RB-CIN) — 54,704 adds
-- Aaron Rodgers (QB-PIT) — 49,448 adds
-- Efton Chism (WR-NE) — 47,156 adds
-- Jacory Croskey-Merritt (RB-WAS) — 45,477 adds
-- C.J. Stroud (QB-HOU) — 45,038 adds
-- Tyler Loop (K-BAL) — 44,760 adds
-- Indianapolis Colts (DEF-IND) — 44,508 adds
-- Kyle Pitts (TE-ATL) — 39,417 adds
-- Marvin Harrison (WR-HOU) [Out] — 36,804 adds
-- Raheim Sanders (RB-CLE) [Questionable] — 35,936 adds
-- Malik Washington (WR-MIA) — 35,768 adds
-- Ty Johnson (RB-BUF) — 34,824 adds
+- MarShawn Lloyd (RB-GB) — 407,016 adds
+- Dameon Pierce (RB-PHI) — 322,304 adds
+- Darius Cooper (WR-PHI) — 300,090 adds
+- Brenton Strange (TE-JAX) — 255,582 adds
+- Tyler Higbee (TE-LAR) — 213,723 adds
+- New England Patriots (DEF-NE) — 153,832 adds
+- Kimani Vidal (RB-LAC) — 141,935 adds
+- Keon Coleman (WR-BUF) — 124,470 adds
+- Konata Mumpfield (WR-LAR) — 86,562 adds
+- Khalil Shakir (WR-BUF) — 86,076 adds
+- San Francisco 49ers (DEF-SF) — 80,670 adds
+- Kendrick Bourne (WR-ARI) — 80,349 adds
+- Tyler Loop (K-BAL) — 63,840 adds
+- Samaje Perine (RB-CIN) — 63,528 adds
+- Jayden Daniels (QB-WAS) — 62,248 adds
+- Aaron Rodgers (QB-PIT) — 53,348 adds
+- Efton Chism (WR-NE) — 52,340 adds
+- Indianapolis Colts (DEF-IND) — 49,095 adds
+- C.J. Stroud (QB-HOU) — 47,642 adds
+- Blake Corum (RB-LAR) — 46,784 adds
+- Jacory Croskey-Merritt (RB-WAS) — 46,143 adds
+- Raheim Sanders (RB-CLE) [Questionable] — 42,448 adds
+- Ty Johnson (RB-BUF) — 41,028 adds
+- Malik Washington (WR-MIA) — 39,560 adds
+- Nick Folk (K-ATL) — 39,450 adds
 
 ## League transactions this week
 - free_agent (complete) Lost in the Land of Love: +[Khalil Shakir (WR-BUF)] -[Kaelon Black (RB-SF)]
