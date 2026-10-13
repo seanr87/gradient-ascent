@@ -1482,7 +1482,7 @@
  "11579": {
   "name": "Audric Estime",
   "pos": "RB",
-  "team": "MIN",
+  "team": "CLE",
   "status": "Active",
   "injury_status": null,
   "injury_note": null
@@ -1802,7 +1802,7 @@
  "12925": {
   "name": "Jamaal Pritchett",
   "pos": "WR",
-  "team": null,
+  "team": "NYJ",
   "status": "Active",
   "injury_status": null,
   "injury_note": null
@@ -20442,7 +20442,7 @@
  "12538": {
   "name": "Brady Cook",
   "pos": "QB",
-  "team": null,
+  "team": "MIA",
   "status": "Active",
   "injury_status": null,
   "injury_note": null
