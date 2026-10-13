@@ -15954,7 +15954,7 @@
  "12476": {
   "name": "Devin Neal",
   "pos": "RB",
-  "team": null,
+  "team": "WAS",
   "status": "Active",
   "injury_status": null,
   "injury_note": null
@@ -28842,7 +28842,7 @@
  "11569": {
   "name": "Jarquez Hunter",
   "pos": "RB",
-  "team": "MIA",
+  "team": null,
   "status": "Active",
   "injury_status": null,
   "injury_note": null
@@ -30058,7 +30058,7 @@
  "11056": {
   "name": "Jared Wayne",
   "pos": "WR",
-  "team": "HOU",
+  "team": null,
   "status": "Active",
   "injury_status": null,
   "injury_note": null
@@ -32316,7 +32316,7 @@
   "pos": "TE",
   "team": "CIN",
   "status": "Active",
-  "injury_status": "Questionable",
+  "injury_status": "Out",
   "injury_note": "Pectoral"
  },
  "13663": {
@@ -32402,7 +32402,7 @@
  "6960": {
   "name": "Tyler Johnson",
   "pos": "WR",
-  "team": "NYJ",
+  "team": null,
   "status": "Active",
   "injury_status": null,
   "injury_note": null

@@ -1,5 +1,5 @@
 # Sleeper digest — The Climb
-Pulled: 2026-10-13 15:09 UTC · NFL week 6 (regular)
+Pulled: 2026-10-13 17:47 UTC · NFL week 6 (regular)
 
 ## My roster
 - Dalton Kincaid (TE-BUF) (STARTER)
@@ -51,30 +51,30 @@ Pulled: 2026-10-13 15:09 UTC · NFL week 6 (regular)
 - Sea Squirts 158.80 — CorneliusJones 116.76
 
 ## Trending adds (24h, all Sleeper)
-- Dameon Pierce (RB-PHI) — 1,175,840 adds
-- MarShawn Lloyd (RB-GB) — 1,019,727 adds
-- Brenton Strange (TE-JAX) — 586,773 adds
-- New England Patriots (DEF-NE) — 507,381 adds
-- Darius Cooper (WR-PHI) — 483,021 adds
-- Tyler Higbee (TE-LAR) — 336,897 adds
-- Kimani Vidal (RB-LAC) — 278,570 adds
-- Tyler Loop (K-BAL) — 262,788 adds
-- San Francisco 49ers (DEF-SF) — 220,110 adds
-- Indianapolis Colts (DEF-IND) — 207,420 adds
-- Kendrick Bourne (WR-ARI) — 181,197 adds
-- Nick Folk (K-ATL) — 154,014 adds
-- Efton Chism (WR-NE) — 151,136 adds
-- Aaron Rodgers (QB-PIT) — 141,244 adds
-- Germie Bernard (WR-PIT) — 132,254 adds
-- Keon Coleman (WR-BUF) — 124,218 adds
-- Khalil Shakir (WR-BUF) — 109,548 adds
-- Woody Marks (RB-HOU) — 107,471 adds
-- Xavier Worthy (WR-KC) — 94,680 adds
-- Blake Corum (RB-LAR) — 93,400 adds
-- Jayden Daniels (QB-WAS) — 92,736 adds
-- Matt Gay (K-LV) — 91,875 adds
-- Kendre Miller (RB-NO) — 91,506 adds
-- C.J. Stroud (QB-HOU) — 91,077 adds
-- Samaje Perine (RB-CIN) — 88,532 adds
+- Dameon Pierce (RB-PHI) — 1,546,448 adds
+- MarShawn Lloyd (RB-GB) — 1,276,182 adds
+- Brenton Strange (TE-JAX) — 738,279 adds
+- New England Patriots (DEF-NE) — 672,385 adds
+- Darius Cooper (WR-PHI) — 568,281 adds
+- Tyler Higbee (TE-LAR) — 386,541 adds
+- Tyler Loop (K-BAL) — 355,932 adds
+- Kimani Vidal (RB-LAC) — 344,660 adds
+- Indianapolis Colts (DEF-IND) — 278,262 adds
+- San Francisco 49ers (DEF-SF) — 276,453 adds
+- Kendrick Bourne (WR-ARI) — 224,367 adds
+- Nick Folk (K-ATL) — 212,130 adds
+- Efton Chism (WR-NE) — 200,020 adds
+- Aaron Rodgers (QB-PIT) — 178,088 adds
+- Germie Bernard (WR-PIT) — 176,762 adds
+- Woody Marks (RB-HOU) — 138,844 adds
+- Xavier Worthy (WR-KC) — 135,981 adds
+- Kendre Miller (RB-NO) — 133,926 adds
+- Matt Gay (K-LV) — 129,800 adds
+- Kirk Cousins (QB-LV) — 127,496 adds
+- Keon Coleman (WR-BUF) — 123,066 adds
+- Khalil Shakir (WR-BUF) — 118,278 adds
+- Trey Smack (K-GB) — 112,840 adds
+- Blake Corum (RB-LAR) — 112,272 adds
+- C.J. Stroud (QB-HOU) — 112,021 adds
 
 ## League transactions this week
