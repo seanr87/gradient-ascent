@@ -1,5 +1,5 @@
 # Sleeper digest — The Climb
-Pulled: 2026-10-13 10:10 UTC · NFL week 6 (regular)
+Pulled: 2026-10-13 11:36 UTC · NFL week 6 (regular)
 
 ## My roster
 - Dalton Kincaid (TE-BUF) (STARTER)
@@ -51,30 +51,30 @@ Pulled: 2026-10-13 10:10 UTC · NFL week 6 (regular)
 - Sea Squirts 158.80 — CorneliusJones 116.76
 
 ## Trending adds (24h, all Sleeper)
-- MarShawn Lloyd (RB-GB) — 656,217 adds
-- Dameon Pierce (RB-PHI) — 621,176 adds
-- Brenton Strange (TE-JAX) — 384,633 adds
-- Darius Cooper (WR-PHI) — 363,489 adds
-- New England Patriots (DEF-NE) — 277,893 adds
-- Tyler Higbee (TE-LAR) — 262,602 adds
-- Kimani Vidal (RB-LAC) — 182,945 adds
-- Tyler Loop (K-BAL) — 141,762 adds
-- San Francisco 49ers (DEF-SF) — 136,338 adds
-- Keon Coleman (WR-BUF) — 120,753 adds
-- Kendrick Bourne (WR-ARI) — 119,385 adds
-- Indianapolis Colts (DEF-IND) — 100,428 adds
-- Khalil Shakir (WR-BUF) — 96,633 adds
-- Konata Mumpfield (WR-LAR) — 85,167 adds
-- Efton Chism (WR-NE) — 84,080 adds
-- Aaron Rodgers (QB-PIT) — 83,880 adds
-- Nick Folk (K-ATL) — 79,494 adds
-- Samaje Perine (RB-CIN) — 75,512 adds
-- Jayden Daniels (QB-WAS) — 73,544 adds
-- Germie Bernard (WR-PIT) — 68,635 adds
-- Blake Corum (RB-LAR) — 66,408 adds
-- C.J. Stroud (QB-HOU) — 63,035 adds
-- Woody Marks (RB-HOU) — 62,827 adds
-- Raheim Sanders (RB-CLE) [Questionable] — 58,984 adds
-- Jacory Croskey-Merritt (RB-WAS) — 52,290 adds
+- MarShawn Lloyd (RB-GB) — 734,094 adds
+- Dameon Pierce (RB-PHI) — 717,424 adds
+- Brenton Strange (TE-JAX) — 425,709 adds
+- Darius Cooper (WR-PHI) — 390,726 adds
+- New England Patriots (DEF-NE) — 325,430 adds
+- Tyler Higbee (TE-LAR) — 279,126 adds
+- Kimani Vidal (RB-LAC) — 202,270 adds
+- Tyler Loop (K-BAL) — 166,422 adds
+- San Francisco 49ers (DEF-SF) — 154,440 adds
+- Kendrick Bourne (WR-ARI) — 131,133 adds
+- Keon Coleman (WR-BUF) — 122,391 adds
+- Indianapolis Colts (DEF-IND) — 122,139 adds
+- Khalil Shakir (WR-BUF) — 99,738 adds
+- Aaron Rodgers (QB-PIT) — 96,696 adds
+- Efton Chism (WR-NE) — 96,596 adds
+- Nick Folk (K-ATL) — 94,872 adds
+- Konata Mumpfield (WR-LAR) — 85,482 adds
+- Germie Bernard (WR-PIT) — 81,256 adds
+- Samaje Perine (RB-CIN) — 79,260 adds
+- Jayden Daniels (QB-WAS) — 77,696 adds
+- Blake Corum (RB-LAR) — 72,000 adds
+- Woody Marks (RB-HOU) — 71,559 adds
+- C.J. Stroud (QB-HOU) — 68,481 adds
+- Raheim Sanders (RB-CLE) [Questionable] — 64,440 adds
+- Xavier Worthy (WR-KC) — 56,466 adds
 
 ## League transactions this week
