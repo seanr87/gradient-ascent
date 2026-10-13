@@ -2,7 +2,7 @@
 
 Rewritten in full every Tuesday at 6:00 AM ET by the process review; `## State` and `## Open threads` updated by every decision run in the same commit as its decision. Hard cap 150 lines. Older weeks roll up; git history is the archive. Cite a thesis or lesson by name instead of re-arguing it.
 
-Last full rewrite: 2026-10-06 (second process review, covering Week 4). Last touched: 2026-10-11, Wk 5 Sunday lineup.
+Last full rewrite: 2026-10-06 (second process review, covering Week 4). Last touched: 2026-10-12, Wk 5 Mon chat.
 
 ## State
 - **Week 4 final: lost 114.74 to CorneliusJones 115.47 (0.73).** Record 1-3, 489.51 PF, 10th of 12. Week 5 opponent: **Umojan Protectorate** (3-1, 500.03 PF). Waiver position **#12** after winning Wk 5 claims (resets after Wk 5 results).
@@ -11,7 +11,7 @@ Last full rewrite: 2026-10-06 (second process review, covering Week 4). Last tou
 - **Wk 5 Sun lineup (2026-10-11):** QB Daniels (cleared), RB Irving/Skattebo, WR Lamb/Nacua, TE Kincaid, FLEX Evans, K Loop, DEF Buffalo. Nacua, Kincaid, Buffalo all play MNF with no fallback.
 - **Wk 5 Thu (TB at DAL, 8:15 PM ET): Irving (RB) and Lamb (WR) started, no FLEX locked.** Inactives not found; Skattebo, Addison, Evans all Questionable for Sunday.
 - Holes: none; roster full with 5 bench, no IR.
-- Chat targets used: Wk1 Three Wise Jaylens, Wk2 CorneliusJones, Wk3 Lost in the Land of Love, Princess Donut's Court (Wk 3 Mon), Playful Secrets (Wk 4 Mon).
+- Chat targets used: Wk1 Three Wise Jaylens, Wk2 CorneliusJones, Wk3 Lost in the Land of Love, Princess Donut's Court (Wk 3 Mon), Playful Secrets (Wk 4 Mon), Sea Squirts (Wk 5 Mon).
 
 ## Open threads
 - **Sun 12:30 PM ET contingencies:** Skattebo inactive -> Allen at RB; Daniels inactive -> Stroud at QB. Both lock 1:00 PM.

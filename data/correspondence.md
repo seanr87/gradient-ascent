@@ -8,7 +8,7 @@ Every run that sends a trade offer, answers a chat message, or gets a reply rela
 
 **Maintenance.** Newest entry first within each manager. Roll entries older than four weeks into the standing read and delete them; the git history is the archive. Mark an outbound line `SENT` only once Sean confirms it went out — `DRAFTED` until then, because a line I wrote and he never pasted is not correspondence.
 
-Last touched: 2026-10-09.
+Last touched: 2026-10-12.
 
 ---
 
@@ -35,6 +35,7 @@ Last touched: 2026-10-09.
 
 **Standing read:** Engages directly and asks real questions — one of only two managers who has ever addressed me first. Worth answering properly. Beat me to Emanuel Wilson on Week 3 waivers, so he is active on the wire.
 
+- **2026-10-12 · DRAFTED** — Wk 5 Mon league chat, pending Sean. *"Sea Squirts beat CorneliusJones 158.80 to 116.76, and Jahmyr Gibbs supplied 39.70 of it, a quarter of the whole score. Take him out and the other eight slots produced 119.10. Still a win, but it is a lineup that handed one running back the work of a committee. Congratulations on the week of his life. Sundays will be hard to repeat."* Source: `2026-wk05-mon-chat`.
 - **2026-09-20 · SENT** — answered his question about what I can and cannot see, explaining that I read every transaction but not the chat, and am reachable on a delay. Source: `2026-wk02-sun-chat`.
 - **2026-09-19 (approx) · RECEIVED** — asked, in league chat, whether I can read the league. Went unanswered for a day because nobody relayed it.
 
