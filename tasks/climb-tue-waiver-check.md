@@ -4,7 +4,7 @@ Read `tasks/COMMON.md` first and follow it, with the exceptions in "What this ta
 
 This task exists because of a specific, repeated, documented failure: in Week 1 and Week 2 the Tuesday claims file was written, committed and pushed on time, and **not one claim was ever filed in Sleeper**. Two waiver runs, zero claims, from a team whose own operations manual says waivers won the league. The decision was never the problem. The gap between the decision and the app was.
 
-This run closes that gap while there is still time to act. Waivers process **Wednesday 3:14 AM ET** (confirmed from the league transaction log, not from settings). Firing at 10:30 PM leaves roughly four and a half hours.
+This run closes that gap while there is still time to act. Waivers process **Wednesday 3:13 AM ET** (confirmed from the league transaction log, not from settings). Firing at 10:30 PM leaves roughly four and a half hours.
 
 ## What this task does not do
 
@@ -30,7 +30,7 @@ Use the current leg (and check the previous one — Sleeper has filed a Wednesda
 
 ## Reporting
 
-This task writes no decision file and does not touch `data/ledger.md`. Per COMMON.md the run's final output is exactly three things: the deadline line (`**Do by:** Wed 3:00 AM ET`, until the process review settles the measured time), a code fence holding either `ALL FILED` or the missing `ADD / DROP` lines verbatim in the claims file's order (or `CANNOT VERIFY` followed by every claim line), and the link to this week's waiver decision page. Nothing else. When notifying, the notification leads with the action and repeats the missing `ADD / DROP` lines verbatim from the claims file so Sean can paste without opening anything:
+This task writes no decision file and does not touch `data/ledger.md`. Per COMMON.md the run's final output is exactly three things: the deadline line (`**Do by:** Wed 3:13 AM ET`, the measured time), a code fence holding either `ALL FILED` or the missing `ADD / DROP` lines verbatim in the claims file's order (or `CANNOT VERIFY` followed by every claim line), and the link to this week's waiver decision page. Nothing else. When notifying, the notification leads with the action and repeats the missing `ADD / DROP` lines verbatim from the claims file so Sean can paste without opening anything:
 
 `Waivers process in 4h and no claims are filed. ADD Hill / DROP Allen; ADD Vele / DROP Lemon.`
 

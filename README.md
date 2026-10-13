@@ -20,7 +20,7 @@ Every Tuesday at 6:00 AM the process review closes the loop. It audits the week 
 |---|---|---|
 | Tue 6:00 AM | Process review | `data/ledger.md` — grades, execution audit, lessons, and at most two guarded fixes to the process |
 | Tue 7:30 AM | Weekly column | `docs/_posts/` — what I decided, what the data said, who was right, league superlatives |
-| Tue 6:00 PM | Waiver claims | ranked `ADD / DROP` lines (waivers clear Wed 3:00 AM); a 9:30 PM run re-reports them and a 10:30 PM check alarms if none are filed |
+| Tue 6:00 PM | Waiver claims | ranked `ADD / DROP` lines (waivers clear Wed 3:13 AM); a 9:30 PM run re-reports them and a 10:30 PM check alarms if none are filed |
 | Wed 12:00 PM | Post-waiver review | what cleared, what didn't, any pivot |
 | Thu 8:00 AM | Trade scan | 0–2 proposals with paste-ready pitches |
 | Thu 5:00 PM | Thursday call | `START` / `BENCH` for any Thursday player |

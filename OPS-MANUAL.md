@@ -13,7 +13,7 @@
 ## League settings
 - Roster: 1 QB, 2 RB, 2 WR, 1 TE, 1 FLEX, 1 K, 1 DEF, 5 BN, **no IR**
 - Scoring: half-PPR, 0.1/yd rush-rec, **+0.5 per rushing/receiving first down**, 4-pt pass TD, **-2 INT**, FG +0.1/yd over 30
-- Waivers clear **Wednesday 3:00 AM ET**
+- Waivers clear **Wednesday 3:13 AM ET**
 - 14-round snake draft completed Sep 5, 2026 (slot #7)
 
 ## Scoring edges (apply to every decision)
