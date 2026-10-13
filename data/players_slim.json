@@ -20786,7 +20786,7 @@
  "11058": {
   "name": "Blake Grupe",
   "pos": "K",
-  "team": "NYJ",
+  "team": "LAR",
   "status": "Active",
   "injury_status": null,
   "injury_note": null
@@ -24018,7 +24018,7 @@
  "11199": {
   "name": "Emari Demercado",
   "pos": "RB",
-  "team": null,
+  "team": "DAL",
   "status": "Active",
   "injury_status": null,
   "injury_note": null
@@ -33580,7 +33580,7 @@
   "pos": "WR",
   "team": "KC",
   "status": "Inactive",
-  "injury_status": "IR",
+  "injury_status": "Out",
   "injury_note": "Ankle"
  },
  "5241": {
