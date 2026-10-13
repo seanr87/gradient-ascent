@@ -1388,8 +1388,8 @@
   "pos": "QB",
   "team": "SEA",
   "status": "Active",
-  "injury_status": null,
-  "injury_note": null
+  "injury_status": "Questionable",
+  "injury_note": "Forearm"
  },
  "2936": {
   "name": "Rasheed Williams",
@@ -2860,8 +2860,8 @@
   "pos": "WR",
   "team": "LAR",
   "status": "Active",
-  "injury_status": null,
-  "injury_note": null
+  "injury_status": "Out",
+  "injury_note": "Coach's Decision"
  },
  "2503": {
   "name": "A.J. Derby",
@@ -3124,8 +3124,8 @@
   "pos": "WR",
   "team": "SEA",
   "status": "Active",
-  "injury_status": null,
-  "injury_note": null
+  "injury_status": "Questionable",
+  "injury_note": "Ankle"
  },
  "9510": {
   "name": "Lew Nichols",
@@ -4300,8 +4300,8 @@
   "pos": "WR",
   "team": "LAC",
   "status": "Active",
-  "injury_status": null,
-  "injury_note": null
+  "injury_status": "Questionable",
+  "injury_note": "Foot"
  },
  "716": {
   "name": "Steve Maneri",
@@ -6850,8 +6850,8 @@
  "11633": {
   "name": "Jamari Thrash",
   "pos": "WR",
-  "team": null,
-  "status": "Inactive",
+  "team": "LV",
+  "status": "Active",
   "injury_status": null,
   "injury_note": null
  },
@@ -7850,7 +7850,7 @@
  "13816": {
   "name": "Mark Gronowski",
   "pos": "QB",
-  "team": null,
+  "team": "HOU",
   "status": "Active",
   "injury_status": null,
   "injury_note": null
@@ -10802,7 +10802,7 @@
  "11959": {
   "name": "Bryce Oliver",
   "pos": "WR",
-  "team": null,
+  "team": "HOU",
   "status": "Active",
   "injury_status": null,
   "injury_note": null
@@ -14164,8 +14164,8 @@
   "pos": "WR",
   "team": "BUF",
   "status": "Active",
-  "injury_status": "Questionable",
-  "injury_note": "Undisclosed"
+  "injury_status": "Out",
+  "injury_note": "Shoulder - AC Joint"
  },
  "12460": {
   "name": "Antwane Wells",
@@ -18876,8 +18876,8 @@
   "pos": "QB",
   "team": "LAR",
   "status": "Active",
-  "injury_status": null,
-  "injury_note": null
+  "injury_status": "Out",
+  "injury_note": "Coach's Decision"
  },
  "7087": {
   "name": "Jonathan Ward",
@@ -21324,7 +21324,7 @@
   "pos": "WR",
   "team": "PIT",
   "status": "Active",
-  "injury_status": "Questionable",
+  "injury_status": "Out",
   "injury_note": "Leg"
  },
  "7904": {
@@ -28324,8 +28324,8 @@
   "pos": "TE",
   "team": "LAR",
   "status": "Active",
-  "injury_status": null,
-  "injury_note": null
+  "injury_status": "Out",
+  "injury_note": "Coach's Decision"
  },
  "12803": {
   "name": "Luke Grimm",
@@ -28548,8 +28548,8 @@
   "pos": "WR",
   "team": "LV",
   "status": "Active",
-  "injury_status": null,
-  "injury_note": null
+  "injury_status": "Out",
+  "injury_note": "Undisclosed"
  },
  "560": {
   "name": "Demaryius Thomas",
@@ -31452,8 +31452,8 @@
   "pos": "WR",
   "team": "DET",
   "status": "Active",
-  "injury_status": "Questionable",
-  "injury_note": "Knee"
+  "injury_status": "Out",
+  "injury_note": "Knee - MCL"
  },
  "638": {
   "name": "Kyle Williams",
@@ -31994,7 +31994,7 @@
  "5374": {
   "name": "Justin Watson",
   "pos": "WR",
-  "team": null,
+  "team": "KC",
   "status": "Active",
   "injury_status": null,
   "injury_note": null
@@ -32316,8 +32316,8 @@
   "pos": "TE",
   "team": "CIN",
   "status": "Active",
-  "injury_status": null,
-  "injury_note": null
+  "injury_status": "Questionable",
+  "injury_note": "Pectoral"
  },
  "13663": {
   "name": "Wesley Grimes",
@@ -33579,8 +33579,8 @@
   "name": "Tyquan Thornton",
   "pos": "WR",
   "team": "KC",
-  "status": "Active",
-  "injury_status": "Out",
+  "status": "Inactive",
+  "injury_status": "IR",
   "injury_note": "Ankle"
  },
  "5241": {

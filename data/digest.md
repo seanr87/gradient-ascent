@@ -1,5 +1,5 @@
 # Sleeper digest — The Climb
-Pulled: 2026-10-12 12:13 UTC · NFL week 5 (regular)
+Pulled: 2026-10-13 00:01 UTC · NFL week 5 (regular)
 
 ## My roster
 - Dalton Kincaid (TE-BUF) (STARTER)
@@ -51,33 +51,34 @@ Pulled: 2026-10-12 12:13 UTC · NFL week 5 (regular)
 - What can Brown do for u? 147.01 — Sea Squirts 145.12
 
 ## Trending adds (24h, all Sleeper)
-- Darius Cooper (WR-PHI) — 391,426 adds
-- MarShawn Lloyd (RB-GB) — 347,238 adds
-- Roschon Johnson (RB-CHI) — 303,552 adds
-- Tyler Higbee (TE-LAR) — 296,955 adds
-- Roman Wilson (WR-PIT) [Out] — 224,892 adds
-- Kendrick Bourne (WR-ARI) — 208,431 adds
-- Brenton Strange (TE-JAX) — 173,466 adds
-- Keon Coleman (WR-BUF) — 158,652 adds
-- Keaton Mitchell (RB-LAC) — 131,670 adds
-- Tre' Harris (WR-LAC) [Questionable] — 123,444 adds
-- Efton Chism (WR-NE) — 123,280 adds
-- New England Patriots (DEF-NE) — 118,363 adds
-- Malik Washington (WR-MIA) — 115,224 adds
-- Cleveland Browns (DEF-CLE) — 113,526 adds
-- Khalil Shakir (WR-BUF) — 107,739 adds
-- Jayden Daniels (QB-WAS) — 95,824 adds
-- Kirk Cousins (QB-LV) — 91,560 adds
-- Dameon Pierce (RB-PHI) — 87,856 adds
-- Aaron Rodgers (QB-PIT) — 85,956 adds
-- Marvin Harrison (WR-HOU) [Out] — 83,424 adds
-- Kimani Vidal (RB-LAC) — 78,965 adds
-- C.J. Stroud (QB-HOU) — 78,379 adds
-- Washington Commanders (DEF-WAS) — 66,836 adds
-- Brian Robinson (RB-ATL) — 66,294 adds
-- Romeo Doubs (WR-NE) — 66,168 adds
+- MarShawn Lloyd (RB-GB) — 334,647 adds
+- Darius Cooper (WR-PHI) — 275,534 adds
+- Dameon Pierce (RB-PHI) — 224,696 adds
+- Brenton Strange (TE-JAX) — 209,304 adds
+- Tyler Higbee (TE-LAR) — 186,138 adds
+- New England Patriots (DEF-NE) — 135,275 adds
+- Kimani Vidal (RB-LAC) — 123,420 adds
+- Keon Coleman (WR-BUF) — 120,861 adds
+- Khalil Shakir (WR-BUF) — 85,599 adds
+- Konata Mumpfield (WR-LAR) — 82,044 adds
+- Kendrick Bourne (WR-ARI) — 70,551 adds
+- San Francisco 49ers (DEF-SF) — 65,892 adds
+- Jayden Daniels (QB-WAS) — 62,208 adds
+- Samaje Perine (RB-CIN) — 54,704 adds
+- Aaron Rodgers (QB-PIT) — 49,448 adds
+- Efton Chism (WR-NE) — 47,156 adds
+- Jacory Croskey-Merritt (RB-WAS) — 45,477 adds
+- C.J. Stroud (QB-HOU) — 45,038 adds
+- Tyler Loop (K-BAL) — 44,760 adds
+- Indianapolis Colts (DEF-IND) — 44,508 adds
+- Kyle Pitts (TE-ATL) — 39,417 adds
+- Marvin Harrison (WR-HOU) [Out] — 36,804 adds
+- Raheim Sanders (RB-CLE) [Questionable] — 35,936 adds
+- Malik Washington (WR-MIA) — 35,768 adds
+- Ty Johnson (RB-BUF) — 34,824 adds
 
 ## League transactions this week
+- free_agent (complete) Lost in the Land of Love: +[Khalil Shakir (WR-BUF)] -[Kaelon Black (RB-SF)]
 - free_agent (complete) Lost in the Land of Love: +[Kaelon Black (RB-SF)] -[Mike Washington (RB-LV)]
 - free_agent (complete) Princess Donut's Court: +[Aaron Rodgers (QB-PIT)] -[Xavier Worthy (WR-KC)]
 - free_agent (complete) TheTroubles: +[Najee Harris (RB-NYG)] -[Michael Pittman (WR-PIT) [IR]]
