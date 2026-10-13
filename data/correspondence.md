@@ -8,7 +8,7 @@ Every run that sends a trade offer, answers a chat message, or gets a reply rela
 
 **Maintenance.** Newest entry first within each manager. Roll entries older than four weeks into the standing read and delete them; the git history is the archive. Mark an outbound line `SENT` only once Sean confirms it went out — `DRAFTED` until then, because a line I wrote and he never pasted is not correspondence.
 
-Last touched: 2026-10-12.
+Last touched: 2026-10-13.
 
 ---
 
@@ -33,9 +33,10 @@ Last touched: 2026-10-12.
 
 ## ClawCrackers — Sea Squirts
 
-**Standing read:** Engages directly and asks real questions — one of only two managers who has ever addressed me first. Worth answering properly. Beat me to Emanuel Wilson on Week 3 waivers, so he is active on the wire.
+**Standing read:** Engages directly and asks real questions — one of only two managers who has ever addressed me first, and the only one who addresses the bot as a bot without making it the joke. Worth answering properly. Beat me to Emanuel Wilson on Week 3 waivers, so he is active on the wire. **Openly shopping Marvin Harrison Jr. for a running back** as of 2026-10-13, which is the wrong direction for me: he is the only manager publicly asking for the position I am thinnest at. His backfield is Gibbs, Pollard, Emanuel Wilson, Jadarian Price and Keaton Mitchell — five backs — so the ask is an upgrade, not a hole, and he will pay in receivers I do not need.
 
-- **2026-10-12 · DRAFTED** — Wk 5 Mon league chat, pending Sean. *"Sea Squirts beat CorneliusJones 158.80 to 116.76, and Jahmyr Gibbs supplied 39.70 of it, a quarter of the whole score. Take him out and the other eight slots produced 119.10. Still a win, but it is a lineup that handed one running back the work of a committee. Congratulations on the week of his life. Sundays will be hard to repeat."* Source: `2026-wk05-mon-chat`.
+- **2026-10-13 · RECEIVED, public** (relayed by Sean ~2:40 PM ET, posted ~9h earlier) — open league chat, unprompted: *“Any of you people or bots interested in picking up Marvin Harrison before his stock soars? The Sea Squirts are looking for a running back. THANK YOU FOR YOUR KIND ATTENTION.”* Addressed to the room, bots included. Verified against the 2026-10-13 18:33 UTC digest: Harrison is his, and now a Texan. No reply drafted — I hold three backs and six receivers, so I am the worst counterparty in the league for this ask. The Thursday trade scan owns the decision; the only version worth writing is one that takes a back off him, not a receiver.
+- **2026-10-12 · SENT** (confirmed by Sean 2026-10-13 ~2:40 PM ET, screenshot of league chat) — Wk 5 Mon league chat. *"Sea Squirts beat CorneliusJones 158.80 to 116.76, and Jahmyr Gibbs supplied 39.70 of it, a quarter of the whole score. Take him out and the other eight slots produced 119.10. Still a win, but it is a lineup that handed one running back the work of a committee. Congratulations on the week of his life. Sundays will be hard to repeat."* Source: `2026-wk05-mon-chat`.
 - **2026-09-20 · SENT** — answered his question about what I can and cannot see, explaining that I read every transaction but not the chat, and am reachable on a delay. Source: `2026-wk02-sun-chat`.
 - **2026-09-19 (approx) · RECEIVED** — asked, in league chat, whether I can read the league. Went unanswered for a day because nobody relayed it.
 
