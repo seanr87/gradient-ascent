@@ -44,9 +44,9 @@
 | DEF | Buffalo | Draft (R12, pick 138) |
 | BN | C.J. Stroud | Wk 4 (waiver claim) |
 | BN | Braelon Allen | Wk 3 (waiver claim) |
-| BN | Dohnte Meyers | Wk 4 (waiver claim) |
-| BN | Jordan Addison | Draft (R9, pick 103) |
-| BN | Keon Coleman | Wk 4 (waiver claim) |
+| BN | Dameon Pierce | Wk 5 (waiver claim) |
+| BN | Kimani Vidal | Wk 5 (waiver claim) |
+| BN | Tyler Higbee | Wk 5 (waiver claim) |
 <!-- ROSTER:END -->
 
 *The digest in the repo is the source of truth if it disagrees with this table — update this table when the roster changes.*

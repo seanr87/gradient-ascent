@@ -1,5 +1,5 @@
 {
- "pulled_at_utc": "2026-10-14T05:23:12+00:00",
+ "pulled_at_utc": "2026-10-14T13:24:48+00:00",
  "nfl_week": 6,
  "season_type": "regular",
  "league": {
@@ -193,14 +193,14 @@
    "11566",
    "11576",
    "11584",
-   "11637",
+   "11647",
    "12481",
    "12711",
-   "13264",
    "2216",
+   "3271",
    "6786",
+   "8129",
    "9493",
-   "9756",
    "9758",
    "BUF"
   ],
@@ -218,7 +218,7 @@
    "total_moves": 0,
    "waiver_adjusted": 6,
    "waiver_budget_used": 0,
-   "waiver_position": 6,
+   "waiver_position": 12,
    "wins": 2
   },
   "starters": [
@@ -272,7 +272,7 @@
    "ties": 0,
    "points_for": 677.27,
    "points_against": 557.6,
-   "waiver_position": 12
+   "waiver_position": 11
   },
   {
    "roster_id": 4,
@@ -282,7 +282,7 @@
    "ties": 0,
    "points_for": 668.76,
    "points_against": 625.94,
-   "waiver_position": 11
+   "waiver_position": 9
   },
   {
    "roster_id": 9,
@@ -292,7 +292,7 @@
    "ties": 0,
    "points_for": 639.42,
    "points_against": 629.73,
-   "waiver_position": 10
+   "waiver_position": 8
   },
   {
    "roster_id": 10,
@@ -302,7 +302,7 @@
    "ties": 0,
    "points_for": 699.57,
    "points_against": 597.27,
-   "waiver_position": 9
+   "waiver_position": 5
   },
   {
    "roster_id": 7,
@@ -312,7 +312,7 @@
    "ties": 0,
    "points_for": 662.39,
    "points_against": 612.24,
-   "waiver_position": 8
+   "waiver_position": 4
   },
   {
    "roster_id": 5,
@@ -332,7 +332,7 @@
    "ties": 0,
    "points_for": 648.17,
    "points_against": 631.68,
-   "waiver_position": 6
+   "waiver_position": 12
   },
   {
    "roster_id": 3,
@@ -342,7 +342,7 @@
    "ties": 0,
    "points_for": 591.01,
    "points_against": 669.97,
-   "waiver_position": 5
+   "waiver_position": 3
   },
   {
    "roster_id": 12,
@@ -352,7 +352,7 @@
    "ties": 0,
    "points_for": 576.05,
    "points_against": 617.55,
-   "waiver_position": 4
+   "waiver_position": 2
   },
   {
    "roster_id": 6,
@@ -362,7 +362,7 @@
    "ties": 0,
    "points_for": 528.16,
    "points_against": 581.79,
-   "waiver_position": 3
+   "waiver_position": 1
   },
   {
    "roster_id": 11,
@@ -372,7 +372,7 @@
    "ties": 0,
    "points_for": 588.19,
    "points_against": 666.99,
-   "waiver_position": 2
+   "waiver_position": 6
   },
   {
    "roster_id": 1,
@@ -382,26 +382,26 @@
    "ties": 0,
    "points_for": 519.1,
    "points_against": 665.29,
-   "waiver_position": 1
+   "waiver_position": 10
   }
  ],
  "matchups_this_week": [
   {
    "points": 0.0,
    "players": [
+    "10213",
     "10232",
     "12517",
     "12534",
     "13346",
-    "3257",
     "4034",
     "4046",
-    "5892",
+    "5022",
     "6083",
     "6794",
-    "8134",
     "8148",
     "9753",
+    "9757",
     "LAR"
    ],
    "roster_id": 1,
@@ -410,11 +410,11 @@
    "starters": [
     "4046",
     "4034",
-    "0",
+    "9757",
     "10232",
-    "8134",
-    "12517",
     "13346",
+    "5022",
+    "10213",
     "6083",
     "LAR"
    ],
@@ -430,39 +430,39 @@
     0.0
    ],
    "players_points": {
+    "10213": 0.0,
     "10232": 0.0,
     "12517": 0.0,
     "12534": 0.0,
     "13346": 0.0,
-    "3257": 0.0,
     "4034": 0.0,
     "4046": 0.0,
-    "5892": 0.0,
+    "5022": 0.0,
     "6083": 0.0,
     "6794": 0.0,
-    "8134": 0.0,
     "8148": 0.0,
     "9753": 0.0,
+    "9757": 0.0,
     "LAR": 0.0
    }
   },
   {
    "points": 0.0,
    "players": [
+    "11439",
     "11620",
+    "11624",
     "12512",
     "1466",
     "1945",
     "3163",
     "4199",
     "4881",
-    "5844",
     "5872",
     "7547",
     "7588",
-    "8132",
     "8167",
-    "JAX"
+    "KC"
    ],
    "roster_id": 2,
    "custom_points": null,
@@ -474,9 +474,9 @@
     "8167",
     "11620",
     "1466",
-    "8132",
+    "11624",
     "1945",
-    "JAX"
+    "KC"
    ],
    "starters_points": [
     0.0,
@@ -490,20 +490,20 @@
     0.0
    ],
    "players_points": {
+    "11439": 0.0,
     "11620": 0.0,
+    "11624": 0.0,
     "12512": 0.0,
     "1466": 0.0,
     "1945": 0.0,
     "3163": 0.0,
     "4199": 0.0,
     "4881": 0.0,
-    "5844": 0.0,
     "5872": 0.0,
     "7547": 0.0,
     "7588": 0.0,
-    "8132": 0.0,
     "8167": 0.0,
-    "JAX": 0.0
+    "KC": 0.0
    }
   },
   {
@@ -569,7 +569,6 @@
   {
    "points": 0.0,
    "players": [
-    "10235",
     "11604",
     "11792",
     "11834",
@@ -582,6 +581,7 @@
     "8137",
     "9500",
     "9509",
+    "IND",
     "MIN"
    ],
    "roster_id": 4,
@@ -590,13 +590,13 @@
    "starters": [
     "7523",
     "9509",
-    "12489",
+    "12474",
     "2133",
     "8137",
     "11604",
-    "9500",
+    "12526",
     "11792",
-    "MIN"
+    "IND"
    ],
    "starters_points": [
     0.0,
@@ -610,7 +610,6 @@
     0.0
    ],
    "players_points": {
-    "10235": 0.0,
     "11604": 0.0,
     "11792": 0.0,
     "11834": 0.0,
@@ -623,6 +622,7 @@
     "8137": 0.0,
     "9500": 0.0,
     "9509": 0.0,
+    "IND": 0.0,
     "MIN": 0.0
    }
   },
@@ -633,10 +633,10 @@
     "11625",
     "12185",
     "12545",
-    "13330",
     "6790",
     "7543",
     "7611",
+    "8126",
     "8131",
     "8154",
     "9224",
@@ -674,10 +674,10 @@
     "11625": 0.0,
     "12185": 0.0,
     "12545": 0.0,
-    "13330": 0.0,
     "6790": 0.0,
     "7543": 0.0,
     "7611": 0.0,
+    "8126": 0.0,
     "8131": 0.0,
     "8154": 0.0,
     "9224": 0.0,
@@ -813,14 +813,14 @@
     "11566",
     "11576",
     "11584",
-    "11637",
+    "11647",
     "12481",
     "12711",
-    "13264",
     "2216",
+    "3271",
     "6786",
+    "8129",
     "9493",
-    "9756",
     "9758",
     "BUF"
    ],
@@ -854,14 +854,14 @@
     "11566": 0.0,
     "11576": 0.0,
     "11584": 0.0,
-    "11637": 0.0,
+    "11647": 0.0,
     "12481": 0.0,
     "12711": 0.0,
-    "13264": 0.0,
     "2216": 0.0,
+    "3271": 0.0,
     "6786": 0.0,
+    "8129": 0.0,
     "9493": 0.0,
-    "9756": 0.0,
     "9758": 0.0,
     "BUF": 0.0
    }
@@ -872,6 +872,7 @@
     "11539",
     "12490",
     "5846",
+    "650",
     "6904",
     "7002",
     "7526",
@@ -881,8 +882,7 @@
     "8150",
     "8228",
     "9754",
-    "BAL",
-    "CLE"
+    "BAL"
    ],
    "roster_id": 9,
    "custom_points": null,
@@ -913,6 +913,7 @@
     "11539": 0.0,
     "12490": 0.0,
     "5846": 0.0,
+    "650": 0.0,
     "6904": 0.0,
     "7002": 0.0,
     "7526": 0.0,
@@ -922,8 +923,7 @@
     "8150": 0.0,
     "8228": 0.0,
     "9754": 0.0,
-    "BAL": 0.0,
-    "CLE": 0.0
+    "BAL": 0.0
    }
   },
   {
@@ -996,6 +996,7 @@
     "12501",
     "12506",
     "12507",
+    "13274",
     "13337",
     "1479",
     "3294",
@@ -1013,7 +1014,7 @@
     "8144",
     "12501",
     "12506",
-    "1479",
+    "13274",
     "11533",
     "SEA"
    ],
@@ -1036,6 +1037,7 @@
     "12501": 0.0,
     "12506": 0.0,
     "12507": 0.0,
+    "13274": 0.0,
     "13337": 0.0,
     "1479": 0.0,
     "3294": 0.0,
@@ -1289,409 +1291,460 @@
    ]
   }
  ],
- "transactions_this_week": [],
+ "transactions_this_week": [
+  {
+   "status": "complete",
+   "type": "free_agent",
+   "metadata": null,
+   "created": 1791977257433,
+   "settings": null,
+   "leg": 6,
+   "draft_picks": [],
+   "creator": "999095407768678400",
+   "transaction_id": "1416058888549122048",
+   "adds": {
+    "11439": 2
+   },
+   "drops": {
+    "8132": 2
+   },
+   "consenter_ids": [
+    2
+   ],
+   "roster_ids": [
+    2
+   ],
+   "status_updated": 1791977257433,
+   "waiver_budget": []
+  },
+  {
+   "status": "complete",
+   "type": "free_agent",
+   "metadata": null,
+   "created": 1791969401446,
+   "settings": null,
+   "leg": 6,
+   "draft_picks": [],
+   "creator": "858349587029692416",
+   "transaction_id": "1416025938151358464",
+   "adds": {
+    "10213": 1
+   },
+   "drops": {
+    "8134": 1
+   },
+   "consenter_ids": [
+    1
+   ],
+   "roster_ids": [
+    1
+   ],
+   "status_updated": 1791969401446,
+   "waiver_budget": []
+  }
+ ],
  "trending_adds_24h": [
   {
-   "count": 2881176,
+   "count": 3069104,
    "player_id": "8129"
   },
   {
-   "count": 1950435,
+   "count": 1841076,
    "player_id": "11581"
   },
   {
-   "count": 1156977,
+   "count": 1208853,
    "player_id": "9480"
   },
   {
-   "count": 1127252,
+   "count": 1204385,
    "player_id": "NE"
   },
   {
-   "count": 769405,
+   "count": 802382,
    "player_id": "13150"
   },
   {
-   "count": 649660,
+   "count": 740610,
    "player_id": "11647"
   },
   {
-   "count": 570732,
-   "player_id": "12711"
-  },
-  {
-   "count": 482817,
-   "player_id": "IND"
-  },
-  {
-   "count": 455220,
+   "count": 706085,
    "player_id": "11439"
   },
   {
-   "count": 426024,
-   "player_id": "3271"
+   "count": 644502,
+   "player_id": "12711"
   },
   {
-   "count": 408234,
-   "player_id": "4454"
+   "count": 616638,
+   "player_id": "IND"
   },
   {
-   "count": 398388,
-   "player_id": "13274"
-  },
-  {
-   "count": 390411,
-   "player_id": "SF"
-  },
-  {
-   "count": 380544,
-   "player_id": "12542"
-  },
-  {
-   "count": 359388,
+   "count": 478368,
    "player_id": "650"
   },
   {
-   "count": 283046,
-   "player_id": "9757"
+   "count": 461313,
+   "player_id": "3271"
   },
   {
-   "count": 272838,
+   "count": 442512,
+   "player_id": "4454"
+  },
+  {
+   "count": 433002,
+   "player_id": "SF"
+  },
+  {
+   "count": 417992,
+   "player_id": "12542"
+  },
+  {
+   "count": 405994,
+   "player_id": "13274"
+  },
+  {
+   "count": 362538,
    "player_id": "12491"
   },
   {
-   "count": 257832,
-   "player_id": "11624"
-  },
-  {
-   "count": 256796,
-   "player_id": "96"
-  },
-  {
-   "count": 248896,
+   "count": 335256,
    "player_id": "1166"
   },
   {
-   "count": 230705,
+   "count": 323308,
+   "player_id": "9757"
+  },
+  {
+   "count": 298782,
+   "player_id": "11624"
+  },
+  {
+   "count": 295810,
    "player_id": "6083"
   },
   {
-   "count": 216242,
-   "player_id": "12474"
+   "count": 270492,
+   "player_id": "96"
   },
   {
-   "count": 209088,
-   "player_id": "11783"
-  },
-  {
-   "count": 201788,
+   "count": 260612,
    "player_id": "13545"
   },
   {
-   "count": 191372,
-   "player_id": "2197"
+   "count": 259944,
+   "player_id": "11783"
   },
   {
-   "count": 178413,
-   "player_id": "BAL"
-  },
-  {
-   "count": 175390,
+   "count": 244175,
    "player_id": "7042"
   },
   {
-   "count": 166140,
+   "count": 241860,
+   "player_id": "2197"
+  },
+  {
+   "count": 223329,
+   "player_id": "BAL"
+  },
+  {
+   "count": 203448,
    "player_id": "1479"
   },
   {
-   "count": 164136,
+   "count": 202340,
+   "player_id": "12474"
+  },
+  {
+   "count": 192122,
    "player_id": "9758"
   },
   {
-   "count": 160353,
-   "player_id": "7611"
-  },
-  {
-   "count": 142695,
+   "count": 170928,
    "player_id": "2505"
   },
   {
-   "count": 136240,
-   "player_id": "11586"
+   "count": 165213,
+   "player_id": "7611"
   },
   {
-   "count": 134392,
-   "player_id": "11566"
-  },
-  {
-   "count": 116754,
-   "player_id": "6039"
-  },
-  {
-   "count": 115134,
-   "player_id": "12185"
-  },
-  {
-   "count": 111773,
-   "player_id": "6804"
-  },
-  {
-   "count": 111312,
-   "player_id": "4147"
-  },
-  {
-   "count": 106590,
+   "count": 150000,
    "player_id": "10213"
   },
   {
-   "count": 105030,
-   "player_id": "421"
+   "count": 147880,
+   "player_id": "11586"
   },
   {
-   "count": 100825,
-   "player_id": "2747"
+   "count": 141664,
+   "player_id": "11566"
   },
   {
-   "count": 91566,
-   "player_id": "12533"
-  },
-  {
-   "count": 91112,
-   "player_id": "5022"
-  },
-  {
-   "count": 88347,
-   "player_id": "5189"
-  },
-  {
-   "count": 83724,
-   "player_id": "4227"
-  },
-  {
-   "count": 83370,
-   "player_id": "7553"
-  },
-  {
-   "count": 80680,
-   "player_id": "6650"
-  },
-  {
-   "count": 80320,
-   "player_id": "12472"
-  },
-  {
-   "count": 78912,
+   "count": 135486,
    "player_id": "11058"
   },
   {
-   "count": 76572,
+   "count": 128976,
+   "player_id": "6039"
+  },
+  {
+   "count": 124689,
+   "player_id": "5189"
+  },
+  {
+   "count": 117352,
+   "player_id": "4227"
+  },
+  {
+   "count": 115218,
+   "player_id": "12185"
+  },
+  {
+   "count": 113040,
+   "player_id": "6804"
+  },
+  {
+   "count": 111152,
+   "player_id": "4147"
+  },
+  {
+   "count": 110785,
+   "player_id": "2747"
+  },
+  {
+   "count": 110097,
+   "player_id": "421"
+  },
+  {
+   "count": 104814,
+   "player_id": "12533"
+  },
+  {
+   "count": 103552,
+   "player_id": "6650"
+  },
+  {
+   "count": 103326,
+   "player_id": "PIT"
+  },
+  {
+   "count": 100269,
    "player_id": "13337"
   },
   {
-   "count": 75813,
-   "player_id": "PIT"
+   "count": 99230,
+   "player_id": "5022"
+  },
+  {
+   "count": 96376,
+   "player_id": "7553"
+  },
+  {
+   "count": 93810,
+   "player_id": "NO"
   }
  ],
  "trending_drops_24h": [
   {
-   "count": 1048383,
+   "count": 1100160,
    "player_id": "11630"
   },
   {
-   "count": 825867,
+   "count": 900306,
    "player_id": "13264"
   },
   {
-   "count": 665271,
+   "count": 746451,
    "player_id": "13330"
   },
   {
-   "count": 534520,
+   "count": 669808,
    "player_id": "11539"
   },
   {
-   "count": 502830,
+   "count": 528782,
    "player_id": "11577"
   },
   {
-   "count": 423702,
+   "count": 506475,
    "player_id": "11637"
   },
   {
-   "count": 422520,
+   "count": 476172,
    "player_id": "JAX"
   },
   {
-   "count": 393050,
+   "count": 462721,
    "player_id": "CLE"
   },
   {
-   "count": 350244,
+   "count": 405306,
    "player_id": "9511"
   },
   {
-   "count": 340868,
+   "count": 382620,
    "player_id": "12509"
   },
   {
-   "count": 286860,
-   "player_id": "LV"
-  },
-  {
-   "count": 284172,
-   "player_id": "4993"
-  },
-  {
-   "count": 266067,
-   "player_id": "9482"
-  },
-  {
-   "count": 252720,
-   "player_id": "13298"
-  },
-  {
-   "count": 237942,
-   "player_id": "11563"
-  },
-  {
-   "count": 237224,
-   "player_id": "10235"
-  },
-  {
-   "count": 235616,
+   "count": 357688,
    "player_id": "3321"
   },
   {
-   "count": 230744,
-   "player_id": "1166"
+   "count": 324696,
+   "player_id": "LV"
   },
   {
-   "count": 226170,
+   "count": 310396,
+   "player_id": "4993"
+  },
+  {
+   "count": 289530,
+   "player_id": "9482"
+  },
+  {
+   "count": 286064,
+   "player_id": "10235"
+  },
+  {
+   "count": 285399,
+   "player_id": "13298"
+  },
+  {
+   "count": 264018,
+   "player_id": "11563"
+  },
+  {
+   "count": 261940,
    "player_id": "WAS"
   },
   {
-   "count": 225728,
-   "player_id": "12545"
-  },
-  {
-   "count": 218136,
-   "player_id": "4035"
-  },
-  {
-   "count": 213822,
-   "player_id": "9756"
-  },
-  {
-   "count": 209808,
+   "count": 260844,
    "player_id": "12015"
   },
   {
-   "count": 198635,
-   "player_id": "MIN"
+   "count": 254928,
+   "player_id": "12545"
   },
   {
-   "count": 193824,
+   "count": 253952,
+   "player_id": "1166"
+  },
+  {
+   "count": 243856,
+   "player_id": "4035"
+  },
+  {
+   "count": 243783,
    "player_id": "3271"
   },
   {
-   "count": 184923,
+   "count": 238041,
+   "player_id": "9756"
+  },
+  {
+   "count": 232845,
+   "player_id": "MIN"
+  },
+  {
+   "count": 217701,
    "player_id": "10219"
   },
   {
-   "count": 181686,
-   "player_id": "8154"
-  },
-  {
-   "count": 178520,
-   "player_id": "8132"
-  },
-  {
-   "count": 175392,
-   "player_id": "5045"
-  },
-  {
-   "count": 174692,
-   "player_id": "9754"
-  },
-  {
-   "count": 174192,
-   "player_id": "8121"
-  },
-  {
-   "count": 168228,
-   "player_id": "5012"
-  },
-  {
-   "count": 156000,
+   "count": 212232,
    "player_id": "12472"
   },
   {
-   "count": 144096,
+   "count": 210402,
+   "player_id": "5045"
+  },
+  {
+   "count": 207576,
+   "player_id": "8154"
+  },
+  {
+   "count": 206850,
+   "player_id": "8132"
+  },
+  {
+   "count": 203987,
+   "player_id": "9754"
+  },
+  {
+   "count": 196320,
+   "player_id": "8121"
+  },
+  {
+   "count": 189882,
+   "player_id": "5012"
+  },
+  {
+   "count": 177920,
    "player_id": "11610"
   },
   {
-   "count": 143082,
-   "player_id": "12718"
-  },
-  {
-   "count": 142472,
+   "count": 170528,
    "player_id": "5849"
   },
   {
-   "count": 141428,
-   "player_id": "13311"
-  },
-  {
-   "count": 140319,
-   "player_id": "2505"
-  },
-  {
-   "count": 140056,
-   "player_id": "7567"
-  },
-  {
-   "count": 139848,
-   "player_id": "4017"
-  },
-  {
-   "count": 139152,
-   "player_id": "5892"
-  },
-  {
-   "count": 138438,
+   "count": 168075,
    "player_id": "DET"
   },
   {
-   "count": 136185,
-   "player_id": "HOU"
+   "count": 167778,
+   "player_id": "2505"
   },
   {
-   "count": 134430,
-   "player_id": "11256"
-  },
-  {
-   "count": 133744,
+   "count": 165824,
    "player_id": "11625"
   },
   {
-   "count": 127017,
-   "player_id": "8134"
+   "count": 163552,
+   "player_id": "7567"
   },
   {
-   "count": 126930,
+   "count": 163366,
+   "player_id": "13311"
+  },
+  {
+   "count": 161175,
    "player_id": "11792"
   },
   {
-   "count": 125465,
+   "count": 158760,
+   "player_id": "12718"
+  },
+  {
+   "count": 158260,
+   "player_id": "HOU"
+  },
+  {
+   "count": 156936,
+   "player_id": "4017"
+  },
+  {
+   "count": 152964,
+   "player_id": "5892"
+  },
+  {
+   "count": 152244,
+   "player_id": "8134"
+  },
+  {
+   "count": 146694,
+   "player_id": "11256"
+  },
+  {
+   "count": 144775,
    "player_id": "11631"
   },
   {
-   "count": 121765,
+   "count": 139135,
    "player_id": "7021"
   },
   {
-   "count": 117875,
-   "player_id": "8110"
+   "count": 134140,
+   "player_id": "4663"
   }
  ],
  "all_rosters": [
@@ -1736,19 +1789,19 @@
    "owner_id": "858349587029692416",
    "player_map": null,
    "players": [
+    "10213",
     "10232",
     "12517",
     "12534",
     "13346",
-    "3257",
     "4034",
     "4046",
-    "5892",
+    "5022",
     "6083",
     "6794",
-    "8134",
     "8148",
     "9753",
+    "9757",
     "LAR"
    ],
    "reserve": null,
@@ -1765,17 +1818,17 @@
     "total_moves": 0,
     "waiver_adjusted": 6,
     "waiver_budget_used": 0,
-    "waiver_position": 1,
+    "waiver_position": 10,
     "wins": 0
    },
    "starters": [
     "4046",
     "4034",
-    "0",
+    "9757",
     "10232",
-    "8134",
-    "12517",
     "13346",
+    "5022",
+    "10213",
     "6083",
     "LAR"
    ],
@@ -1798,20 +1851,20 @@
    "owner_id": "999095407768678400",
    "player_map": null,
    "players": [
+    "11439",
     "11620",
+    "11624",
     "12512",
     "1466",
     "1945",
     "3163",
     "4199",
     "4881",
-    "5844",
     "5872",
     "7547",
     "7588",
-    "8132",
     "8167",
-    "JAX"
+    "KC"
    ],
    "reserve": null,
    "roster_id": 2,
@@ -1827,7 +1880,7 @@
     "total_moves": 0,
     "waiver_adjusted": 6,
     "waiver_budget_used": 0,
-    "waiver_position": 12,
+    "waiver_position": 11,
     "wins": 4
    },
    "starters": [
@@ -1837,9 +1890,9 @@
     "8167",
     "11620",
     "1466",
-    "8132",
+    "11624",
     "1945",
-    "JAX"
+    "KC"
    ],
    "taxi": null
   },
@@ -1883,7 +1936,7 @@
     "total_moves": 0,
     "waiver_adjusted": 6,
     "waiver_budget_used": 0,
-    "waiver_position": 5,
+    "waiver_position": 3,
     "wins": 2
    },
    "starters": [
@@ -1926,7 +1979,6 @@
    "owner_id": "863186836321906688",
    "player_map": null,
    "players": [
-    "10235",
     "11604",
     "11792",
     "11834",
@@ -1939,6 +1991,7 @@
     "8137",
     "9500",
     "9509",
+    "IND",
     "MIN"
    ],
    "reserve": null,
@@ -1955,19 +2008,19 @@
     "total_moves": 0,
     "waiver_adjusted": 6,
     "waiver_budget_used": 0,
-    "waiver_position": 11,
+    "waiver_position": 9,
     "wins": 4
    },
    "starters": [
     "7523",
     "9509",
-    "12489",
+    "12474",
     "2133",
     "8137",
     "11604",
-    "9500",
+    "12526",
     "11792",
-    "MIN"
+    "IND"
    ],
    "taxi": null
   },
@@ -2013,10 +2066,10 @@
     "11625",
     "12185",
     "12545",
-    "13330",
     "6790",
     "7543",
     "7611",
+    "8126",
     "8131",
     "8154",
     "9224",
@@ -2094,7 +2147,7 @@
     "total_moves": 0,
     "waiver_adjusted": 6,
     "waiver_budget_used": 0,
-    "waiver_position": 3,
+    "waiver_position": 1,
     "wins": 2
    },
    "starters": [
@@ -2154,7 +2207,7 @@
     "total_moves": 0,
     "waiver_adjusted": 6,
     "waiver_budget_used": 0,
-    "waiver_position": 8,
+    "waiver_position": 4,
     "wins": 3
    },
    "starters": [
@@ -2191,14 +2244,14 @@
     "11566",
     "11576",
     "11584",
-    "11637",
+    "11647",
     "12481",
     "12711",
-    "13264",
     "2216",
+    "3271",
     "6786",
+    "8129",
     "9493",
-    "9756",
     "9758",
     "BUF"
    ],
@@ -2216,7 +2269,7 @@
     "total_moves": 0,
     "waiver_adjusted": 6,
     "waiver_budget_used": 0,
-    "waiver_position": 6,
+    "waiver_position": 12,
     "wins": 2
    },
    "starters": [
@@ -2250,6 +2303,7 @@
     "11539",
     "12490",
     "5846",
+    "650",
     "6904",
     "7002",
     "7526",
@@ -2259,8 +2313,7 @@
     "8150",
     "8228",
     "9754",
-    "BAL",
-    "CLE"
+    "BAL"
    ],
    "reserve": null,
    "roster_id": 9,
@@ -2276,7 +2329,7 @@
     "total_moves": 0,
     "waiver_adjusted": 6,
     "waiver_budget_used": 0,
-    "waiver_position": 10,
+    "waiver_position": 8,
     "wins": 4
    },
    "starters": [
@@ -2332,7 +2385,7 @@
     "total_moves": 0,
     "waiver_adjusted": 6,
     "waiver_budget_used": 0,
-    "waiver_position": 9,
+    "waiver_position": 5,
     "wins": 3
    },
    "starters": [
@@ -2372,6 +2425,7 @@
     "12501",
     "12506",
     "12507",
+    "13274",
     "13337",
     "1479",
     "3294",
@@ -2393,7 +2447,7 @@
     "total_moves": 0,
     "waiver_adjusted": 6,
     "waiver_budget_used": 0,
-    "waiver_position": 2,
+    "waiver_position": 6,
     "wins": 1
    },
    "starters": [
@@ -2403,7 +2457,7 @@
     "8144",
     "12501",
     "12506",
-    "1479",
+    "13274",
     "11533",
     "SEA"
    ],
@@ -2453,7 +2507,7 @@
     "total_moves": 0,
     "waiver_adjusted": 6,
     "waiver_budget_used": 0,
-    "waiver_position": 4,
+    "waiver_position": 2,
     "wins": 2
    },
    "starters": [
