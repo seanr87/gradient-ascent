@@ -2738,7 +2738,7 @@
  "3269": {
   "name": "Chris Moore",
   "pos": "WR",
-  "team": "BAL",
+  "team": null,
   "status": "Active",
   "injury_status": null,
   "injury_note": null
@@ -11338,7 +11338,7 @@
  "8143": {
   "name": "Jerome Ford",
   "pos": "RB",
-  "team": null,
+  "team": "ARI",
   "status": "Active",
   "injury_status": null,
   "injury_note": null
@@ -12620,8 +12620,8 @@
   "pos": "RB",
   "team": "TEN",
   "status": "Active",
-  "injury_status": null,
-  "injury_note": null
+  "injury_status": "Questionable",
+  "injury_note": "Foot"
  },
  "5384": {
   "name": "Jonah Trinnaman",
@@ -14346,7 +14346,7 @@
  "13042": {
   "name": "Xavier Guillory",
   "pos": "WR",
-  "team": "BAL",
+  "team": null,
   "status": "Active",
   "injury_status": null,
   "injury_note": null
@@ -15138,7 +15138,7 @@
  "6957": {
   "name": "James Proche",
   "pos": "WR",
-  "team": "CLE",
+  "team": null,
   "status": "Active",
   "injury_status": null,
   "injury_note": null
@@ -18100,8 +18100,8 @@
   "pos": "WR",
   "team": "IND",
   "status": "Active",
-  "injury_status": null,
-  "injury_note": null
+  "injury_status": "Questionable",
+  "injury_note": "Groin"
  },
  "5699": {
   "name": "Matt Fleming",
@@ -19394,7 +19394,7 @@
  "11257": {
   "name": "Shedrick Jackson",
   "pos": "WR",
-  "team": null,
+  "team": "ARI",
   "status": "Active",
   "injury_status": null,
   "injury_note": null
@@ -22498,7 +22498,7 @@
  "13834": {
   "name": "Cody Hardy",
   "pos": "TE",
-  "team": "NYJ",
+  "team": null,
   "status": "Active",
   "injury_status": null,
   "injury_note": null
@@ -25876,7 +25876,7 @@
   "pos": "WR",
   "team": "NYJ",
   "status": "Active",
-  "injury_status": "Questionable",
+  "injury_status": "Doubtful",
   "injury_note": "Finger"
  },
  "4767": {
@@ -26762,7 +26762,7 @@
  "11421": {
   "name": "Ryan Miller",
   "pos": "WR",
-  "team": "MIA",
+  "team": null,
   "status": "Active",
   "injury_status": null,
   "injury_note": null
@@ -26778,7 +26778,7 @@
  "7050": {
   "name": "Josiah Deguara",
   "pos": "TE",
-  "team": "PHI",
+  "team": null,
   "status": "Active",
   "injury_status": null,
   "injury_note": null
@@ -27298,7 +27298,7 @@
  "9492": {
   "name": "Trey Palmer",
   "pos": "WR",
-  "team": "NO",
+  "team": null,
   "status": "Active",
   "injury_status": null,
   "injury_note": null
@@ -31426,7 +31426,7 @@
  "12826": {
   "name": "Ulysses Bentley",
   "pos": "RB",
-  "team": "NO",
+  "team": null,
   "status": "Active",
   "injury_status": null,
   "injury_note": null
@@ -31538,7 +31538,7 @@
  "12015": {
   "name": "Harrison Mevis",
   "pos": "K",
-  "team": "LAR",
+  "team": null,
   "status": "Active",
   "injury_status": null,
   "injury_note": null
@@ -32210,7 +32210,7 @@
  "13861": {
   "name": "Daniel Sobkowicz",
   "pos": "WR",
-  "team": "HOU",
+  "team": null,
   "status": "Active",
   "injury_status": null,
   "injury_note": null
@@ -32732,7 +32732,7 @@
   "pos": "RB",
   "team": "NYJ",
   "status": "Active",
-  "injury_status": "Questionable",
+  "injury_status": "Doubtful",
   "injury_note": "Quadriceps"
  },
  "8175": {
