@@ -196,8 +196,8 @@
   "pos": "WR",
   "team": "DAL",
   "status": "Active",
-  "injury_status": "Questionable",
-  "injury_note": "Quadriceps"
+  "injury_status": null,
+  "injury_note": null
  },
  "5038": {
   "name": "Michael Gallup",
@@ -708,8 +708,8 @@
   "pos": "TE",
   "team": "PHI",
   "status": "Active",
-  "injury_status": null,
-  "injury_note": null
+  "injury_status": "Questionable",
+  "injury_note": "Toe"
  },
  "19": {
   "name": "Joe Flacco",
@@ -1388,8 +1388,8 @@
   "pos": "QB",
   "team": "SEA",
   "status": "Active",
-  "injury_status": "Questionable",
-  "injury_note": "Forearm"
+  "injury_status": null,
+  "injury_note": null
  },
  "2936": {
   "name": "Rasheed Williams",
@@ -2738,7 +2738,7 @@
  "3269": {
   "name": "Chris Moore",
   "pos": "WR",
-  "team": null,
+  "team": "BAL",
   "status": "Active",
   "injury_status": null,
   "injury_note": null
@@ -3124,8 +3124,8 @@
   "pos": "WR",
   "team": "SEA",
   "status": "Active",
-  "injury_status": "Questionable",
-  "injury_note": "Ankle"
+  "injury_status": null,
+  "injury_note": null
  },
  "9510": {
   "name": "Lew Nichols",
@@ -3764,7 +3764,7 @@
   "pos": "RB",
   "team": "NE",
   "status": "Active",
-  "injury_status": "Doubtful",
+  "injury_status": "Questionable",
   "injury_note": "Ankle"
  },
  "565": {
@@ -7292,8 +7292,8 @@
   "pos": "WR",
   "team": "PHI",
   "status": "Active",
-  "injury_status": null,
-  "injury_note": null
+  "injury_status": "Questionable",
+  "injury_note": "Hamstring"
  },
  "1346": {
   "name": "Marquise Goodwin",
@@ -8012,8 +8012,8 @@
   "pos": "RB",
   "team": "TB",
   "status": "Active",
-  "injury_status": null,
-  "injury_note": null
+  "injury_status": "Questionable",
+  "injury_note": "Quadriceps"
  },
  "7607": {
   "name": "Michael Carter",
@@ -9364,8 +9364,8 @@
   "pos": "TE",
   "team": "CAR",
   "status": "Active",
-  "injury_status": null,
-  "injury_note": null
+  "injury_status": "Questionable",
+  "injury_note": "Ribs"
  },
  "8656": {
   "name": "Tyshaun James",
@@ -9420,8 +9420,8 @@
   "pos": "TE",
   "team": "NYG",
   "status": "Active",
-  "injury_status": null,
-  "injury_note": null
+  "injury_status": "Questionable",
+  "injury_note": "Neck"
  },
  "11270": {
   "name": "Hassan Hall",
@@ -9660,8 +9660,8 @@
   "pos": "TE",
   "team": "JAX",
   "status": "Active",
-  "injury_status": null,
-  "injury_note": null
+  "injury_status": "Questionable",
+  "injury_note": "Back"
  },
  "736": {
   "name": "Joique Bell",
@@ -11444,8 +11444,8 @@
   "pos": "WR",
   "team": "ARI",
   "status": "Active",
-  "injury_status": null,
-  "injury_note": null
+  "injury_status": "Questionable",
+  "injury_note": "Ribs"
  },
  "5211": {
   "name": "Jake Wieneke",
@@ -12620,8 +12620,8 @@
   "pos": "RB",
   "team": "TEN",
   "status": "Active",
-  "injury_status": "Questionable",
-  "injury_note": "Foot"
+  "injury_status": null,
+  "injury_note": null
  },
  "5384": {
   "name": "Jonah Trinnaman",
@@ -15380,8 +15380,8 @@
   "pos": "QB",
   "team": "ATL",
   "status": "Active",
-  "injury_status": "Questionable",
-  "injury_note": "Ribs"
+  "injury_status": null,
+  "injury_note": null
  },
  "1454": {
   "name": "Montee Ball",
@@ -15692,8 +15692,8 @@
   "pos": "RB",
   "team": "ARI",
   "status": "Active",
-  "injury_status": null,
-  "injury_note": null
+  "injury_status": "Questionable",
+  "injury_note": "Ankle"
  },
  "13946": {
   "name": "Jamal Haynes",
@@ -16764,8 +16764,8 @@
   "pos": "TE",
   "team": "LAR",
   "status": "Active",
-  "injury_status": null,
-  "injury_note": null
+  "injury_status": "Questionable",
+  "injury_note": "Foot"
  },
  "8153": {
   "name": "Isaiah Spiller",
@@ -17828,8 +17828,8 @@
   "pos": "WR",
   "team": "NYG",
   "status": "Active",
-  "injury_status": null,
-  "injury_note": null
+  "injury_status": "Questionable",
+  "injury_note": "Neck"
  },
  "2200": {
   "name": "Timothy Flanders",
@@ -18100,8 +18100,8 @@
   "pos": "WR",
   "team": "IND",
   "status": "Active",
-  "injury_status": "Questionable",
-  "injury_note": "Groin"
+  "injury_status": null,
+  "injury_note": null
  },
  "5699": {
   "name": "Matt Fleming",
@@ -18132,8 +18132,8 @@
   "pos": "TE",
   "team": "BAL",
   "status": "Active",
-  "injury_status": null,
-  "injury_note": null
+  "injury_status": "Questionable",
+  "injury_note": "Knee"
  },
  "6164": {
   "name": "Kahale Warring",
@@ -21604,8 +21604,8 @@
   "pos": "RB",
   "team": "TEN",
   "status": "Active",
-  "injury_status": null,
-  "injury_note": null
+  "injury_status": "Questionable",
+  "injury_note": "Knee"
  },
  "11570": {
   "name": "Rasheen Ali",
@@ -22724,8 +22724,8 @@
   "pos": "WR",
   "team": "BAL",
   "status": "Active",
-  "injury_status": null,
-  "injury_note": null
+  "injury_status": "Questionable",
+  "injury_note": "Shoulder"
  },
  "8783": {
   "name": "Kendric Pryor",
@@ -23092,8 +23092,8 @@
   "pos": "WR",
   "team": "CAR",
   "status": "Active",
-  "injury_status": "Questionable",
-  "injury_note": "Quadriceps"
+  "injury_status": null,
+  "injury_note": null
  },
  "13316": {
   "name": "Eric Rivers",
@@ -26172,8 +26172,8 @@
   "pos": "WR",
   "team": "NO",
   "status": "Active",
-  "injury_status": null,
-  "injury_note": null
+  "injury_status": "Questionable",
+  "injury_note": "Illness"
  },
  "13305": {
   "name": "Mike Washington",
@@ -26364,8 +26364,8 @@
   "pos": "WR",
   "team": "IND",
   "status": "Active",
-  "injury_status": null,
-  "injury_note": null
+  "injury_status": "Questionable",
+  "injury_note": "Hamstring"
  },
  "11762": {
   "name": "Anthony Gould",
@@ -26492,8 +26492,8 @@
   "pos": "RB",
   "team": "BUF",
   "status": "Active",
-  "injury_status": null,
-  "injury_note": null
+  "injury_status": "Questionable",
+  "injury_note": "Hamstring"
  },
  "6803": {
   "name": "Brandon Aiyuk",
@@ -26844,8 +26844,8 @@
   "pos": "WR",
   "team": "CLE",
   "status": "Active",
-  "injury_status": null,
-  "injury_note": null
+  "injury_status": "Questionable",
+  "injury_note": "Foot"
  },
  "8126": {
   "name": "Wan'Dale Robinson",
@@ -27994,7 +27994,7 @@
  "8200": {
   "name": "Kevin Austin",
   "pos": "WR",
-  "team": null,
+  "team": "NO",
   "status": "Active",
   "injury_status": null,
   "injury_note": null
@@ -28764,8 +28764,8 @@
   "pos": "RB",
   "team": "NO",
   "status": "Active",
-  "injury_status": null,
-  "injury_note": null
+  "injury_status": "Questionable",
+  "injury_note": "Back"
  },
  "11989": {
   "name": "D.J. Williams",
@@ -28842,7 +28842,7 @@
  "11569": {
   "name": "Jarquez Hunter",
   "pos": "RB",
-  "team": null,
+  "team": "NO",
   "status": "Active",
   "injury_status": null,
   "injury_note": null
@@ -30116,8 +30116,8 @@
   "pos": "WR",
   "team": "IND",
   "status": "Active",
-  "injury_status": "Questionable",
-  "injury_note": "Knee"
+  "injury_status": null,
+  "injury_note": null
  },
  "1868": {
   "name": "Crockett Gillmore",
@@ -30404,8 +30404,8 @@
   "pos": "TE",
   "team": "LAC",
   "status": "Active",
-  "injury_status": null,
-  "injury_note": null
+  "injury_status": "Out",
+  "injury_note": "Undisclosed"
  },
  "13778": {
   "name": "EJ Smith",
@@ -30460,8 +30460,8 @@
   "pos": "TE",
   "team": "CAR",
   "status": "Active",
-  "injury_status": null,
-  "injury_note": null
+  "injury_status": "Questionable",
+  "injury_note": "Toe"
  },
  "2422": {
   "name": "Blake Bell",
@@ -30756,8 +30756,8 @@
   "pos": "WR",
   "team": "LAC",
   "status": "Active",
-  "injury_status": null,
-  "injury_note": null
+  "injury_status": "Questionable",
+  "injury_note": "Ribs"
  },
  "11568": {
   "name": "Blake Watson",
@@ -31420,8 +31420,8 @@
   "pos": "TE",
   "team": "LV",
   "status": "Active",
-  "injury_status": null,
-  "injury_note": null
+  "injury_status": "Questionable",
+  "injury_note": "Knee"
  },
  "12826": {
   "name": "Ulysses Bentley",
@@ -32124,8 +32124,8 @@
   "pos": "TE",
   "team": "BAL",
   "status": "Active",
-  "injury_status": null,
-  "injury_note": null
+  "injury_status": "Questionable",
+  "injury_note": "Hand"
  },
  "3497": {
   "name": "Darion Griswold",
@@ -33276,8 +33276,8 @@
   "pos": "RB",
   "team": "CAR",
   "status": "Active",
-  "injury_status": null,
-  "injury_note": null
+  "injury_status": "Questionable",
+  "injury_note": "Ankle"
  },
  "804": {
   "name": "Clyde Gates",
@@ -33732,8 +33732,8 @@
   "pos": "TE",
   "team": "LAR",
   "status": "Active",
-  "injury_status": null,
-  "injury_note": null
+  "injury_status": "Questionable",
+  "injury_note": "Shoulder"
  },
  "3957": {
   "name": "Blake Sims",
