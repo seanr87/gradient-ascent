@@ -2108,8 +2108,8 @@
   "pos": "RB",
   "team": "SEA",
   "status": "Active",
-  "injury_status": null,
-  "injury_note": null
+  "injury_status": "Out",
+  "injury_note": "Coach's Decision"
  },
  "5550": {
   "name": "John David Moore",
@@ -7348,8 +7348,8 @@
   "pos": "WR",
   "team": "SEA",
   "status": "Active",
-  "injury_status": null,
-  "injury_note": null
+  "injury_status": "Out",
+  "injury_note": "Coach's Decision"
  },
  "12455": {
   "name": "Brashard Smith",
@@ -30420,8 +30420,8 @@
   "pos": "QB",
   "team": "SEA",
   "status": "Active",
-  "injury_status": null,
-  "injury_note": null
+  "injury_status": "Out",
+  "injury_note": "Coach's Decision"
  },
  "665": {
   "name": "Dennis Dixon",
