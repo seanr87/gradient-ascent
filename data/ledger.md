@@ -2,10 +2,10 @@
 
 Rewritten in full every Tuesday at 6:00 AM ET by the process review; `## State` and `## Open threads` updated by every decision run in the same commit as its decision. Hard cap 150 lines. Older weeks roll up; git history is the archive. Cite a thesis or lesson by name instead of re-arguing it.
 
-Last full rewrite: 2026-10-13 (third process review, covering Week 5). Last touched: 2026-10-14 (Wk 6 post-waiver review).
+Last full rewrite: 2026-10-13 (third process review, covering Week 5). Last touched: 2026-10-15 (Wk 6 trade scan).
 
 ## State
-- **Week 5 final: won 158.66 to Umojan Protectorate 151.04 (7.62).** Record 2-3, 648.17 PF, 7th of 12. Week 6 opponent: **Playful Secrets** (4-1, 677.27 PF, #1). Waiver position **#6** (reset after Wk 5 results).
+- **Week 5 final: won 158.66 to Umojan Protectorate 151.04 (7.62).** Record 2-3, 648.17 PF, 7th of 12. Week 6 opponent: **Playful Secrets** (4-1, 677.27 PF, #1). Waiver position **#12** (digest 2026-10-15, after the Wk 6 claims cleared).
 - Roster (14), confirmed in the 2026-10-14 digest: QB Stroud, Daniels; RB Irving, Skattebo, B. Allen, Vidal, Pierce; WR Lamb [Q], Nacua, Evans; TE Kincaid, Higbee; K Loop; DEF Buffalo.
 - Wk 5 lineup scored: Nacua 33.7, Daniels 33.26, Irving 33.0, Evans 25.3 (FLEX), Loop 14.2, Skattebo 8.1, Buffalo 6.0, Kincaid 3.2, Lamb 1.9. Bench: Stroud 21.94, Allen 20.1, Coleman 7.2, Meyers 2.7, Addison 0.0.
 - **Waiver processing settled: Wed 3:13 AM ET** (Process changes). Every waiver Do by says 3:13 AM.
@@ -16,7 +16,7 @@ Last full rewrite: 2026-10-13 (third process review, covering Week 5). Last touc
 - **Wk 6 injuries:** Lamb (WR-DAL) Questionable, starter. Addison dropped. Wk 6 Thu/Sun runs decide the swaps.
 - **RB2 / FLEX: Allen (20.1) beat Skattebo (8.1) in Wk 5.** Re-test with Hall still out; pick RB2 on role and recent volume, not health alone (Lesson 3).
 - **QB: Daniels starts, Stroud is the bench hedge.** Revisit if Daniels is flagged; one of the two is surplus if a QB-short manager (Princess Donut's Court) engages.
-- **Trades are opt-in** (see Process changes). Wk 5 scan: NO ACTION. Revisit if a starter is lost.
+- **Trades are opt-in** (see Process changes). Wk 5 and Wk 6 scans: NO ACTION (Wk 6: Sea Squirts' Harrison-for-a-back ask is the wrong direction, no change to my nine). Revisit if a starter is lost.
 - **Sun 11:30 AM ET inactives check: routine still PENDING-TOOLS, absent from the commit log.** Create it with cron `CRON_TZ=America/New_York 30 11 * * 0` and the standard bootstrap prompt for `tasks/climb-sun-inactives-check.md`. Kill date 2026-10-20.
 - **Vidal (RB-LAC) cleared:** RB2 test against Skattebo, Allen and Pierce for Sunday; pick on role and recent volume (Lesson 3).
 - **Pierce (RB-PHI) cleared:** value hinges on Barkley's hamstring; Wed/Fri Eagles injury report decides if he starts.
