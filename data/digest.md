@@ -1,5 +1,5 @@
 # Sleeper digest — The Climb
-Pulled: 2026-10-15 21:07 UTC · NFL week 6 (regular)
+Pulled: 2026-10-15 23:03 UTC · NFL week 6 (regular)
 
 ## My roster
 - Dalton Kincaid (TE-BUF) (STARTER)
@@ -51,31 +51,31 @@ Pulled: 2026-10-15 21:07 UTC · NFL week 6 (regular)
 - Sea Squirts 158.80 — CorneliusJones 116.76
 
 ## Trending adds (24h, all Sleeper)
-- Tanner McKee (QB-PHI) — 703,640 adds
-- Dameon Pierce (RB-PHI) — 547,872 adds
-- Nick Folk (K-ATL) — 390,312 adds
-- Kirk Cousins (QB-LV) — 325,848 adds
-- Darius Cooper (WR-PHI) — 278,593 adds
-- Jaleel McLaughlin (RB-CLE) — 274,775 adds
-- Brenton Strange (TE-JAX) — 236,169 adds
-- Indianapolis Colts (DEF-IND) — 204,936 adds
-- MarShawn Lloyd (RB-GB) — 199,593 adds
-- Kimani Vidal (RB-LAC) — 183,900 adds
-- New England Patriots (DEF-NE) — 172,662 adds
-- Tyler Higbee (TE-LAR) — 171,630 adds
-- Tyler Loop (K-BAL) — 156,138 adds
-- Aaron Rodgers (QB-PIT) — 155,228 adds
-- Trey Smack (K-GB) — 147,696 adds
-- C.J. Stroud (QB-HOU) — 142,198 adds
-- Xavier Worthy (WR-KC) — 137,988 adds
-- Matt Gay (K-LV) — 129,080 adds
-- Ryan Flournoy (WR-DAL) — 119,360 adds
-- Tyler Bass (K-BUF) — 117,765 adds
-- San Francisco 49ers (DEF-SF) — 110,973 adds
-- Tre Tucker (WR-LV) — 107,100 adds
-- Corey Kiner (RB-NE) — 107,082 adds
-- Michael Penix (QB-ATL) — 101,298 adds
-- Kendrick Bourne (WR-ARI) — 98,922 adds
+- Tanner McKee (QB-PHI) — 852,984 adds
+- Dameon Pierce (RB-PHI) — 557,552 adds
+- Nick Folk (K-ATL) — 400,752 adds
+- Kirk Cousins (QB-LV) — 352,776 adds
+- Darius Cooper (WR-PHI) — 300,636 adds
+- Jaleel McLaughlin (RB-CLE) — 262,030 adds
+- Brenton Strange (TE-JAX) — 229,284 adds
+- Indianapolis Colts (DEF-IND) — 206,304 adds
+- MarShawn Lloyd (RB-GB) — 185,490 adds
+- Kimani Vidal (RB-LAC) — 179,030 adds
+- Tyler Higbee (TE-LAR) — 173,412 adds
+- Aaron Rodgers (QB-PIT) — 171,620 adds
+- New England Patriots (DEF-NE) — 162,183 adds
+- C.J. Stroud (QB-HOU) — 157,059 adds
+- Trey Smack (K-GB) — 153,236 adds
+- Xavier Worthy (WR-KC) — 143,271 adds
+- Tyler Loop (K-BAL) — 141,474 adds
+- Matt Gay (K-LV) — 130,520 adds
+- Ryan Flournoy (WR-DAL) — 126,280 adds
+- Tyler Bass (K-BUF) — 123,530 adds
+- Tre Tucker (WR-LV) — 114,186 adds
+- San Francisco 49ers (DEF-SF) — 108,600 adds
+- Michael Penix (QB-ATL) — 103,104 adds
+- Brandin Cooks (WR-SF) — 99,964 adds
+- Corey Kiner (RB-NE) — 98,988 adds
 
 ## League transactions this week
 - free_agent (complete) The Wizard’s Apprentice: +[Atlanta Falcons (DEF-ATL)] -[Seattle Seahawks (DEF-SEA)]

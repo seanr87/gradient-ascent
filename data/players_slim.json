@@ -4524,8 +4524,8 @@
   "pos": "QB",
   "team": "DEN",
   "status": "Active",
-  "injury_status": null,
-  "injury_note": null
+  "injury_status": "Out",
+  "injury_note": "Coach's Decision"
  },
  "11622": {
   "name": "Player Invalid",
@@ -9356,8 +9356,8 @@
   "pos": "WR",
   "team": "WAS",
   "status": "Active",
-  "injury_status": null,
-  "injury_note": null
+  "injury_status": "Questionable",
+  "injury_note": "Shoulder"
  },
  "7694": {
   "name": "Tommy Tremble",
@@ -9548,8 +9548,8 @@
   "pos": "RB",
   "team": "WAS",
   "status": "Active",
-  "injury_status": null,
-  "injury_note": null
+  "injury_status": "Questionable",
+  "injury_note": "Chest"
  },
  "7286": {
   "name": "Marvelle Ross",
@@ -11466,7 +11466,7 @@
  "2750": {
   "name": "DeAndre Carter",
   "pos": "WR",
-  "team": null,
+  "team": "DET",
   "status": "Active",
   "injury_status": null,
   "injury_note": null
@@ -12428,8 +12428,8 @@
   "pos": "WR",
   "team": null,
   "status": "Active",
-  "injury_status": "DNR",
-  "injury_note": "Undisclosed"
+  "injury_status": null,
+  "injury_note": null
  },
  "12370": {
   "name": "Praise Olatoke",
@@ -13388,8 +13388,8 @@
   "pos": "RB",
   "team": "WAS",
   "status": "Active",
-  "injury_status": null,
-  "injury_note": null
+  "injury_status": "Questionable",
+  "injury_note": "Groin"
  },
  "3856": {
   "name": "Braxton Deaver",
@@ -18132,8 +18132,8 @@
   "pos": "TE",
   "team": "BAL",
   "status": "Active",
-  "injury_status": "Questionable",
-  "injury_note": "Knee"
+  "injury_status": null,
+  "injury_note": null
  },
  "6164": {
   "name": "Kahale Warring",
@@ -22036,7 +22036,7 @@
   "pos": "RB",
   "team": "HOU",
   "status": "Active",
-  "injury_status": "Doubtful",
+  "injury_status": "Out",
   "injury_note": "Groin"
  },
  "2559": {
@@ -22820,8 +22820,8 @@
   "pos": "TE",
   "team": "DEN",
   "status": "Active",
-  "injury_status": null,
-  "injury_note": null
+  "injury_status": "Out",
+  "injury_note": "Coach's Decision"
  },
  "13357": {
   "name": "Lance Mason",
@@ -22924,8 +22924,8 @@
   "pos": "WR",
   "team": "WAS",
   "status": "Active",
-  "injury_status": null,
-  "injury_note": null
+  "injury_status": "Questionable",
+  "injury_note": "Hamstring"
  },
  "7096": {
   "name": "Kaleb Barker",
@@ -30756,8 +30756,8 @@
   "pos": "WR",
   "team": "LAC",
   "status": "Active",
-  "injury_status": "Questionable",
-  "injury_note": "Ribs"
+  "injury_status": null,
+  "injury_note": null
  },
  "11568": {
   "name": "Blake Watson",
