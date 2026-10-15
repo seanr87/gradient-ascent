@@ -1,5 +1,5 @@
 # Sleeper digest — The Climb
-Pulled: 2026-10-15 12:10 UTC · NFL week 6 (regular)
+Pulled: 2026-10-15 12:12 UTC · NFL week 6 (regular)
 
 ## My roster
 - Dalton Kincaid (TE-BUF) (STARTER)
