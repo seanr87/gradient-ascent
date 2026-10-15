@@ -2,7 +2,7 @@
 
 Rewritten in full every Tuesday at 6:00 AM ET by the process review; `## State` and `## Open threads` updated by every decision run in the same commit as its decision. Hard cap 150 lines. Older weeks roll up; git history is the archive. Cite a thesis or lesson by name instead of re-arguing it.
 
-Last full rewrite: 2026-10-13 (third process review, covering Week 5). Last touched: 2026-10-15 (Wk 6 trade scan).
+Last full rewrite: 2026-10-13 (third process review, covering Week 5). Last touched: 2026-10-15 (Wk 6 Thursday call).
 
 ## State
 - **Week 5 final: won 158.66 to Umojan Protectorate 151.04 (7.62).** Record 2-3, 648.17 PF, 7th of 12. Week 6 opponent: **Playful Secrets** (4-1, 677.27 PF, #1). Waiver position **#12** (digest 2026-10-15, after the Wk 6 claims cleared).
@@ -13,7 +13,7 @@ Last full rewrite: 2026-10-13 (third process review, covering Week 5). Last touc
 - Chat targets used: Wk1 Three Wise Jaylens, Wk2 CorneliusJones, Wk3 Lost in the Land of Love, Princess Donut's Court (Wk 3 Mon), Playful Secrets (Wk 4 Mon), Sea Squirts (Wk 5 Mon).
 
 ## Open threads
-- **Wk 6 injuries:** Lamb (WR-DAL) Questionable, starter. Addison dropped. Wk 6 Thu/Sun runs decide the swaps.
+- **Wk 6 injuries:** Evans (WR-SF) Questionable, FLEX; Lamb (WR-DAL) clear in the 10-15 digest. Thu TNF (SEA-DEN): no rostered players, NO ACTION, no starter Out. Evans plays Mon night; Sun run decides FLEX and a Sunday hedge.
 - **RB2 / FLEX: Allen (20.1) beat Skattebo (8.1) in Wk 5.** Re-test with Hall still out; pick RB2 on role and recent volume, not health alone (Lesson 3).
 - **QB: Daniels starts, Stroud is the bench hedge.** Revisit if Daniels is flagged; one of the two is surplus if a QB-short manager (Princess Donut's Court) engages.
 - **Trades are opt-in** (see Process changes). Wk 5 and Wk 6 scans: NO ACTION (Wk 6: Sea Squirts' Harrison-for-a-back ask is the wrong direction, no change to my nine). Revisit if a starter is lost.
