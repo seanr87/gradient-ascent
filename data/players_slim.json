@@ -9124,8 +9124,8 @@
   "pos": "RB",
   "team": "PIT",
   "status": "Active",
-  "injury_status": "Questionable",
-  "injury_note": "Toe"
+  "injury_status": null,
+  "injury_note": null
  },
  "11301": {
   "name": "Braxton Westfield",
@@ -10212,8 +10212,8 @@
   "pos": "WR",
   "team": "SF",
   "status": "Active",
-  "injury_status": null,
-  "injury_note": null
+  "injury_status": "Questionable",
+  "injury_note": "Ribs"
  },
  "7562": {
   "name": "Tutu Atwell",
@@ -12538,7 +12538,7 @@
  "12036": {
   "name": "Ian Wheeler",
   "pos": "RB",
-  "team": null,
+  "team": "PHI",
   "status": "Active",
   "injury_status": null,
   "injury_note": null
@@ -17828,8 +17828,8 @@
   "pos": "WR",
   "team": "NYG",
   "status": "Active",
-  "injury_status": "Questionable",
-  "injury_note": "Neck"
+  "injury_status": null,
+  "injury_note": null
  },
  "2200": {
   "name": "Timothy Flanders",
@@ -26364,8 +26364,8 @@
   "pos": "WR",
   "team": "IND",
   "status": "Active",
-  "injury_status": "Questionable",
-  "injury_note": "Hamstring"
+  "injury_status": null,
+  "injury_note": null
  },
  "11762": {
   "name": "Anthony Gould",
@@ -26556,8 +26556,8 @@
   "pos": "WR",
   "team": "BAL",
   "status": "Active",
-  "injury_status": null,
-  "injury_note": null
+  "injury_status": "Questionable",
+  "injury_note": "Toe"
  },
  "5407": {
   "name": "Ervin Philips",

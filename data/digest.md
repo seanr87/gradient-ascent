@@ -1,5 +1,5 @@
 # Sleeper digest — The Climb
-Pulled: 2026-10-15 17:36 UTC · NFL week 6 (regular)
+Pulled: 2026-10-15 21:07 UTC · NFL week 6 (regular)
 
 ## My roster
 - Dalton Kincaid (TE-BUF) (STARTER)
@@ -9,7 +9,7 @@ Pulled: 2026-10-15 17:36 UTC · NFL week 6 (regular)
 - Kimani Vidal (RB-LAC)
 - Cam Skattebo (RB-NYG) (STARTER)
 - Tyler Loop (K-BAL) (STARTER)
-- Mike Evans (WR-SF) (STARTER)
+- Mike Evans (WR-SF) [Questionable] (STARTER)
 - Tyler Higbee (TE-LAR)
 - CeeDee Lamb (WR-DAL) (STARTER)
 - Dameon Pierce (RB-PHI)
@@ -51,33 +51,34 @@ Pulled: 2026-10-15 17:36 UTC · NFL week 6 (regular)
 - Sea Squirts 158.80 — CorneliusJones 116.76
 
 ## Trending adds (24h, all Sleeper)
-- Dameon Pierce (RB-PHI) — 591,176 adds
-- Nick Folk (K-ATL) — 404,016 adds
-- Jaleel McLaughlin (RB-CLE) — 305,560 adds
-- Darius Cooper (WR-PHI) — 286,608 adds
-- Tanner McKee (QB-PHI) — 284,168 adds
-- Kirk Cousins (QB-LV) — 275,128 adds
-- Brenton Strange (TE-JAX) — 274,248 adds
-- MarShawn Lloyd (RB-GB) — 246,177 adds
-- Indianapolis Colts (DEF-IND) — 232,299 adds
-- New England Patriots (DEF-NE) — 215,432 adds
-- Kimani Vidal (RB-LAC) — 208,720 adds
-- Tyler Loop (K-BAL) — 201,504 adds
-- Tyler Higbee (TE-LAR) — 186,444 adds
-- Trey Smack (K-GB) — 163,104 adds
-- Matt Gay (K-LV) — 150,405 adds
-- Xavier Worthy (WR-KC) — 141,480 adds
-- Aaron Rodgers (QB-PIT) — 132,668 adds
-- Tyler Bass (K-BUF) — 130,915 adds
-- San Francisco 49ers (DEF-SF) — 130,704 adds
-- Corey Kiner (RB-NE) — 126,612 adds
-- Ryan Flournoy (WR-DAL) — 122,192 adds
-- C.J. Stroud (QB-HOU) — 120,176 adds
-- Kendrick Bourne (WR-ARI) — 115,257 adds
-- Tre Tucker (WR-LV) — 107,430 adds
-- Kendre Miller (RB-NO) — 105,578 adds
+- Tanner McKee (QB-PHI) — 703,640 adds
+- Dameon Pierce (RB-PHI) — 547,872 adds
+- Nick Folk (K-ATL) — 390,312 adds
+- Kirk Cousins (QB-LV) — 325,848 adds
+- Darius Cooper (WR-PHI) — 278,593 adds
+- Jaleel McLaughlin (RB-CLE) — 274,775 adds
+- Brenton Strange (TE-JAX) — 236,169 adds
+- Indianapolis Colts (DEF-IND) — 204,936 adds
+- MarShawn Lloyd (RB-GB) — 199,593 adds
+- Kimani Vidal (RB-LAC) — 183,900 adds
+- New England Patriots (DEF-NE) — 172,662 adds
+- Tyler Higbee (TE-LAR) — 171,630 adds
+- Tyler Loop (K-BAL) — 156,138 adds
+- Aaron Rodgers (QB-PIT) — 155,228 adds
+- Trey Smack (K-GB) — 147,696 adds
+- C.J. Stroud (QB-HOU) — 142,198 adds
+- Xavier Worthy (WR-KC) — 137,988 adds
+- Matt Gay (K-LV) — 129,080 adds
+- Ryan Flournoy (WR-DAL) — 119,360 adds
+- Tyler Bass (K-BUF) — 117,765 adds
+- San Francisco 49ers (DEF-SF) — 110,973 adds
+- Tre Tucker (WR-LV) — 107,100 adds
+- Corey Kiner (RB-NE) — 107,082 adds
+- Michael Penix (QB-ATL) — 101,298 adds
+- Kendrick Bourne (WR-ARI) — 98,922 adds
 
 ## League transactions this week
+- free_agent (complete) The Wizard’s Apprentice: +[Atlanta Falcons (DEF-ATL)] -[Seattle Seahawks (DEF-SEA)]
 - free_agent (complete) What can Brown do for u?: +[Eddy Pineiro (K-SF)] -[Harrison Mevis (K-None)]
 - free_agent (complete) What can Brown do for u?: +[Kenny Gainwell (RB-TB)] -[Chris Rodriguez (RB-JAX)]
 - free_agent (complete) What can Brown do for u?: +[Kirk Cousins (QB-LV)] -[Cincinnati Bengals (DEF-CIN)]
