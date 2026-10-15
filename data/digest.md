@@ -1,5 +1,5 @@
 # Sleeper digest — The Climb
-Pulled: 2026-10-15 12:12 UTC · NFL week 6 (regular)
+Pulled: 2026-10-15 15:34 UTC · NFL week 6 (regular)
 
 ## My roster
 - Dalton Kincaid (TE-BUF) (STARTER)
@@ -51,31 +51,31 @@ Pulled: 2026-10-15 12:12 UTC · NFL week 6 (regular)
 - Sea Squirts 158.80 — CorneliusJones 116.76
 
 ## Trending adds (24h, all Sleeper)
-- Dameon Pierce (RB-PHI) — 816,232 adds
-- Nick Folk (K-ATL) — 483,618 adds
-- Jaleel McLaughlin (RB-CLE) — 404,135 adds
-- Brenton Strange (TE-JAX) — 393,579 adds
-- MarShawn Lloyd (RB-GB) — 366,165 adds
-- New England Patriots (DEF-NE) — 365,813 adds
-- Indianapolis Colts (DEF-IND) — 356,505 adds
-- Darius Cooper (WR-PHI) — 354,942 adds
-- Tyler Loop (K-BAL) — 316,626 adds
-- Kimani Vidal (RB-LAC) — 282,565 adds
-- Kirk Cousins (QB-LV) — 278,056 adds
-- Tyler Higbee (TE-LAR) — 245,133 adds
-- Trey Smack (K-GB) — 220,000 adds
-- Matt Gay (K-LV) — 217,710 adds
-- San Francisco 49ers (DEF-SF) — 202,872 adds
-- Tyler Bass (K-BUF) — 186,825 adds
-- Xavier Worthy (WR-KC) — 168,723 adds
-- Corey Kiner (RB-NE) — 158,400 adds
-- Kendrick Bourne (WR-ARI) — 152,124 adds
-- Ryan Flournoy (WR-DAL) — 146,504 adds
-- Kendre Miller (RB-NO) — 142,426 adds
-- Aaron Rodgers (QB-PIT) — 142,044 adds
-- Efton Chism (WR-NE) — 139,620 adds
-- Tre Tucker (WR-LV) — 131,838 adds
-- Blake Grupe (K-LAR) — 130,437 adds
+- Dameon Pierce (RB-PHI) — 629,928 adds
+- Nick Folk (K-ATL) — 417,990 adds
+- Jaleel McLaughlin (RB-CLE) — 335,745 adds
+- Brenton Strange (TE-JAX) — 308,637 adds
+- Darius Cooper (WR-PHI) — 300,930 adds
+- MarShawn Lloyd (RB-GB) — 281,808 adds
+- Indianapolis Colts (DEF-IND) — 261,570 adds
+- New England Patriots (DEF-NE) — 256,564 adds
+- Tyler Loop (K-BAL) — 235,626 adds
+- Kirk Cousins (QB-LV) — 232,792 adds
+- Kimani Vidal (RB-LAC) — 226,495 adds
+- Tyler Higbee (TE-LAR) — 203,211 adds
+- Trey Smack (K-GB) — 177,708 adds
+- Matt Gay (K-LV) — 168,215 adds
+- San Francisco 49ers (DEF-SF) — 150,777 adds
+- Xavier Worthy (WR-KC) — 147,240 adds
+- Tyler Bass (K-BUF) — 145,630 adds
+- Corey Kiner (RB-NE) — 135,756 adds
+- Ryan Flournoy (WR-DAL) — 126,632 adds
+- Kendrick Bourne (WR-ARI) — 125,751 adds
+- Kendre Miller (RB-NO) — 115,536 adds
+- Aaron Rodgers (QB-PIT) — 115,352 adds
+- Tre Tucker (WR-LV) — 112,698 adds
+- Blake Grupe (K-LAR) — 108,828 adds
+- C.J. Stroud (QB-HOU) — 103,600 adds
 
 ## League transactions this week
 - free_agent (complete) What can Brown do for u?: +[Eddy Pineiro (K-SF)] -[Harrison Mevis (K-None)]
