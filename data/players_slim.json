@@ -3148,8 +3148,8 @@
   "pos": "WR",
   "team": "DEN",
   "status": "Active",
-  "injury_status": null,
-  "injury_note": null
+  "injury_status": "Questionable",
+  "injury_note": "Shoulder"
  },
  "6738": {
   "name": "Cedric Benson",
@@ -9716,8 +9716,8 @@
   "pos": "RB",
   "team": "DEN",
   "status": "Active",
-  "injury_status": null,
-  "injury_note": null
+  "injury_status": "Questionable",
+  "injury_note": "Thumb"
  },
  "1855": {
   "name": "Shaquelle Evans",
@@ -24900,8 +24900,8 @@
   "pos": "TE",
   "team": "SEA",
   "status": "Active",
-  "injury_status": null,
-  "injury_note": null
+  "injury_status": "Doubtful",
+  "injury_note": "Shoulder"
  },
  "6357": {
   "name": "Shawn Bane",
@@ -31420,8 +31420,8 @@
   "pos": "TE",
   "team": "LV",
   "status": "Active",
-  "injury_status": "Questionable",
-  "injury_note": "Knee"
+  "injury_status": null,
+  "injury_note": null
  },
  "12826": {
   "name": "Ulysses Bentley",
