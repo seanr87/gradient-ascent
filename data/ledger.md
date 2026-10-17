@@ -2,25 +2,28 @@
 
 Rewritten in full every Tuesday at 6:00 AM ET by the process review; `## State` and `## Open threads` updated by every decision run in the same commit as its decision. Hard cap 150 lines. Older weeks roll up; git history is the archive. Cite a thesis or lesson by name instead of re-arguing it.
 
-Last full rewrite: 2026-10-13 (third process review, covering Week 5). Last touched: 2026-10-15 (Wk 6 Thursday call).
+Last full rewrite: 2026-10-13 (third process review, covering Week 5). Last touched: 2026-10-17 (Wk 6 Saturday trade response).
 
 ## State
 - **Week 5 final: won 158.66 to Umojan Protectorate 151.04 (7.62).** Record 2-3, 648.17 PF, 7th of 12. Week 6 opponent: **Playful Secrets** (4-1, 677.27 PF, #1). Waiver position **#12** (digest 2026-10-15, after the Wk 6 claims cleared).
 - Roster (14), confirmed in the 2026-10-14 digest: QB Stroud, Daniels; RB Irving, Skattebo, B. Allen, Vidal, Pierce; WR Lamb [Q], Nacua, Evans; TE Kincaid, Higbee; K Loop; DEF Buffalo.
 - Wk 5 lineup scored: Nacua 33.7, Daniels 33.26, Irving 33.0, Evans 25.3 (FLEX), Loop 14.2, Skattebo 8.1, Buffalo 6.0, Kincaid 3.2, Lamb 1.9. Bench: Stroud 21.94, Allen 20.1, Coleman 7.2, Meyers 2.7, Addison 0.0.
 - **Waiver processing settled: Wed 3:13 AM ET** (Process changes). Every waiver Do by says 3:13 AM.
+- Waiver position is **#10** in the 2026-10-17 digest, not the #12 recorded Wednesday; it drifts with other teams' claims, so re-read it every run rather than trusting the ledger.
+- **2026-10-17, first inbound trade offer of the season.** WCHolland (The Wizard's Apprentice, 1-4) offered his whole five-man bench for Puka Nacua. Declined: 14 of 14 roster spots, no IR slot, so four of mine get cut to fit. Countered Kincaid for Keenan Allen.
 - Holes: none. Wk 6 claims 1-3 all cleared (Vidal, Pierce, Higbee); 4-5 cancelled. Wed review: NO ACTION, no pivot.
 - Chat targets used: Wk1 Three Wise Jaylens, Wk2 CorneliusJones, Wk3 Lost in the Land of Love, Princess Donut's Court (Wk 3 Mon), Playful Secrets (Wk 4 Mon), Sea Squirts (Wk 5 Mon).
 
 ## Open threads
 - **Wk 6 injuries:** Evans (WR-SF) Questionable, FLEX; Lamb (WR-DAL) clear in the 10-15 digest. Thu TNF (SEA-DEN): no rostered players, NO ACTION, no starter Out. Evans plays Mon night; Sun run decides FLEX and a Sunday hedge.
 - **RB2 / FLEX: Allen (20.1) beat Skattebo (8.1) in Wk 5.** Re-test with Hall still out; pick RB2 on role and recent volume, not health alone (Lesson 3).
-- **QB: Daniels starts, Stroud is the bench hedge.** Revisit if Daniels is flagged; one of the two is surplus if a QB-short manager (Princess Donut's Court) engages.
-- **Trades are opt-in** (see Process changes). Wk 5 and Wk 6 scans: NO ACTION (Wk 6: Sea Squirts' Harrison-for-a-back ask is the wrong direction, no change to my nine). Revisit if a starter is lost.
+- **QB: Daniels starts, Stroud is the bench hedge.** Revisit if Daniels is flagged; one of the two is surplus if a QB-short manager engages. WCHolland rosters exactly one QB (Prescott) and is the better target than Princess Donut's Court, who roster three; not sold the day before a Sunday.
+- **Trades are opt-in** (see Process changes). Wk 5 and Wk 6 scans: NO ACTION. Revisit if a starter is lost.
+- **Kincaid-for-Keenan-Allen counter sent to WCHolland 2026-10-17, pending.** Unwinds if he declines or does not answer by the Thu Wk 7 scan; if it lands, Kincaid is gone and Higbee is the only TE, and Sunday weighs Allen against Evans at FLEX. Notes.yml carries an Allen line that is an orphan until it clears.
 - **Sun 11:30 AM ET inactives check: routine still PENDING-TOOLS, absent from the commit log.** Create it with cron `CRON_TZ=America/New_York 30 11 * * 0` and the standard bootstrap prompt for `tasks/climb-sun-inactives-check.md`. Kill date 2026-10-20.
 - **Vidal (RB-LAC) cleared:** RB2 test against Skattebo, Allen and Pierce for Sunday; pick on role and recent volume (Lesson 3).
 - **Pierce (RB-PHI) cleared:** value hinges on Barkley's hamstring; Wed/Fri Eagles injury report decides if he starts.
-- **Higbee (TE-LAR) cleared:** TE is Higbee-or-Kincaid by matchup on Sunday.
+- **Higbee (TE-LAR) cleared:** TE is Higbee-or-Kincaid by matchup on Sunday, unless the Kincaid counter lands first and settles it.
 - **Dropping Coleman and Meyers eight days after claiming them.** Lesson 6 test from Wk 5 resolved against me; the column owes the correction.
 - **Buffalo DEF.** Streaming is a free-agent move, never a claim.
 - **Double-fire.** Sean still has to disable the seven UI routines in `SCHEDULED-TASKS.md`.

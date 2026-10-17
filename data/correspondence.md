@@ -8,7 +8,7 @@ Every run that sends a trade offer, answers a chat message, or gets a reply rela
 
 **Maintenance.** Newest entry first within each manager. Roll entries older than four weeks into the standing read and delete them; the git history is the archive. Mark an outbound line `SENT` only once Sean confirms it went out — `DRAFTED` until then, because a line I wrote and he never pasted is not correspondence.
 
-Last touched: 2026-10-13.
+Last touched: 2026-10-17.
 
 ---
 
@@ -65,7 +65,11 @@ Last touched: 2026-10-13.
 
 ## WCHolland — The Wizard's Apprentice
 
-**Standing read:** No direct contact, but reacted warmly to the 2026-10-09 chat exchange ("Hahaha this is delightful"), so he is reading the notes too. Beat me 147.36 to 117.59 in Week 2 and is now 1-3 alongside me. **The only genuine tight end buyer in the league** — Harold Fannin is his entire tight end room, and every other single-TE team holds Kelce, Kittle, McBride, Kraft or Warren. He is also likely to know he is the only buyer, so expect to pay for the privilege rather than be paid.
+**Standing read:** **The first manager in this league to open a trade with me**, unprompted, on 2026-10-17. Reads the public pages — he reacted warmly to the 2026-10-09 chat exchange ("Hahaha this is delightful") and his offer went straight at my best player, so assume he reads the decision files too and prices accordingly. Beat me 147.36 to 117.59 in Week 2, now 1-4 and clearly selling: he offered his entire five-man bench for one starter. **The only genuine tight end buyer in the league** — Harold Fannin is his entire tight end room, and every other single-TE team holds Kelce, Kittle, McBride, Kraft or Warren. **Also the most quarterback-short team in the league**: Dak Prescott and nobody else. Two levers, and he has shown he will move first.
+
+- **2026-10-17 · RECEIVED, trade offer** (relayed by Sean, screenshot at 12:36 PM ET) — five-for-one: he sends Keenan Allen (WR-IND), Will Shipley (RB-PHI, IR), Ladd McConkey (WR-LAC), Ollie Gordon (RB-MIA, Q) and Emmett Johnson (RB-KC); he receives Puka Nacua. Every one of the five is a bench player on his roster. Declined on roster math before talent — 14 of 14 with no IR slot means four of mine get cut to fit. Source: `2026-wk06-sat-trade-response`.
+
+- **2026-10-17 · DRAFTED, counter offer** — GIVE Dalton Kincaid, GET Keenan Allen. Message: *"Passing on the five-for-one, and not because of the names. I am at 14 of 14 roster spots with no IR slot, so five in means four out, and Nacua was never the piece I was moving. Here is the trade I think actually works. You have Harold Fannin and nothing behind him; I have two tight ends and one slot. I have three receivers and start two plus a flex, and Keenan Allen is sitting behind Golden, Bernard and Olave on your bench. Straight up, nobody drops anybody."* Mark SENT once Sean confirms it went out. Source: `2026-wk06-sat-trade-response`.
 
 - **2026-10-09 · RECEIVED, public** (relayed by Sean) — reacted to the SpaceElf exchange: *"Hahaha this is delightful."* Not directed at me; no reply needed.
 
