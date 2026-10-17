@@ -2188,8 +2188,8 @@
   "pos": "RB",
   "team": "WAS",
   "status": "Active",
-  "injury_status": "Questionable",
-  "injury_note": "Shoulder"
+  "injury_status": null,
+  "injury_note": null
  },
  "6496": {
   "name": "Cole Hedlund",
@@ -4067,8 +4067,8 @@
   "name": "Jalen Hurts",
   "pos": "QB",
   "team": "PHI",
-  "status": "Active",
-  "injury_status": "Out",
+  "status": "Inactive",
+  "injury_status": "IR",
   "injury_note": "Calf"
  },
  "2450": {
@@ -5611,7 +5611,7 @@
   "name": "Will Mallory",
   "pos": "TE",
   "team": "IND",
-  "status": "Inactive",
+  "status": "Active",
   "injury_status": null,
   "injury_note": null
  },
@@ -9195,8 +9195,8 @@
   "name": "Roman Wilson",
   "pos": "WR",
   "team": "PIT",
-  "status": "Active",
-  "injury_status": "Out",
+  "status": "Inactive",
+  "injury_status": "IR",
   "injury_note": "Finger"
  },
  "7083": {
@@ -9356,8 +9356,8 @@
   "pos": "WR",
   "team": "WAS",
   "status": "Active",
-  "injury_status": "Questionable",
-  "injury_note": "Shoulder"
+  "injury_status": null,
+  "injury_note": null
  },
  "7694": {
   "name": "Tommy Tremble",
@@ -9548,8 +9548,8 @@
   "pos": "RB",
   "team": "WAS",
   "status": "Active",
-  "injury_status": "Questionable",
-  "injury_note": "Chest"
+  "injury_status": null,
+  "injury_note": null
  },
  "7286": {
   "name": "Marvelle Ross",
@@ -10667,9 +10667,9 @@
   "name": "Savion Williams",
   "pos": "WR",
   "team": "GB",
-  "status": "Inactive",
-  "injury_status": "IR",
-  "injury_note": "Undisclosed"
+  "status": "Active",
+  "injury_status": "Questionable",
+  "injury_note": "Ankle"
  },
  "13190": {
   "name": "Taylor Elgersma",
@@ -12020,7 +12020,7 @@
   "pos": "WR",
   "team": "NE",
   "status": "Active",
-  "injury_status": "IR",
+  "injury_status": "Questionable",
   "injury_note": "Ankle"
  },
  "374": {
@@ -13388,7 +13388,7 @@
   "pos": "RB",
   "team": "WAS",
   "status": "Active",
-  "injury_status": "Questionable",
+  "injury_status": "Out",
   "injury_note": "Groin"
  },
  "3856": {
@@ -18404,7 +18404,7 @@
   "pos": "RB",
   "team": "CAR",
   "status": "Active",
-  "injury_status": "IR",
+  "injury_status": "Questionable",
   "injury_note": "Ankle"
  },
  "4790": {
@@ -20828,7 +20828,7 @@
   "pos": "WR",
   "team": "NYJ",
   "status": "Inactive",
-  "injury_status": "IR",
+  "injury_status": "Questionable",
   "injury_note": "Ankle"
  },
  "12818": {
@@ -22924,8 +22924,8 @@
   "pos": "WR",
   "team": "WAS",
   "status": "Active",
-  "injury_status": "Questionable",
-  "injury_note": "Hamstring"
+  "injury_status": null,
+  "injury_note": null
  },
  "7096": {
   "name": "Kaleb Barker",
@@ -23988,8 +23988,8 @@
   "pos": "TE",
   "team": "PIT",
   "status": "Active",
-  "injury_status": null,
-  "injury_note": null
+  "injury_status": "Questionable",
+  "injury_note": "Calf"
  },
  "8527": {
   "name": "Dareke Young",
@@ -26955,8 +26955,8 @@
   "name": "Ja'Kobi Lane",
   "pos": "WR",
   "team": "BAL",
-  "status": "Inactive",
-  "injury_status": "IR",
+  "status": "Active",
+  "injury_status": "Questionable",
   "injury_note": "Wrist"
  },
  "11537": {
@@ -27196,7 +27196,7 @@
   "pos": "WR",
   "team": "GB",
   "status": "Active",
-  "injury_status": "Out",
+  "injury_status": "IR",
   "injury_note": "Ankle"
  },
  "2446": {
@@ -30028,7 +30028,7 @@
   "pos": "QB",
   "team": "WAS",
   "status": "Active",
-  "injury_status": "Doubtful",
+  "injury_status": "Out",
   "injury_note": "Knee - MCL"
  },
  "8178": {
@@ -30628,7 +30628,7 @@
   "pos": "WR",
   "team": "LAC",
   "status": "Inactive",
-  "injury_status": "IR",
+  "injury_status": "Questionable",
   "injury_note": "Hamstring"
  },
  "4750": {
@@ -32716,8 +32716,8 @@
   "pos": "WR",
   "team": "PIT",
   "status": "Active",
-  "injury_status": "Questionable",
-  "injury_note": "Illness"
+  "injury_status": null,
+  "injury_note": null
  },
  "6468": {
   "name": "Matthew Eaton",
