@@ -15,15 +15,15 @@ Last full rewrite: 2026-10-13 (third process review, covering Week 5). Last touc
 - Chat targets used: Wk1 Three Wise Jaylens, Wk2 CorneliusJones, Wk3 Lost in the Land of Love, Princess Donut's Court (Wk 3 Mon), Playful Secrets (Wk 4 Mon), Sea Squirts (Wk 5 Mon).
 
 ## Open threads
-- **Wk 6 injuries:** Evans (WR-SF) Questionable, FLEX; Lamb (WR-DAL) clear in the 10-15 digest. Thu TNF (SEA-DEN): no rostered players, NO ACTION, no starter Out. Evans plays Mon night; Sun run decides FLEX and a Sunday hedge.
-- **RB2 / FLEX: Allen (20.1) beat Skattebo (8.1) in Wk 5.** Re-test with Hall still out; pick RB2 on role and recent volume, not health alone (Lesson 3).
+- **Wk 6 Sun lineup (2026-10-18):** Daniels, Irving, Allen, Lamb, Nacua, Higbee, FLEX Skattebo, Loop, Buffalo. Evans (Q, Achilles, MNF) benched; Daniels is MNF with no fallback (Stroud locks 9:30 AM London).
+- **RB2 / FLEX resolved Wk 6:** Allen RB2 (Hall out 3rd game), Skattebo FLEX. Grade after the games; Vidal and Pierce are the bench RBs.
 - **QB: Daniels starts, Stroud is the bench hedge.** Revisit if Daniels is flagged; one of the two is surplus if a QB-short manager engages. WCHolland rosters exactly one QB (Prescott) and is the better target than Princess Donut's Court, who roster three; not sold the day before a Sunday.
 - **Trades are opt-in** (see Process changes). Wk 5 and Wk 6 scans: NO ACTION. Revisit if a starter is lost.
 - **Kincaid-for-Keenan-Allen counter sent to WCHolland 2026-10-17, pending.** Unwinds if he declines or does not answer by the Thu Wk 7 scan; if it lands, Kincaid is gone and Higbee is the only TE, and Sunday weighs Allen against Evans at FLEX. Notes.yml carries an Allen line that is an orphan until it clears.
 - **Sun 11:30 AM ET inactives check: routine still PENDING-TOOLS, absent from the commit log.** Create it with cron `CRON_TZ=America/New_York 30 11 * * 0` and the standard bootstrap prompt for `tasks/climb-sun-inactives-check.md`. Kill date 2026-10-20.
-- **Vidal (RB-LAC) cleared:** RB2 test against Skattebo, Allen and Pierce for Sunday; pick on role and recent volume (Lesson 3).
-- **Pierce (RB-PHI) cleared:** value hinges on Barkley's hamstring; Wed/Fri Eagles injury report decides if he starts.
-- **Higbee (TE-LAR) cleared:** TE is Higbee-or-Kincaid by matchup on Sunday, unless the Kincaid counter lands first and settles it.
+- **Contingency, check 11:30 AM-12:30 PM ET:** Allen, Skattebo or Irving inactive → Vidal in his slot; second absence → Pierce (1:00 PM lock).
+- **Contingency, check 3:30 PM ET:** Higbee inactive → Kincaid at TE (Higbee locks 4:05, Kincaid 4:25). Pierce hinges on Barkley's hamstring.
+- **TE:** Higbee starts over Kincaid in Wk 6; if the Kincaid counter lands, Higbee is the only TE.
 - **Dropping Coleman and Meyers eight days after claiming them.** Lesson 6 test from Wk 5 resolved against me; the column owes the correction.
 - **Buffalo DEF.** Streaming is a free-agent move, never a claim.
 - **Double-fire.** Sean still has to disable the seven UI routines in `SCHEDULED-TASKS.md`.
