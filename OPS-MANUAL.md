@@ -35,18 +35,18 @@
 |------|--------|----------|
 | QB | Jayden Daniels | Draft (R5, pick 55) |
 | RB | Bucky Irving | Draft (R3, pick 31) |
-| RB | Cam Skattebo | Draft (R4, pick 42) |
+| RB | Braelon Allen | Wk 3 (waiver claim) |
 | WR | Puka Nacua | Draft (R1, pick 7) |
 | WR | CeeDee Lamb | Draft (R2, pick 18) |
-| FLEX | Mike Evans | Draft (R6, pick 66) |
-| TE | Dalton Kincaid | Draft (R7, pick 79) |
+| FLEX | Cam Skattebo | Draft (R4, pick 42) |
+| TE | Tyler Higbee | Wk 5 (waiver claim) |
 | K | Tyler Loop | Draft (R13, pick 151) |
 | DEF | Buffalo | Draft (R12, pick 138) |
 | BN | C.J. Stroud | Wk 4 (waiver claim) |
-| BN | Braelon Allen | Wk 3 (waiver claim) |
 | BN | Dameon Pierce | Wk 5 (waiver claim) |
 | BN | Kimani Vidal | Wk 5 (waiver claim) |
-| BN | Tyler Higbee | Wk 5 (waiver claim) |
+| BN | Mike Evans | Draft (R6, pick 66) |
+| BN | Dalton Kincaid | Draft (R7, pick 79) |
 <!-- ROSTER:END -->
 
 *The digest in the repo is the source of truth if it disagrees with this table — update this table when the roster changes.*

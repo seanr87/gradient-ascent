@@ -1348,8 +1348,8 @@
   "pos": "RB",
   "team": "JAX",
   "status": "Active",
-  "injury_status": null,
-  "injury_note": null
+  "injury_status": "Questionable",
+  "injury_note": "Concussion"
  },
  "1743": {
   "name": "Brittan Golden",

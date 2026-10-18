@@ -1,16 +1,16 @@
 # Sleeper digest — The Climb
-Pulled: 2026-10-18 13:11 UTC · NFL week 6 (regular)
+Pulled: 2026-10-18 15:12 UTC · NFL week 6 (regular)
 
 ## My roster
-- Dalton Kincaid (TE-BUF) (STARTER)
+- Dalton Kincaid (TE-BUF)
 - Jayden Daniels (QB-WAS) (STARTER)
-- Braelon Allen (RB-NYJ)
+- Braelon Allen (RB-NYJ) (STARTER)
 - Bucky Irving (RB-TB) (STARTER)
 - Kimani Vidal (RB-LAC)
 - Cam Skattebo (RB-NYG) (STARTER)
 - Tyler Loop (K-BAL) (STARTER)
-- Mike Evans (WR-SF) [Questionable] (STARTER)
-- Tyler Higbee (TE-LAR)
+- Mike Evans (WR-SF) [Questionable]
+- Tyler Higbee (TE-LAR) (STARTER)
 - CeeDee Lamb (WR-DAL) (STARTER)
 - Dameon Pierce (RB-PHI)
 - Puka Nacua (WR-LAR) (STARTER)
@@ -35,12 +35,12 @@ Pulled: 2026-10-18 13:11 UTC · NFL week 6 (regular)
 12. Lost in the Land of Love — 0-5, 519.10 PF, waiver #11
 
 ## This week's matchups (week 6)
-- TheTroubles 0.00 — Princess Donut's Court 0.00
+- Princess Donut's Court 5.40 — TheTroubles 5.30
 - Lost in the Land of Love 0.00 — The Wizard’s Apprentice 0.00
 - Playful Secrets 0.00 — Gradient Ascent 0.00
-- What can Brown do for u? 0.00 — The Butker Jihad 0.00
-- Umojan Protectorate 23.40 — Sea Squirts 7.70
-- CorneliusJones 25.65 — Three Wise Jaylens  0.00
+- The Butker Jihad 15.34 — What can Brown do for u? 0.00
+- Umojan Protectorate 31.30 — Sea Squirts 23.15
+- CorneliusJones 25.65 — Three Wise Jaylens  19.00
 
 ## Last week's results (week 5)
 - Princess Donut's Court 119.65 — Lost in the Land of Love 103.96
@@ -51,31 +51,31 @@ Pulled: 2026-10-18 13:11 UTC · NFL week 6 (regular)
 - Sea Squirts 158.80 — CorneliusJones 116.76
 
 ## Trending adds (24h, all Sleeper)
-- Tyler Higbee (TE-LAR) — 489,015 adds
-- Dameon Pierce (RB-PHI) — 383,104 adds
-- Roschon Johnson (RB-CHI) — 261,304 adds
-- Tyler Allgeier (RB-ARI) — 248,245 adds
-- Tanner McKee (QB-PHI) — 236,456 adds
-- Rachaad White (RB-WAS) — 184,608 adds
-- Kirk Cousins (QB-LV) — 130,536 adds
-- Xavier Worthy (WR-KC) — 114,174 adds
-- Cyrus Allen (WR-KC) — 113,664 adds
-- Kimani Vidal (RB-LAC) — 97,355 adds
-- Keenan Allen (WR-IND) — 88,652 adds
-- Jaleel McLaughlin (RB-CLE) — 85,865 adds
-- C.J. Stroud (QB-HOU) — 85,687 adds
-- Austin Ekeler (RB-WAS) — 83,836 adds
-- Nick Folk (K-ATL) — 82,722 adds
-- Josh Jacobs (RB-GB) [NA] — 79,325 adds
-- Brandin Cooks (WR-SF) — 76,332 adds
-- Brenton Strange (TE-JAX) — 71,901 adds
-- Aaron Rodgers (QB-PIT) — 71,176 adds
-- Tyler Bass (K-BUF) — 65,140 adds
-- Joe Milton (QB-PHI) — 62,548 adds
-- Darren Waller (TE-CAR) — 56,862 adds
-- Keon Coleman (WR-BUF) — 54,000 adds
-- Ryan Flournoy (WR-DAL) — 53,768 adds
-- Jacob Cowing (WR-SF) — 51,882 adds
+- Tyler Higbee (TE-LAR) — 573,903 adds
+- Dameon Pierce (RB-PHI) — 430,712 adds
+- Roschon Johnson (RB-CHI) — 309,240 adds
+- Tyler Allgeier (RB-ARI) — 265,110 adds
+- Tanner McKee (QB-PHI) — 258,440 adds
+- Rachaad White (RB-WAS) — 220,938 adds
+- Najee Harris (RB-NYG) — 187,605 adds
+- Kirk Cousins (QB-LV) — 151,736 adds
+- Xavier Worthy (WR-KC) — 131,688 adds
+- Cyrus Allen (WR-KC) — 124,794 adds
+- Kimani Vidal (RB-LAC) — 109,385 adds
+- Nick Folk (K-ATL) — 107,154 adds
+- Keenan Allen (WR-IND) — 103,840 adds
+- Austin Ekeler (RB-WAS) — 97,220 adds
+- Jaleel McLaughlin (RB-CLE) — 91,450 adds
+- C.J. Stroud (QB-HOU) — 90,853 adds
+- Brandin Cooks (WR-SF) — 87,372 adds
+- Tyler Bass (K-BUF) — 86,830 adds
+- Aaron Rodgers (QB-PIT) — 84,000 adds
+- Brenton Strange (TE-JAX) — 76,014 adds
+- Josh Jacobs (RB-GB) [NA] — 73,130 adds
+- Darren Waller (TE-CAR) — 70,920 adds
+- Ryan Flournoy (WR-DAL) — 64,296 adds
+- Keon Coleman (WR-BUF) — 63,468 adds
+- Indianapolis Colts (DEF-IND) — 62,838 adds
 
 ## League transactions this week
 - free_agent (complete) What can Brown do for u?: +[Carolina Panthers (DEF-CAR)] -[Philadelphia Eagles (DEF-PHI)]
