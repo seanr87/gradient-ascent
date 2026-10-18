@@ -1,5 +1,5 @@
 # Sleeper digest — The Climb
-Pulled: 2026-10-17 20:48 UTC · NFL week 6 (regular)
+Pulled: 2026-10-18 13:11 UTC · NFL week 6 (regular)
 
 ## My roster
 - Dalton Kincaid (TE-BUF) (STARTER)
@@ -51,33 +51,36 @@ Pulled: 2026-10-17 20:48 UTC · NFL week 6 (regular)
 - Sea Squirts 158.80 — CorneliusJones 116.76
 
 ## Trending adds (24h, all Sleeper)
-- Dameon Pierce (RB-PHI) — 434,568 adds
-- Tyler Allgeier (RB-ARI) — 351,300 adds
-- Tyler Higbee (TE-LAR) — 350,055 adds
-- Josh Jacobs (RB-GB) [NA] — 255,650 adds
-- Tanner McKee (QB-PHI) — 190,960 adds
-- Roschon Johnson (RB-CHI) — 186,888 adds
-- Kirk Cousins (QB-LV) — 120,048 adds
-- Xavier Worthy (WR-KC) — 108,909 adds
-- Jaleel McLaughlin (RB-CLE) — 102,275 adds
-- Kimani Vidal (RB-LAC) — 88,395 adds
-- Joe Milton (QB-PHI) — 83,648 adds
-- Cyrus Allen (WR-KC) — 80,574 adds
-- Darius Cooper (WR-PHI) — 76,881 adds
-- C.J. Stroud (QB-HOU) — 70,672 adds
-- Aaron Rodgers (QB-PIT) — 70,280 adds
-- Rachaad White (RB-WAS) — 69,462 adds
-- Keenan Allen (WR-IND) — 67,708 adds
-- Nick Folk (K-ATL) — 62,880 adds
-- Brandin Cooks (WR-SF) — 60,620 adds
-- Ryan Flournoy (WR-DAL) — 58,944 adds
-- Brenton Strange (TE-JAX) — 58,527 adds
-- Keon Coleman (WR-BUF) — 47,259 adds
-- Tyler Huntley (QB-BAL) — 46,162 adds
-- Keaton Mitchell (RB-LAC) — 45,846 adds
-- Kenny Gainwell (RB-TB) — 44,016 adds
+- Tyler Higbee (TE-LAR) — 489,015 adds
+- Dameon Pierce (RB-PHI) — 383,104 adds
+- Roschon Johnson (RB-CHI) — 261,304 adds
+- Tyler Allgeier (RB-ARI) — 248,245 adds
+- Tanner McKee (QB-PHI) — 236,456 adds
+- Rachaad White (RB-WAS) — 184,608 adds
+- Kirk Cousins (QB-LV) — 130,536 adds
+- Xavier Worthy (WR-KC) — 114,174 adds
+- Cyrus Allen (WR-KC) — 113,664 adds
+- Kimani Vidal (RB-LAC) — 97,355 adds
+- Keenan Allen (WR-IND) — 88,652 adds
+- Jaleel McLaughlin (RB-CLE) — 85,865 adds
+- C.J. Stroud (QB-HOU) — 85,687 adds
+- Austin Ekeler (RB-WAS) — 83,836 adds
+- Nick Folk (K-ATL) — 82,722 adds
+- Josh Jacobs (RB-GB) [NA] — 79,325 adds
+- Brandin Cooks (WR-SF) — 76,332 adds
+- Brenton Strange (TE-JAX) — 71,901 adds
+- Aaron Rodgers (QB-PIT) — 71,176 adds
+- Tyler Bass (K-BUF) — 65,140 adds
+- Joe Milton (QB-PHI) — 62,548 adds
+- Darren Waller (TE-CAR) — 56,862 adds
+- Keon Coleman (WR-BUF) — 54,000 adds
+- Ryan Flournoy (WR-DAL) — 53,768 adds
+- Jacob Cowing (WR-SF) — 51,882 adds
 
 ## League transactions this week
+- free_agent (complete) What can Brown do for u?: +[Carolina Panthers (DEF-CAR)] -[Philadelphia Eagles (DEF-PHI)]
+- free_agent (complete) Princess Donut's Court: +[Brenton Strange (TE-JAX)] -[Aaron Rodgers (QB-PIT)]
+- free_agent (complete) Sea Squirts: +[Rachaad White (RB-WAS)] -[Keaton Mitchell (RB-LAC)]
 - trade (complete) Lost in the Land of Love, The Butker Jihad: +[Tetairoa McMillan (WR-CAR), Justin Jefferson (WR-MIN)] -[Tetairoa McMillan (WR-CAR), Justin Jefferson (WR-MIN)]
 - free_agent (complete) Playful Secrets: +[Jacoby Brissett (QB-ARI)] -[Deebo Samuel (WR-SF) [Out]]
 - waiver (complete) The Butker Jihad: +[Will Reichard (K-MIN)] -[Austin Ekeler (RB-WAS)]

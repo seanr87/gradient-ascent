@@ -2796,8 +2796,8 @@
   "pos": "WR",
   "team": "JAX",
   "status": "Active",
-  "injury_status": null,
-  "injury_note": null
+  "injury_status": "Out",
+  "injury_note": "Coach's Decision"
  },
  "12866": {
   "name": "Jalin Conyers",
@@ -12004,8 +12004,8 @@
   "pos": "TE",
   "team": "HOU",
   "status": "Active",
-  "injury_status": null,
-  "injury_note": null
+  "injury_status": "Out",
+  "injury_note": "Coach's Decision"
  },
  "3978": {
   "name": "Jacob Huesman",
@@ -20827,7 +20827,7 @@
   "name": "Omar Cooper",
   "pos": "WR",
   "team": "NYJ",
-  "status": "Inactive",
+  "status": "Active",
   "injury_status": "Questionable",
   "injury_note": "Ankle"
  },
@@ -27195,7 +27195,7 @@
   "name": "Skyy Moore",
   "pos": "WR",
   "team": "GB",
-  "status": "Active",
+  "status": "Inactive",
   "injury_status": "IR",
   "injury_note": "Ankle"
  },
@@ -30627,7 +30627,7 @@
   "name": "KeAndre Lambert-Smith",
   "pos": "WR",
   "team": "LAC",
-  "status": "Inactive",
+  "status": "Active",
   "injury_status": "Questionable",
   "injury_note": "Hamstring"
  },
