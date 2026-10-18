@@ -1716,8 +1716,8 @@
   "pos": "QB",
   "team": "PHI",
   "status": "Active",
-  "injury_status": null,
-  "injury_note": null
+  "injury_status": "Out",
+  "injury_note": "Coach's Decision"
  },
  "5052": {
   "name": "Ronald Jones",
@@ -3764,8 +3764,8 @@
   "pos": "RB",
   "team": "NE",
   "status": "Active",
-  "injury_status": "Questionable",
-  "injury_note": "Ankle"
+  "injury_status": null,
+  "injury_note": null
  },
  "565": {
   "name": "Tony Moeaki",
@@ -3916,8 +3916,8 @@
   "pos": "WR",
   "team": "BAL",
   "status": "Active",
-  "injury_status": null,
-  "injury_note": null
+  "injury_status": "Out",
+  "injury_note": "Coach's Decision"
  },
  "1650": {
   "name": "Cameron Marshall",
@@ -7820,7 +7820,7 @@
   "pos": "TE",
   "team": "IND",
   "status": "Active",
-  "injury_status": "Questionable",
+  "injury_status": "Out",
   "injury_note": "Groin"
  },
  "8203": {
@@ -7988,8 +7988,8 @@
   "pos": "TE",
   "team": "NYJ",
   "status": "Active",
-  "injury_status": "Questionable",
-  "injury_note": "Concussion"
+  "injury_status": null,
+  "injury_note": null
  },
  "12755": {
   "name": "Kelly Akharaiyi",
@@ -9124,8 +9124,8 @@
   "pos": "RB",
   "team": "PIT",
   "status": "Active",
-  "injury_status": "Questionable",
-  "injury_note": "Toe"
+  "injury_status": null,
+  "injury_note": null
  },
  "11301": {
   "name": "Braxton Westfield",
@@ -10756,8 +10756,8 @@
   "pos": "RB",
   "team": "PIT",
   "status": "Active",
-  "injury_status": null,
-  "injury_note": null
+  "injury_status": "Out",
+  "injury_note": "Coach's Decision"
  },
  "5772": {
   "name": "Aaron Lacombe",
@@ -12020,8 +12020,8 @@
   "pos": "WR",
   "team": "NE",
   "status": "Active",
-  "injury_status": "Questionable",
-  "injury_note": "Ankle"
+  "injury_status": null,
+  "injury_note": null
  },
  "374": {
   "name": "Dan Orlovsky",
@@ -14004,8 +14004,8 @@
   "pos": "QB",
   "team": "IND",
   "status": "Active",
-  "injury_status": null,
-  "injury_note": null
+  "injury_status": "Out",
+  "injury_note": "Coach's Decision"
  },
  "12118": {
   "name": "Jacob Warren",
@@ -15988,8 +15988,8 @@
   "pos": "QB",
   "team": "PIT",
   "status": "Active",
-  "injury_status": null,
-  "injury_note": null
+  "injury_status": "Out",
+  "injury_note": "Coach's Decision"
  },
  "8002": {
   "name": "Shane Buechele",
@@ -16540,8 +16540,8 @@
   "pos": "WR",
   "team": "PHI",
   "status": "Active",
-  "injury_status": null,
-  "injury_note": null
+  "injury_status": "Out",
+  "injury_note": "Coach's Decision"
  },
  "11169": {
   "name": "Dresser Winn",
@@ -19236,8 +19236,8 @@
   "pos": "RB",
   "team": "CLE",
   "status": "Active",
-  "injury_status": "Questionable",
-  "injury_note": "Lower Leg"
+  "injury_status": "Out",
+  "injury_note": "Foot"
  },
  "660": {
   "name": "Peyton Hillis",
@@ -20828,8 +20828,8 @@
   "pos": "WR",
   "team": "NYJ",
   "status": "Active",
-  "injury_status": "Questionable",
-  "injury_note": "Ankle"
+  "injury_status": null,
+  "injury_note": null
  },
  "12818": {
   "name": "Elijah Young",
@@ -23988,8 +23988,8 @@
   "pos": "TE",
   "team": "PIT",
   "status": "Active",
-  "injury_status": "Questionable",
-  "injury_note": "Calf"
+  "injury_status": null,
+  "injury_note": null
  },
  "8527": {
   "name": "Dareke Young",
@@ -25572,8 +25572,8 @@
   "pos": "RB",
   "team": "TEN",
   "status": "Active",
-  "injury_status": null,
-  "injury_note": null
+  "injury_status": "Out",
+  "injury_note": "Coach's Decision"
  },
  "2752": {
   "name": "Trent Steelman",
@@ -26172,8 +26172,8 @@
   "pos": "WR",
   "team": "NO",
   "status": "Active",
-  "injury_status": "Questionable",
-  "injury_note": "Illness"
+  "injury_status": null,
+  "injury_note": null
  },
  "13305": {
   "name": "Mike Washington",
@@ -26380,8 +26380,8 @@
   "pos": "TE",
   "team": "TEN",
   "status": "Active",
-  "injury_status": null,
-  "injury_note": null
+  "injury_status": "Out",
+  "injury_note": "Coach's Decision"
  },
  "12516": {
   "name": "Kalel Mullings",
@@ -26956,8 +26956,8 @@
   "pos": "WR",
   "team": "BAL",
   "status": "Active",
-  "injury_status": "Questionable",
-  "injury_note": "Wrist"
+  "injury_status": null,
+  "injury_note": null
  },
  "11537": {
   "name": "Wayne Taulapapa",
@@ -28764,8 +28764,8 @@
   "pos": "RB",
   "team": "NO",
   "status": "Active",
-  "injury_status": "Questionable",
-  "injury_note": "Back"
+  "injury_status": null,
+  "injury_note": null
  },
  "11989": {
   "name": "D.J. Williams",
@@ -30668,8 +30668,8 @@
   "pos": "QB",
   "team": "CLE",
   "status": "Active",
-  "injury_status": null,
-  "injury_note": null
+  "injury_status": "Out",
+  "injury_note": "Coach's Decision"
  },
  "13034": {
   "name": "Tyrone Broden",
@@ -31380,8 +31380,8 @@
   "pos": "QB",
   "team": "PIT",
   "status": "Active",
-  "injury_status": null,
-  "injury_note": null
+  "injury_status": "Out",
+  "injury_note": "Coach's Decision"
  },
  "6126": {
   "name": "Irv Smith",

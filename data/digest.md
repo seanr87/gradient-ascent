@@ -1,5 +1,5 @@
 # Sleeper digest — The Climb
-Pulled: 2026-10-18 15:12 UTC · NFL week 6 (regular)
+Pulled: 2026-10-18 15:51 UTC · NFL week 6 (regular)
 
 ## My roster
 - Dalton Kincaid (TE-BUF)
@@ -35,12 +35,12 @@ Pulled: 2026-10-18 15:12 UTC · NFL week 6 (regular)
 12. Lost in the Land of Love — 0-5, 519.10 PF, waiver #11
 
 ## This week's matchups (week 6)
-- Princess Donut's Court 5.40 — TheTroubles 5.30
+- TheTroubles 12.30 — Princess Donut's Court 5.40
 - Lost in the Land of Love 0.00 — The Wizard’s Apprentice 0.00
 - Playful Secrets 0.00 — Gradient Ascent 0.00
-- The Butker Jihad 15.34 — What can Brown do for u? 0.00
-- Umojan Protectorate 31.30 — Sea Squirts 23.15
-- CorneliusJones 25.65 — Three Wise Jaylens  19.00
+- The Butker Jihad 18.24 — What can Brown do for u? 0.00
+- Umojan Protectorate 31.30 — Sea Squirts 25.15
+- CorneliusJones 25.65 — Three Wise Jaylens  20.00
 
 ## Last week's results (week 5)
 - Princess Donut's Court 119.65 — Lost in the Land of Love 103.96
@@ -51,31 +51,31 @@ Pulled: 2026-10-18 15:12 UTC · NFL week 6 (regular)
 - Sea Squirts 158.80 — CorneliusJones 116.76
 
 ## Trending adds (24h, all Sleeper)
-- Tyler Higbee (TE-LAR) — 573,903 adds
-- Dameon Pierce (RB-PHI) — 430,712 adds
-- Roschon Johnson (RB-CHI) — 309,240 adds
-- Tyler Allgeier (RB-ARI) — 265,110 adds
-- Tanner McKee (QB-PHI) — 258,440 adds
-- Rachaad White (RB-WAS) — 220,938 adds
-- Najee Harris (RB-NYG) — 187,605 adds
-- Kirk Cousins (QB-LV) — 151,736 adds
-- Xavier Worthy (WR-KC) — 131,688 adds
-- Cyrus Allen (WR-KC) — 124,794 adds
-- Kimani Vidal (RB-LAC) — 109,385 adds
-- Nick Folk (K-ATL) — 107,154 adds
-- Keenan Allen (WR-IND) — 103,840 adds
-- Austin Ekeler (RB-WAS) — 97,220 adds
-- Jaleel McLaughlin (RB-CLE) — 91,450 adds
-- C.J. Stroud (QB-HOU) — 90,853 adds
-- Brandin Cooks (WR-SF) — 87,372 adds
-- Tyler Bass (K-BUF) — 86,830 adds
-- Aaron Rodgers (QB-PIT) — 84,000 adds
-- Brenton Strange (TE-JAX) — 76,014 adds
-- Josh Jacobs (RB-GB) [NA] — 73,130 adds
-- Darren Waller (TE-CAR) — 70,920 adds
-- Ryan Flournoy (WR-DAL) — 64,296 adds
-- Keon Coleman (WR-BUF) — 63,468 adds
-- Indianapolis Colts (DEF-IND) — 62,838 adds
+- Tyler Higbee (TE-LAR) — 749,196 adds
+- Dameon Pierce (RB-PHI) — 452,648 adds
+- Roschon Johnson (RB-CHI) — 335,192 adds
+- Tyler Allgeier (RB-ARI) — 270,715 adds
+- Tanner McKee (QB-PHI) — 266,056 adds
+- Najee Harris (RB-NYG) — 255,620 adds
+- Rachaad White (RB-WAS) — 237,648 adds
+- Kirk Cousins (QB-LV) — 157,960 adds
+- Jaleel McLaughlin (RB-CLE) — 140,000 adds
+- Xavier Worthy (WR-KC) — 138,339 adds
+- Cyrus Allen (WR-KC) — 128,490 adds
+- Darren Waller (TE-CAR) — 123,561 adds
+- Nick Folk (K-ATL) — 115,476 adds
+- Kimani Vidal (RB-LAC) — 113,270 adds
+- Keenan Allen (WR-IND) — 110,584 adds
+- Austin Ekeler (RB-WAS) — 105,820 adds
+- C.J. Stroud (QB-HOU) — 94,997 adds
+- Tyler Bass (K-BUF) — 94,460 adds
+- Brandin Cooks (WR-SF) — 92,268 adds
+- Aaron Rodgers (QB-PIT) — 87,760 adds
+- Darnell Washington (TE-PIT) — 79,560 adds
+- Brenton Strange (TE-JAX) — 75,249 adds
+- Ryan Flournoy (WR-DAL) — 68,720 adds
+- Keon Coleman (WR-BUF) — 66,978 adds
+- Indianapolis Colts (DEF-IND) — 66,357 adds
 
 ## League transactions this week
 - free_agent (complete) What can Brown do for u?: +[Carolina Panthers (DEF-CAR)] -[Philadelphia Eagles (DEF-PHI)]
@@ -84,8 +84,8 @@ Pulled: 2026-10-18 15:12 UTC · NFL week 6 (regular)
 - trade (complete) Lost in the Land of Love, The Butker Jihad: +[Tetairoa McMillan (WR-CAR), Justin Jefferson (WR-MIN)] -[Tetairoa McMillan (WR-CAR), Justin Jefferson (WR-MIN)]
 - free_agent (complete) Playful Secrets: +[Jacoby Brissett (QB-ARI)] -[Deebo Samuel (WR-SF) [Out]]
 - waiver (complete) The Butker Jihad: +[Will Reichard (K-MIN)] -[Austin Ekeler (RB-WAS)]
-- free_agent (complete) The Butker Jihad: +[Austin Ekeler (RB-WAS)] -[Rico Dowdle (RB-PIT) [Questionable]]
-- free_agent (complete) Lost in the Land of Love: +[TreVeyon Henderson (RB-NE) [Questionable]] -[Kendre Miller (RB-NO)]
+- free_agent (complete) The Butker Jihad: +[Austin Ekeler (RB-WAS)] -[Rico Dowdle (RB-PIT)]
+- free_agent (complete) Lost in the Land of Love: +[TreVeyon Henderson (RB-NE)] -[Kendre Miller (RB-NO)]
 - free_agent (complete) CorneliusJones: +[Kaelon Black (RB-SF)] -[KC Concepcion (WR-CLE)]
 - free_agent (complete) Three Wise Jaylens : +[Daniel Jones (QB-IND)] -[Jalen Hurts (QB-PHI) [IR]]
 - free_agent (complete) The Wizard’s Apprentice: +[Atlanta Falcons (DEF-ATL)] -[Seattle Seahawks (DEF-SEA)]
