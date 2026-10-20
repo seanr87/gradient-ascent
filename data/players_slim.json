@@ -2450,7 +2450,7 @@
  "11311": {
   "name": "Jason Brownlee",
   "pos": "WR",
-  "team": null,
+  "team": "NYG",
   "status": "Active",
   "injury_status": null,
   "injury_note": null
@@ -4186,8 +4186,8 @@
  "7561": {
   "name": "Elijah Mitchell",
   "pos": "RB",
-  "team": null,
-  "status": "Inactive",
+  "team": "PHI",
+  "status": "Active",
   "injury_status": "Questionable",
   "injury_note": "Undisclosed"
  },
@@ -7539,9 +7539,9 @@
   "name": "Davante Adams",
   "pos": "WR",
   "team": "LAR",
-  "status": "Active",
-  "injury_status": "Out",
-  "injury_note": "Knee"
+  "status": "Inactive",
+  "injury_status": "IR",
+  "injury_note": "Hamstring"
  },
  "96": {
   "name": "Aaron Rodgers",
@@ -8730,7 +8730,7 @@
  "7605": {
   "name": "Kyle Trask",
   "pos": "QB",
-  "team": null,
+  "team": "DAL",
   "status": "Active",
   "injury_status": null,
   "injury_note": null
@@ -9698,8 +9698,8 @@
  "4233": {
   "name": "Zane Gonzalez",
   "pos": "K",
-  "team": null,
-  "status": "Inactive",
+  "team": "MIA",
+  "status": "Active",
   "injury_status": null,
   "injury_note": null
  },
@@ -14146,7 +14146,7 @@
  "5917": {
   "name": "Mecole Hardman",
   "pos": "WR",
-  "team": null,
+  "team": "IND",
   "status": "Active",
   "injury_status": null,
   "injury_note": null
@@ -26754,8 +26754,8 @@
  "13870": {
   "name": "Quentin Moore",
   "pos": "TE",
-  "team": null,
-  "status": "Inactive",
+  "team": "WAS",
+  "status": "Active",
   "injury_status": null,
   "injury_note": null
  },
@@ -27972,8 +27972,8 @@
   "pos": "WR",
   "team": "CLE",
   "status": "Active",
-  "injury_status": null,
-  "injury_note": null
+  "injury_status": "Out",
+  "injury_note": "Knee"
  },
  "5744": {
   "name": "Eldridge Massington",
@@ -29971,7 +29971,7 @@
   "name": "Tank Dell",
   "pos": "WR",
   "team": "HOU",
-  "status": "Inactive",
+  "status": "Active",
   "injury_status": "IR",
   "injury_note": "Knee - ACL + MCL"
  },
@@ -30802,7 +30802,7 @@
  "1433": {
   "name": "Brandon McManus",
   "pos": "K",
-  "team": null,
+  "team": "LAR",
   "status": "Active",
   "injury_status": null,
   "injury_note": null

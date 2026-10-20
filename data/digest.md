@@ -1,5 +1,5 @@
 # Sleeper digest — The Climb
-Pulled: 2026-10-20 18:34 UTC · NFL week 7 (regular)
+Pulled: 2026-10-20 22:09 UTC · NFL week 7 (regular)
 
 ## My roster
 - Dalton Kincaid (TE-BUF) [Questionable]
@@ -51,30 +51,30 @@ Pulled: 2026-10-20 18:34 UTC · NFL week 7 (regular)
 - CorneliusJones 126.91 — Three Wise Jaylens  106.69
 
 ## Trending adds (24h, all Sleeper)
-- Omar Cooper (WR-NYJ) — 3,243,360 adds
-- Cleveland Browns (DEF-CLE) — 1,274,896 adds
-- Konata Mumpfield (WR-LAR) — 844,875 adds
-- Kyler Murray (QB-MIN) — 662,448 adds
-- Tank Dell (WR-HOU) [IR] — 578,952 adds
-- C.J. Stroud (QB-HOU) — 537,411 adds
-- Michael Mayer (TE-LV) — 489,654 adds
-- Roschon Johnson (RB-CHI) — 373,184 adds
-- Chase McLaughlin (K-TB) — 365,480 adds
-- Terrance Ferguson (TE-LAR) [IR] — 361,952 adds
-- Tre Tucker (WR-LV) — 353,358 adds
-- Minnesota Vikings (DEF-MIN) — 325,235 adds
-- Tyrone Tracy (RB-NYG) — 322,794 adds
-- Kyle Pitts (TE-ATL) — 313,068 adds
-- Jake Bates (K-DET) — 310,120 adds
-- New York Jets (DEF-NYJ) — 257,858 adds
-- Will Reichard (K-MIN) — 256,293 adds
-- Treylon Burks (WR-WAS) — 186,368 adds
-- Ryan Flournoy (WR-DAL) — 173,880 adds
-- Tanner McKee (QB-PHI) — 173,728 adds
-- Keon Coleman (WR-BUF) — 154,287 adds
-- Pierre Strong (RB-GB) — 150,696 adds
-- J.J. McCarthy (QB-NYG) — 143,799 adds
-- Houston Texans (DEF-HOU) — 136,210 adds
-- Blake Corum (RB-LAR) — 132,672 adds
+- Omar Cooper (WR-NYJ) — 3,759,728 adds
+- Cleveland Browns (DEF-CLE) — 1,456,588 adds
+- Konata Mumpfield (WR-LAR) — 1,008,783 adds
+- Kyler Murray (QB-MIN) — 746,696 adds
+- C.J. Stroud (QB-HOU) — 590,863 adds
+- Tank Dell (WR-HOU) [IR] — 554,664 adds
+- Michael Mayer (TE-LV) — 553,167 adds
+- Terrance Ferguson (TE-LAR) [IR] — 457,416 adds
+- Roschon Johnson (RB-CHI) — 424,904 adds
+- Chase McLaughlin (K-TB) — 421,096 adds
+- Tyrone Tracy (RB-NYG) — 392,480 adds
+- Tre Tucker (WR-LV) — 391,098 adds
+- Minnesota Vikings (DEF-MIN) — 378,300 adds
+- Jake Bates (K-DET) — 377,552 adds
+- Kyle Pitts (TE-ATL) — 318,780 adds
+- New York Jets (DEF-NYJ) — 305,404 adds
+- Will Reichard (K-MIN) — 299,634 adds
+- Treylon Burks (WR-WAS) — 274,183 adds
+- Tanner McKee (QB-PHI) — 194,136 adds
+- Ryan Flournoy (WR-DAL) — 181,552 adds
+- Pierre Strong (RB-GB) — 173,142 adds
+- Houston Texans (DEF-HOU) — 158,640 adds
+- Malik Washington (WR-MIA) — 154,128 adds
+- Blake Corum (RB-LAR) — 148,848 adds
+- J.J. McCarthy (QB-NYG) — 148,545 adds
 
 ## League transactions this week
