@@ -1,5 +1,5 @@
 # Sleeper digest — The Climb
-Pulled: 2026-10-19 12:25 UTC · NFL week 6 (regular)
+Pulled: 2026-10-20 00:01 UTC · NFL week 6 (regular)
 
 ## My roster
 - Dalton Kincaid (TE-BUF) [Questionable]
@@ -9,7 +9,7 @@ Pulled: 2026-10-19 12:25 UTC · NFL week 6 (regular)
 - Kimani Vidal (RB-LAC)
 - Cam Skattebo (RB-NYG) (STARTER)
 - Tyler Loop (K-BAL) (STARTER)
-- Mike Evans (WR-SF) [Questionable]
+- Mike Evans (WR-SF)
 - Tyler Higbee (TE-LAR) (STARTER)
 - CeeDee Lamb (WR-DAL) (STARTER)
 - Dameon Pierce (RB-PHI)
@@ -51,31 +51,31 @@ Pulled: 2026-10-19 12:25 UTC · NFL week 6 (regular)
 - Sea Squirts 158.80 — CorneliusJones 116.76
 
 ## Trending adds (24h, all Sleeper)
-- Tyler Higbee (TE-LAR) — 842,022 adds
-- Najee Harris (RB-NYG) — 420,910 adds
-- Jaleel McLaughlin (RB-CLE) — 374,810 adds
-- Omar Cooper (WR-NYJ) — 346,896 adds
-- Dameon Pierce (RB-PHI) — 286,464 adds
-- Roschon Johnson (RB-CHI) — 277,120 adds
-- Keon Coleman (WR-BUF) — 218,556 adds
-- Darren Waller (TE-CAR) — 198,324 adds
-- Ryan Flournoy (WR-DAL) — 186,840 adds
-- Xavier Worthy (WR-KC) — 173,754 adds
-- Kyle Pitts (TE-ATL) — 169,358 adds
-- Khalil Shakir (WR-BUF) — 167,202 adds
-- Tyler Allgeier (RB-ARI) — 166,515 adds
-- Rachaad White (RB-WAS) — 164,499 adds
-- Tre Tucker (WR-LV) — 156,294 adds
-- Brandin Cooks (WR-SF) — 145,452 adds
-- C.J. Stroud (QB-HOU) — 143,192 adds
-- Cleveland Browns (DEF-CLE) — 132,006 adds
-- Kirk Cousins (QB-LV) — 127,264 adds
-- Tyler Bass (K-BUF) — 121,600 adds
-- Michael Mayer (TE-LV) — 116,199 adds
-- Tanner McKee (QB-PHI) — 116,168 adds
-- Austin Ekeler (RB-WAS) — 110,436 adds
-- Cyrus Allen (WR-KC) — 104,724 adds
-- 12530 (?-FA) — 102,198 adds
+- Omar Cooper (WR-NYJ) — 816,584 adds
+- Cleveland Browns (DEF-CLE) — 230,706 adds
+- C.J. Stroud (QB-HOU) — 201,537 adds
+- Kyle Pitts (TE-ATL) — 174,657 adds
+- Tank Dell (WR-HOU) [IR] — 153,208 adds
+- Michael Mayer (TE-LV) — 141,129 adds
+- Tre Tucker (WR-LV) — 140,934 adds
+- Roschon Johnson (RB-CHI) — 118,576 adds
+- Keon Coleman (WR-BUF) — 117,774 adds
+- Konata Mumpfield (WR-LAR) — 103,761 adds
+- Austin Ekeler (RB-WAS) — 94,928 adds
+- J.J. McCarthy (QB-NYG) — 89,508 adds
+- Ryan Flournoy (WR-DAL) — 80,248 adds
+- Jaleel McLaughlin (RB-CLE) — 68,910 adds
+- Tanner McKee (QB-PHI) — 68,312 adds
+- Pierre Strong (RB-GB) — 66,708 adds
+- Brandin Cooks (WR-SF) — 62,388 adds
+- 12530 (?-FA) — 62,178 adds
+- Kirk Cousins (QB-LV) — 61,968 adds
+- Kyler Murray (QB-MIN) — 60,944 adds
+- Tyrone Tracy (RB-NYG) — 58,652 adds
+- Blake Corum (RB-LAR) — 52,208 adds
+- Tyler Shough (QB-NO) — 49,928 adds
+- Tyler Higbee (TE-LAR) — 48,546 adds
+- Chase McLaughlin (K-TB) — 46,344 adds
 
 ## League transactions this week
 - free_agent (complete) What can Brown do for u?: +[Carolina Panthers (DEF-CAR)] -[Philadelphia Eagles (DEF-PHI)]
