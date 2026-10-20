@@ -1,5 +1,5 @@
 {
- "pulled_at_utc": "2026-10-20T11:36:24+00:00",
+ "pulled_at_utc": "2026-10-20T11:40:20+00:00",
  "nfl_week": 7,
  "season_type": "regular",
  "league": {
@@ -1496,83 +1496,83 @@
  ],
  "trending_drops_24h": [
   {
-   "count": 443394,
+   "count": 444753,
    "player_id": "11581"
   },
   {
-   "count": 416364,
+   "count": 419168,
    "player_id": "6904"
   },
   {
-   "count": 255303,
+   "count": 255285,
    "player_id": "3271"
   },
   {
-   "count": 247626,
+   "count": 248193,
    "player_id": "9511"
   },
   {
-   "count": 220668,
+   "count": 224376,
    "player_id": "JAX"
   },
   {
-   "count": 216020,
+   "count": 216426,
    "player_id": "13150"
   },
   {
-   "count": 212928,
+   "count": 215232,
    "player_id": "8121"
   },
   {
-   "count": 202374,
+   "count": 203292,
    "player_id": "12533"
   },
   {
-   "count": 198786,
+   "count": 201586,
    "player_id": "NE"
   },
   {
-   "count": 191898,
+   "count": 193383,
    "player_id": "11435"
   },
   {
-   "count": 165756,
+   "count": 169266,
    "player_id": "5927"
   },
   {
-   "count": 160731,
+   "count": 160839,
    "player_id": "2505"
   },
   {
-   "count": 155031,
+   "count": 157287,
    "player_id": "IND"
   },
   {
-   "count": 148888,
+   "count": 149376,
    "player_id": "3321"
   },
   {
-   "count": 140088,
+   "count": 142146,
    "player_id": "650"
   },
   {
-   "count": 127056,
+   "count": 128504,
    "player_id": "2133"
   },
   {
-   "count": 125790,
+   "count": 126520,
    "player_id": "8132"
   },
   {
-   "count": 123468,
+   "count": 125124,
    "player_id": "12711"
   },
   {
-   "count": 103716,
+   "count": 105282,
    "player_id": "9480"
   },
   {
-   "count": 103665,
+   "count": 104165,
    "player_id": "7528"
   },
   {
@@ -1580,111 +1580,111 @@
    "player_id": "5012"
   },
   {
-   "count": 93033,
+   "count": 93348,
    "player_id": "5045"
   },
   {
-   "count": 90990,
+   "count": 91530,
    "player_id": "11630"
   },
   {
-   "count": 85477,
-   "player_id": "11834"
-  },
-  {
-   "count": 84575,
+   "count": 85965,
    "player_id": "11439"
   },
   {
-   "count": 82070,
+   "count": 85785,
+   "player_id": "11834"
+  },
+  {
+   "count": 82950,
    "player_id": "11647"
   },
   {
-   "count": 81603,
+   "count": 81558,
    "player_id": "13330"
   },
   {
-   "count": 79800,
+   "count": 80880,
    "player_id": "2197"
   },
   {
-   "count": 79512,
+   "count": 80368,
    "player_id": "1166"
   },
   {
-   "count": 77382,
+   "count": 78705,
    "player_id": "11058"
   },
   {
-   "count": 74295,
+   "count": 76170,
    "player_id": "7042"
   },
   {
-   "count": 72360,
+   "count": 72438,
    "player_id": "8154"
   },
   {
-   "count": 72160,
+   "count": 72215,
    "player_id": "11631"
   },
   {
-   "count": 68696,
+   "count": 68592,
    "player_id": "7567"
   },
   {
-   "count": 67896,
+   "count": 68364,
    "player_id": "13264"
   },
   {
-   "count": 66150,
+   "count": 66243,
    "player_id": "9486"
   },
   {
-   "count": 64990,
+   "count": 65100,
    "player_id": "8110"
   },
   {
-   "count": 60752,
+   "count": 61584,
    "player_id": "8129"
   },
   {
-   "count": 60096,
-   "player_id": "13413"
-  },
-  {
-   "count": 59136,
+   "count": 60504,
    "player_id": "BAL"
   },
   {
-   "count": 58356,
+   "count": 60462,
+   "player_id": "13413"
+  },
+  {
+   "count": 59280,
    "player_id": "SF"
   },
   {
-   "count": 57908,
+   "count": 58036,
    "player_id": "12542"
   },
   {
-   "count": 55508,
+   "count": 56508,
    "player_id": "4663"
   },
   {
-   "count": 54990,
+   "count": 55074,
    "player_id": "11563"
   },
   {
-   "count": 51840,
+   "count": 51858,
    "player_id": "9756"
   },
   {
-   "count": 51208,
+   "count": 51560,
    "player_id": "11625"
   },
   {
-   "count": 48808,
+   "count": 49296,
    "player_id": "96"
   },
   {
-   "count": 47976,
+   "count": 47888,
    "player_id": "11610"
   },
   {
@@ -1692,8 +1692,8 @@
    "player_id": "11533"
   },
   {
-   "count": 45459,
-   "player_id": "13298"
+   "count": 45756,
+   "player_id": "8134"
   }
  ],
  "all_rosters": [

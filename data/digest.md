@@ -1,5 +1,5 @@
 # Sleeper digest — The Climb
-Pulled: 2026-10-20 11:36 UTC · NFL week 7 (regular)
+Pulled: 2026-10-20 11:40 UTC · NFL week 7 (regular)
 
 ## My roster
 - Dalton Kincaid (TE-BUF) [Questionable]
