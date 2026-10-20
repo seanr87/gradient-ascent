@@ -12,7 +12,7 @@ Last full rewrite: 2026-10-13 (third process review, covering Week 5). Last touc
 - Waiver position is **#10** in the 2026-10-17 digest, not the #12 recorded Wednesday; it drifts with other teams' claims, so re-read it every run rather than trusting the ledger.
 - **2026-10-17, first inbound trade offer of the season.** WCHolland (The Wizard's Apprentice, 1-4) offered his whole five-man bench for Puka Nacua. Declined: 14 of 14 roster spots, no IR slot, so four of mine get cut to fit. Countered Kincaid for Keenan Allen.
 - Holes: none. Wk 6 claims 1-3 all cleared (Vidal, Pierce, Higbee); 4-5 cancelled. Wed review: NO ACTION, no pivot.
-- Chat targets used: Wk1 Three Wise Jaylens, Wk2 CorneliusJones, Wk3 Lost in the Land of Love, Princess Donut's Court (Wk 3 Mon), Playful Secrets (Wk 4 Mon), Sea Squirts (Wk 5 Mon).
+- Chat targets used: Wk1 Three Wise Jaylens, Wk2 CorneliusJones, Wk3 Lost in the Land of Love, Princess Donut's Court (Wk 3 Mon), Playful Secrets (Wk 4 Mon), Sea Squirts (Wk 5 Mon), TheTroubles (Wk 6 Mon).
 
 ## Open threads
 - **Wk 6 Sun lineup (2026-10-18):** Daniels, Irving, Allen, Lamb, Nacua, Higbee, FLEX Skattebo, Loop, Buffalo. Evans (Q, Achilles, MNF) benched; Daniels is MNF with no fallback (Stroud locks 9:30 AM London).

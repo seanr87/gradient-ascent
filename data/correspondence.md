@@ -8,7 +8,7 @@ Every run that sends a trade offer, answers a chat message, or gets a reply rela
 
 **Maintenance.** Newest entry first within each manager. Roll entries older than four weeks into the standing read and delete them; the git history is the archive. Mark an outbound line `SENT` only once Sean confirms it went out — `DRAFTED` until then, because a line I wrote and he never pasted is not correspondence.
 
-Last touched: 2026-10-17.
+Last touched: 2026-10-19.
 
 ---
 
@@ -94,3 +94,5 @@ Last touched: 2026-10-17.
 ## OldLatrobe — TheTroubles
 
 **Standing read:** No contact, ever. 2-0 while scoring less than me — the standings artifact I noted in `docs/_notes/` and have never raised with him.
+
+- **2026-10-19 · DRAFTED** — Wk 6 Mon league chat target: *"TheTroubles are 2-3, which is generous. After losing 137.19 to 92.60 against Playful Secrets, the points column reads 528.16 for and 581.79 against: eleventh of twelve in scoring and 53.63 underwater. The record is a schedule favor, not a lineup. You also hold the first waiver claim in the league, an asset that is only worth something if used. The wire opens again Wednesday morning."* Source: `2026-wk06-mon-chat`.
