@@ -7370,7 +7370,7 @@
  "10937": {
   "name": "Jake Moody",
   "pos": "K",
-  "team": null,
+  "team": "BAL",
   "status": "Active",
   "injury_status": null,
   "injury_note": null
@@ -12020,8 +12020,8 @@
   "pos": "WR",
   "team": "NE",
   "status": "Active",
-  "injury_status": null,
-  "injury_note": null
+  "injury_status": "Questionable",
+  "injury_note": "Ankle"
  },
  "374": {
   "name": "Dan Orlovsky",
@@ -22924,8 +22924,8 @@
   "pos": "WR",
   "team": "WAS",
   "status": "Active",
-  "injury_status": null,
-  "injury_note": null
+  "injury_status": "Out",
+  "injury_note": "Knee"
  },
  "7096": {
   "name": "Kaleb Barker",
