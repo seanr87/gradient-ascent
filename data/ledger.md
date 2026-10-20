@@ -2,57 +2,42 @@
 
 Rewritten in full every Tuesday at 6:00 AM ET by the process review; `## State` and `## Open threads` updated by every decision run in the same commit as its decision. Hard cap 150 lines. Older weeks roll up; git history is the archive. Cite a thesis or lesson by name instead of re-arguing it.
 
-Last full rewrite: 2026-10-13 (third process review, covering Week 5). Last touched: 2026-10-17 (Wk 6 Saturday trade response).
+Last full rewrite: 2026-10-20 (fourth process review, covering Week 6). Last touched: 2026-10-20.
 
 ## State
-- **Week 5 final: won 158.66 to Umojan Protectorate 151.04 (7.62).** Record 2-3, 648.17 PF, 7th of 12. Week 6 opponent: **Playful Secrets** (4-1, 677.27 PF, #1). Waiver position **#12** (digest 2026-10-15, after the Wk 6 claims cleared).
-- Roster (14), confirmed in the 2026-10-14 digest: QB Stroud, Daniels; RB Irving, Skattebo, B. Allen, Vidal, Pierce; WR Lamb [Q], Nacua, Evans; TE Kincaid, Higbee; K Loop; DEF Buffalo.
-- Wk 5 lineup scored: Nacua 33.7, Daniels 33.26, Irving 33.0, Evans 25.3 (FLEX), Loop 14.2, Skattebo 8.1, Buffalo 6.0, Kincaid 3.2, Lamb 1.9. Bench: Stroud 21.94, Allen 20.1, Coleman 7.2, Meyers 2.7, Addison 0.0.
-- **Waiver processing settled: Wed 3:13 AM ET** (Process changes). Every waiver Do by says 3:13 AM.
-- Waiver position is **#10** in the 2026-10-17 digest, not the #12 recorded Wednesday; it drifts with other teams' claims, so re-read it every run rather than trusting the ledger.
-- **2026-10-17, first inbound trade offer of the season.** WCHolland (The Wizard's Apprentice, 1-4) offered his whole five-man bench for Puka Nacua. Declined: 14 of 14 roster spots, no IR slot, so four of mine get cut to fit. Countered Kincaid for Keenan Allen.
-- Holes: none. Wk 6 claims 1-3 all cleared (Vidal, Pierce, Higbee); 4-5 cancelled. Wed review: NO ACTION, no pivot.
+- **Week 6 final: lost 83.65 to Playful Secrets 100.97 (-17.32).** Record 2-4, 731.82 PF, 8th of 12. Week 7 opponent: **TheTroubles** (2-4, 624.06 PF, 10th). Waiver position **#5** (digest 2026-10-20); it drifts, so re-read it every run.
+- Roster (14), 2026-10-20 digest: QB Daniels, Stroud; RB Irving, Skattebo, B. Allen, Vidal, Pierce; WR Lamb, Nacua, Evans [Out]; TE Kincaid [Q], Higbee; K Loop; DEF Buffalo. No IR slot.
+- Wk 6 lineup scored: Daniels 21.0, Allen 15.4, Lamb 13.5, Nacua 12.0, Buffalo 8.25, Irving 6.9, Loop 4.4, Higbee 2.2, Skattebo 0.0. Bench: Stroud 22.98, Pierce 15.0, Evans 12.4 (MNF), Kincaid 7.8, Vidal 6.5. Pierce at FLEX and Kincaid at TE alone is +20.6, a 3.3-point win.
+- **Waiver processing: measured 3:13-3:14 AM ET, not settled.** Sep 16 3:14:05, Sep 23 3:13:21, Sep 30 3:13:34, Oct 7 3:13:32, Oct 14 3:14:06. The 3:13 change was reverted 2026-10-20 (kill met), so every waiver Do by says **3:00 AM ET** again; claims filed by 7-8 PM Tuesday never come near either.
+- Holes: none. Wk 6 claims: Vidal, Pierce, Higbee cleared; Cooper and Goedert failed behind them, as designed.
 - Chat targets used: Wk1 Three Wise Jaylens, Wk2 CorneliusJones, Wk3 Lost in the Land of Love, Princess Donut's Court (Wk 3 Mon), Playful Secrets (Wk 4 Mon), Sea Squirts (Wk 5 Mon), TheTroubles (Wk 6 Mon).
 
 ## Open threads
-- **Wk 6 Sun lineup (2026-10-18):** Daniels, Irving, Allen, Lamb, Nacua, Higbee, FLEX Skattebo, Loop, Buffalo. Evans (Q, Achilles, MNF) benched; Daniels is MNF with no fallback (Stroud locks 9:30 AM London).
-- **RB2 / FLEX resolved Wk 6:** Allen RB2 (Hall out 3rd game), Skattebo FLEX. Grade after the games; Vidal and Pierce are the bench RBs.
-- **QB: Daniels starts, Stroud is the bench hedge.** Revisit if Daniels is flagged; one of the two is surplus if a QB-short manager engages. WCHolland rosters exactly one QB (Prescott) and is the better target than Princess Donut's Court, who roster three; not sold the day before a Sunday.
-- **Trades are opt-in** (see Process changes). Wk 5 and Wk 6 scans: NO ACTION. Revisit if a starter is lost.
-- **Kincaid-for-Keenan-Allen counter sent to WCHolland 2026-10-17, pending.** Unwinds if he declines or does not answer by the Thu Wk 7 scan; if it lands, Kincaid is gone and Higbee is the only TE, and Sunday weighs Allen against Evans at FLEX. Notes.yml carries an Allen line that is an orphan until it clears.
-- **Sun 11:30 AM ET inactives check: routine still PENDING-TOOLS, absent from the commit log.** Create it with cron `CRON_TZ=America/New_York 30 11 * * 0` and the standard bootstrap prompt for `tasks/climb-sun-inactives-check.md`. Kill date 2026-10-20.
-- **Contingency, check 11:30 AM-12:30 PM ET:** Allen, Skattebo or Irving inactive → Vidal in his slot; second absence → Pierce (1:00 PM lock).
-- **Contingency, check 3:30 PM ET:** Higbee inactive → Kincaid at TE (Higbee locks 4:05, Kincaid 4:25). Pierce hinges on Barkley's hamstring.
-- **TE:** Higbee starts over Kincaid in Wk 6; if the Kincaid counter lands, Higbee is the only TE.
-- **Dropping Coleman and Meyers eight days after claiming them.** Lesson 6 test from Wk 5 resolved against me; the column owes the correction.
+- **FLEX / TE for Week 7 is open.** Skattebo scored 8.1 and 0.0 over Weeks 5-6; Pierce 15.0 and Evans 12.4 sat. Evans is Out. Decide on measured touches (Lesson 3), not health alone. Higbee 2.2 vs Kincaid 7.8 (Kincaid [Q]).
+- **QB: Daniels starts, Stroud is the bench hedge** (Stroud 22.98 vs Daniels 21.0 in Wk 6). Revisit if Daniels is flagged; one is surplus if a QB-short manager engages. WCHolland rosters one QB (Prescott).
+- **Trades are opt-in** (see Process changes). Wk 5 and Wk 6 scans: NO ACTION.
+- **Kincaid-for-Keenan-Allen counter to WCHolland (2026-10-17), pending.** No completed trade in Sleeper's log; pending offers are not visible. Unwinds if he declines or is silent at the Thu Wk 7 scan; if it lands Higbee is the only TE. Notes.yml carries an Allen line that is an orphan until it clears.
+- **Sunday contingencies have no timed check.** Inactives routine retired 2026-10-20 (never created). Lineup file keeps its IF lines for Sean to check by eye; whether Skattebo's 0.0 was inactive or unused is not in the digest.
+- **Dropping Coleman and Meyers eight days after claiming them.** Lesson 6 test resolved against me; the column owes the correction.
 - **Buffalo DEF.** Streaming is a free-agent move, never a claim.
 - **Double-fire.** Sean still has to disable the seven UI routines in `SCHEDULED-TASKS.md`.
-- **Daylight saving ends Sun 2026-11-01.** If Sleeper clears waivers at a fixed UTC hour, the ET time moves to 2:13 AM; re-measure Wk 9 (Nov 4) before trusting 3:13.
+- **Daylight saving ends Sun 2026-11-01.** If Sleeper clears at a fixed UTC hour the ET time moves to 2:13 AM; re-measure Wk 9 (Nov 4).
 - **Monday chat slot fires before MNF.** Cite only games with every starter finished.
 - **League chat is unreadable by API.** `data/correspondence.md` holds the per-manager read.
 
 ## Theses
-1. **Chain-movers over big plays.** Wk 1-3 supported; Wk 4 lost by 0.73 with Evans and Allen benched; Wk 5 supported: 158.66 against a league median of 130.03, with Nacua, Irving, Daniels and Evans over 25. Kill: the healthy nine below league-median PF three weeks running (Wk 3 and 4 under, Wk 5 over; reset).
-2. **Rushing QB over pocket QB.** Daniels 18.16, 17.24, 33.26 (Wk 5) against Stroud 21.94 on the bench; Mariota 20.92 in Wk 3. Kill, restated now Mariota is gone: Daniels under 10 twice while Stroud clears 18 in the same weeks.
+1. **Chain-movers over big plays.** Wk 1-3 supported; Wk 4 lost by 0.73 with Evans and Allen benched; Wk 5 supported: 158.66 against a league median of 130.03, with Nacua, Irving, Daniels and Evans over 25. Wk 6: 83.65 against a league median of 102.08, under (Daniels 21.0 only above 15). Kill: the healthy nine below league-median PF three weeks running (Wk 5 over reset it; Wk 6 is 1 of 3).
+2. **Rushing QB over pocket QB.** Daniels 18.16, 17.24, 33.26 (Wk 5) against Stroud 21.94 on the bench; Mariota 20.92 in Wk 3. Wk 6: Daniels 21.0 vs Stroud 22.98, a wash. Kill, restated now Mariota is gone: Daniels under 10 twice while Stroud clears 18 in the same weeks.
 3. **RETIRED 2026-10-06: trade WR for RB.** Four offers, zero acceptances (kill met Wk 3). Trades are now opt-in, see Process changes.
-4. **Contested names first, winnable names last.** Held Wk 5: Stroud (mandatory) first, won at the first seq. Kill: losing a mandatory claim to order.
-5. **Filed claims land; the channel is claims plus free agency.** Wk 5: 5 of 5 filed, 3 won. Kill: three straight weeks with no claim won (Wk 3, 4, 5 each won one or more).
+4. **Contested names first, winnable names last.** Held Wk 5: Stroud (mandatory) first, won at the first seq. Wk 6: Vidal, Pierce, Higbee all won in order, none contested away. Kill: losing a mandatory claim to order.
+5. **Filed claims land; the channel is claims plus free agency.** Wk 5: 5 of 5 filed, 3 won; Wk 6: 5 of 5 filed, 3 won. Kill: three straight weeks with no claim won (Wk 3-6 each won one or more).
 6. **Never roster two defenses or two kickers.** Kill: none expected.
 
 ## Scorecard
 | Week | Call | Result | Grade |
 |---|---|---|---|
 | 1-2 (rolled up) | Wk 1: three off-file adds and a Johnson reversal, chat cited live scores (Wrong: process ×2), Hill/Waller Unknown. Wk 2: 5 claims never filed, FA pivot 1 of 3, Lamb-for-Taylor sold a top scorer (Wrong: process ×3); Kincaid/Buffalo Right, Nacua/Mumpfield hedge never made (Wrong: process), chat numbers held (Right) | 22 lines issued through Wk 2, 12 landed | 5 Right, 6 Wrong (process), 2 Unknown |
-| 3 | Claim 1 Mariota (mandatory, first) | Cleared 3:13:21 AM; 20.92 at QB | Right |
-| 3 | Claims 2-3 Wilson, Mitchell | Lost to Sea Squirts (#5) and Umojan; unwinnable from #8 after claim 1 | Wrong (luck) |
-| 3 | Cancel Taylor trade, send Pickens for Hockenson | Taylor no answer; Pickens declined; conflict with White avoided | Right |
-| 3 | Thu scan: Hockenson for Emmett Johnson | Declined by The Wizard's Apprentice | Wrong (luck); no cost |
-| 3 | Thu TNF: NO ACTION, "Daniels Out" only in Detail | Swap missing as a line until Sat 1:45 PM; no points lost | Wrong (process) |
-| 3 | Sat: Mariota for Daniels | 20.92 vs 0.00 | Right |
-| 3 | Sun: bench Nacua (Doubtful), Addison in | Nacua 0.00, Addison 18.50 | Right |
-| 3 | Sun: start Evans (Q) at FLEX, Mumpfield as hedge | Evans 11.40 played; Mumpfield on bench scored 18.30; +6.90 missed, the loss was 8.12 | Wrong (luck): played, hedge unused |
-| 3 | Other starters unchanged | Lamb 19.2, Skattebo 13.5, Loop 12.6, Buffalo 9.5, Irving 7.8, Kincaid 3.3 | Right |
-| 3 | Mon chat vs Princess Donut's Court; Fri/Sat chat replies | Sent; MNF not started for any starter, no live scores cited | Right |
+| 3 (rolled up) | Mariota claim won, Wilson/Mitchell lost on order, Taylor trade cancelled, Sat QB swap and Sun Nacua bench Right; Thu TNF swap missing until Sat (Wrong: process); Evans/Mumpfield hedge unused and Hockenson offer declined (Wrong: luck ×2); chat clean | 11 lines | 7 Right, 1 Wrong (process), 3 Wrong (luck) |
 | 4 | Claim 1 Gordon (RB-MIA, first) | Lost at seq 2 to The Wizard's Apprentice (waiver #1, seq 1) | Wrong (luck) |
 | 4 | Claim 2 B. Allen, backup to 1 | Cleared seq 3 3:13:34 AM; 9.70 on bench | Right |
 | 4 | Claims 3-4 Raymond, K. Allen (backups) | Cancelled by Allen's win, as designed | Right |
@@ -72,20 +57,26 @@ Last full rewrite: 2026-10-13 (third process review, covering Week 5). Last touc
 | 5 | Sun: Skattebo RB2 over Allen | 8.1 vs 20.1 on the bench; 12.0 left, the win margin was 7.62 | Wrong (luck): Skattebo healthy; Lesson 3 addendum |
 | 5 | Sun: Nacua, Irving, Loop, Kincaid, Buffalo; both contingencies | 33.7, 33.0, 14.2, 3.2, 6.0; neither contingency triggered | Right |
 | 5 | Mon chat vs Sea Squirts | Final 158.80 vs 116.76 matches the digest; every starter finished, no live score cited | Right |
+| 6 | Claims 1-3 Vidal, Pierce, Higbee | All cleared; Pierce 15.0 and Vidal 6.5 benched, Higbee 2.2 started | Right (claims); Pierce was the best claim and sat |
+| 6 | Claims 4-5 Cooper, Goedert (backups) | Failed behind the wins, as designed | Right |
+| 6 | Wed review: NO ACTION | Roster full, no better slot | Right |
+| 6 | Thu scan: NO ACTION | Sea Squirts' ask would not change the nine | Right |
+| 6 | Thu TNF: NO ACTION | No Seattle or Denver player on either roster | Right |
+| 6 | Sat: decline five-for-one for Nacua | Nacua 12.0 as WR2; four cuts avoided | Right |
+| 6 | Sat: counter Kincaid for K. Allen | No completed trade in the log; pending, unverifiable | Unknown |
+| 6 | Sun: Daniels QB over Stroud | 21.0 vs 22.98 on the bench; 1.98 left, Thesis 2 | Right |
+| 6 | Sun: Allen RB2 over Skattebo | 15.4 vs 0.0 | Right |
+| 6 | Sun: Skattebo FLEX over Pierce, Evans, Vidal | 0.0 vs 15.0, 12.4, 6.5; 15.0 left, the loss was 17.32 | Wrong (process): Skattebo's 8.1 and 0.0 in two weeks was the signal, and the file passed on Pierce for a hamstring guess |
+| 6 | Sun: Higbee TE over Kincaid | 2.2 vs 7.8; 5.6 left | Wrong (luck): 13 catches in two games was real volume |
+| 6 | Sun: Irving, Lamb, Nacua, Loop, Buffalo | 6.9, 13.5, 12.0, 4.4, 8.25 | Right (healthy, no better option) |
+| 6 | Sun: three IF-inactive contingencies | None verifiable; no inactives check ran | Unknown |
+| 6 | Mon chat vs TheTroubles | Built on Wk 5 finals; no live score cited | Right |
 
 ## Execution
 | Week | Run | Issued | Landed in Sleeper |
 |---|---|---|---|
 | 1-2 (rolled up) | all | 22 lines | 12 landed, 8 never reached the app, 2 unverifiable |
-| 3 | Tue waivers (file 8:58 PM ET) | 3 claims | 3 of 3 filed, 9:10, 9:13, 9:14 PM ET (12-16 min); Mariota won, other two lost on order |
-| 3 | Tue live trade correction | Cancel + send | 2 of 2, before the file existed |
-| 3 | Thu trades (file 8:10 AM ET) | 1 offer | Sent by ~8:58 AM ET (confirmed in ledger commit, ~48 min); declined |
-| 3 | Thu TNF | NO ACTION | n/a |
-| 3 | Sat QB swap (file 1:45 PM ET) | 1 line | Landed before Sun lineup; starters at lock show Mariota. Latency n/a |
-| 3 | Sun lineup (file ~9:14 AM ET) | 9 slots, 1 contingency | 9 of 9 match the starters at lock; contingency not needed. Latency n/a |
-| 3 | Chats (Fri ×2, Sat, Mon) | 4 | Unverifiable |
-Wk 3: 15 lines issued; 15 landed or n/a, 0 known misses, 4 unverifiable. Claim latency 12-16 minutes; first week with no miss.
-Sean acts (through Wk 3): Tue 9-10 PM ×5 (2 trades Wk 3, 3 claims Wk 3), Thu 8-9 AM ×1, Sat 1-3 PM ×1 (QB), Sun before 1 PM ×2 (Wk 2 add, Wk 3 lineup), Wed 12-1 PM ×1 (Wk 2). Method: `created` on claims; other times inferred from commits, so approximate.
+| 3 (rolled up) | all | 15 lines | 15 landed or n/a, 0 known misses, 4 unverifiable; claim latency 12-16 min; Sean acts Tue 9-10 PM ×5, Thu 8-9 AM, Sat 1-3 PM, Sun before 1 PM, Wed 12-1 PM (Wk 2) |
 | 4 | Tue waivers (file 6:14 PM ET) | 4 claims | 4 of 4 filed 11:10-11:11 PM ET, latency 4 h 56 m, 3 h 49 m before Do by (3:00 AM) |
 | 4 | Thu trades (file 8:12 AM ET) | 1 offer | No trade in Sleeper; sent unverifiable, no acceptance |
 | 4 | Thu TNF | NO ACTION | n/a |
@@ -100,29 +91,37 @@ Sean acts, Wk 4 added: Tue 11 PM ×4 claims (all inside 1 minute). Running tally
 | 5 | Mon chat (file 8:02 PM ET, front matter says 8:08) | 1 | Unverifiable; 7-13 min before the 8:15 PM Do by |
 Wk 5: 15 lines, 0 known misses, 1 unverifiable. Fastest claim latency yet (41 min). The Wk 5 Wed edit broke the ledger heading (repair commit 32e29d0).
 Sean acts, Wk 5 added: Tue 7 PM ×5 claims (inside 1 minute). Running tally: Tue 7-11 PM ×14, Thu 8-9 AM ×1, Sat 1-3 PM ×1, Sun before 1 PM ×2, Wed 12-1 PM ×1. Method: `created` on claims; other times inferred from commits.
+| 6 | Tue waivers (file 6:16 PM ET commit, digest 6:09) | 5 claims | 5 of 5 filed 8:04:57-8:06:21 PM ET, latency 1 h 49 m, 7 h 07 m before Do by; none overnight. 3 won, 2 failed behind them. Cleared 3:14:06 AM |
+| 6 | Thu scan, Thu TNF | NO ACTION ×2 | n/a |
+| 6 | Sat trade response (commit 12:42 PM ET) | decline + counter | Offer relayed 12:36 PM; decline and counter unverifiable in the API (pending offers do not log) |
+| 6 | Sun lineup (commit 9:13 AM ET, front matter 9:20) | 9 slots, 3 contingencies | 9 of 9 match the starters; contingencies unverifiable. Latency n/a |
+| 6 | Mon chat (commit 8:02 PM ET) | 1 | Unverifiable; 13 min before 8:15 PM Do by |
+Wk 6: 18 lines (5 claims, 2 Sat, 9 lineup + 3 IF lines counted once, 1 chat), 0 known misses, 6 unverifiable. No run missed, no double-fire, no Action fallback.
+Sean acts, Wk 6 added: Tue 8 PM ×5 claims (inside 90 seconds). Running tally: Tue 7-11 PM ×19, Thu 8-9 AM ×1, Sat 1-3 PM ×1, Sun before 1 PM ×2, Wed 12-1 PM ×1. Method: `created` on claims; other times inferred from commits.
 
 ## Lessons
 1. A pushed decision is not a transaction. Wk 1-2 claims never reached Sleeper; Wk 3's did once the file led with the deadline and Sean acted within 16 minutes. Every clipboard line carries a do-by. (Wk 1-3)
 2. Never cite a live score as a result. Only completed matchups are quotable. (Wk 1, held Wk 2-3)
-3. A contingency Sean cannot execute before the earliest lock is not a contingency; write the swap he can make. Prefer the healthier body at the slot over the insured one (Wk 3: Mumpfield beat Evans by 6.90; Wk 5: Evans 25.3 over Addison 0.0). Health is not role: Allen 20.1 beat Skattebo 8.1 at RB2, so weigh recent volume too. (Wk 2-5)
+3. A contingency Sean cannot execute before the earliest lock is not a contingency; write the swap he can make. Prefer the healthier body at the slot over the insured one (Wk 3: Mumpfield beat Evans by 6.90; Wk 5: Evans 25.3 over Addison 0.0). Health is not role: Allen 20.1 beat Skattebo 8.1 at RB2, so weigh recent volume too. Wk 6: Skattebo 0.0 at FLEX after 8.1, with Pierce 15.0 and Evans 12.4 benched; a starter with no measured touches in the file's own Why is a guess. (Wk 2-6)
 4. A free agent identified at noon is gone by morning. Free-agent lines say "do now". (Wk 2)
 5. Sell surplus, not starters. (Wk 2)
 6. Bench spots go to players who could start a specific slot on a specific Sunday. (Wk 1)
 7. Never point a live trade and a live claim at the same player. (Wk 3)
 8. One run, one answer. Wk 3's double-fire is the same fault at run level; the guard prevented two files, not two runs. (Wk 1, Wk 3)
 9. An Out starter is a clipboard line the day it is known, not a paragraph in Detail. Daniels sat Out from Thursday; the paste line came Saturday afternoon. (Wk 3)
-10. Sean files claims in the evening after the 6 PM file: Wk 3 at 9-10 PM, Wk 4 at 11 PM, Wk 5 at 7 PM, never in the afternoon, always hours before the deadline. Schedule asks for the evening. (Wk 3-5)
+10. Sean files claims in the evening after the 6 PM file: Wk 3 at 9-10 PM, Wk 4 at 11 PM, Wk 5 at 7 PM, never in the afternoon, always hours before the deadline. Wk 6 at 8 PM. Schedule asks for the evening. (Wk 3-6)
 
 ## Process review
-- 2026-10-13, Week 5. Run history from the commit log only (no run-list tool; no `create_trigger` in this session).
-- **Data:** every decision cited a digest 1-9 minutes old; no Action fallback, no stale decision, no double-fire, no missing slot. Two front-matter times are 6-12 minutes later than their commits (Sun, Mon); harmless.
-- **Decisions:** 11 rows graded: 6 Right, 1 Right/Wrong split, 2 Wrong (luck), 1 Unknown. Won 158.66-151.04. Skattebo at RB2 left 12.0 on the bench (Allen 20.1 vs 8.1); Daniels over Stroud and Evans at FLEX were right.
-- **Handoff:** 6 files, structure intact, Detail within 250; the Tue waiver file ran 406 words excluding the clipboard (item 4 cap, task already states it). Notifications unverifiable. Wed review edit broke the ledger heading and needed a repair commit.
-- **Execution:** 15 lines, 0 known misses. Claims filed 41 minutes after the 6:19 PM file (7:00 PM), 8 h 13 m before the deadline, none overnight.
-- **Schedule:** three weeks of timing: Sean acts Tue 7-11 PM and Sun morning, no miss; no slot moves. Sun inactives routine still not created (kill date 2026-10-20).
-- **Change 1** (057afef): waiver processing settled at Wed 3:13 AM ET; every file stating a time corrected; Do by now 3:13.
-- **Waiver time:** Sep 16 3:14:05, Sep 23 3:13:21, Sep 30 3:13:34, Oct 7 3:13:32. Last three agree to the minute; the 3:05 on Sleeper's screen is not the processing time.
-- **Locked refusals:** none.
+- 2026-10-20, Week 6. Run history from the commit log only (no run-list tool, no `create_trigger` in this session).
+- **Data:** every decision cited a digest 1-16 minutes old; no Action fallback, no stale decision, no double-fire, no missing slot. Front-matter times 7-9 minutes after commits (Tue, Sun); harmless.
+- **Decisions:** 15 rows graded: 9 Right, 1 Right/split, 1 Wrong (luck), 1 Wrong (process), 2 Unknown. Lost 83.65-100.97; Skattebo 0.0 at FLEX with Pierce 15.0 benched, Higbee over Kincaid, 20.6 in all (Lesson 3).
+- **Handoff:** 7 files, structure intact, Detail within 250. The Sat trade response ran 418 words excluding the clipboard (cap 400). Notifications unverifiable (no run log).
+- **Execution:** 18 lines, 0 known misses. Claims filed 8:05 PM, 1 h 49 m after the file, 7 h 07 m before the deadline.
+- **Schedule:** four weeks of timing: Sean acts Tue 7-11 PM and Sun morning, no miss; no slot moves.
+- **Reverted (kill met):** waiver time 3:13 AM (b52872e): the Oct 14 clear was 3:14:06. Do by is 3:00 AM again.
+- **Reverted (kill met):** Sun 11:30 inactives check (1deb638): never created, kill date passed. Task file is a pointer.
+- **Waiver time:** Sep 16 3:14:05, Sep 23 3:13:21, Sep 30 3:13:34, Oct 7 3:13:32, Oct 14 3:14:06. The real clear is 3:13-3:14; 3:00 is a safe, unused buffer.
+- **New changes:** none. Locked refusals: none.
 
 ## Process changes
 | Change | Date | Kill condition | Status |
@@ -132,5 +131,5 @@ Sean acts, Wk 5 added: Tue 7 PM ×5 claims (inside 1 minute). Running tally: Tue
 | Correspondence log adopted into COMMON | 2026-09-29 | Two consecutive weeks where no run appends and no standing read changes a trade decision | active |
 | Thu TNF pastes the swap for any Out or Doubtful starter | 2026-09-29 | A Thursday file with an Out/Doubtful starter and no swap line, or a swap issued for a player who then starts | active |
 | Trade scan opt-in: default NO ACTION, one proposal max, only to a manager who has replied | 2026-10-06 | A scan sends a proposal to a manager with no prior reply, or a trade is accepted and the scan missed it | active |
-| Sun 11:30 AM ET inactives check, silent unless a contingency triggers (routine PENDING-TOOLS) | 2026-10-06 | It pushes on a week with no triggered contingency, or a triggered contingency goes unswapped, or the routine is still not created by 2026-10-20 | active (pending creation; still absent Wk 5) |
-| Waiver processing settled at Wed 3:13 AM ET; every waiver Do by says 3:13 AM | 2026-10-13 | A measured waiver clear outside 3:13:00-3:13:59 AM ET in the next 4 weeks (re-measure Nov 4, after daylight saving ends), or a claim filed before 3:13 that fails to process | active |
+| Sun 11:30 AM ET inactives check, silent unless a contingency triggers (routine PENDING-TOOLS) | 2026-10-06 | It pushes on a week with no triggered contingency, or a triggered contingency goes unswapped, or the routine is still not created by 2026-10-20 | reverted 2026-10-20: never created, kill date passed (1deb638) |
+| Waiver processing settled at Wed 3:13 AM ET; every waiver Do by says 3:13 AM | 2026-10-13 | A measured waiver clear outside 3:13:00-3:13:59 AM ET in the next 4 weeks (re-measure Nov 4, after daylight saving ends), or a claim filed before 3:13 that fails to process | reverted 2026-10-20: Oct 14 clear at 3:14:06 AM (b52872e); Do by is 3:00 AM until a rule that fits 3:13-3:14 is proposed |
