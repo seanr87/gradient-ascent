@@ -9154,7 +9154,7 @@
  "13852": {
   "name": "Dontae McMillan",
   "pos": "RB",
-  "team": "SEA",
+  "team": null,
   "status": "Active",
   "injury_status": null,
   "injury_note": null
@@ -9700,8 +9700,8 @@
   "pos": "K",
   "team": null,
   "status": "Inactive",
-  "injury_status": "Questionable",
-  "injury_note": "Undisclosed"
+  "injury_status": null,
+  "injury_note": null
  },
  "11146": {
   "name": "Christopher Dunn",
@@ -20402,7 +20402,7 @@
  "14058": {
   "name": "Malick Meiga",
   "pos": "WR",
-  "team": "SEA",
+  "team": null,
   "status": "Active",
   "injury_status": null,
   "injury_note": null
@@ -26194,7 +26194,7 @@
  "6529": {
   "name": "Chris Myarick",
   "pos": "TE",
-  "team": "LV",
+  "team": null,
   "status": "Active",
   "injury_status": null,
   "injury_note": null
@@ -28018,7 +28018,7 @@
  "7528": {
   "name": "Najee Harris",
   "pos": "RB",
-  "team": "NYG",
+  "team": null,
   "status": "Active",
   "injury_status": null,
   "injury_note": null
@@ -30754,7 +30754,7 @@
  "5086": {
   "name": "Marquez Valdes-Scantling",
   "pos": "WR",
-  "team": null,
+  "team": "PIT",
   "status": "Active",
   "injury_status": null,
   "injury_note": null
@@ -33826,7 +33826,7 @@
  "7922": {
   "name": "Riley Patterson",
   "pos": "K",
-  "team": "MIA",
+  "team": null,
   "status": "Active",
   "injury_status": null,
   "injury_note": null
