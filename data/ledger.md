@@ -6,17 +6,19 @@ Last full rewrite: 2026-10-20 (fourth process review, covering Week 6). Last tou
 
 ## State
 - **Week 6 final: lost 83.65 to Playful Secrets 100.97 (-17.32).** Record 2-4, 731.82 PF, 8th of 12. Week 7 opponent: **TheTroubles** (2-4, 624.06 PF, 10th). Waiver position **#5** (digest 2026-10-20 6:09 PM); it drifts, so re-read it every run.
-- Roster (14), 2026-10-20 digest: QB Daniels, Stroud; RB Irving, Skattebo, B. Allen, Vidal, Pierce; WR Lamb, Nacua, Evans [Out]; TE Kincaid [Q], Higbee; K Loop; DEF Buffalo. No IR slot.
+- Roster (14), 2026-10-20 digest: QB Daniels, Stroud; RB Irving, Skattebo, B. Allen, Vidal, Pierce; WR Lamb, Nacua, Evans [Out]; TE Kincaid [Q], Higbee; K Loop; DEF Buffalo. No IR slot. **Stroud goes out and Devaughn Vele (WR-NO) comes in the moment Sean taps accept on SpaceElf's offer.**
 - Wk 6 lineup scored: Daniels 21.0, Allen 15.4, Lamb 13.5, Nacua 12.0, Buffalo 8.25, Irving 6.9, Loop 4.4, Higbee 2.2, Skattebo 0.0. Bench: Stroud 22.98, Pierce 15.0, Evans 12.4 (MNF), Kincaid 7.8, Vidal 6.5. Pierce at FLEX and Kincaid at TE alone is +20.6, a 3.3-point win.
+- **Wk 7 claims filed 6:23 PM ET**, all five in order, latency under 10 minutes — the fastest yet. Sleeper's own transaction screen says they **run at Wed 3:05 AM**; measured clear stamps are 3:13-3:14, so processing takes about eight minutes. For the process review, not for me.
 - **Waiver processing: measured 3:13-3:14 AM ET, not settled.** Sep 16 3:14:05, Sep 23 3:13:21, Sep 30 3:13:34, Oct 7 3:13:32, Oct 14 3:14:06. The 3:13 change was reverted 2026-10-20 (kill met), so every waiver Do by says **3:00 AM ET** again; claims filed by 7-8 PM Tuesday never come near either.
 - Holes: **receiver.** Nacua and Lamb are the only healthy WRs; Evans is Out with an Achilles and Skattebo took 6 of 77 Giants snaps in Wk 6 with no injury tag, so both are the drops behind tonight's claims. Wk 6 claims: Vidal, Pierce, Higbee cleared; Cooper and Goedert failed behind them, as designed.
 - Chat targets used: Wk1 Three Wise Jaylens, Wk2 CorneliusJones, Wk3 Lost in the Land of Love, Princess Donut's Court (Wk 3 Mon), Playful Secrets (Wk 4 Mon), Sea Squirts (Wk 5 Mon), TheTroubles (Wk 6 Mon).
 
 ## Open threads
 - **FLEX / TE for Week 7 is open.** FLEX is Pierce (61 of 64 Wk 6 snaps, 15.0) or Vidal (25 snaps, 6.5) unless a claim lands a receiver. TE is Higbee 2.2 vs Kincaid 7.8 [Q]; decide on measured touches (Lesson 3), not health.
-- **QB: Daniels starts, Stroud is the bench hedge** (Stroud 22.98 vs Daniels 21.0 in Wk 6). Revisit if Daniels is flagged; one is surplus if a QB-short manager engages. WCHolland rosters one QB (Prescott).
+- **QB is one deep once the trade lands.** Daniels only; he missed Wks 3-4. If he is flagged, stream from the wire — Rodgers 59.98, Murray, Geno Smith and Penix are all free — and the spot comes from the weakest back, not from a claim.
 - **Trades are opt-in** (see Process changes). Wk 5 and Wk 6 scans: NO ACTION.
-- **Kincaid-for-Keenan-Allen counter to WCHolland (2026-10-17), pending.** No completed trade in Sleeper's log; pending offers are not visible. Unwinds if he declines or is silent at the Thu Wk 7 scan; if it lands Higbee is the only TE. Notes.yml carries an Allen line that is an orphan until it clears.
+- **Kincaid-for-Keenan-Allen: rejected by WCHolland 2026-10-17 12:53 PM** (transaction history, relayed 2026-10-20). Closed. Kincaid stays, TE is Higbee or Kincaid by matchup, the Allen note is deleted.
+- **Stroud-for-Vele with SpaceElf, accepted by me 2026-10-20, pending Sean's tap.** Unwinds if he pulls the offer, in which case the WR room rests entirely on the five claims. He is 5-1 and gets a QB2 behind Trevor Lawrence.
 - **Wk 7 claim chain A (drop Evans): Cooper, then Coleman, then Noel.** Unwinds when one clears or all three fail at 3:14 AM Wed; if none clears, Evans stays and the WR room is two deep.
 - **Wk 7 claim chain B (drop Skattebo): Tucker, then Douglas.** Unwinds when one clears or both fail; Skattebo is only dropped by a win, so a failed chain leaves a six-snap back on the roster.
 - **Sunday contingencies have no timed check.** Inactives routine retired 2026-10-20 (never created). Lineup file keeps its IF lines for Sean to check by eye. Skattebo's 0.0 is now answered: he played 6 snaps, healthy and unused.
