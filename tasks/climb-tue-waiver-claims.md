@@ -1,6 +1,6 @@
 # Task: Tuesday waiver claims (Tue 6:00 PM ET)
 
-Read `tasks/COMMON.md` first and follow it. This task produces this week's **waiver claims**. Waivers process Wednesday 3:13 AM ET (confirmed from the league transaction log, not from settings).
+Read `tasks/COMMON.md` first and follow it. This task produces this week's **waiver claims**. Waivers process Wednesday 3:14 AM ET (confirmed from the league transaction log, not from settings).
 
 ## Run once a week — check this first
 
@@ -28,7 +28,7 @@ For every player you claim, add his line to `docs/_data/notes.yml` in this commi
 
 ## File
 `docs/_decisions/2026-wkNN-tue-waivers.md`, kind `waivers`, title `Week NN waiver claims`, in the structure COMMON.md fixes:
-- `**Do by:**` Wed 3:13 AM ET, the waiver processing time, settled by measurement 2026-10-13 · `**Digest:**` pulled timestamp
+- `**Do by:**` Wed 3:00 AM ET, the waiver processing time as stated until the process review settles it from measured claim timestamps · `**Digest:**` pulled timestamp
 - `## For the clipboard`: only the ADD/DROP lines, in the order Sean should enter them, or `NO ACTION`
 - `## Why`: one line per claim (the reason, and "backup to claim N" where a drop is shared), then at most 3 passed-on players, one line each
 - `## Detail` (optional, 250 words max): waiver-order arithmetic if it drove the order, a `NO CLAIMS` explanation if that is the call, sources as one line of links
