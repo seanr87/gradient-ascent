@@ -1,5 +1,5 @@
 # Sleeper digest — The Climb
-Pulled: 2026-10-20 22:09 UTC · NFL week 7 (regular)
+Pulled: 2026-10-21 01:34 UTC · NFL week 7 (regular)
 
 ## My roster
 - Dalton Kincaid (TE-BUF) [Questionable]
@@ -7,6 +7,7 @@ Pulled: 2026-10-20 22:09 UTC · NFL week 7 (regular)
 - Braelon Allen (RB-NYJ) (STARTER)
 - Bucky Irving (RB-TB) (STARTER)
 - Kimani Vidal (RB-LAC)
+- Devaughn Vele (WR-NO)
 - Cam Skattebo (RB-NYG) (STARTER)
 - Tyler Loop (K-BAL) (STARTER)
 - Mike Evans (WR-SF) [Out]
@@ -14,7 +15,6 @@ Pulled: 2026-10-20 22:09 UTC · NFL week 7 (regular)
 - CeeDee Lamb (WR-DAL) (STARTER)
 - Dameon Pierce (RB-PHI)
 - Puka Nacua (WR-LAR) (STARTER)
-- C.J. Stroud (QB-HOU)
 - Buffalo Bills (DEF-BUF) (STARTER)
 
 ## My matchup this week
@@ -51,30 +51,30 @@ Pulled: 2026-10-20 22:09 UTC · NFL week 7 (regular)
 - CorneliusJones 126.91 — Three Wise Jaylens  106.69
 
 ## Trending adds (24h, all Sleeper)
-- Omar Cooper (WR-NYJ) — 3,759,728 adds
-- Cleveland Browns (DEF-CLE) — 1,456,588 adds
-- Konata Mumpfield (WR-LAR) — 1,008,783 adds
-- Kyler Murray (QB-MIN) — 746,696 adds
-- C.J. Stroud (QB-HOU) — 590,863 adds
-- Tank Dell (WR-HOU) [IR] — 554,664 adds
-- Michael Mayer (TE-LV) — 553,167 adds
-- Terrance Ferguson (TE-LAR) [IR] — 457,416 adds
-- Roschon Johnson (RB-CHI) — 424,904 adds
-- Chase McLaughlin (K-TB) — 421,096 adds
-- Tyrone Tracy (RB-NYG) — 392,480 adds
-- Tre Tucker (WR-LV) — 391,098 adds
-- Minnesota Vikings (DEF-MIN) — 378,300 adds
-- Jake Bates (K-DET) — 377,552 adds
-- Kyle Pitts (TE-ATL) — 318,780 adds
-- New York Jets (DEF-NYJ) — 305,404 adds
-- Will Reichard (K-MIN) — 299,634 adds
-- Treylon Burks (WR-WAS) — 274,183 adds
-- Tanner McKee (QB-PHI) — 194,136 adds
-- Ryan Flournoy (WR-DAL) — 181,552 adds
-- Pierre Strong (RB-GB) — 173,142 adds
-- Houston Texans (DEF-HOU) — 158,640 adds
-- Malik Washington (WR-MIA) — 154,128 adds
-- Blake Corum (RB-LAR) — 148,848 adds
-- J.J. McCarthy (QB-NYG) — 148,545 adds
+- Omar Cooper (WR-NYJ) — 4,344,904 adds
+- Cleveland Browns (DEF-CLE) — 1,652,630 adds
+- Konata Mumpfield (WR-LAR) — 1,193,508 adds
+- Kyler Murray (QB-MIN) — 840,888 adds
+- C.J. Stroud (QB-HOU) — 652,946 adds
+- Michael Mayer (TE-LV) — 627,201 adds
+- Tank Dell (WR-HOU) [IR] — 512,840 adds
+- Roschon Johnson (RB-CHI) — 504,640 adds
+- Terrance Ferguson (TE-LAR) [IR] — 486,624 adds
+- Tyrone Tracy (RB-NYG) — 477,824 adds
+- Chase McLaughlin (K-TB) — 466,496 adds
+- Jake Bates (K-DET) — 435,320 adds
+- Minnesota Vikings (DEF-MIN) — 433,085 adds
+- Tre Tucker (WR-LV) — 414,738 adds
+- New York Jets (DEF-NYJ) — 364,668 adds
+- Treylon Burks (WR-WAS) — 362,194 adds
+- Kyle Pitts (TE-ATL) — 346,612 adds
+- Will Reichard (K-MIN) — 345,051 adds
+- Tanner McKee (QB-PHI) — 225,288 adds
+- Pierre Strong (RB-GB) — 197,793 adds
+- Ryan Flournoy (WR-DAL) — 191,424 adds
+- Malik Washington (WR-MIA) — 191,296 adds
+- Houston Texans (DEF-HOU) — 182,530 adds
+- Tyler Higbee (TE-LAR) — 169,830 adds
+- Blake Corum (RB-LAR) — 168,176 adds
 
 ## League transactions this week

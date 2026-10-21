@@ -42,9 +42,9 @@
 | TE | Tyler Higbee | Wk 5 (waiver claim) |
 | K | Tyler Loop | Draft (R13, pick 151) |
 | DEF | Buffalo | Draft (R12, pick 138) |
-| BN | C.J. Stroud | Wk 4 (waiver claim) |
 | BN | Dameon Pierce | Wk 5 (waiver claim) |
 | BN | Kimani Vidal | Wk 5 (waiver claim) |
+| BN | Devaughn Vele | Wk 6 (trade) |
 | BN | Mike Evans | Draft (R6, pick 66) |
 | BN | Dalton Kincaid | Draft (R7, pick 79) |
 <!-- ROSTER:END -->

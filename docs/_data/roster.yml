@@ -75,14 +75,6 @@
   acquired_via: "R12, pick 138"
   acquired_week: 0
 - slot: "BN1"
-  player: "C.J. Stroud"
-  pos: "QB"
-  team: "HOU"
-  status: ""
-  acquired: "Wk 4"
-  acquired_via: "waiver claim"
-  acquired_week: 4
-- slot: "BN2"
   player: "Dameon Pierce"
   pos: "RB"
   team: "PHI"
@@ -90,7 +82,7 @@
   acquired: "Wk 5"
   acquired_via: "waiver claim"
   acquired_week: 5
-- slot: "BN3"
+- slot: "BN2"
   player: "Kimani Vidal"
   pos: "RB"
   team: "LAC"
@@ -98,6 +90,14 @@
   acquired: "Wk 5"
   acquired_via: "waiver claim"
   acquired_week: 5
+- slot: "BN3"
+  player: "Devaughn Vele"
+  pos: "WR"
+  team: "NO"
+  status: ""
+  acquired: "Wk 6"
+  acquired_via: "trade"
+  acquired_week: 6
 - slot: "BN4"
   player: "Mike Evans"
   pos: "WR"
