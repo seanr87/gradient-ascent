@@ -38,14 +38,15 @@
 | RB | Braelon Allen | Wk 3 (waiver claim) |
 | WR | Puka Nacua | Draft (R1, pick 7) |
 | WR | CeeDee Lamb | Draft (R2, pick 18) |
-| FLEX | Cam Skattebo | Draft (R4, pick 42) |
+| FLEX | — | — |
 | TE | Tyler Higbee | Wk 5 (waiver claim) |
 | K | Tyler Loop | Draft (R13, pick 151) |
 | DEF | Buffalo | Draft (R12, pick 138) |
 | BN | Dameon Pierce | Wk 5 (waiver claim) |
 | BN | Kimani Vidal | Wk 5 (waiver claim) |
 | BN | Devaughn Vele | Wk 6 (trade) |
-| BN | Mike Evans | Draft (R6, pick 66) |
+| BN | Keon Coleman | Wk 6 (waiver claim) |
+| BN | Tre Tucker | Wk 6 (waiver claim) |
 | BN | Dalton Kincaid | Draft (R7, pick 79) |
 <!-- ROSTER:END -->
 

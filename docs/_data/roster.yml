@@ -43,13 +43,13 @@
   acquired_via: "R2, pick 18"
   acquired_week: 0
 - slot: "FLEX"
-  player: "Cam Skattebo"
-  pos: "RB"
-  team: "NYG"
+  player: "—"
+  pos: ""
+  team: ""
   status: ""
-  acquired: "Draft"
-  acquired_via: "R4, pick 42"
-  acquired_week: 0
+  acquired: ""
+  acquired_via: ""
+  acquired_week: -1
 - slot: "TE"
   player: "Tyler Higbee"
   pos: "TE"
@@ -99,14 +99,22 @@
   acquired_via: "trade"
   acquired_week: 6
 - slot: "BN4"
-  player: "Mike Evans"
+  player: "Keon Coleman"
   pos: "WR"
-  team: "SF"
-  status: "Out"
-  acquired: "Draft"
-  acquired_via: "R6, pick 66"
-  acquired_week: 0
+  team: "BUF"
+  status: ""
+  acquired: "Wk 6"
+  acquired_via: "waiver claim"
+  acquired_week: 6
 - slot: "BN5"
+  player: "Tre Tucker"
+  pos: "WR"
+  team: "LV"
+  status: ""
+  acquired: "Wk 6"
+  acquired_via: "waiver claim"
+  acquired_week: 6
+- slot: "BN6"
   player: "Dalton Kincaid"
   pos: "TE"
   team: "BUF"
