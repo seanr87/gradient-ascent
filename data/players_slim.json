@@ -1746,7 +1746,7 @@
  "13898": {
   "name": "Corey Rucker",
   "pos": "WR",
-  "team": "LV",
+  "team": null,
   "status": "Inactive",
   "injury_status": "Questionable",
   "injury_note": "Undisclosed"
@@ -7850,7 +7850,7 @@
  "13816": {
   "name": "Mark Gronowski",
   "pos": "QB",
-  "team": "HOU",
+  "team": null,
   "status": "Active",
   "injury_status": null,
   "injury_note": null
@@ -11154,7 +11154,7 @@
  "12909": {
   "name": "Eli Pancol",
   "pos": "WR",
-  "team": "IND",
+  "team": null,
   "status": "Active",
   "injury_status": null,
   "injury_note": null
@@ -12538,7 +12538,7 @@
  "12036": {
   "name": "Ian Wheeler",
   "pos": "RB",
-  "team": "PHI",
+  "team": null,
   "status": "Active",
   "injury_status": null,
   "injury_note": null
@@ -16194,7 +16194,7 @@
  "12457": {
   "name": "Jaydon Blue",
   "pos": "RB",
-  "team": "PHI",
+  "team": null,
   "status": "Active",
   "injury_status": null,
   "injury_note": null
@@ -19330,7 +19330,7 @@
  "13124": {
   "name": "Jeremiah Webb",
   "pos": "WR",
-  "team": "NE",
+  "team": null,
   "status": "Inactive",
   "injury_status": "Questionable",
   "injury_note": "Arm"
@@ -24602,7 +24602,7 @@
  "11582": {
   "name": "Carson Steele",
   "pos": "RB",
-  "team": "PHI",
+  "team": null,
   "status": "Active",
   "injury_status": "Out",
   "injury_note": "Shoulder"
@@ -27994,7 +27994,7 @@
  "8200": {
   "name": "Kevin Austin",
   "pos": "WR",
-  "team": "NO",
+  "team": null,
   "status": "Active",
   "injury_status": null,
   "injury_note": null
@@ -33034,7 +33034,7 @@
  "13949": {
   "name": "Damon Bankston",
   "pos": "RB",
-  "team": "GB",
+  "team": null,
   "status": "Active",
   "injury_status": null,
   "injury_note": null
@@ -33418,7 +33418,7 @@
  "11820": {
   "name": "Devin Culp",
   "pos": "TE",
-  "team": "CLE",
+  "team": null,
   "status": "Active",
   "injury_status": null,
   "injury_note": null

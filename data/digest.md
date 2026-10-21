@@ -1,5 +1,5 @@
 # Sleeper digest — The Climb
-Pulled: 2026-10-21 13:25 UTC · NFL week 7 (regular)
+Pulled: 2026-10-21 16:14 UTC · NFL week 7 (regular)
 
 ## My roster
 - Tre Tucker (WR-LV)
@@ -51,31 +51,31 @@ Pulled: 2026-10-21 13:25 UTC · NFL week 7 (regular)
 - CorneliusJones 126.91 — Three Wise Jaylens  106.69
 
 ## Trending adds (24h, all Sleeper)
-- Omar Cooper (WR-NYJ) — 4,898,680 adds
-- Cleveland Browns (DEF-CLE) — 1,934,093 adds
-- Konata Mumpfield (WR-LAR) — 1,544,175 adds
-- Kyler Murray (QB-MIN) — 934,800 adds
-- Michael Mayer (TE-LV) — 794,178 adds
-- C.J. Stroud (QB-HOU) — 719,173 adds
-- Roschon Johnson (RB-CHI) — 705,176 adds
-- Tyrone Tracy (RB-NYG) — 620,424 adds
-- Chase McLaughlin (K-TB) — 618,296 adds
-- Jake Bates (K-DET) — 575,128 adds
-- Treylon Burks (WR-WAS) — 556,213 adds
-- Terrance Ferguson (TE-LAR) [IR] — 546,208 adds
-- New York Jets (DEF-NYJ) — 519,824 adds
-- Tre Tucker (WR-LV) — 466,686 adds
-- Minnesota Vikings (DEF-MIN) — 453,850 adds
-- Tank Dell (WR-HOU) [IR] — 435,488 adds
-- Kyle Pitts (TE-ATL) — 403,305 adds
-- Will Reichard (K-MIN) — 377,646 adds
-- Tyler Higbee (TE-LAR) — 326,808 adds
-- Malik Washington (WR-MIA) — 293,984 adds
-- Tanner McKee (QB-PHI) — 289,880 adds
-- Pierre Strong (RB-GB) — 263,844 adds
-- Caleb Douglas (WR-MIA) [Questionable] — 256,688 adds
-- Jordan Mason (RB-MIN) [IR] — 236,435 adds
-- Ryan Flournoy (WR-DAL) — 228,928 adds
+- Omar Cooper (WR-NYJ) — 4,330,480 adds
+- Cleveland Browns (DEF-CLE) — 1,780,408 adds
+- Konata Mumpfield (WR-LAR) — 1,449,477 adds
+- Kyler Murray (QB-MIN) — 811,064 adds
+- Michael Mayer (TE-LV) — 772,335 adds
+- Roschon Johnson (RB-CHI) — 699,384 adds
+- C.J. Stroud (QB-HOU) — 654,703 adds
+- Chase McLaughlin (K-TB) — 629,960 adds
+- Tyrone Tracy (RB-NYG) — 583,658 adds
+- Jake Bates (K-DET) — 571,496 adds
+- Treylon Burks (WR-WAS) — 567,294 adds
+- New York Jets (DEF-NYJ) — 504,258 adds
+- Terrance Ferguson (TE-LAR) [IR] — 488,192 adds
+- Tre Tucker (WR-LV) — 444,132 adds
+- Minnesota Vikings (DEF-MIN) — 393,075 adds
+- Kyle Pitts (TE-ATL) — 378,903 adds
+- Tank Dell (WR-HOU) [IR] — 376,072 adds
+- Tyler Higbee (TE-LAR) — 362,502 adds
+- Will Reichard (K-MIN) — 339,690 adds
+- Malik Washington (WR-MIA) — 302,560 adds
+- Tanner McKee (QB-PHI) — 279,672 adds
+- Caleb Douglas (WR-MIA) [Questionable] — 277,672 adds
+- Pierre Strong (RB-GB) — 257,157 adds
+- Jordan Mason (RB-MIN) [IR] — 251,015 adds
+- Bo Nix (QB-DEN) — 230,940 adds
 
 ## League transactions this week
 - free_agent (complete) The Wizard’s Apprentice: +[New York Jets (DEF-NYJ)] -[Atlanta Falcons (DEF-ATL)]
