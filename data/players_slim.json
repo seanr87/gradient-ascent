@@ -500,8 +500,8 @@
   "pos": "QB",
   "team": "NE",
   "status": "Active",
-  "injury_status": null,
-  "injury_note": null
+  "injury_status": "Out",
+  "injury_note": "Coach's Decision"
  },
  "355": {
   "name": "Brian Leonard",
@@ -7180,8 +7180,8 @@
   "pos": "QB",
   "team": "CHI",
   "status": "Active",
-  "injury_status": null,
-  "injury_note": null
+  "injury_status": "Out",
+  "injury_note": "Coach's Decision"
  },
  "6469": {
   "name": "Davis Koppenhaver",
@@ -7292,8 +7292,8 @@
   "pos": "WR",
   "team": "PHI",
   "status": "Active",
-  "injury_status": null,
-  "injury_note": null
+  "injury_status": "Questionable",
+  "injury_note": "Ankle"
  },
  "1346": {
   "name": "Marquise Goodwin",
@@ -11476,8 +11476,8 @@
   "pos": "WR",
   "team": "LAR",
   "status": "Active",
-  "injury_status": null,
-  "injury_note": null
+  "injury_status": "Questionable",
+  "injury_note": "Calf"
  },
  "13149": {
   "name": "Caden Davis",
@@ -14188,8 +14188,8 @@
   "pos": "TE",
   "team": "PHI",
   "status": "Active",
-  "injury_status": null,
-  "injury_note": null
+  "injury_status": "Questionable",
+  "injury_note": "Knee"
  },
  "12849": {
   "name": "Traeshon Holden",
@@ -15692,7 +15692,7 @@
   "pos": "RB",
   "team": "ARI",
   "status": "Active",
-  "injury_status": "Doubtful",
+  "injury_status": "Questionable",
   "injury_note": "Ankle"
  },
  "13946": {
@@ -15908,8 +15908,8 @@
   "pos": "WR",
   "team": "PHI",
   "status": "Active",
-  "injury_status": null,
-  "injury_note": null
+  "injury_status": "Questionable",
+  "injury_note": "Hamstring"
  },
  "2918": {
   "name": "Demetrius Wilson",
@@ -24784,7 +24784,7 @@
   "injury_note": null
  },
  "5154": {
-  "name": "Trent Sherfield Sr.",
+  "name": "Trent Sherfield",
   "pos": "WR",
   "team": "BUF",
   "status": "Active",
@@ -25132,8 +25132,8 @@
   "pos": "WR",
   "team": "MIN",
   "status": "Active",
-  "injury_status": "Questionable",
-  "injury_note": "Ankle"
+  "injury_status": null,
+  "injury_note": null
  },
  "391": {
   "name": "Ryan Succop",
@@ -31420,8 +31420,8 @@
   "pos": "TE",
   "team": "LV",
   "status": "Active",
-  "injury_status": "Questionable",
-  "injury_note": "Hamstring"
+  "injury_status": null,
+  "injury_note": null
  },
  "12826": {
   "name": "Ulysses Bentley",

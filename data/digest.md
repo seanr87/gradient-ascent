@@ -1,20 +1,20 @@
 # Sleeper digest — The Climb
-Pulled: 2026-10-22 21:08 UTC · NFL week 7 (regular)
+Pulled: 2026-10-22 23:21 UTC · NFL week 7 (regular)
 
 ## My roster
 - Tre Tucker (WR-LV)
 - Dalton Kincaid (TE-BUF) [Questionable]
-- Jayden Daniels (QB-WAS) (STARTER)
+- Jayden Daniels (QB-WAS)
 - Braelon Allen (RB-NYJ) (STARTER)
 - Bucky Irving (RB-TB) [Questionable] (STARTER)
 - Keon Coleman (WR-BUF)
-- Kimani Vidal (RB-LAC)
 - Devaughn Vele (WR-NO)
 - Tyler Loop (K-BAL) (STARTER)
 - Tyler Higbee (TE-LAR) (STARTER)
 - CeeDee Lamb (WR-DAL) (STARTER)
 - Dameon Pierce (RB-PHI)
-- Puka Nacua (WR-LAR) (STARTER)
+- Puka Nacua (WR-LAR) [Questionable] (STARTER)
+- Aaron Rodgers (QB-PIT) (STARTER)
 - Buffalo Bills (DEF-BUF) (STARTER)
 
 ## My matchup this week
@@ -51,33 +51,34 @@ Pulled: 2026-10-22 21:08 UTC · NFL week 7 (regular)
 - CorneliusJones 126.91 — Three Wise Jaylens  106.69
 
 ## Trending adds (24h, all Sleeper)
-- Roschon Johnson (RB-CHI) — 1,121,952 adds
-- Cleveland Browns (DEF-CLE) — 322,497 adds
-- Chase McLaughlin (K-TB) — 309,880 adds
-- Michael Mayer (TE-LV) — 293,490 adds
-- Omar Cooper Jr. (WR-NYJ) — 244,320 adds
-- Konata Mumpfield (WR-LAR) — 244,062 adds
-- Tyler Higbee (TE-LAR) — 239,877 adds
-- Jake Bates (K-DET) — 226,760 adds
-- C.J. Stroud (QB-HOU) — 194,061 adds
-- Zonovan Knight (RB-ARI) — 187,032 adds
-- Kyler Murray (QB-MIN) — 175,152 adds
-- Treylon Burks (WR-WAS) — 166,348 adds
-- Tyler Allgeier (RB-ARI) — 137,680 adds
-- Malik Washington (WR-MIA) — 126,584 adds
-- Tre Tucker (WR-LV) — 118,590 adds
-- New York Jets (DEF-NYJ) — 113,330 adds
-- Seth McGowan (RB-IND) — 108,928 adds
-- Tank Dell (WR-HOU) [IR] — 108,624 adds
-- Brandon McManus (K-LAR) — 108,592 adds
-- Jordan Addison (WR-MIN) — 104,841 adds
-- Bo Nix (QB-DEN) — 103,278 adds
-- Tanner McKee (QB-PHI) — 98,744 adds
-- Ryan Flournoy (WR-DAL) — 94,048 adds
-- Tyrone Tracy Jr. (RB-NYG) — 84,554 adds
-- Aaron Rodgers (QB-PIT) — 83,584 adds
+- Roschon Johnson (RB-CHI) — 1,142,856 adds
+- Konata Mumpfield (WR-LAR) — 484,668 adds
+- Chase McLaughlin (K-TB) — 330,280 adds
+- Cleveland Browns (DEF-CLE) — 329,511 adds
+- Michael Mayer (TE-LV) — 307,107 adds
+- Tyler Higbee (TE-LAR) — 292,707 adds
+- Jake Bates (K-DET) — 243,624 adds
+- Omar Cooper Jr. (WR-NYJ) — 227,864 adds
+- Zonovan Knight (RB-ARI) — 202,084 adds
+- C.J. Stroud (QB-HOU) — 197,407 adds
+- Kyler Murray (QB-MIN) — 176,560 adds
+- Treylon Burks (WR-WAS) — 164,563 adds
+- Tyler Allgeier (RB-ARI) — 147,115 adds
+- Malik Washington (WR-MIA) — 131,600 adds
+- Seth McGowan (RB-IND) — 131,120 adds
+- Brandon McManus (K-LAR) — 126,016 adds
+- Tre Tucker (WR-LV) — 119,844 adds
+- New York Jets (DEF-NYJ) — 116,218 adds
+- Bo Nix (QB-DEN) — 108,660 adds
+- Jordan Addison (WR-MIN) — 107,604 adds
+- Tank Dell (WR-HOU) [IR] — 106,616 adds
+- Tanner McKee (QB-PHI) — 101,776 adds
+- Ryan Flournoy (WR-DAL) — 101,088 adds
+- Brandin Cooks (WR-SF) — 88,380 adds
+- Aaron Rodgers (QB-PIT) — 87,824 adds
 
 ## League transactions this week
+- free_agent (complete) Gradient Ascent: +[Aaron Rodgers (QB-PIT)] -[Kimani Vidal (RB-LAC)]
 - free_agent (complete) Lost in the Land of Love: +[Kyler Murray (QB-MIN)] -[Los Angeles Rams (DEF-LAR)]
 - free_agent (complete) Lost in the Land of Love: +[Zonovan Knight (RB-ARI)] -[TreVeyon Henderson (RB-NE)]
 - free_agent (complete) The Wizard’s Apprentice: +[New York Jets (DEF-NYJ)] -[Atlanta Falcons (DEF-ATL)]

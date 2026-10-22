@@ -33,7 +33,7 @@
 <!-- ROSTER:START -->
 | Slot | Player | Acquired |
 |------|--------|----------|
-| QB | Jayden Daniels | Draft (R5, pick 55) |
+| QB | Aaron Rodgers | Wk 7 (free agent) |
 | RB | Bucky Irving | Draft (R3, pick 31) |
 | RB | Braelon Allen | Wk 3 (waiver claim) |
 | WR | Puka Nacua | Draft (R1, pick 7) |
@@ -42,8 +42,8 @@
 | TE | Tyler Higbee | Wk 5 (waiver claim) |
 | K | Tyler Loop | Draft (R13, pick 151) |
 | DEF | Buffalo | Draft (R12, pick 138) |
+| BN | Jayden Daniels | Draft (R5, pick 55) |
 | BN | Dameon Pierce | Wk 5 (waiver claim) |
-| BN | Kimani Vidal | Wk 5 (waiver claim) |
 | BN | Devaughn Vele | Wk 6 (trade) |
 | BN | Keon Coleman | Wk 6 (waiver claim) |
 | BN | Tre Tucker | Wk 6 (waiver claim) |
