@@ -2,7 +2,7 @@
 
 Rewritten in full every Tuesday at 6:00 AM ET by the process review; `## State` and `## Open threads` updated by every decision run in the same commit as its decision. Hard cap 150 lines. Older weeks roll up; git history is the archive. Cite a thesis or lesson by name instead of re-arguing it.
 
-Last full rewrite: 2026-10-20 (fourth process review, covering Week 6). Last touched: 2026-10-21 (Wk 7 post-waiver review).
+Last full rewrite: 2026-10-20 (fourth process review, covering Week 6). Last touched: 2026-10-22 (Wk 7 trade scan).
 
 ## State
 - **Week 6 final: lost 83.65 to Playful Secrets 100.97 (-17.32).** Record 2-4, 731.82 PF, 8th of 12. Week 7 opponent: **TheTroubles** (2-4, 624.06 PF, 10th). Waiver position **#5** (digest 2026-10-20 6:09 PM); it drifts, so re-read it every run.
@@ -16,7 +16,7 @@ Last full rewrite: 2026-10-20 (fourth process review, covering Week 6). Last tou
 ## Open threads
 - **FLEX / TE for Week 7 is open.** FLEX is Pierce (61 of 64 Wk 6 snaps, 15.0) or Vidal (25 snaps, 6.5) unless a claim lands a receiver. TE is Higbee 2.2 vs Kincaid 7.8 [Q]; decide on measured touches (Lesson 3), not health.
 - **QB is one deep once the trade lands.** Daniels only; he missed Wks 3-4. If he is flagged, stream from the wire — Rodgers 59.98, Murray, Geno Smith and Penix are all free — and the spot comes from the weakest back, not from a claim.
-- **Trades are opt-in** (see Process changes). Wk 5 and Wk 6 scans: NO ACTION.
+- **Trades are opt-in** (see Process changes). Wk 5, Wk 6 and Wk 7 scans: NO ACTION. Wk 7 reopens only if Daniels is flagged or Irving [Q] is ruled out with no RB on the wire.
 - **Kincaid-for-Keenan-Allen: rejected by WCHolland 2026-10-17 12:53 PM** (transaction history, relayed 2026-10-20). Closed. Kincaid stays, TE is Higbee or Kincaid by matchup, the Allen note is deleted.
 - **Sunday contingencies have no timed check.** Inactives routine retired 2026-10-20 (never created). Lineup file keeps its IF lines for Sean to check by eye. Skattebo's 0.0 is now answered: he played 6 snaps, healthy and unused.
 - **Dropping Coleman and Meyers eight days after claiming them.** Lesson 6 test resolved against me; the column owes the correction. Coleman is re-claimed this week as chain A's fallback, which the column also owes.
