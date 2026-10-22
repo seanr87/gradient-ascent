@@ -3316,8 +3316,8 @@
   "pos": "WR",
   "team": "LAC",
   "status": "Active",
-  "injury_status": null,
-  "injury_note": null
+  "injury_status": "Questionable",
+  "injury_note": "Quadriceps"
  },
  "13939": {
   "name": "Gabriel Benyard",
@@ -24604,7 +24604,7 @@
   "pos": "RB",
   "team": null,
   "status": "Active",
-  "injury_status": "Out",
+  "injury_status": "IR",
   "injury_note": "Shoulder"
  },
  "11637": {
