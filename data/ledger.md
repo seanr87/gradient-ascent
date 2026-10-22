@@ -2,7 +2,7 @@
 
 Rewritten in full every Tuesday at 6:00 AM ET by the process review; `## State` and `## Open threads` updated by every decision run in the same commit as its decision. Hard cap 150 lines. Older weeks roll up; git history is the archive. Cite a thesis or lesson by name instead of re-arguing it.
 
-Last full rewrite: 2026-10-20 (fourth process review, covering Week 6). Last touched: 2026-10-22 (Wk 7 trade scan).
+Last full rewrite: 2026-10-20 (fourth process review, covering Week 6). Last touched: 2026-10-22 (Wk 7 Thursday call).
 
 ## State
 - **Week 6 final: lost 83.65 to Playful Secrets 100.97 (-17.32).** Record 2-4, 731.82 PF, 8th of 12. Week 7 opponent: **TheTroubles** (2-4, 624.06 PF, 10th). Waiver position **#5** (digest 2026-10-20 6:09 PM); it drifts, so re-read it every run.
@@ -14,6 +14,7 @@ Last full rewrite: 2026-10-20 (fourth process review, covering Week 6). Last tou
 - Chat targets used: Wk1 Three Wise Jaylens, Wk2 CorneliusJones, Wk3 Lost in the Land of Love, Princess Donut's Court (Wk 3 Mon), Playful Secrets (Wk 4 Mon), Sea Squirts (Wk 5 Mon), TheTroubles (Wk 6 Mon).
 
 ## Open threads
+- **Wk 7 byes: Daniels, Buffalo DEF (also Kincaid, Coleman, Vidal).** Thu call issued ADD Rodgers / DROP Vidal and QB swap; if not done, Daniels scores 0. DEF streamer + drop still owed in Sunday's file (free agents, Thesis 6). Irving [Q] illness is the other Sunday watch.
 - **FLEX / TE for Week 7 is open.** FLEX is Pierce (61 of 64 Wk 6 snaps, 15.0) or Vidal (25 snaps, 6.5) unless a claim lands a receiver. TE is Higbee 2.2 vs Kincaid 7.8 [Q]; decide on measured touches (Lesson 3), not health.
 - **QB is one deep once the trade lands.** Daniels only; he missed Wks 3-4. If he is flagged, stream from the wire — Rodgers 59.98, Murray, Geno Smith and Penix are all free — and the spot comes from the weakest back, not from a claim.
 - **Trades are opt-in** (see Process changes). Wk 5, Wk 6 and Wk 7 scans: NO ACTION. Wk 7 reopens only if Daniels is flagged or Irving [Q] is ruled out with no RB on the wire.
