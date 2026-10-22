@@ -4748,8 +4748,8 @@
   "pos": "QB",
   "team": "GB",
   "status": "Active",
-  "injury_status": "Questionable",
-  "injury_note": "Back"
+  "injury_status": null,
+  "injury_note": null
  },
  "3225": {
   "name": "Tyler Boyd",
@@ -9260,8 +9260,8 @@
   "pos": "WR",
   "team": "DAL",
   "status": "Active",
-  "injury_status": null,
-  "injury_note": null
+  "injury_status": "Questionable",
+  "injury_note": "Shoulder"
  },
  "5987": {
   "name": "Alexander Mattison",
@@ -13412,8 +13412,8 @@
   "pos": "TE",
   "team": "NYG",
   "status": "Active",
-  "injury_status": null,
-  "injury_note": null
+  "injury_status": "Questionable",
+  "injury_note": "Calf"
  },
  "3164": {
   "name": "Ezekiel Elliott",
@@ -14132,8 +14132,8 @@
   "pos": "RB",
   "team": "NO",
   "status": "Active",
-  "injury_status": "Questionable",
-  "injury_note": "Shoulder"
+  "injury_status": null,
+  "injury_note": null
  },
  "3810": {
   "name": "Brandon Burks",
@@ -15692,7 +15692,7 @@
   "pos": "RB",
   "team": "ARI",
   "status": "Active",
-  "injury_status": "Questionable",
+  "injury_status": "Doubtful",
   "injury_note": "Ankle"
  },
  "13946": {
@@ -16194,7 +16194,7 @@
  "12457": {
   "name": "Jaydon Blue",
   "pos": "RB",
-  "team": null,
+  "team": "PHI",
   "status": "Active",
   "injury_status": null,
   "injury_note": null
@@ -16420,8 +16420,8 @@
   "pos": "RB",
   "team": null,
   "status": "Active",
-  "injury_status": "Questionable",
-  "injury_note": "Knee"
+  "injury_status": null,
+  "injury_note": null
  },
  "571": {
   "name": "Ryan Mathews",
@@ -17372,8 +17372,8 @@
   "pos": "TE",
   "team": "HOU",
   "status": "Active",
-  "injury_status": null,
-  "injury_note": null
+  "injury_status": "Questionable",
+  "injury_note": "Foot"
  },
  "13776": {
   "name": "Hank Beatty",
@@ -21186,7 +21186,7 @@
  "12217": {
   "name": "Shawn Bowman",
   "pos": "TE",
-  "team": null,
+  "team": "ARI",
   "status": "Active",
   "injury_status": null,
   "injury_note": null
@@ -21324,7 +21324,7 @@
   "pos": "WR",
   "team": "PIT",
   "status": "Active",
-  "injury_status": "Questionable",
+  "injury_status": "Out",
   "injury_note": "Calf"
  },
  "7904": {
@@ -22036,7 +22036,7 @@
   "pos": "RB",
   "team": "HOU",
   "status": "Active",
-  "injury_status": "Questionable",
+  "injury_status": "Doubtful",
   "injury_note": "Groin"
  },
  "2559": {
@@ -22724,8 +22724,8 @@
   "pos": "WR",
   "team": "BAL",
   "status": "Active",
-  "injury_status": "Questionable",
-  "injury_note": "Shoulder"
+  "injury_status": null,
+  "injury_note": null
  },
  "8783": {
   "name": "Kendric Pryor",
@@ -23227,9 +23227,9 @@
   "name": "David Sills V",
   "pos": "WR",
   "team": "TB",
-  "status": "Inactive",
-  "injury_status": "IR",
-  "injury_note": "Undisclosed"
+  "status": "Active",
+  "injury_status": null,
+  "injury_note": null
  },
  "6931": {
   "name": "DeeJay Dallas",
@@ -24899,8 +24899,8 @@
   "name": "Elijah Arroyo",
   "pos": "TE",
   "team": "SEA",
-  "status": "Active",
-  "injury_status": "Out",
+  "status": "Inactive",
+  "injury_status": "IR",
   "injury_note": "Shoulder"
  },
  "6357": {
@@ -26860,8 +26860,8 @@
   "pos": "RB",
   "team": null,
   "status": "Active",
-  "injury_status": "Questionable",
-  "injury_note": "Undisclosed"
+  "injury_status": null,
+  "injury_note": null
  },
  "3551": {
   "name": "Max Wittek",
@@ -26988,8 +26988,8 @@
   "pos": "TE",
   "team": "IND",
   "status": "Active",
-  "injury_status": "Questionable",
-  "injury_note": "Ankle"
+  "injury_status": null,
+  "injury_note": null
  },
  "5239": {
   "name": "Lamar Jordan",
@@ -31139,8 +31139,8 @@
   "name": "Zach Charbonnet",
   "pos": "RB",
   "team": "SEA",
-  "status": "Inactive",
-  "injury_status": "PUP",
+  "status": "Active",
+  "injury_status": "Questionable",
   "injury_note": "Knee - ACL"
  },
  "2838": {
@@ -32124,8 +32124,8 @@
   "pos": "TE",
   "team": "BAL",
   "status": "Active",
-  "injury_status": "Questionable",
-  "injury_note": "Hand"
+  "injury_status": null,
+  "injury_note": null
  },
  "3497": {
   "name": "Darion Griswold",

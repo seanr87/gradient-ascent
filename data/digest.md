@@ -1,5 +1,5 @@
 # Sleeper digest — The Climb
-Pulled: 2026-10-22 17:36 UTC · NFL week 7 (regular)
+Pulled: 2026-10-22 21:08 UTC · NFL week 7 (regular)
 
 ## My roster
 - Tre Tucker (WR-LV)
@@ -51,31 +51,31 @@ Pulled: 2026-10-22 17:36 UTC · NFL week 7 (regular)
 - CorneliusJones 126.91 — Three Wise Jaylens  106.69
 
 ## Trending adds (24h, all Sleeper)
-- Roschon Johnson (RB-CHI) — 1,128,344 adds
-- Cleveland Browns (DEF-CLE) — 359,170 adds
-- Chase McLaughlin (K-TB) — 324,352 adds
-- Michael Mayer (TE-LV) — 299,601 adds
-- Omar Cooper Jr. (WR-NYJ) — 283,720 adds
-- Konata Mumpfield (WR-LAR) — 278,784 adds
-- Jake Bates (K-DET) — 240,648 adds
-- Tyler Higbee (TE-LAR) — 235,710 adds
-- C.J. Stroud (QB-HOU) — 208,677 adds
-- Kyler Murray (QB-MIN) — 191,824 adds
-- Treylon Burks (WR-WAS) — 182,637 adds
-- Zonovan Knight (RB-ARI) — 157,560 adds
-- Malik Washington (WR-MIA) — 131,736 adds
-- Tre Tucker (WR-LV) — 130,470 adds
-- New York Jets (DEF-NYJ) — 125,452 adds
-- Tyler Allgeier (RB-ARI) — 118,775 adds
-- Tank Dell (WR-HOU) [IR] — 114,808 adds
-- Bo Nix (QB-DEN) — 109,032 adds
-- Tanner McKee (QB-PHI) — 105,976 adds
-- Seth McGowan (RB-IND) — 103,024 adds
-- J.J. McCarthy (QB-NYG) — 101,703 adds
-- Jordan Addison (WR-MIN) — 101,502 adds
-- Brandon McManus (K-LAR) — 100,904 adds
-- Tyrone Tracy Jr. (RB-NYG) — 100,742 adds
-- Ryan Flournoy (WR-DAL) — 95,504 adds
+- Roschon Johnson (RB-CHI) — 1,121,952 adds
+- Cleveland Browns (DEF-CLE) — 322,497 adds
+- Chase McLaughlin (K-TB) — 309,880 adds
+- Michael Mayer (TE-LV) — 293,490 adds
+- Omar Cooper Jr. (WR-NYJ) — 244,320 adds
+- Konata Mumpfield (WR-LAR) — 244,062 adds
+- Tyler Higbee (TE-LAR) — 239,877 adds
+- Jake Bates (K-DET) — 226,760 adds
+- C.J. Stroud (QB-HOU) — 194,061 adds
+- Zonovan Knight (RB-ARI) — 187,032 adds
+- Kyler Murray (QB-MIN) — 175,152 adds
+- Treylon Burks (WR-WAS) — 166,348 adds
+- Tyler Allgeier (RB-ARI) — 137,680 adds
+- Malik Washington (WR-MIA) — 126,584 adds
+- Tre Tucker (WR-LV) — 118,590 adds
+- New York Jets (DEF-NYJ) — 113,330 adds
+- Seth McGowan (RB-IND) — 108,928 adds
+- Tank Dell (WR-HOU) [IR] — 108,624 adds
+- Brandon McManus (K-LAR) — 108,592 adds
+- Jordan Addison (WR-MIN) — 104,841 adds
+- Bo Nix (QB-DEN) — 103,278 adds
+- Tanner McKee (QB-PHI) — 98,744 adds
+- Ryan Flournoy (WR-DAL) — 94,048 adds
+- Tyrone Tracy Jr. (RB-NYG) — 84,554 adds
+- Aaron Rodgers (QB-PIT) — 83,584 adds
 
 ## League transactions this week
 - free_agent (complete) Lost in the Land of Love: +[Kyler Murray (QB-MIN)] -[Los Angeles Rams (DEF-LAR)]
