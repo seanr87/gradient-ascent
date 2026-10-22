@@ -1,12 +1,12 @@
 # Sleeper digest — The Climb
-Pulled: 2026-10-21 19:15 UTC · NFL week 7 (regular)
+Pulled: 2026-10-22 12:13 UTC · NFL week 7 (regular)
 
 ## My roster
 - Tre Tucker (WR-LV)
 - Dalton Kincaid (TE-BUF) [Questionable]
 - Jayden Daniels (QB-WAS) (STARTER)
 - Braelon Allen (RB-NYJ) (STARTER)
-- Bucky Irving (RB-TB) (STARTER)
+- Bucky Irving (RB-TB) [Questionable] (STARTER)
 - Keon Coleman (WR-BUF)
 - Kimani Vidal (RB-LAC)
 - Devaughn Vele (WR-NO)
@@ -28,7 +28,7 @@ Pulled: 2026-10-21 19:15 UTC · NFL week 7 (regular)
 5. Three Wise Jaylens  — 4-2, 746.11 PF, waiver #3
 6. Sea Squirts — 3-3, 765.57 PF, waiver #2
 7. CorneliusJones — 3-3, 702.96 PF, waiver #7
-8. Gradient Ascent — 2-4, 731.82 PF, waiver #9
+8. Gradient Ascent — 2-4, 732.07 PF, waiver #9
 9. What can Brown do for u? — 2-4, 680.98 PF, waiver #6
 10. TheTroubles — 2-4, 624.06 PF, waiver #1
 11. The Wizard’s Apprentice — 1-5, 683.46 PF, waiver #5
@@ -45,37 +45,39 @@ Pulled: 2026-10-21 19:15 UTC · NFL week 7 (regular)
 ## Last week's results (week 6)
 - Princess Donut's Court 120.04 — TheTroubles 95.90
 - Lost in the Land of Love 99.63 — The Wizard’s Apprentice 95.27
-- Playful Secrets 100.97 — Gradient Ascent 83.65
+- Playful Secrets 100.97 — Gradient Ascent 83.90
 - The Butker Jihad 106.29 — What can Brown do for u? 89.97
 - Umojan Protectorate 145.16 — Sea Squirts 103.18
 - CorneliusJones 126.91 — Three Wise Jaylens  106.69
 
 ## Trending adds (24h, all Sleeper)
-- Omar Cooper (WR-NYJ) — 3,647,248 adds
-- Cleveland Browns (DEF-CLE) — 1,579,501 adds
-- Konata Mumpfield (WR-LAR) — 1,315,512 adds
-- Michael Mayer (TE-LV) — 725,355 adds
-- Roschon Johnson (RB-CHI) — 664,912 adds
-- Kyler Murray (QB-MIN) — 655,152 adds
-- Chase McLaughlin (K-TB) — 610,456 adds
-- C.J. Stroud (QB-HOU) — 586,320 adds
-- Treylon Burks (WR-WAS) — 560,175 adds
-- Jake Bates (K-DET) — 540,528 adds
-- Tyrone Tracy (RB-NYG) — 502,656 adds
-- New York Jets (DEF-NYJ) — 469,676 adds
-- Terrance Ferguson (TE-LAR) [IR] — 414,944 adds
-- Tre Tucker (WR-LV) — 406,644 adds
-- Tyler Higbee (TE-LAR) — 383,859 adds
-- Kyle Pitts (TE-ATL) — 348,096 adds
-- Minnesota Vikings (DEF-MIN) — 327,265 adds
-- Tank Dell (WR-HOU) [IR] — 315,184 adds
-- Malik Washington (WR-MIA) — 297,992 adds
-- Will Reichard (K-MIN) — 296,325 adds
-- Caleb Douglas (WR-MIA) [Questionable] — 284,368 adds
-- Tanner McKee (QB-PHI) — 261,872 adds
-- Jordan Mason (RB-MIN) [IR] — 258,775 adds
-- Pierre Strong (RB-GB) — 241,155 adds
-- Bo Nix (QB-DEN) — 232,002 adds
+- Roschon Johnson (RB-CHI) — 998,680 adds
+- Cleveland Browns (DEF-CLE) — 632,142 adds
+- Omar Cooper Jr. (WR-NYJ) — 554,320 adds
+- Chase McLaughlin (K-TB) — 473,920 adds
+- Konata Mumpfield (WR-LAR) — 463,752 adds
+- Michael Mayer (TE-LV) — 415,017 adds
+- Jake Bates (K-DET) — 377,744 adds
+- Kyler Murray (QB-MIN) — 308,808 adds
+- Tyler Higbee (TE-LAR) — 299,880 adds
+- C.J. Stroud (QB-HOU) — 284,683 adds
+- Treylon Burks (WR-WAS) — 269,430 adds
+- New York Jets (DEF-NYJ) — 224,056 adds
+- Tre Tucker (WR-LV) — 197,982 adds
+- Malik Washington (WR-MIA) — 189,520 adds
+- Tyrone Tracy Jr. (RB-NYG) — 176,940 adds
+- Bo Nix (QB-DEN) — 164,946 adds
+- J.J. McCarthy (QB-NYG) — 151,860 adds
+- Tank Dell (WR-HOU) [IR] — 151,704 adds
+- Tanner McKee (QB-PHI) — 150,792 adds
+- Ryan Flournoy (WR-DAL) — 133,672 adds
+- Caleb Douglas (WR-MIA) [Questionable] — 133,576 adds
+- Geno Smith (QB-NYJ) — 133,436 adds
+- Aaron Rodgers (QB-PIT) — 130,040 adds
+- Kyle Pitts Sr. (TE-ATL) — 129,808 adds
+- Pierre Strong Jr. (RB-GB) — 124,794 adds
 
 ## League transactions this week
+- free_agent (complete) Lost in the Land of Love: +[Kyler Murray (QB-MIN)] -[Los Angeles Rams (DEF-LAR)]
+- free_agent (complete) Lost in the Land of Love: +[Zonovan Knight (RB-ARI)] -[TreVeyon Henderson (RB-NE)]
 - free_agent (complete) The Wizard’s Apprentice: +[New York Jets (DEF-NYJ)] -[Atlanta Falcons (DEF-ATL)]
