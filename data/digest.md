@@ -1,5 +1,5 @@
 # Sleeper digest — The Climb
-Pulled: 2026-10-22 23:21 UTC · NFL week 7 (regular)
+Pulled: 2026-10-22 23:53 UTC · NFL week 7 (regular)
 
 ## My roster
 - Tre Tucker (WR-LV)
@@ -51,31 +51,31 @@ Pulled: 2026-10-22 23:21 UTC · NFL week 7 (regular)
 - CorneliusJones 126.91 — Three Wise Jaylens  106.69
 
 ## Trending adds (24h, all Sleeper)
-- Roschon Johnson (RB-CHI) — 1,142,856 adds
-- Konata Mumpfield (WR-LAR) — 484,668 adds
-- Chase McLaughlin (K-TB) — 330,280 adds
-- Cleveland Browns (DEF-CLE) — 329,511 adds
-- Michael Mayer (TE-LV) — 307,107 adds
-- Tyler Higbee (TE-LAR) — 292,707 adds
-- Jake Bates (K-DET) — 243,624 adds
-- Omar Cooper Jr. (WR-NYJ) — 227,864 adds
-- Zonovan Knight (RB-ARI) — 202,084 adds
-- C.J. Stroud (QB-HOU) — 197,407 adds
-- Kyler Murray (QB-MIN) — 176,560 adds
-- Treylon Burks (WR-WAS) — 164,563 adds
-- Tyler Allgeier (RB-ARI) — 147,115 adds
-- Malik Washington (WR-MIA) — 131,600 adds
-- Seth McGowan (RB-IND) — 131,120 adds
-- Brandon McManus (K-LAR) — 126,016 adds
-- Tre Tucker (WR-LV) — 119,844 adds
-- New York Jets (DEF-NYJ) — 116,218 adds
-- Bo Nix (QB-DEN) — 108,660 adds
-- Jordan Addison (WR-MIN) — 107,604 adds
-- Tank Dell (WR-HOU) [IR] — 106,616 adds
-- Tanner McKee (QB-PHI) — 101,776 adds
-- Ryan Flournoy (WR-DAL) — 101,088 adds
-- Brandin Cooks (WR-SF) — 88,380 adds
-- Aaron Rodgers (QB-PIT) — 87,824 adds
+- Roschon Johnson (RB-CHI) — 1,168,272 adds
+- Konata Mumpfield (WR-LAR) — 537,966 adds
+- Chase McLaughlin (K-TB) — 380,504 adds
+- Cleveland Browns (DEF-CLE) — 336,896 adds
+- Michael Mayer (TE-LV) — 314,775 adds
+- Tyler Higbee (TE-LAR) — 310,158 adds
+- Jake Bates (K-DET) — 276,960 adds
+- Omar Cooper Jr. (WR-NYJ) — 220,384 adds
+- Zonovan Knight (RB-ARI) — 210,320 adds
+- C.J. Stroud (QB-HOU) — 208,726 adds
+- Kyler Murray (QB-MIN) — 184,808 adds
+- Treylon Burks (WR-WAS) — 165,452 adds
+- Brandon McManus (K-LAR) — 155,312 adds
+- Tyler Allgeier (RB-ARI) — 151,870 adds
+- Seth McGowan (RB-IND) — 141,696 adds
+- Malik Washington (WR-MIA) — 135,400 adds
+- Tre Tucker (WR-LV) — 120,660 adds
+- New York Jets (DEF-NYJ) — 119,464 adds
+- Bo Nix (QB-DEN) — 115,842 adds
+- Jordan Addison (WR-MIN) — 107,334 adds
+- Tanner McKee (QB-PHI) — 107,312 adds
+- Ryan Flournoy (WR-DAL) — 104,960 adds
+- Tank Dell (WR-HOU) [IR] — 104,512 adds
+- Brandin Cooks (WR-SF) — 93,120 adds
+- Aaron Rodgers (QB-PIT) — 93,044 adds
 
 ## League transactions this week
 - free_agent (complete) Gradient Ascent: +[Aaron Rodgers (QB-PIT)] -[Kimani Vidal (RB-LAC)]
