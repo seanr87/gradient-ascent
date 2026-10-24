@@ -212,8 +212,8 @@
   "pos": "RB",
   "team": "TB",
   "status": "Active",
-  "injury_status": "Questionable",
-  "injury_note": "Illness"
+  "injury_status": null,
+  "injury_note": null
  },
  "1195": {
   "name": "Doug Martin",
@@ -706,7 +706,7 @@
  "11304": {
   "name": "E.J. Jenkins",
   "pos": "TE",
-  "team": "PHI",
+  "team": null,
   "status": "Active",
   "injury_status": null,
   "injury_note": null
@@ -2308,8 +2308,8 @@
   "pos": "WR",
   "team": "NYG",
   "status": "Active",
-  "injury_status": "Questionable",
-  "injury_note": "Achilles"
+  "injury_status": null,
+  "injury_note": null
  },
  "4026": {
   "name": "DeShone Kizer",
@@ -3148,8 +3148,8 @@
   "pos": "WR",
   "team": "DEN",
   "status": "Active",
-  "injury_status": "Questionable",
-  "injury_note": "Chest"
+  "injury_status": null,
+  "injury_note": null
  },
  "6738": {
   "name": "Cedric Benson",
@@ -3684,8 +3684,8 @@
   "pos": "TE",
   "team": "MIN",
   "status": "Active",
-  "injury_status": "Questionable",
-  "injury_note": "Concussion"
+  "injury_status": null,
+  "injury_note": null
  },
  "3920": {
   "name": "Harvey Binford",
@@ -4340,7 +4340,7 @@
   "pos": "RB",
   "team": "ATL",
   "status": "Active",
-  "injury_status": "Questionable",
+  "injury_status": "Out",
   "injury_note": "Hamstring"
  },
  "11060": {
@@ -7356,8 +7356,8 @@
   "pos": "RB",
   "team": "KC",
   "status": "Active",
-  "injury_status": null,
-  "injury_note": null
+  "injury_status": "Out",
+  "injury_note": "Hamstring"
  },
  "4881": {
   "name": "Lamar Jackson",
@@ -7820,7 +7820,7 @@
   "pos": "TE",
   "team": "IND",
   "status": "Active",
-  "injury_status": "Questionable",
+  "injury_status": "Out",
   "injury_note": "Groin"
  },
  "8203": {
@@ -8028,8 +8028,8 @@
   "pos": "WR",
   "team": "GB",
   "status": "Active",
-  "injury_status": "Questionable",
-  "injury_note": "Ankle"
+  "injury_status": null,
+  "injury_note": null
  },
  "8211": {
   "name": "Tyrion Davis-Price",
@@ -8106,7 +8106,7 @@
  "12897": {
   "name": "Nate Carter",
   "pos": "RB",
-  "team": null,
+  "team": "KC",
   "status": "Active",
   "injury_status": null,
   "injury_note": null
@@ -8724,7 +8724,7 @@
   "pos": "WR",
   "team": "TB",
   "status": "Active",
-  "injury_status": "Questionable",
+  "injury_status": "Out",
   "injury_note": "Concussion"
  },
  "7605": {
@@ -9108,8 +9108,8 @@
   "pos": "WR",
   "team": "MIA",
   "status": "Active",
-  "injury_status": "Questionable",
-  "injury_note": "Ankle"
+  "injury_status": null,
+  "injury_note": null
  },
  "6263": {
   "name": "Trevor Wood",
@@ -9260,8 +9260,8 @@
   "pos": "WR",
   "team": "DAL",
   "status": "Active",
-  "injury_status": "Questionable",
-  "injury_note": "Shoulder"
+  "injury_status": null,
+  "injury_note": null
  },
  "5987": {
   "name": "Alexander Mattison",
@@ -9420,7 +9420,7 @@
   "pos": "TE",
   "team": "NYG",
   "status": "Active",
-  "injury_status": "Questionable",
+  "injury_status": "Doubtful",
   "injury_note": "Neck"
  },
  "11270": {
@@ -9716,7 +9716,7 @@
   "pos": "RB",
   "team": "DEN",
   "status": "Active",
-  "injury_status": "Questionable",
+  "injury_status": "Out",
   "injury_note": "Thumb"
  },
  "1855": {
@@ -10212,7 +10212,7 @@
   "pos": "WR",
   "team": "SF",
   "status": "Active",
-  "injury_status": "Questionable",
+  "injury_status": "Out",
   "injury_note": "Achilles"
  },
  "7562": {
@@ -10668,8 +10668,8 @@
   "pos": "WR",
   "team": "GB",
   "status": "Active",
-  "injury_status": "Questionable",
-  "injury_note": "Ankle"
+  "injury_status": null,
+  "injury_note": null
  },
  "13190": {
   "name": "Taylor Elgersma",
@@ -13412,8 +13412,8 @@
   "pos": "TE",
   "team": "NYG",
   "status": "Active",
-  "injury_status": "Questionable",
-  "injury_note": "Calf"
+  "injury_status": null,
+  "injury_note": null
  },
  "3164": {
   "name": "Ezekiel Elliott",
@@ -15172,7 +15172,7 @@
   "pos": "WR",
   "team": "KC",
   "status": "Active",
-  "injury_status": "Questionable",
+  "injury_status": "Out",
   "injury_note": "Hamstring"
  },
  "8881": {
@@ -15692,7 +15692,7 @@
   "pos": "RB",
   "team": "ARI",
   "status": "Active",
-  "injury_status": "Questionable",
+  "injury_status": "Out",
   "injury_note": "Ankle"
  },
  "13946": {
@@ -17372,8 +17372,8 @@
   "pos": "TE",
   "team": "HOU",
   "status": "Active",
-  "injury_status": "Questionable",
-  "injury_note": "Foot"
+  "injury_status": null,
+  "injury_note": null
  },
  "13776": {
   "name": "Hank Beatty",
@@ -19236,8 +19236,8 @@
   "pos": "RB",
   "team": "CLE",
   "status": "Active",
-  "injury_status": "Questionable",
-  "injury_note": "Ankle"
+  "injury_status": null,
+  "injury_note": null
  },
  "660": {
   "name": "Peyton Hillis",
@@ -20659,8 +20659,8 @@
   "name": "Cole Kmet",
   "pos": "TE",
   "team": "CHI",
-  "status": "Active",
-  "injury_status": "Out",
+  "status": "Inactive",
+  "injury_status": "IR",
   "injury_note": "Knee"
  },
  "6161": {
@@ -21604,8 +21604,8 @@
   "pos": "RB",
   "team": "TEN",
   "status": "Active",
-  "injury_status": null,
-  "injury_note": null
+  "injury_status": "Questionable",
+  "injury_note": "Knee"
  },
  "11570": {
   "name": "Rasheen Ali",
@@ -22036,7 +22036,7 @@
   "pos": "RB",
   "team": "HOU",
   "status": "Active",
-  "injury_status": "Doubtful",
+  "injury_status": "Out",
   "injury_note": "Groin"
  },
  "2559": {
@@ -23234,7 +23234,7 @@
  "6931": {
   "name": "DeeJay Dallas",
   "pos": "RB",
-  "team": "MIN",
+  "team": null,
   "status": "Active",
   "injury_status": null,
   "injury_note": null
@@ -25876,8 +25876,8 @@
   "pos": "WR",
   "team": "NYJ",
   "status": "Active",
-  "injury_status": "Questionable",
-  "injury_note": "Finger"
+  "injury_status": null,
+  "injury_note": null
  },
  "4767": {
   "name": "Dane Evans",
@@ -26372,7 +26372,7 @@
   "pos": "WR",
   "team": "IND",
   "status": "Active",
-  "injury_status": "Questionable",
+  "injury_status": "Out",
   "injury_note": "Concussion"
  },
  "7602": {
@@ -26844,8 +26844,8 @@
   "pos": "WR",
   "team": "CLE",
   "status": "Active",
-  "injury_status": "Questionable",
-  "injury_note": "Foot"
+  "injury_status": null,
+  "injury_note": null
  },
  "8126": {
   "name": "Wan'Dale Robinson",
@@ -28508,8 +28508,8 @@
   "pos": "TE",
   "team": "MIA",
   "status": "Active",
-  "injury_status": "Questionable",
-  "injury_note": "Hamstring"
+  "injury_status": null,
+  "injury_note": null
  },
  "8196": {
   "name": "Ty Fryfogle",
@@ -29971,7 +29971,7 @@
   "name": "Tank Dell",
   "pos": "WR",
   "team": "HOU",
-  "status": "Active",
+  "status": "Inactive",
   "injury_status": "IR",
   "injury_note": "Knee - ACL + MCL"
  },
@@ -30068,8 +30068,8 @@
   "pos": "TE",
   "team": "KC",
   "status": "Active",
-  "injury_status": "Questionable",
-  "injury_note": "Ankle"
+  "injury_status": null,
+  "injury_note": null
  },
  "11932": {
   "name": "Mike DiLiello",
@@ -31140,7 +31140,7 @@
   "pos": "RB",
   "team": "SEA",
   "status": "Active",
-  "injury_status": "Questionable",
+  "injury_status": "Out",
   "injury_note": "Knee - ACL"
  },
  "2838": {
@@ -31772,8 +31772,8 @@
   "pos": "TE",
   "team": "HOU",
   "status": "Active",
-  "injury_status": "Questionable",
-  "injury_note": "Quadriceps"
+  "injury_status": null,
+  "injury_note": null
  },
  "9485": {
   "name": "Player Invalid",
@@ -31788,8 +31788,8 @@
   "pos": "RB",
   "team": "MIA",
   "status": "Active",
-  "injury_status": "Questionable",
-  "injury_note": "Foot"
+  "injury_status": null,
+  "injury_note": null
  },
  "198": {
   "name": "Kellen Clemens",
@@ -32180,8 +32180,8 @@
   "pos": "WR",
   "team": "CLE",
   "status": "Active",
-  "injury_status": "Questionable",
-  "injury_note": "Quadriceps"
+  "injury_status": null,
+  "injury_note": null
  },
  "300": {
   "name": "Willis McGahee",
@@ -33164,8 +33164,8 @@
   "pos": "WR",
   "team": "IND",
   "status": "Active",
-  "injury_status": "Questionable",
-  "injury_note": "Hamstring"
+  "injury_status": null,
+  "injury_note": null
  },
  "13005": {
   "name": "Anthony Torres",
@@ -33876,8 +33876,8 @@
   "pos": "WR",
   "team": "GB",
   "status": "Active",
-  "injury_status": "Questionable",
-  "injury_note": "Shoulder"
+  "injury_status": null,
+  "injury_note": null
  },
  "3309": {
   "name": "Wendell Smallwood",
