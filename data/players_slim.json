@@ -7292,7 +7292,7 @@
   "pos": "WR",
   "team": "PHI",
   "status": "Active",
-  "injury_status": "Questionable",
+  "injury_status": "Out",
   "injury_note": "Ankle"
  },
  "1346": {
@@ -7355,8 +7355,8 @@
   "name": "Brashard Smith",
   "pos": "RB",
   "team": "KC",
-  "status": "Active",
-  "injury_status": "Out",
+  "status": "Inactive",
+  "injury_status": "IR",
   "injury_note": "Hamstring"
  },
  "4881": {
@@ -7364,7 +7364,7 @@
   "pos": "QB",
   "team": "BAL",
   "status": "Active",
-  "injury_status": "Questionable",
+  "injury_status": "Out",
   "injury_note": "Ankle"
  },
  "10937": {
@@ -8980,8 +8980,8 @@
   "pos": "RB",
   "team": "MIN",
   "status": "Inactive",
-  "injury_status": "IR",
-  "injury_note": "Thumb"
+  "injury_status": null,
+  "injury_note": null
  },
  "12884": {
   "name": "Quincy Skinner Jr.",
@@ -9420,7 +9420,7 @@
   "pos": "TE",
   "team": "NYG",
   "status": "Active",
-  "injury_status": "Doubtful",
+  "injury_status": "Out",
   "injury_note": "Neck"
  },
  "11270": {
@@ -14188,8 +14188,8 @@
   "pos": "TE",
   "team": "PHI",
   "status": "Active",
-  "injury_status": "Questionable",
-  "injury_note": "Knee"
+  "injury_status": null,
+  "injury_note": null
  },
  "12849": {
   "name": "Traeshon Holden",
@@ -15060,7 +15060,7 @@
   "pos": "WR",
   "team": "DAL",
   "status": "Active",
-  "injury_status": "Questionable",
+  "injury_status": "Out",
   "injury_note": "Ribs"
  },
  "7885": {
@@ -15908,7 +15908,7 @@
   "pos": "WR",
   "team": "PHI",
   "status": "Active",
-  "injury_status": "Questionable",
+  "injury_status": "Out",
   "injury_note": "Hamstring"
  },
  "2918": {
@@ -22307,9 +22307,9 @@
   "name": "Dylan Sampson",
   "pos": "RB",
   "team": "CLE",
-  "status": "Inactive",
-  "injury_status": "IR",
-  "injury_note": "Knee"
+  "status": "Active",
+  "injury_status": null,
+  "injury_note": null
  },
  "3020": {
   "name": "Dan Light",
@@ -29972,7 +29972,7 @@
   "pos": "WR",
   "team": "HOU",
   "status": "Inactive",
-  "injury_status": "IR",
+  "injury_status": "Questionable",
   "injury_note": "Knee - ACL + MCL"
  },
  "110": {

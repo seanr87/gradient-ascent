@@ -1,5 +1,5 @@
 # Sleeper digest — The Climb
-Pulled: 2026-10-24 16:29 UTC · NFL week 7 (regular)
+Pulled: 2026-10-24 20:48 UTC · NFL week 7 (regular)
 
 ## My roster
 - Tre Tucker (WR-LV)
@@ -21,18 +21,18 @@ Pulled: 2026-10-24 16:29 UTC · NFL week 7 (regular)
 - Opponent: TheTroubles
 
 ## Standings (W-L, points for)
-1. Playful Secrets — 5-1, 778.24 PF, waiver #10
-2. The Butker Jihad — 5-1, 775.05 PF, waiver #9
+1. Playful Secrets — 5-1, 778.24 PF, waiver #9
+2. The Butker Jihad — 5-1, 775.05 PF, waiver #12
 3. Princess Donut's Court — 4-2, 819.61 PF, waiver #6
 4. Umojan Protectorate — 4-2, 796.23 PF, waiver #8
 5. Three Wise Jaylens  — 4-2, 746.11 PF, waiver #3
 6. Sea Squirts — 3-3, 765.57 PF, waiver #2
 7. CorneliusJones — 3-3, 702.96 PF, waiver #5
 8. Gradient Ascent — 2-4, 732.07 PF, waiver #7
-9. What can Brown do for u? — 2-4, 680.98 PF, waiver #12
+9. What can Brown do for u? — 2-4, 680.98 PF, waiver #11
 10. TheTroubles — 2-4, 624.06 PF, waiver #1
 11. The Wizard’s Apprentice — 1-5, 683.46 PF, waiver #4
-12. Lost in the Land of Love — 1-5, 618.73 PF, waiver #11
+12. Lost in the Land of Love — 1-5, 618.73 PF, waiver #10
 
 ## This week's matchups (week 7)
 - Princess Donut's Court 29.30 — The Wizard’s Apprentice 0.00
@@ -51,37 +51,39 @@ Pulled: 2026-10-24 16:29 UTC · NFL week 7 (regular)
 - CorneliusJones 126.91 — Three Wise Jaylens  106.69
 
 ## Trending adds (24h, all Sleeper)
-- Konata Mumpfield (WR-LAR) — 405,684 adds
-- Seth McGowan (RB-IND) — 337,048 adds
-- Tyler Higbee (TE-LAR) — 305,775 adds
-- Chris Godwin Jr. (WR-TB) — 218,604 adds
-- Emanuel Wilson (RB-SEA) — 210,150 adds
-- Ted Hurst III (WR-TB) — 143,562 adds
-- Michael Mayer (TE-LV) — 133,893 adds
-- Zonovan Knight (RB-ARI) — 101,868 adds
-- Brandin Cooks (WR-SF) — 97,156 adds
-- Ryan Flournoy (WR-DAL) — 81,720 adds
-- Malik Washington (WR-MIA) — 76,544 adds
-- Adonai Mitchell (WR-NYJ) — 73,896 adds
-- Tyler Allgeier (RB-ARI) — 72,095 adds
-- Caleb Douglas (WR-MIA) — 70,600 adds
-- Jordan Watkins (WR-SF) — 68,324 adds
-- Chase McLaughlin (K-TB) — 65,120 adds
-- Xavier Worthy (WR-KC) — 63,729 adds
-- Colby Parkinson (TE-LAR) — 60,240 adds
-- KC Concepcion Jr. (WR-CLE) — 53,415 adds
-- Cleveland Browns (DEF-CLE) — 52,598 adds
-- Kyle Pitts Sr. (TE-ATL) — 51,730 adds
-- Keenan Allen (WR-IND) — 49,904 adds
-- Kyler Murray (QB-MIN) — 49,040 adds
-- Jordan Addison (WR-MIN) — 48,726 adds
-- Cade Otton (TE-TB) — 47,130 adds
+- Seth McGowan (RB-IND) — 409,536 adds
+- Konata Mumpfield (WR-LAR) — 312,966 adds
+- Emanuel Wilson (RB-SEA) — 243,630 adds
+- Tyler Higbee (TE-LAR) — 202,725 adds
+- Chris Godwin Jr. (WR-TB) — 184,848 adds
+- Ted Hurst III (WR-TB) — 122,028 adds
+- Brandin Cooks (WR-SF) — 97,980 adds
+- Justice Hill (RB-BAL) — 89,757 adds
+- Michael Mayer (TE-LV) — 85,635 adds
+- Zonovan Knight (RB-ARI) — 79,148 adds
+- Xavier Worthy (WR-KC) — 71,235 adds
+- Kyler Murray (QB-MIN) — 68,592 adds
+- Jordan Watkins (WR-SF) — 67,476 adds
+- Adonai Mitchell (WR-NYJ) — 62,472 adds
+- Caleb Douglas (WR-MIA) — 58,256 adds
+- Chase McLaughlin (K-TB) — 53,904 adds
+- Ryan Flournoy (WR-DAL) — 53,472 adds
+- Tyler Allgeier (RB-ARI) — 53,430 adds
+- Malik Washington (WR-MIA) — 51,832 adds
+- KC Concepcion Jr. (WR-CLE) — 47,970 adds
+- Cleveland Browns (DEF-CLE) — 45,444 adds
+- C.J. Stroud (QB-HOU) — 44,807 adds
+- Bo Nix (QB-DEN) — 44,736 adds
+- Will Mallory (TE-IND) — 41,985 adds
+- Colby Parkinson (TE-LAR) — 40,662 adds
 
 ## League transactions this week
+- free_agent (complete) CorneliusJones: +[Konata Mumpfield (WR-LAR)] -[Romeo Doubs (WR-NE) [IR]]
 - free_agent (complete) Lost in the Land of Love: +[Seth McGowan (RB-IND)] -[Kyle Pitts Sr. (TE-ATL)]
 - free_agent (complete) The Butker Jihad: +[Rico Dowdle (RB-PIT) [Questionable]] -[Courtland Sutton (WR-DEN)]
 - waiver (complete) Lost in the Land of Love: +[Cam Skattebo (RB-NYG)] -[Zonovan Knight (RB-ARI)]
-- free_agent (complete) Lost in the Land of Love: +[Kyle Pitts Sr. (TE-ATL)] -[Dallas Goedert (TE-PHI) [Questionable]]
+- free_agent (complete) Lost in the Land of Love: +[Kyle Pitts Sr. (TE-ATL)] -[Dallas Goedert (TE-PHI)]
+- waiver (complete) The Butker Jihad: +[Kimani Vidal (RB-LAC)] -[KC Concepcion Jr. (WR-CLE)]
 - free_agent (complete) Gradient Ascent: +[Aaron Rodgers (QB-PIT)] -[Kimani Vidal (RB-LAC)]
 - waiver (complete) What can Brown do for u?: +[Tyler Allgeier (RB-ARI)] -[Justin Herbert (QB-LAC)]
 - free_agent (complete) Lost in the Land of Love: +[Kyler Murray (QB-MIN)] -[Los Angeles Rams (DEF-LAR)]
