@@ -1,5 +1,5 @@
 # Sleeper digest — The Climb
-Pulled: 2026-10-25 13:07 UTC · NFL week 7 (regular)
+Pulled: 2026-10-25 15:12 UTC · NFL week 7 (regular)
 
 ## My roster
 - Tre Tucker (WR-LV)
@@ -35,12 +35,12 @@ Pulled: 2026-10-25 13:07 UTC · NFL week 7 (regular)
 12. Lost in the Land of Love — 1-5, 618.73 PF, waiver #10
 
 ## This week's matchups (week 7)
-- Princess Donut's Court 29.30 — The Wizard’s Apprentice 0.00
-- TheTroubles 5.75 — Gradient Ascent 0.00
+- Princess Donut's Court 32.80 — The Wizard’s Apprentice 9.20
+- Gradient Ascent 10.56 — TheTroubles 5.75
 - Lost in the Land of Love 17.90 — What can Brown do for u? 0.00
-- Playful Secrets 0.00 — Sea Squirts 0.00
-- CorneliusJones 58.94 — The Butker Jihad 0.00
-- Umojan Protectorate 48.75 — Three Wise Jaylens  0.00
+- Playful Secrets 8.70 — Sea Squirts 0.00
+- CorneliusJones 61.54 — The Butker Jihad 0.00
+- Umojan Protectorate 58.93 — Three Wise Jaylens  23.50
 
 ## Last week's results (week 6)
 - Princess Donut's Court 120.04 — TheTroubles 95.90
@@ -51,31 +51,31 @@ Pulled: 2026-10-25 13:07 UTC · NFL week 7 (regular)
 - CorneliusJones 126.91 — Three Wise Jaylens  106.69
 
 ## Trending adds (24h, all Sleeper)
-- Seth McGowan (RB-IND) — 642,752 adds
-- Darius Cooper (WR-PHI) — 427,882 adds
-- Konata Mumpfield (WR-LAR) — 285,282 adds
-- Tyler Higbee (TE-LAR) — 214,101 adds
-- Emanuel Wilson (RB-SEA) — 189,612 adds
-- Chris Godwin Jr. (WR-TB) — 176,214 adds
-- Justice Hill (RB-BAL) — 143,847 adds
-- Kyler Murray (QB-MIN) — 115,816 adds
-- Ted Hurst III (WR-TB) — 111,612 adds
-- Makai Lemon (WR-PHI) — 101,612 adds
-- Xavier Worthy (WR-KC) — 87,966 adds
-- Michael Mayer (TE-LV) — 81,126 adds
-- Bo Nix (QB-DEN) — 73,782 adds
-- Chase McLaughlin (K-TB) — 73,136 adds
-- Brandin Cooks (WR-SF) — 70,920 adds
-- Zonovan Knight (RB-ARI) — 69,860 adds
-- Aaron Rodgers (QB-PIT) — 66,756 adds
-- Cleveland Browns (DEF-CLE) — 62,174 adds
-- Jake Bates (K-DET) — 62,144 adds
-- KC Concepcion Jr. (WR-CLE) — 61,893 adds
-- C.J. Stroud (QB-HOU) — 59,738 adds
-- Caleb Douglas (WR-MIA) — 58,624 adds
-- Tyler Allgeier (RB-ARI) — 57,205 adds
-- Geno Smith (QB-NYJ) — 55,996 adds
-- Malik Washington (WR-MIA) — 53,440 adds
+- Seth McGowan (RB-IND) — 733,720 adds
+- Darius Cooper (WR-PHI) — 580,811 adds
+- Konata Mumpfield (WR-LAR) — 295,416 adds
+- Tyler Higbee (TE-LAR) — 253,017 adds
+- Emanuel Wilson (RB-SEA) — 214,200 adds
+- Chris Godwin Jr. (WR-TB) — 198,708 adds
+- Justice Hill (RB-BAL) — 167,796 adds
+- Kyler Murray (QB-MIN) — 144,344 adds
+- Makai Lemon (WR-PHI) — 123,132 adds
+- Ted Hurst III (WR-TB) — 120,384 adds
+- Xavier Worthy (WR-KC) — 102,168 adds
+- Michael Mayer (TE-LV) — 98,145 adds
+- Chase McLaughlin (K-TB) — 96,280 adds
+- Bo Nix (QB-DEN) — 90,786 adds
+- Zonovan Knight (RB-ARI) — 86,086 adds
+- Jake Bates (K-DET) — 79,536 adds
+- Cleveland Browns (DEF-CLE) — 78,645 adds
+- Brandin Cooks (WR-SF) — 78,204 adds
+- KC Concepcion Jr. (WR-CLE) — 75,546 adds
+- Tyler Allgeier (RB-ARI) — 71,380 adds
+- Geno Smith (QB-NYJ) — 71,276 adds
+- Aaron Rodgers (QB-PIT) — 69,904 adds
+- C.J. Stroud (QB-HOU) — 69,013 adds
+- Caleb Douglas (WR-MIA) — 67,544 adds
+- Malik Washington (WR-MIA) — 67,000 adds
 
 ## League transactions this week
 - free_agent (complete) CorneliusJones: +[Chris Godwin Jr. (WR-TB)] -[Konata Mumpfield (WR-LAR)]
