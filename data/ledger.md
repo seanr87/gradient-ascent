@@ -6,7 +6,7 @@ Last full rewrite: 2026-10-20 (fourth process review, covering Week 6). Last tou
 
 ## State
 - **Week 6 final: lost 83.65 to Playful Secrets 100.97 (-17.32).** Record 2-4, 731.82 PF, 8th of 12. Week 7 opponent: **TheTroubles** (2-4, 624.06 PF, 10th). Waiver position **#5** (digest 2026-10-20 6:09 PM); it drifts, so re-read it every run.
-- Roster (14), 2026-10-21 digest: QB Daniels; RB Irving, B. Allen, Vidal, Pierce; WR Lamb, Nacua, Vele, Coleman, Tucker; TE Kincaid [Q], Higbee; K Loop; DEF Buffalo. No IR slot. Waiver position **#9**. Stroud-for-Vele completed.
+- Roster (14), 2026-10-25 digest: QB Rodgers, Daniels; RB Irving, B. Allen, Pierce; WR Lamb, Nacua [Q calf], Vele, Coleman, Tucker; TE Higbee, Kincaid [Q]; K Loop; DEF Buffalo (bye, drop owed). Waiver position **#7**. Wk 7 Sunday file: ADD Tampa Bay DEF / DROP Buffalo.
 - Wk 6 lineup scored: Daniels 21.0, Allen 15.4, Lamb 13.5, Nacua 12.0, Buffalo 8.25, Irving 6.9, Loop 4.4, Higbee 2.2, Skattebo 0.0. Bench: Stroud 22.98, Pierce 15.0, Evans 12.4 (MNF), Kincaid 7.8, Vidal 6.5. Pierce at FLEX and Kincaid at TE alone is +20.6, a 3.3-point win.
 - **Wk 7 claims resolved:** Coleman and Tucker cleared; Cooper lost to What can Brown do for u?; Douglas and Noel died with the wins and are free. The API log shows no waiver transactions, so results are read from rosters.
 - **Waiver processing: measured 3:13-3:14 AM ET, not settled.** Sep 16 3:14:05, Sep 23 3:13:21, Sep 30 3:13:34, Oct 7 3:13:32, Oct 14 3:14:06. The 3:13 change was reverted 2026-10-20 (kill met), so every waiver Do by says **3:00 AM ET** again; claims filed by 7-8 PM Tuesday never come near either.
@@ -14,14 +14,14 @@ Last full rewrite: 2026-10-20 (fourth process review, covering Week 6). Last tou
 - Chat targets used: Wk1 Three Wise Jaylens, Wk2 CorneliusJones, Wk3 Lost in the Land of Love, Princess Donut's Court (Wk 3 Mon), Playful Secrets (Wk 4 Mon), Sea Squirts (Wk 5 Mon), TheTroubles (Wk 6 Mon).
 
 ## Open threads
-- **Wk 7 byes: Daniels, Buffalo DEF (also Kincaid, Coleman, Vidal).** Thu call issued ADD Rodgers / DROP Vidal and QB swap; if not done, Daniels scores 0. DEF streamer + drop still owed in Sunday's file (free agents, Thesis 6). Irving [Q] illness is the other Sunday watch.
-- **FLEX / TE for Week 7 is open.** FLEX is Pierce (61 of 64 Wk 6 snaps, 15.0) or Vidal (25 snaps, 6.5) unless a claim lands a receiver. TE is Higbee 2.2 vs Kincaid 7.8 [Q]; decide on measured touches (Lesson 3), not health.
+- **Sun Wk 7 DEF swap: ADD Tampa Bay / DROP Buffalo (free agent, do before 1:00 PM).** If Buffalo is still rostered at lock, DEF scores 0. Rodgers (PIT vs NO, London 9:30 AM) locks first; Daniels benched on bye.
+- **Nacua [Q calf]: IF inactive before the Rams kickoff (check by eye) — START Tre Tucker at WR2.** Pierce holds FLEX on Wk 6 volume (15.0, 61 of 64 snaps). Kickoff times were not confirmable from this run; Sean verifies in the app.
 - **QB is one deep once the trade lands.** Daniels only; he missed Wks 3-4. If he is flagged, stream from the wire — Rodgers 59.98, Murray, Geno Smith and Penix are all free — and the spot comes from the weakest back, not from a claim.
 - **Trades are opt-in** (see Process changes). Wk 5, Wk 6 and Wk 7 scans: NO ACTION. Wk 7 reopens only if Daniels is flagged or Irving [Q] is ruled out with no RB on the wire.
 - **Kincaid-for-Keenan-Allen: rejected by WCHolland 2026-10-17 12:53 PM** (transaction history, relayed 2026-10-20). Closed. Kincaid stays, TE is Higbee or Kincaid by matchup, the Allen note is deleted.
 - **Sunday contingencies have no timed check.** Inactives routine retired 2026-10-20 (never created). Lineup file keeps its IF lines for Sean to check by eye. Skattebo's 0.0 is now answered: he played 6 snaps, healthy and unused.
 - **Dropping Coleman and Meyers eight days after claiming them.** Lesson 6 test resolved against me; the column owes the correction. Coleman is re-claimed this week as chain A's fallback, which the column also owes.
-- **Buffalo DEF.** Streaming is a free-agent move, never a claim.
+- **Buffalo DEF.** Dropped in the Wk 7 Sunday file; streaming is a free-agent move, never a claim. Delete this thread once the swap shows in the digest.
 - **Double-fire.** Sean still has to disable the seven UI routines in `SCHEDULED-TASKS.md`.
 - **Daylight saving ends Sun 2026-11-01.** If Sleeper clears at a fixed UTC hour the ET time moves to 2:13 AM; re-measure Wk 9 (Nov 4).
 - **Monday chat slot fires before MNF.** Cite only games with every starter finished.
