@@ -1,5 +1,5 @@
 # Sleeper digest — The Climb
-Pulled: 2026-10-24 20:48 UTC · NFL week 7 (regular)
+Pulled: 2026-10-25 13:02 UTC · NFL week 7 (regular)
 
 ## My roster
 - Tre Tucker (WR-LV)
@@ -51,36 +51,37 @@ Pulled: 2026-10-24 20:48 UTC · NFL week 7 (regular)
 - CorneliusJones 126.91 — Three Wise Jaylens  106.69
 
 ## Trending adds (24h, all Sleeper)
-- Seth McGowan (RB-IND) — 409,536 adds
-- Konata Mumpfield (WR-LAR) — 312,966 adds
-- Emanuel Wilson (RB-SEA) — 243,630 adds
-- Tyler Higbee (TE-LAR) — 202,725 adds
-- Chris Godwin Jr. (WR-TB) — 184,848 adds
-- Ted Hurst III (WR-TB) — 122,028 adds
-- Brandin Cooks (WR-SF) — 97,980 adds
-- Justice Hill (RB-BAL) — 89,757 adds
-- Michael Mayer (TE-LV) — 85,635 adds
-- Zonovan Knight (RB-ARI) — 79,148 adds
-- Xavier Worthy (WR-KC) — 71,235 adds
-- Kyler Murray (QB-MIN) — 68,592 adds
-- Jordan Watkins (WR-SF) — 67,476 adds
-- Adonai Mitchell (WR-NYJ) — 62,472 adds
-- Caleb Douglas (WR-MIA) — 58,256 adds
-- Chase McLaughlin (K-TB) — 53,904 adds
-- Ryan Flournoy (WR-DAL) — 53,472 adds
-- Tyler Allgeier (RB-ARI) — 53,430 adds
-- Malik Washington (WR-MIA) — 51,832 adds
-- KC Concepcion Jr. (WR-CLE) — 47,970 adds
-- Cleveland Browns (DEF-CLE) — 45,444 adds
-- C.J. Stroud (QB-HOU) — 44,807 adds
-- Bo Nix (QB-DEN) — 44,736 adds
-- Will Mallory (TE-IND) — 41,985 adds
-- Colby Parkinson (TE-LAR) — 40,662 adds
+- Seth McGowan (RB-IND) — 634,080 adds
+- Darius Cooper (WR-PHI) — 415,338 adds
+- Konata Mumpfield (WR-LAR) — 282,654 adds
+- Tyler Higbee (TE-LAR) — 209,934 adds
+- Emanuel Wilson (RB-SEA) — 186,399 adds
+- Chris Godwin Jr. (WR-TB) — 173,610 adds
+- Justice Hill (RB-BAL) — 142,200 adds
+- Kyler Murray (QB-MIN) — 113,960 adds
+- Ted Hurst III (WR-TB) — 110,190 adds
+- Makai Lemon (WR-PHI) — 99,868 adds
+- Xavier Worthy (WR-KC) — 86,625 adds
+- Michael Mayer (TE-LV) — 79,542 adds
+- Bo Nix (QB-DEN) — 72,522 adds
+- Chase McLaughlin (K-TB) — 71,432 adds
+- Brandin Cooks (WR-SF) — 69,820 adds
+- Zonovan Knight (RB-ARI) — 68,488 adds
+- Aaron Rodgers (QB-PIT) — 65,696 adds
+- Cleveland Browns (DEF-CLE) — 60,788 adds
+- KC Concepcion Jr. (WR-CLE) — 60,759 adds
+- Jake Bates (K-DET) — 60,624 adds
+- C.J. Stroud (QB-HOU) — 59,003 adds
+- Caleb Douglas (WR-MIA) — 57,464 adds
+- Tyler Allgeier (RB-ARI) — 55,875 adds
+- Geno Smith (QB-NYJ) — 55,076 adds
+- Malik Washington (WR-MIA) — 52,256 adds
 
 ## League transactions this week
+- free_agent (complete) CorneliusJones: +[Chris Godwin Jr. (WR-TB)] -[Konata Mumpfield (WR-LAR)]
 - free_agent (complete) CorneliusJones: +[Konata Mumpfield (WR-LAR)] -[Romeo Doubs (WR-NE) [IR]]
 - free_agent (complete) Lost in the Land of Love: +[Seth McGowan (RB-IND)] -[Kyle Pitts Sr. (TE-ATL)]
-- free_agent (complete) The Butker Jihad: +[Rico Dowdle (RB-PIT) [Questionable]] -[Courtland Sutton (WR-DEN)]
+- free_agent (complete) The Butker Jihad: +[Rico Dowdle (RB-PIT)] -[Courtland Sutton (WR-DEN)]
 - waiver (complete) Lost in the Land of Love: +[Cam Skattebo (RB-NYG)] -[Zonovan Knight (RB-ARI)]
 - free_agent (complete) Lost in the Land of Love: +[Kyle Pitts Sr. (TE-ATL)] -[Dallas Goedert (TE-PHI)]
 - waiver (complete) The Butker Jihad: +[Kimani Vidal (RB-LAC)] -[KC Concepcion Jr. (WR-CLE)]

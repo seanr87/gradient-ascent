@@ -4172,8 +4172,8 @@
   "pos": "QB",
   "team": "NO",
   "status": "Active",
-  "injury_status": null,
-  "injury_note": null
+  "injury_status": "Out",
+  "injury_note": "Coach's Decision"
  },
  "2769": {
   "name": "Larry Pinkard",
@@ -8979,7 +8979,7 @@
   "name": "Jordan Mason",
   "pos": "RB",
   "team": "MIN",
-  "status": "Inactive",
+  "status": "Active",
   "injury_status": null,
   "injury_note": null
  },
@@ -9124,8 +9124,8 @@
   "pos": "RB",
   "team": "PIT",
   "status": "Active",
-  "injury_status": "Questionable",
-  "injury_note": "Knee"
+  "injury_status": null,
+  "injury_note": null
  },
  "11301": {
   "name": "Braxton Westfield",
@@ -9715,8 +9715,8 @@
   "name": "Tyler Badie",
   "pos": "RB",
   "team": "DEN",
-  "status": "Active",
-  "injury_status": "Out",
+  "status": "Inactive",
+  "injury_status": "IR",
   "injury_note": "Thumb"
  },
  "1855": {
@@ -9892,8 +9892,8 @@
   "pos": "TE",
   "team": "NO",
   "status": "Active",
-  "injury_status": null,
-  "injury_note": null
+  "injury_status": "Out",
+  "injury_note": "Coach's Decision"
  },
  "11925": {
   "name": "Terique Owens",
@@ -10756,8 +10756,8 @@
   "pos": "RB",
   "team": "PIT",
   "status": "Active",
-  "injury_status": null,
-  "injury_note": null
+  "injury_status": "Out",
+  "injury_note": "Coach's Decision"
  },
  "5772": {
   "name": "Aaron Lacombe",
@@ -15988,8 +15988,8 @@
   "pos": "QB",
   "team": "PIT",
   "status": "Active",
-  "injury_status": null,
-  "injury_note": null
+  "injury_status": "Out",
+  "injury_note": "Coach's Decision"
  },
  "8002": {
   "name": "Shane Buechele",
@@ -23035,9 +23035,9 @@
   "name": "Christian Kirk",
   "pos": "WR",
   "team": "SF",
-  "status": "Inactive",
-  "injury_status": "IR",
-  "injury_note": "Calf"
+  "status": "Active",
+  "injury_status": null,
+  "injury_note": null
  },
  "3150": {
   "name": "Xavier Rush",
@@ -23234,7 +23234,7 @@
  "6931": {
   "name": "DeeJay Dallas",
   "pos": "RB",
-  "team": null,
+  "team": "MIN",
   "status": "Active",
   "injury_status": null,
   "injury_note": null
@@ -26907,8 +26907,8 @@
   "name": "Jonah Coleman",
   "pos": "RB",
   "team": "DEN",
-  "status": "Inactive",
-  "injury_status": "IR",
+  "status": "Active",
+  "injury_status": "Questionable",
   "injury_note": "Ankle"
  },
  "11168": {
@@ -29971,9 +29971,9 @@
   "name": "Tank Dell",
   "pos": "WR",
   "team": "HOU",
-  "status": "Inactive",
-  "injury_status": "Questionable",
-  "injury_note": "Knee - ACL + MCL"
+  "status": "Active",
+  "injury_status": null,
+  "injury_note": null
  },
  "110": {
   "name": "Stephen Gostkowski",
@@ -31380,8 +31380,8 @@
   "pos": "QB",
   "team": "PIT",
   "status": "Active",
-  "injury_status": null,
-  "injury_note": null
+  "injury_status": "Out",
+  "injury_note": "Coach's Decision"
  },
  "6126": {
   "name": "Irv Smith",
