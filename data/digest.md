@@ -1,5 +1,5 @@
 # Sleeper digest — The Climb
-Pulled: 2026-10-25 13:02 UTC · NFL week 7 (regular)
+Pulled: 2026-10-25 13:07 UTC · NFL week 7 (regular)
 
 ## My roster
 - Tre Tucker (WR-LV)
@@ -51,31 +51,31 @@ Pulled: 2026-10-25 13:02 UTC · NFL week 7 (regular)
 - CorneliusJones 126.91 — Three Wise Jaylens  106.69
 
 ## Trending adds (24h, all Sleeper)
-- Seth McGowan (RB-IND) — 634,080 adds
-- Darius Cooper (WR-PHI) — 415,338 adds
-- Konata Mumpfield (WR-LAR) — 282,654 adds
-- Tyler Higbee (TE-LAR) — 209,934 adds
-- Emanuel Wilson (RB-SEA) — 186,399 adds
-- Chris Godwin Jr. (WR-TB) — 173,610 adds
-- Justice Hill (RB-BAL) — 142,200 adds
-- Kyler Murray (QB-MIN) — 113,960 adds
-- Ted Hurst III (WR-TB) — 110,190 adds
-- Makai Lemon (WR-PHI) — 99,868 adds
-- Xavier Worthy (WR-KC) — 86,625 adds
-- Michael Mayer (TE-LV) — 79,542 adds
-- Bo Nix (QB-DEN) — 72,522 adds
-- Chase McLaughlin (K-TB) — 71,432 adds
-- Brandin Cooks (WR-SF) — 69,820 adds
-- Zonovan Knight (RB-ARI) — 68,488 adds
-- Aaron Rodgers (QB-PIT) — 65,696 adds
-- Cleveland Browns (DEF-CLE) — 60,788 adds
-- KC Concepcion Jr. (WR-CLE) — 60,759 adds
-- Jake Bates (K-DET) — 60,624 adds
-- C.J. Stroud (QB-HOU) — 59,003 adds
-- Caleb Douglas (WR-MIA) — 57,464 adds
-- Tyler Allgeier (RB-ARI) — 55,875 adds
-- Geno Smith (QB-NYJ) — 55,076 adds
-- Malik Washington (WR-MIA) — 52,256 adds
+- Seth McGowan (RB-IND) — 642,752 adds
+- Darius Cooper (WR-PHI) — 427,882 adds
+- Konata Mumpfield (WR-LAR) — 285,282 adds
+- Tyler Higbee (TE-LAR) — 214,101 adds
+- Emanuel Wilson (RB-SEA) — 189,612 adds
+- Chris Godwin Jr. (WR-TB) — 176,214 adds
+- Justice Hill (RB-BAL) — 143,847 adds
+- Kyler Murray (QB-MIN) — 115,816 adds
+- Ted Hurst III (WR-TB) — 111,612 adds
+- Makai Lemon (WR-PHI) — 101,612 adds
+- Xavier Worthy (WR-KC) — 87,966 adds
+- Michael Mayer (TE-LV) — 81,126 adds
+- Bo Nix (QB-DEN) — 73,782 adds
+- Chase McLaughlin (K-TB) — 73,136 adds
+- Brandin Cooks (WR-SF) — 70,920 adds
+- Zonovan Knight (RB-ARI) — 69,860 adds
+- Aaron Rodgers (QB-PIT) — 66,756 adds
+- Cleveland Browns (DEF-CLE) — 62,174 adds
+- Jake Bates (K-DET) — 62,144 adds
+- KC Concepcion Jr. (WR-CLE) — 61,893 adds
+- C.J. Stroud (QB-HOU) — 59,738 adds
+- Caleb Douglas (WR-MIA) — 58,624 adds
+- Tyler Allgeier (RB-ARI) — 57,205 adds
+- Geno Smith (QB-NYJ) — 55,996 adds
+- Malik Washington (WR-MIA) — 53,440 adds
 
 ## League transactions this week
 - free_agent (complete) CorneliusJones: +[Chris Godwin Jr. (WR-TB)] -[Konata Mumpfield (WR-LAR)]
