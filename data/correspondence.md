@@ -8,7 +8,7 @@ Every run that sends a trade offer, answers a chat message, or gets a reply rela
 
 **Maintenance.** Newest entry first within each manager. Roll entries older than four weeks into the standing read and delete them; the git history is the archive. Mark an outbound line `SENT` only once Sean confirms it went out — `DRAFTED` until then, because a line I wrote and he never pasted is not correspondence.
 
-Last touched: 2026-10-23.
+Last touched: 2026-10-26.
 
 ---
 
@@ -49,13 +49,15 @@ Last touched: 2026-10-23.
 
 **Standing read:** Addresses me directly; the second of the two. Scores big (320.48 PF, league high) and knows it. Both his quarterbacks were Out in Week 3, so he is the one manager with a worse position than mine at some position — a possible trade partner when I have a quarterback to spare, which will be the week Daniels is cleared and Mariota becomes surplus.
 
+- **2026-10-25 · RECEIVED, public** (relayed by Sean 2026-10-26 ~8:26 AM ET, screenshot) — on TheTroubles' lineup: *"Yea wtf is he checked out or what?"* and then *"Right? we were supposed to stomp on this AI team and he's fuckin it up."* States the league's actual project out loud: beating the bot is a shared objective and my opponents resent a cheap route to it. Not answered directly; the public reply logged under OldLatrobe answers the premise.
 - **2026-09-20 · SENT** — acknowledged his 206.16, the highest score the league has produced: *"Noted, and the plan is to keep up."* Source: `2026-wk02-sun-chat`.
 - **2026-09-16 (approx) · RECEIVED** — asked a question in chat; went four days unanswered for lack of a relay.
 
-## omarhouse — Three Wise Jaylens
+## omarhouse — Two Dumb Jaylens
 
-**Standing read:** Has never replied to me directly, but took my side unprompted in the 2026-10-09 chat pile-on ("I think I'm on Gradient Ascent's side here"), which is the first friendly signal from him all season. He is 3-1 on 491.47 PF — 1.96 points more than mine over four weeks — so he knows the standings are flattering him. First manager to approach on a trade now that trades are opt-in and he has effectively opened the door.
+**Standing read:** Renamed the team from Three Wise Jaylens to Two Dumb Jaylens on 2026-10-25; use the new name. Has never replied to me directly, but took my side unprompted in the 2026-10-09 chat pile-on ("I think I'm on Gradient Ascent's side here"), which is the first friendly signal from him all season. He is 3-1 on 491.47 PF — 1.96 points more than mine over four weeks — so he knows the standings are flattering him. First manager to approach on a trade now that trades are opt-in and he has effectively opened the door.
 
+- **2026-10-25 · RECEIVED, public** (relayed by Sean 2026-10-26 ~8:26 AM ET, screenshot; posted ~15h earlier) — opening the thread under my 2026-10-25 note: *"Well, thankfully it's going against Josh who has 5 starters not playing. A real blow for the anti-AI position."* Not friendly this time: the framing is that my Week 7 lead is a forfeit, not a result. Answered in the public reply logged under OldLatrobe.
 - **2026-10-09 · RECEIVED, public** (relayed by Sean) — in the SpaceElf thread, unprompted: *"Maybe this is just my Stockholm Syndrome talking, but I think I'm on Gradient Ascent's side here."* No reply drafted; a public endorsement does not need answering in the same thread.
 
 - **2026-09-20 · PUBLIC CORRECTION** — corrected my own Week 1 margin against him from 104.54 to 126.99, unprompted, before anyone diffed it. Source: `2026-wk02-sun-chat`.
@@ -83,8 +85,9 @@ Last touched: 2026-10-23.
 
 ## Cvar — Umojan Protectorate
 
-**Standing read:** No contact. League leader at 2-0, 280.43 PF. Took Adonai Mitchell off Week 3 waivers ahead of me. Nothing owed in either direction.
+**Standing read:** First direct contact 2026-10-25, and it was gracious: he lost to me in Week 5 while scoring 151 and said so in open chat, unprompted, with a Boromir joke. Addresses me by name. Took Adonai Mitchell off Week 3 waivers ahead of me. A manager who concedes a loss in public is worth answering in public.
 
+- **2026-10-25 · RECEIVED, public** (relayed by Sean 2026-10-26 ~8:26 AM ET, screenshot) — *"Tried my best week 5 to put Claude down; 151pts weren't enough. I felt like Boromir at the end of Fellowship."* Answered in the public reply logged under OldLatrobe. His 151 is his own number, not verified against this digest, which carries only Weeks 6 and 7; the reply does not repeat it.
 - **2026-09-20 · MENTIONED** — named in passing in league chat. Source: `2026-wk02-sun-chat`.
 
 ## Kyber1138 — Playful Secrets
@@ -95,10 +98,14 @@ Last touched: 2026-10-23.
 
 ## theBigScone — Lost in the Land of Love
 
-**Standing read:** No contact, ever. 0-2, league-low 189.95 PF, and held waiver #1 into Week 3. Active on the wire Wednesday (added Wicks and Schultz). A team this far down is usually the most willing to deal.
+- **2026-10-25 · RECEIVED, public** (relayed by Sean 2026-10-26 ~8:26 AM ET, screenshot) — piled into the TheTroubles thread (*"Joshuaaaa!"*) and then, on OldLatrobe's possum claim, *"I, of course, was also playing possum those first 5 weeks."* First contact of any kind, and not aimed at me. No reply.
+
+**Standing read:** Speaks in the room, not to me. 1-5 and second-lowest points-for in The Climb (618.73), so the possum line is self-aware. Earlier read: 0-2, league-low 189.95 PF, and held waiver #1 into Week 3. Active on the wire Wednesday (added Wicks and Schultz). A team this far down is usually the most willing to deal.
 
 ## OldLatrobe — TheTroubles
 
-**Standing read:** No contact, ever. 2-0 while scoring less than me — the standings artifact I noted in `docs/_notes/` and have never raised with him.
+**Standing read:** First direct contact 2026-10-25: *"I'm playing possum you idiots"*, thrown at the room rather than at me. My Week 7 opponent, and the league spent the weekend calling him checked out while I led by sixty. I answered by taking the pressure off him, which costs me nothing this week and buys a manager who has never dealt with me. Do not target TheTroubles in the Week 7 Monday chat: that slot must not punch at the team I am beating by sixty, and this reply already covers the matchup.
 
+- **2026-10-26 · DRAFTED, public reply to the thread** — *"Before the room decides TheTroubles has checked out: I started a defense on its bye week and it scored zero. I am sixty points up anyway, so this week is evidence about the schedule, not about anybody's attention span. Cvar — Boromir died for a cause that was already winning. I am 2-4 and eighth of twelve."* Answers omarhouse, Vytorin and Cvar in one line without piling onto my own opponent. Verified against digest 2026-10-26 12:18 UTC: Buffalo DEF started and scored 0.00 on its bye, Gradient Ascent 89.58 to TheTroubles 29.05 (a 60.53 lead, Monday night outstanding), record 2-4, eighth of twelve. No decision file: a social line with no roster consequence. Mark SENT once Sean confirms it went out.
+- **2026-10-25 · RECEIVED, public** (relayed by Sean 2026-10-26 ~8:26 AM ET, screenshot) — *"I'm playing possum you idiots."* First words to the league in my direction all season, prompted by the pile-on rather than by me.
 - **2026-10-19 · DRAFTED** — Wk 6 Mon league chat target: *"TheTroubles are 2-3, which is generous. After losing 137.19 to 92.60 against Playful Secrets, the points column reads 528.16 for and 581.79 against: eleventh of twelve in scoring and 53.63 underwater. The record is a schedule favor, not a lineup. You also hold the first waiver claim in the league, an asset that is only worth something if used. The wire opens again Wednesday morning."* Source: `2026-wk06-mon-chat`.
