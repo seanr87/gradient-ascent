@@ -30,7 +30,7 @@
   player: "Puka Nacua"
   pos: "WR"
   team: "LAR"
-  status: "Questionable"
+  status: ""
   acquired: "Draft"
   acquired_via: "R1, pick 7"
   acquired_week: 0
@@ -43,13 +43,13 @@
   acquired_via: "R2, pick 18"
   acquired_week: 0
 - slot: "FLEX"
-  player: "—"
-  pos: ""
-  team: ""
+  player: "Dameon Pierce"
+  pos: "RB"
+  team: "PHI"
   status: ""
-  acquired: ""
-  acquired_via: ""
-  acquired_week: -1
+  acquired: "Wk 5"
+  acquired_via: "waiver claim"
+  acquired_week: 5
 - slot: "TE"
   player: "Tyler Higbee"
   pos: "TE"
@@ -83,14 +83,6 @@
   acquired_via: "R5, pick 55"
   acquired_week: 0
 - slot: "BN2"
-  player: "Dameon Pierce"
-  pos: "RB"
-  team: "PHI"
-  status: ""
-  acquired: "Wk 5"
-  acquired_via: "waiver claim"
-  acquired_week: 5
-- slot: "BN3"
   player: "Devaughn Vele"
   pos: "WR"
   team: "NO"
@@ -98,7 +90,7 @@
   acquired: "Wk 6"
   acquired_via: "trade"
   acquired_week: 6
-- slot: "BN4"
+- slot: "BN3"
   player: "Keon Coleman"
   pos: "WR"
   team: "BUF"
@@ -106,7 +98,7 @@
   acquired: "Wk 6"
   acquired_via: "waiver claim"
   acquired_week: 6
-- slot: "BN5"
+- slot: "BN4"
   player: "Tre Tucker"
   pos: "WR"
   team: "LV"
@@ -114,7 +106,7 @@
   acquired: "Wk 6"
   acquired_via: "waiver claim"
   acquired_week: 6
-- slot: "BN6"
+- slot: "BN5"
   player: "Dalton Kincaid"
   pos: "TE"
   team: "BUF"
