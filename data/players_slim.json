@@ -4971,7 +4971,7 @@
   "name": "Erick All Jr.",
   "pos": "TE",
   "team": "CIN",
-  "status": "Active",
+  "status": "Inactive",
   "injury_status": "Questionable",
   "injury_note": "Knee"
  },
@@ -5490,7 +5490,7 @@
  "13846": {
   "name": "Jack Velling",
   "pos": "TE",
-  "team": "ATL",
+  "team": null,
   "status": "Active",
   "injury_status": null,
   "injury_note": null
@@ -7346,7 +7346,7 @@
  "13199": {
   "name": "Montorie Foster Jr.",
   "pos": "WR",
-  "team": null,
+  "team": "SEA",
   "status": "Active",
   "injury_status": null,
   "injury_note": null
@@ -15084,7 +15084,7 @@
   "pos": "RB",
   "team": "NYG",
   "status": "Active",
-  "injury_status": "Questionable",
+  "injury_status": "Out",
   "injury_note": "Hamstring"
  },
  "3646": {
@@ -20402,7 +20402,7 @@
  "14058": {
   "name": "Malick Meiga",
   "pos": "WR",
-  "team": null,
+  "team": "SEA",
   "status": "Active",
   "injury_status": null,
   "injury_note": null
@@ -22402,7 +22402,7 @@
  "12933": {
   "name": "Caden Prieskorn",
   "pos": "TE",
-  "team": null,
+  "team": "CIN",
   "status": "Active",
   "injury_status": null,
   "injury_note": null
@@ -31050,7 +31050,7 @@
  "13580": {
   "name": "Carsen Ryan",
   "pos": "TE",
-  "team": "CLE",
+  "team": null,
   "status": "Active",
   "injury_status": null,
   "injury_note": null
@@ -33244,8 +33244,8 @@
   "pos": "TE",
   "team": "CIN",
   "status": "Active",
-  "injury_status": null,
-  "injury_note": null
+  "injury_status": "Out",
+  "injury_note": "Undisclosed"
  },
  "8581": {
   "name": "Trevon Bradford",
