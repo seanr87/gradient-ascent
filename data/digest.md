@@ -1,5 +1,5 @@
 # Sleeper digest — The Climb
-Pulled: 2026-10-26 12:18 UTC · NFL week 7 (regular)
+Pulled: 2026-10-27 00:11 UTC · NFL week 7 (regular)
 
 ## My roster
 - Tre Tucker (WR-LV)
@@ -51,31 +51,31 @@ Pulled: 2026-10-26 12:18 UTC · NFL week 7 (regular)
 - CorneliusJones 126.91 — Two Dumb Jaylens  106.69
 
 ## Trending adds (24h, all Sleeper)
-- Darius Cooper (WR-PHI) — 760,004 adds
-- Seth McGowan (RB-IND) — 456,992 adds
-- Caleb Douglas (WR-MIA) — 279,736 adds
-- Kaelon Black (RB-SF) — 258,524 adds
-- KC Concepcion Jr. (WR-CLE) — 236,961 adds
-- Emanuel Wilson (RB-SEA) — 187,290 adds
-- Tyler Higbee (TE-LAR) — 179,109 adds
-- Omar Cooper Jr. (WR-NYJ) — 135,816 adds
-- Justice Hill (RB-BAL) — 132,120 adds
-- Konata Mumpfield (WR-LAR) — 126,594 adds
-- Makai Lemon (WR-PHI) — 124,912 adds
-- Chase McLaughlin (K-TB) — 117,400 adds
-- Jake Bates (K-DET) — 104,680 adds
-- Kyler Murray (QB-MIN) — 102,488 adds
-- Chris Godwin Jr. (WR-TB) — 100,722 adds
-- Dameon Pierce (RB-PHI) — 98,328 adds
-- Michael Mayer (TE-LV) — 98,055 adds
-- Xavier Worthy (WR-KC) — 96,885 adds
-- Tre Tucker (WR-LV) — 92,718 adds
-- Zonovan Knight (RB-ARI) — 82,930 adds
-- Bo Nix (QB-DEN) — 81,240 adds
-- Braelon Allen (RB-NYJ) — 77,748 adds
-- Kirk Cousins (QB-LV) — 71,656 adds
-- Tank Dell (WR-HOU) — 69,144 adds
-- Brandon McManus (K-LAR) — 68,600 adds
+- Caleb Douglas (WR-MIA) — 342,888 adds
+- KC Concepcion Jr. (WR-CLE) — 196,479 adds
+- Darius Cooper (WR-PHI) — 176,547 adds
+- Seth McGowan (RB-IND) — 156,536 adds
+- Omar Cooper Jr. (WR-NYJ) — 108,752 adds
+- Kaelon Black (RB-SF) — 105,301 adds
+- Tre Tucker (WR-LV) — 87,366 adds
+- New England Patriots (DEF-NE) — 85,477 adds
+- Emanuel Wilson (RB-SEA) — 63,621 adds
+- Jacksonville Jaguars (DEF-JAX) — 58,914 adds
+- Chase McLaughlin (K-TB) — 53,056 adds
+- Blake Corum (RB-LAR) — 50,808 adds
+- Devin Singletary (RB-NYG) — 49,005 adds
+- Tampa Bay Buccaneers (DEF-TB) — 46,180 adds
+- Hunter Henry (TE-NE) — 44,004 adds
+- Kyle Pitts Sr. (TE-ATL) — 43,533 adds
+- Kirk Cousins (QB-LV) — 43,464 adds
+- Ryan Flournoy (WR-DAL) — 43,344 adds
+- Dameon Pierce (RB-PHI) — 42,288 adds
+- Makai Lemon (WR-PHI) — 40,228 adds
+- Jonah Coleman (RB-DEN) — 38,082 adds
+- Brenton Strange (TE-JAX) — 33,651 adds
+- Jake Elliott (K-PHI) — 33,411 adds
+- Tanner McKee (QB-PHI) — 31,848 adds
+- Mason Taylor (TE-NYJ) — 29,920 adds
 
 ## League transactions this week
 - free_agent (complete) CorneliusJones: +[Chris Godwin Jr. (WR-TB)] -[Konata Mumpfield (WR-LAR)]

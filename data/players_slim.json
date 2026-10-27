@@ -706,7 +706,7 @@
  "11304": {
   "name": "E.J. Jenkins",
   "pos": "TE",
-  "team": null,
+  "team": "ATL",
   "status": "Active",
   "injury_status": null,
   "injury_note": null
@@ -6387,9 +6387,9 @@
   "name": "Grant Calcaterra",
   "pos": "TE",
   "team": "PHI",
-  "status": "Inactive",
-  "injury_status": "IR",
-  "injury_note": "Back"
+  "status": "Active",
+  "injury_status": null,
+  "injury_note": null
  },
  "2144": {
   "name": "Justin Perillo",
@@ -7427,9 +7427,9 @@
   "name": "Eli Stowers",
   "pos": "TE",
   "team": "PHI",
-  "status": "Inactive",
-  "injury_status": "IR",
-  "injury_note": "Hamstring"
+  "status": "Active",
+  "injury_status": null,
+  "injury_note": null
  },
  "11618": {
   "name": "Jalen McMillan",
@@ -11172,8 +11172,8 @@
   "pos": "QB",
   "team": "PHI",
   "status": "Active",
-  "injury_status": null,
-  "injury_note": null
+  "injury_status": "Out",
+  "injury_note": "Coach's Decision"
  },
  "6490": {
   "name": "Mik'Quan Deane",
@@ -12364,8 +12364,8 @@
   "pos": "RB",
   "team": "PHI",
   "status": "Active",
-  "injury_status": "Questionable",
-  "injury_note": "Hamstring"
+  "injury_status": null,
+  "injury_note": null
  },
  "8778": {
   "name": "Justin Rigg",
@@ -19682,7 +19682,7 @@
  "12062": {
   "name": "Cam Grandy",
   "pos": "TE",
-  "team": "MIN",
+  "team": "CIN",
   "status": "Active",
   "injury_status": null,
   "injury_note": null
@@ -19780,8 +19780,8 @@
   "pos": "WR",
   "team": "DET",
   "status": "Active",
-  "injury_status": null,
-  "injury_note": null
+  "injury_status": "Questionable",
+  "injury_note": "Ankle"
  },
  "11900": {
   "name": "Jacob Kibodi",
@@ -23092,8 +23092,8 @@
   "pos": "WR",
   "team": "CAR",
   "status": "Active",
-  "injury_status": null,
-  "injury_note": null
+  "injury_status": "Questionable",
+  "injury_note": "Shoulder"
  },
  "13316": {
   "name": "Eric Rivers Jr.",
@@ -24020,8 +24020,8 @@
   "pos": "RB",
   "team": "DAL",
   "status": "Active",
-  "injury_status": null,
-  "injury_note": null
+  "injury_status": "Out",
+  "injury_note": "Coach's Decision"
  },
  "6002": {
   "name": "Qadree Ollison",
@@ -24171,7 +24171,7 @@
   "name": "Dillon Gabriel",
   "pos": "QB",
   "team": "CLE",
-  "status": "Inactive",
+  "status": "Active",
   "injury_status": "IR",
   "injury_note": "Back"
  },
@@ -30556,8 +30556,8 @@
   "pos": "WR",
   "team": "ARI",
   "status": "Active",
-  "injury_status": null,
-  "injury_note": null
+  "injury_status": "Out",
+  "injury_note": "Wrist"
  },
  "12045": {
   "name": "Jack Westover",
@@ -33876,8 +33876,8 @@
   "pos": "WR",
   "team": "GB",
   "status": "Active",
-  "injury_status": null,
-  "injury_note": null
+  "injury_status": "Questionable",
+  "injury_note": "Shoulder"
  },
  "3309": {
   "name": "Wendell Smallwood",
