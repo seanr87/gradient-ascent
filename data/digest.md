@@ -1,5 +1,5 @@
 # Sleeper digest — The Climb
-Pulled: 2026-10-27 11:32 UTC · NFL week 8 (regular)
+Pulled: 2026-10-27 15:14 UTC · NFL week 8 (regular)
 
 ## My roster
 - Tre Tucker (WR-LV)
@@ -12,7 +12,7 @@ Pulled: 2026-10-27 11:32 UTC · NFL week 8 (regular)
 - Tyler Loop (K-BAL) (STARTER)
 - Tyler Higbee (TE-LAR) (STARTER)
 - CeeDee Lamb (WR-DAL) (STARTER)
-- Dameon Pierce (RB-PHI) (STARTER)
+- Dameon Pierce (RB-PHI) [Questionable] (STARTER)
 - Puka Nacua (WR-LAR) (STARTER)
 - Aaron Rodgers (QB-PIT) (STARTER)
 - Buffalo Bills (DEF-BUF) (STARTER)
@@ -51,30 +51,30 @@ Pulled: 2026-10-27 11:32 UTC · NFL week 8 (regular)
 - Umojan Protectorate 113.37 — Two Dumb Jaylens  112.86
 
 ## Trending adds (24h, all Sleeper)
-- Caleb Douglas (WR-MIA) — 640,400 adds
-- Jacksonville Jaguars (DEF-JAX) — 307,194 adds
-- KC Concepcion Jr. (WR-CLE) — 302,823 adds
-- Seth McGowan (RB-IND) — 254,304 adds
-- New England Patriots (DEF-NE) — 237,027 adds
-- Kaelon Black (RB-SF) — 158,991 adds
-- Omar Cooper Jr. (WR-NYJ) — 155,656 adds
-- Brenton Strange (TE-JAX) — 139,239 adds
-- Tre Tucker (WR-LV) — 130,452 adds
-- Tampa Bay Buccaneers (DEF-TB) — 128,170 adds
-- Jonah Coleman (RB-DEN) — 110,296 adds
-- Ryan Flournoy (WR-DAL) — 103,928 adds
-- Chase McLaughlin (K-TB) — 103,160 adds
-- Darius Cooper (WR-PHI) — 94,829 adds
-- Hunter Henry (TE-NE) — 85,086 adds
-- Devin Singletary (RB-NYG) — 84,213 adds
-- Dameon Pierce (RB-PHI) — 82,200 adds
-- Emanuel Wilson (RB-SEA) — 82,107 adds
-- Makai Lemon (WR-PHI) — 81,792 adds
-- Kirk Cousins (QB-LV) — 70,912 adds
-- Washington Commanders (DEF-WAS) — 65,520 adds
-- Mason Taylor (TE-NYJ) — 64,660 adds
-- Kyle Pitts Sr. (TE-ATL) — 64,197 adds
-- Blake Corum (RB-LAR) — 59,896 adds
-- Elijah Mitchell (RB-PHI) — 59,508 adds
+- Caleb Douglas (WR-MIA) — 867,096 adds
+- Jacksonville Jaguars (DEF-JAX) — 578,472 adds
+- New England Patriots (DEF-NE) — 393,064 adds
+- KC Concepcion Jr. (WR-CLE) — 384,336 adds
+- Seth McGowan (RB-IND) — 343,192 adds
+- Brenton Strange (TE-JAX) — 250,290 adds
+- Kaelon Black (RB-SF) — 204,442 adds
+- Omar Cooper Jr. (WR-NYJ) — 200,224 adds
+- Jonah Coleman (RB-DEN) — 188,164 adds
+- Tampa Bay Buccaneers (DEF-TB) — 187,980 adds
+- Ryan Flournoy (WR-DAL) — 171,392 adds
+- Tre Tucker (WR-LV) — 169,644 adds
+- Chase McLaughlin (K-TB) — 160,832 adds
+- Washington Commanders (DEF-WAS) — 139,216 adds
+- Hunter Henry (TE-NE) — 119,460 adds
+- Devin Singletary (RB-NYG) — 109,989 adds
+- Makai Lemon (WR-PHI) — 104,124 adds
+- Dameon Pierce (RB-PHI) [Questionable] — 102,936 adds
+- Elijah Mitchell (RB-PHI) — 102,195 adds
+- Kirk Cousins (QB-LV) — 101,968 adds
+- Emanuel Wilson (RB-SEA) — 95,085 adds
+- Mason Taylor (TE-NYJ) — 94,445 adds
+- Keon Coleman (WR-BUF) — 90,018 adds
+- Dylan Sampson (RB-CLE) — 83,145 adds
+- Kyle Pitts Sr. (TE-ATL) — 80,206 adds
 
 ## League transactions this week
