@@ -4972,8 +4972,8 @@
   "pos": "TE",
   "team": "CIN",
   "status": "Inactive",
-  "injury_status": "Questionable",
-  "injury_note": "Knee"
+  "injury_status": "IR",
+  "injury_note": "Knee - ACL"
  },
  "7496": {
   "name": "Nick Westbrook-Ikhine",
@@ -9018,7 +9018,7 @@
  "13603": {
   "name": "Gregory Desrosiers",
   "pos": "RB",
-  "team": "LAC",
+  "team": "NYG",
   "status": "Active",
   "injury_status": null,
   "injury_note": null
@@ -11154,7 +11154,7 @@
  "12909": {
   "name": "Eli Pancol",
   "pos": "WR",
-  "team": null,
+  "team": "DEN",
   "status": "Active",
   "injury_status": null,
   "injury_note": null
@@ -13514,7 +13514,7 @@
  "14080": {
   "name": "Barika Kpeenu",
   "pos": "RB",
-  "team": null,
+  "team": "TB",
   "status": "Active",
   "injury_status": null,
   "injury_note": null
@@ -14532,8 +14532,8 @@
   "pos": "TE",
   "team": null,
   "status": "Inactive",
-  "injury_status": "Questionable",
-  "injury_note": "Undisclosed"
+  "injury_status": null,
+  "injury_note": null
  },
  "12085": {
   "name": "Alec Holler",
@@ -15083,8 +15083,8 @@
   "name": "Tyrone Tracy Jr.",
   "pos": "RB",
   "team": "NYG",
-  "status": "Active",
-  "injury_status": "Out",
+  "status": "Inactive",
+  "injury_status": "IR",
   "injury_note": "Hamstring"
  },
  "3646": {
@@ -19091,7 +19091,7 @@
   "name": "Dont'e Thornton Jr.",
   "pos": "WR",
   "team": "LV",
-  "status": "Inactive",
+  "status": "Active",
   "injury_status": "IR",
   "injury_note": "Undisclosed"
  },
@@ -20362,7 +20362,7 @@
  "4080": {
   "name": "Zay Jones",
   "pos": "WR",
-  "team": null,
+  "team": "ARI",
   "status": "Active",
   "injury_status": null,
   "injury_note": null
@@ -21114,7 +21114,7 @@
  "11802": {
   "name": "Tejhaun Palmer",
   "pos": "WR",
-  "team": null,
+  "team": "LAC",
   "status": "Active",
   "injury_status": null,
   "injury_note": null
@@ -24604,7 +24604,7 @@
   "pos": "RB",
   "team": null,
   "status": "Active",
-  "injury_status": "IR",
+  "injury_status": "Questionable",
   "injury_note": "Shoulder"
  },
  "11637": {
@@ -30555,8 +30555,8 @@
   "name": "Jalen Brooks",
   "pos": "WR",
   "team": "ARI",
-  "status": "Active",
-  "injury_status": "Out",
+  "status": "Inactive",
+  "injury_status": "IR",
   "injury_note": "Wrist"
  },
  "12045": {
