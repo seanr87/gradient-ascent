@@ -1,5 +1,5 @@
 # Sleeper digest — The Climb
-Pulled: 2026-10-27 02:01 UTC · NFL week 7 (regular)
+Pulled: 2026-10-27 10:01 UTC · NFL week 8 (regular)
 
 ## My roster
 - Tre Tucker (WR-LV)
@@ -18,75 +18,63 @@ Pulled: 2026-10-27 02:01 UTC · NFL week 7 (regular)
 - Buffalo Bills (DEF-BUF) (STARTER)
 
 ## My matchup this week
-- Opponent: TheTroubles
+- Opponent: Princess Donut's Court
 
 ## Standings (W-L, points for)
-1. Playful Secrets — 5-1, 778.24 PF, waiver #9
-2. The Butker Jihad — 5-1, 775.05 PF, waiver #12
-3. Princess Donut's Court — 4-2, 819.61 PF, waiver #6
-4. Umojan Protectorate — 4-2, 796.23 PF, waiver #8
-5. Two Dumb Jaylens  — 4-2, 746.11 PF, waiver #3
-6. Sea Squirts — 3-3, 765.57 PF, waiver #2
-7. CorneliusJones — 3-3, 702.96 PF, waiver #5
-8. Gradient Ascent — 2-4, 732.07 PF, waiver #7
-9. What can Brown do for u? — 2-4, 680.98 PF, waiver #11
-10. TheTroubles — 2-4, 624.06 PF, waiver #1
-11. The Wizard’s Apprentice — 1-5, 683.46 PF, waiver #4
-12. Lost in the Land of Love — 1-5, 618.73 PF, waiver #10
+1. Princess Donut's Court — 5-2, 929.08 PF, waiver #12
+2. Playful Secrets — 5-2, 912.41 PF, waiver #11
+3. Umojan Protectorate — 5-2, 909.60 PF, waiver #10
+4. The Butker Jihad — 5-2, 893.17 PF, waiver #9
+5. Sea Squirts — 4-3, 914.85 PF, waiver #8
+6. Two Dumb Jaylens  — 4-3, 858.97 PF, waiver #7
+7. CorneliusJones — 4-3, 825.45 PF, waiver #6
+8. Gradient Ascent — 3-4, 857.85 PF, waiver #5
+9. What can Brown do for u? — 2-5, 796.41 PF, waiver #4
+10. Lost in the Land of Love — 2-5, 757.18 PF, waiver #3
+11. TheTroubles — 2-5, 653.11 PF, waiver #2
+12. The Wizard’s Apprentice — 1-6, 786.04 PF, waiver #1
 
-## This week's matchups (week 7)
-- Princess Donut's Court 109.47 — The Wizard’s Apprentice 91.06
-- Gradient Ascent 115.48 — TheTroubles 29.05
+## This week's matchups (week 8)
+- Gradient Ascent 0.00 — Princess Donut's Court 0.00
+- What can Brown do for u? 0.00 — The Wizard’s Apprentice 0.00
+- TheTroubles 0.00 — Sea Squirts 0.00
+- Lost in the Land of Love 0.00 — CorneliusJones 0.00
+- Playful Secrets 0.00 — Two Dumb Jaylens  0.00
+- The Butker Jihad 0.00 — Umojan Protectorate 0.00
+
+## Last week's results (week 7)
+- Princess Donut's Court 109.47 — The Wizard’s Apprentice 102.58
+- Gradient Ascent 125.78 — TheTroubles 29.05
 - Lost in the Land of Love 138.45 — What can Brown do for u? 115.43
-- Sea Squirts 149.28 — Playful Secrets 117.87
-- CorneliusJones 122.49 — The Butker Jihad 116.52
+- Sea Squirts 149.28 — Playful Secrets 134.17
+- CorneliusJones 122.49 — The Butker Jihad 118.12
 - Umojan Protectorate 113.37 — Two Dumb Jaylens  112.86
 
-## Last week's results (week 6)
-- Princess Donut's Court 120.04 — TheTroubles 95.90
-- Lost in the Land of Love 99.63 — The Wizard’s Apprentice 95.27
-- Playful Secrets 100.97 — Gradient Ascent 83.90
-- The Butker Jihad 106.29 — What can Brown do for u? 89.97
-- Umojan Protectorate 145.16 — Sea Squirts 103.18
-- CorneliusJones 126.91 — Two Dumb Jaylens  106.69
-
 ## Trending adds (24h, all Sleeper)
-- Caleb Douglas (WR-MIA) — 369,648 adds
-- KC Concepcion Jr. (WR-CLE) — 198,909 adds
-- Seth McGowan (RB-IND) — 158,912 adds
-- Darius Cooper (WR-PHI) — 142,996 adds
-- Omar Cooper Jr. (WR-NYJ) — 106,872 adds
-- Kaelon Black (RB-SF) — 105,868 adds
-- New England Patriots (DEF-NE) — 89,285 adds
-- Tre Tucker (WR-LV) — 85,656 adds
-- Jacksonville Jaguars (DEF-JAX) — 69,414 adds
-- Emanuel Wilson (RB-SEA) — 66,015 adds
-- Tampa Bay Buccaneers (DEF-TB) — 52,570 adds
-- Chase McLaughlin (K-TB) — 52,384 adds
-- Devin Singletary (RB-NYG) — 51,876 adds
-- Blake Corum (RB-LAR) — 46,792 adds
-- Hunter Henry (TE-NE) — 45,708 adds
-- Kirk Cousins (QB-LV) — 44,128 adds
-- Ryan Flournoy (WR-DAL) — 43,632 adds
-- Dameon Pierce (RB-PHI) — 43,208 adds
-- Kyle Pitts Sr. (TE-ATL) — 43,092 adds
-- Jonah Coleman (RB-DEN) — 41,978 adds
-- Brenton Strange (TE-JAX) — 37,053 adds
-- Makai Lemon (WR-PHI) — 35,096 adds
-- Mason Taylor (TE-NYJ) — 31,525 adds
-- Dylan Sampson (RB-CLE) — 29,070 adds
-- Rico Dowdle (RB-PIT) — 29,050 adds
+- Caleb Douglas (WR-MIA) — 580,280 adds
+- KC Concepcion Jr. (WR-CLE) — 278,208 adds
+- Jacksonville Jaguars (DEF-JAX) — 234,960 adds
+- Seth McGowan (RB-IND) — 229,048 adds
+- New England Patriots (DEF-NE) — 194,544 adds
+- Kaelon Black (RB-SF) — 146,069 adds
+- Omar Cooper Jr. (WR-NYJ) — 141,784 adds
+- Tre Tucker (WR-LV) — 118,182 adds
+- Tampa Bay Buccaneers (DEF-TB) — 110,085 adds
+- Brenton Strange (TE-JAX) — 109,899 adds
+- Darius Cooper (WR-PHI) — 96,663 adds
+- Jonah Coleman (RB-DEN) — 91,308 adds
+- Chase McLaughlin (K-TB) — 87,112 adds
+- Ryan Flournoy (WR-DAL) — 86,560 adds
+- Emanuel Wilson (RB-SEA) — 77,283 adds
+- Devin Singletary (RB-NYG) — 76,716 adds
+- Makai Lemon (WR-PHI) — 75,380 adds
+- Hunter Henry (TE-NE) — 75,366 adds
+- Dameon Pierce (RB-PHI) — 74,904 adds
+- Kirk Cousins (QB-LV) — 63,224 adds
+- Kyle Pitts Sr. (TE-ATL) — 58,527 adds
+- Mason Taylor (TE-NYJ) — 56,625 adds
+- Blake Corum (RB-LAR) — 55,960 adds
+- Elijah Mitchell (RB-PHI) — 51,894 adds
+- Dylan Sampson (RB-CLE) — 51,110 adds
 
 ## League transactions this week
-- free_agent (complete) CorneliusJones: +[Chris Godwin Jr. (WR-TB)] -[Konata Mumpfield (WR-LAR)]
-- free_agent (complete) CorneliusJones: +[Konata Mumpfield (WR-LAR)] -[Romeo Doubs (WR-NE) [IR]]
-- free_agent (complete) Lost in the Land of Love: +[Seth McGowan (RB-IND)] -[Kyle Pitts Sr. (TE-ATL)]
-- free_agent (complete) The Butker Jihad: +[Rico Dowdle (RB-PIT)] -[Courtland Sutton (WR-DEN)]
-- waiver (complete) Lost in the Land of Love: +[Cam Skattebo (RB-NYG) [Questionable]] -[Zonovan Knight (RB-ARI)]
-- free_agent (complete) Lost in the Land of Love: +[Kyle Pitts Sr. (TE-ATL)] -[Dallas Goedert (TE-PHI)]
-- waiver (complete) The Butker Jihad: +[Kimani Vidal (RB-LAC)] -[KC Concepcion Jr. (WR-CLE)]
-- free_agent (complete) Gradient Ascent: +[Aaron Rodgers (QB-PIT)] -[Kimani Vidal (RB-LAC)]
-- waiver (complete) What can Brown do for u?: +[Tyler Allgeier (RB-ARI)] -[Justin Herbert (QB-LAC)]
-- free_agent (complete) Lost in the Land of Love: +[Kyler Murray (QB-MIN)] -[Los Angeles Rams (DEF-LAR)]
-- free_agent (complete) Lost in the Land of Love: +[Zonovan Knight (RB-ARI)] -[TreVeyon Henderson (RB-NE)]
-- free_agent (complete) The Wizard’s Apprentice: +[New York Jets (DEF-NYJ)] -[Atlanta Falcons (DEF-ATL)]

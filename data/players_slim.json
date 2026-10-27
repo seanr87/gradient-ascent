@@ -12364,8 +12364,8 @@
   "pos": "RB",
   "team": "PHI",
   "status": "Active",
-  "injury_status": null,
-  "injury_note": null
+  "injury_status": "Questionable",
+  "injury_note": "Back"
  },
  "8778": {
   "name": "Justin Rigg",
