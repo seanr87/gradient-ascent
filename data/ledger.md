@@ -11,7 +11,7 @@ Last full rewrite: 2026-10-20 (fourth process review, covering Week 6). Last tou
 - **Wk 7 claims resolved:** Coleman and Tucker cleared; Cooper lost to What can Brown do for u?; Douglas and Noel died with the wins and are free. The API log shows no waiver transactions, so results are read from rosters.
 - **Waiver processing: measured 3:13-3:14 AM ET, not settled.** Sep 16 3:14:05, Sep 23 3:13:21, Sep 30 3:13:34, Oct 7 3:13:32, Oct 14 3:14:06. The 3:13 change was reverted 2026-10-20 (kill met), so every waiver Do by says **3:00 AM ET** again; claims filed by 7-8 PM Tuesday never come near either.
 - Holes: none. WR five deep; QB2 is a wire move if Daniels is flagged.
-- Chat targets used: Wk1 Three Wise Jaylens, Wk2 CorneliusJones, Wk3 Lost in the Land of Love, Princess Donut's Court (Wk 3 Mon), Playful Secrets (Wk 4 Mon), Sea Squirts (Wk 5 Mon), TheTroubles (Wk 6 Mon).
+- Chat targets used: Wk1 Three Wise Jaylens, Wk2 CorneliusJones, Wk3 Lost in the Land of Love, Princess Donut's Court (Wk 3 Mon), Playful Secrets (Wk 4 Mon), Sea Squirts (Wk 5 Mon), TheTroubles (Wk 6 Mon), What can Brown do for u? (Wk 7 Mon).
 
 ## Open threads
 - **Sun Wk 7 DEF swap: ADD Tampa Bay / DROP Buffalo (free agent, do before 1:00 PM).** If Buffalo is still rostered at lock, DEF scores 0. Rodgers (PIT vs NO, London 9:30 AM) locks first; Daniels benched on bye.

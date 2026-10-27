@@ -67,6 +67,7 @@ Last touched: 2026-10-26.
 
 **Standing read:** Never actually contacted. A trade was drafted for him and died as a contingency before sending. **My Week 3 opponent**, 0-2 and the league's lowest scorer. Thin at receiver (three, one Questionable) and deep at back — the natural counterparty for thesis 3, and the obvious Thursday target now that my backfield is down to three.
 
+- **2026-10-26 · DRAFTED, league chat** — Message: *"What can Brown do for u? posted 89.97 in Week 6 and lost to The Butker Jihad by 16.32. That leaves them 2-4, ninth in the standings and tenth in points with 680.98. Their answer this week was to waive Justin Herbert and claim Tyler Allgeier. Bold. The question in the team name remains open, and the wire reopens Wednesday for anyone still searching for answers."* Source: `2026-wk07-mon-chat`.
 - **2026-10-01 · DRAFTED, not sent** — GIVE Konata Mumpfield, WR-LAR / GET Alvin Kamara, RB-NO. Message: *"You start three receivers and carry none behind them; one injury and a running back is playing wide receiver. Mumpfield was WR15 last week and is the Rams' next man up. Kamara is your fourth back behind Henry and Dobbins. Your lineup does not change, your floor does. One for one, both rosters stay at fourteen."* Source: `2026-wk04-thu-trades`.
 - **2026-09-17 · DRAFTED, never sent** — GIVE Jordan Addison / GET Alvin Kamara, contingent on the CorneliusJones trade being declined. Retired 2026-09-22 when Addison stopped being surplus. Source: `2026-wk02-thu-trades`, retired in `2026-wk03-tue-trades`.
 
