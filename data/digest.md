@@ -1,5 +1,5 @@
 # Sleeper digest — The Climb
-Pulled: 2026-10-28 02:40 UTC · NFL week 8 (regular)
+Pulled: 2026-10-28 06:16 UTC · NFL week 8 (regular)
 
 ## My roster
 - Tre Tucker (WR-LV)
@@ -29,7 +29,7 @@ Pulled: 2026-10-28 02:40 UTC · NFL week 8 (regular)
 6. Two Dumb Jaylens  — 4-3, 858.97 PF, waiver #7
 7. CorneliusJones — 4-3, 825.45 PF, waiver #6
 8. Gradient Ascent — 3-4, 857.85 PF, waiver #5
-9. What can Brown do for u? — 2-5, 796.41 PF, waiver #4
+9. What can Brown do for u? — 2-5, 796.31 PF, waiver #4
 10. Lost in the Land of Love — 2-5, 757.18 PF, waiver #3
 11. TheTroubles — 2-5, 653.11 PF, waiver #2
 12. The Wizard’s Apprentice — 1-6, 786.04 PF, waiver #1
@@ -51,30 +51,30 @@ Pulled: 2026-10-28 02:40 UTC · NFL week 8 (regular)
 - Umojan Protectorate 113.37 — Two Dumb Jaylens  112.86
 
 ## Trending adds (24h, all Sleeper)
-- Caleb Douglas (WR-MIA) — 1,495,432 adds
-- Jacksonville Jaguars (DEF-JAX) — 1,332,600 adds
-- Seth McGowan (RB-IND) — 844,368 adds
-- New England Patriots (DEF-NE) — 759,360 adds
-- KC Concepcion Jr. (WR-CLE) — 621,846 adds
-- Brenton Strange (TE-JAX) — 540,216 adds
-- Devin Singletary (RB-NYG) — 426,150 adds
-- Jonah Coleman (RB-DEN) — 423,244 adds
-- Elijah Mitchell (RB-PHI) — 371,340 adds
-- Ryan Flournoy (WR-DAL) — 368,552 adds
-- Washington Commanders (DEF-WAS) — 362,005 adds
-- Kaelon Black (RB-SF) — 329,084 adds
-- Tampa Bay Buccaneers (DEF-TB) — 327,525 adds
-- Tre Tucker (WR-LV) — 313,704 adds
-- Chase McLaughlin (K-TB) — 298,992 adds
-- Omar Cooper Jr. (WR-NYJ) — 290,056 adds
-- Makai Lemon (WR-PHI) — 214,520 adds
-- Hunter Henry (TE-NE) — 199,518 adds
-- Rachaad White (RB-WAS) — 184,749 adds
-- Mason Taylor (TE-NYJ) — 184,225 adds
-- Kirk Cousins (QB-LV) — 179,872 adds
-- Savion Williams (WR-GB) — 178,458 adds
-- Tyler Bass (K-BUF) — 177,475 adds
-- Keon Coleman (WR-BUF) — 177,264 adds
-- Dylan Sampson (RB-CLE) — 174,400 adds
+- Caleb Douglas (WR-MIA) — 1,652,824 adds
+- Jacksonville Jaguars (DEF-JAX) — 1,521,006 adds
+- Seth McGowan (RB-IND) — 996,200 adds
+- New England Patriots (DEF-NE) — 818,454 adds
+- KC Concepcion Jr. (WR-CLE) — 686,241 adds
+- Brenton Strange (TE-JAX) — 600,993 adds
+- Devin Singletary (RB-NYG) — 535,455 adds
+- Jonah Coleman (RB-DEN) — 496,466 adds
+- Elijah Mitchell (RB-PHI) — 459,090 adds
+- Washington Commanders (DEF-WAS) — 426,419 adds
+- Ryan Flournoy (WR-DAL) — 418,688 adds
+- Kaelon Black (RB-SF) — 359,618 adds
+- Tampa Bay Buccaneers (DEF-TB) — 343,100 adds
+- Tre Tucker (WR-LV) — 340,452 adds
+- Chase McLaughlin (K-TB) — 314,448 adds
+- Omar Cooper Jr. (WR-NYJ) — 303,896 adds
+- Makai Lemon (WR-PHI) — 240,012 adds
+- Savion Williams (WR-GB) — 228,193 adds
+- Hunter Henry (TE-NE) — 209,463 adds
+- Rachaad White (RB-WAS) — 208,167 adds
+- Mason Taylor (TE-NYJ) — 206,685 adds
+- Dylan Sampson (RB-CLE) — 204,525 adds
+- Tyler Bass (K-BUF) — 199,715 adds
+- Keon Coleman (WR-BUF) — 195,849 adds
+- Jakobi Meyers (WR-JAX) — 190,506 adds
 
 ## League transactions this week
