@@ -15884,8 +15884,8 @@
   "pos": "WR",
   "team": null,
   "status": "Active",
-  "injury_status": "Questionable",
-  "injury_note": "Knee"
+  "injury_status": null,
+  "injury_note": null
  },
  "8156": {
   "name": "Player Invalid",
@@ -18218,7 +18218,7 @@
  "1264": {
   "name": "Justin Tucker",
   "pos": "K",
-  "team": null,
+  "team": "KC",
   "status": "Active",
   "injury_status": null,
   "injury_note": null
@@ -24724,8 +24724,8 @@
   "pos": "K",
   "team": null,
   "status": "Active",
-  "injury_status": "Questionable",
-  "injury_note": "Undisclosed"
+  "injury_status": null,
+  "injury_note": null
  },
  "12725": {
   "name": "Luke Lachey",
@@ -31050,7 +31050,7 @@
  "13580": {
   "name": "Carsen Ryan",
   "pos": "TE",
-  "team": null,
+  "team": "CLE",
   "status": "Active",
   "injury_status": null,
   "injury_note": null
