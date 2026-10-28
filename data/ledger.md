@@ -2,18 +2,18 @@
 
 Rewritten in full every Tuesday at 6:00 AM ET by the process review; `## State` and `## Open threads` updated by every decision run in the same commit as its decision. Hard cap 150 lines. Older weeks roll up; git history is the archive. Cite a thesis or lesson by name instead of re-arguing it.
 
-Last full rewrite: 2026-10-27 (fifth process review, covering Week 7). Last touched: 2026-10-27.
+Last full rewrite: 2026-10-27 (fifth process review, covering Week 7). Last touched: 2026-10-28.
 
 ## State
-- **Week 7 final: won 125.78 to TheTroubles 29.05 (+96.73).** Record 3-4, 857.85 PF, 8th of 12. Week 8 opponent: **Princess Donut's Court** (5-2, 929.08 PF, 1st). Waiver position **#5** (digest 2026-10-27 22:03 UTC); it drifts, so re-read it every run.
-- Roster (14), 2026-10-27 digest: QB Rodgers, Daniels; RB Irving, B. Allen, Pierce; WR Lamb, Nacua, Vele, Coleman, Tucker; TE Higbee, Kincaid [Q]; K Loop; DEF Buffalo (back from bye in Wk 8). **Vele on a Wk 8 bye (NO).** Holes: none; QB is two deep again.
+- **Week 7 final: won 125.78 to TheTroubles 29.05 (+96.73).** Record 3-4, 857.85 PF, 8th of 12. Week 8 opponent: **Princess Donut's Court** (5-2, 929.08 PF, 1st). Waiver position **#12** after three wins (digest 2026-10-28 16:06 UTC); it drifts, so re-read it every run.
+- Roster (14), 2026-10-28 digest: QB Rodgers, Daniels; RB Irving, B. Allen, Pierce [Q]; WR Lamb, Nacua, Vele, Coleman, Tucker; TE Pitts, Kincaid; K Bass; DEF Tampa Bay (all three Wk 8 claims cleared 2026-10-28). **Vele on a Wk 8 bye (NO).** Holes: none; QB is two deep again.
 - Wk 7 lineup scored: Irving 27.5, Lamb 23.4, Allen 19.4, Nacua 18.8, Rodgers 13.58, Pierce 12.8, Loop 7.4, Higbee 2.9, Buffalo 0.0 (bye, swap never made). Bench: Tucker 20.3, Vele 15.4, Daniels/Kincaid/Coleman 0.0. League median 116.78.
 - **Waiver processing: measured 3:13-3:14 AM ET, not settled.** Sep 16 3:14:05, Sep 23 3:13:21, Sep 30 3:13:34, Oct 7 3:13:32, Oct 14 3:14:06, Oct 21 3:14:21. Six weeks, split 3:13 / 3:14, so no to-the-minute rule; every waiver Do by says **3:00 AM ET**. **Wk 8: Sleeper's own claim screen states "RUNS AT Wed 3:05 am"** (Sean's 6:17 PM screenshot) — the first stated run time we have, and it reads as scheduled 3:05 with the transactions landing 8-9 minutes later, not a drifting clock. Do by stays 3:00 AM; the process review owns any change. Claims on just-dropped players cleared on their own clock (Fri Oct 23 2:23:50 AM ET).
 - Chat targets used: Wk1 Three Wise Jaylens, Wk2 CorneliusJones, Wk3 Lost in the Land of Love, Princess Donut's Court (Wk 3 Mon), Playful Secrets (Wk 4 Mon), Sea Squirts (Wk 5 Mon), TheTroubles (Wk 6 Mon), What can Brown do for u? (Wk 7 Mon).
 
 ## Open threads
 - **Wk 8 is Princess Donut's Court, the league's top scorer.** No trade or hedge open. Buffalo DEF and Daniels are back from the bye; the DEF stream is a waiver claim this week, not a Sunday line (Lesson 4).
-- **Kincaid [Q] ribs.** TE is Higbee or Kincaid by measured touches; Higbee scored 2.9 on a bye-week-free Wk 7.
+- **TE is Pitts or Kincaid** by measured touches; Higbee is gone.
 - **Trades are opt-in** (see Process changes). Wk 5, 6 and 7 scans: NO ACTION. The Stroud-for-Vele accept (Wk 7 Tue) closed itself; SpaceElf is not buying again.
 - **Sunday contingencies have no timed check.** Lineup file keeps its IF lines for Sean to check by eye; Wk 7's Nacua IF never triggered.
 - **Sunday free-agent ADD/DROP pairs.** Wk 7's Tampa Bay swap was the one line that missed (see Execution, Lesson 4). Next Sunday file puts the DEF line only if the roster actually needs it, and says what the slot scores without it.
@@ -22,7 +22,7 @@ Last full rewrite: 2026-10-27 (fifth process review, covering Week 7). Last touc
 - **Daylight saving ends Sun 2026-11-01.** If Sleeper clears at a fixed UTC hour the ET time moves to 2:13 AM; re-measure Wk 9 (Nov 4).
 - **Monday chat slot fires before MNF.** Cite only games with every starter finished; Wk 7's file landed 4 minutes before the Do by.
 - **League chat is unreadable by API.** `data/correspondence.md` holds the per-manager read.
-- **Wk 8 claims filed: 5 in 3 chains.** Tampa Bay then Green Bay over Buffalo DEF; Pitts then Mason Taylor over Higbee; Bass over Loop. Unwinds at Wednesday's review; a chain that loses both leaves the incumbent and needs a Wednesday pivot.
+- **Wk 8 claims closed:** Tampa Bay, Pitts and Bass all cleared; backups Green Bay and Taylor died with the wins. Waiver #12. Thursday look: none.
 - **Rodgers kept as Daniels' only QB cover.** Unwinds the moment the spot buys a starter; five free QBs outscored him over Wk 5-7, so the wire is the backstop.
 
 ## Theses
