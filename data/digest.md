@@ -1,21 +1,21 @@
 # Sleeper digest — The Climb
-Pulled: 2026-10-28 16:17 UTC · NFL week 8 (regular)
+Pulled: 2026-10-28 20:13 UTC · NFL week 8 (regular)
 
 ## My roster
-- Tre Tucker (WR-LV)
-- Dalton Kincaid (TE-BUF)
-- Jayden Daniels (QB-WAS)
-- Braelon Allen (RB-NYJ) (STARTER)
+- Tre Tucker (WR-LV) (STARTER)
+- Dalton Kincaid (TE-BUF) (STARTER)
+- Jayden Daniels (QB-WAS) (STARTER)
+- Braelon Allen (RB-NYJ) [Questionable] (STARTER)
 - Bucky Irving (RB-TB) (STARTER)
 - Keon Coleman (WR-BUF)
 - Devaughn Vele (WR-NO)
 - CeeDee Lamb (WR-DAL) (STARTER)
-- Tyler Bass (K-BUF)
+- Tyler Bass (K-BUF) (STARTER)
 - Kyle Pitts Sr. (TE-ATL)
-- Dameon Pierce (RB-PHI) [Questionable] (STARTER)
+- Dameon Pierce (RB-PHI) [Questionable]
 - Puka Nacua (WR-LAR) (STARTER)
-- Aaron Rodgers (QB-PIT) (STARTER)
-- Tampa Bay Buccaneers (DEF-TB)
+- Aaron Rodgers (QB-PIT)
+- Tampa Bay Buccaneers (DEF-TB) (STARTER)
 
 ## My matchup this week
 - Opponent: Princess Donut's Court
@@ -51,31 +51,31 @@ Pulled: 2026-10-28 16:17 UTC · NFL week 8 (regular)
 - Umojan Protectorate 113.37 — Two Dumb Jaylens  112.86
 
 ## Trending adds (24h, all Sleeper)
-- Jacksonville Jaguars (DEF-JAX) — 1,563,618 adds
-- Caleb Douglas (WR-MIA) — 1,525,056 adds
-- Seth McGowan (RB-IND) — 1,067,560 adds
-- Washington Commanders (DEF-WAS) — 829,668 adds
-- New England Patriots (DEF-NE) — 822,717 adds
-- Devin Singletary (RB-NYG) — 695,952 adds
-- KC Concepcion Jr. (WR-CLE) — 623,304 adds
-- Brenton Strange (TE-JAX) — 601,794 adds
-- Elijah Mitchell (RB-PHI) — 518,274 adds
-- Tampa Bay Buccaneers (DEF-TB) — 454,090 adds
-- Ryan Flournoy (WR-DAL) — 447,400 adds
-- Jonah Coleman (RB-DEN) — 432,822 adds
-- Chase McLaughlin (K-TB) — 353,280 adds
-- Kaelon Black (RB-SF) — 338,359 adds
-- Tre Tucker (WR-LV) — 325,452 adds
-- Tyler Bass (K-BUF) — 273,740 adds
-- Makai Lemon (WR-PHI) — 257,340 adds
-- Omar Cooper Jr. (WR-NYJ) — 246,672 adds
-- Savion Williams (WR-GB) — 239,302 adds
-- Dylan Sampson (RB-CLE) — 226,415 adds
-- Mason Taylor (TE-NYJ) — 225,395 adds
-- Kirk Cousins (QB-LV) — 212,064 adds
-- Khalil Shakir (WR-BUF) — 204,048 adds
-- Rachaad White (RB-WAS) — 200,559 adds
-- Treylon Burks (WR-WAS) — 198,485 adds
+- Jacksonville Jaguars (DEF-JAX) — 1,382,898 adds
+- Caleb Douglas (WR-MIA) — 1,281,008 adds
+- Seth McGowan (RB-IND) — 929,752 adds
+- Washington Commanders (DEF-WAS) — 896,028 adds
+- New England Patriots (DEF-NE) — 708,946 adds
+- Devin Singletary (RB-NYG) — 663,345 adds
+- KC Concepcion Jr. (WR-CLE) — 533,376 adds
+- Brenton Strange (TE-JAX) — 530,037 adds
+- Elijah Mitchell (RB-PHI) — 471,672 adds
+- Tampa Bay Buccaneers (DEF-TB) — 442,590 adds
+- Ryan Flournoy (WR-DAL) — 409,368 adds
+- Jonah Coleman (RB-DEN) — 355,874 adds
+- Chase McLaughlin (K-TB) — 324,920 adds
+- Kaelon Black (RB-SF) — 288,582 adds
+- Tre Tucker (WR-LV) — 273,588 adds
+- Tyler Bass (K-BUF) — 266,125 adds
+- Savion Williams (WR-GB) — 231,630 adds
+- Makai Lemon (WR-PHI) — 224,592 adds
+- Dylan Sampson (RB-CLE) — 208,490 adds
+- Mason Taylor (TE-NYJ) — 207,575 adds
+- Omar Cooper Jr. (WR-NYJ) — 199,992 adds
+- Kirk Cousins (QB-LV) — 193,192 adds
+- Khalil Shakir (WR-BUF) — 192,438 adds
+- Treylon Burks (WR-WAS) — 186,277 adds
+- Jakobi Meyers (WR-JAX) — 179,466 adds
 
 ## League transactions this week
 - free_agent (complete) Sea Squirts: +[Los Angeles Rams (DEF-LAR)] -[Ka'imi Fairbairn (K-HOU)]

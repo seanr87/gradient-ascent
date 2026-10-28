@@ -7594,10 +7594,10 @@
  "12941": {
   "name": "Bryson Nesbit",
   "pos": "TE",
-  "team": null,
-  "status": "Inactive",
-  "injury_status": "Questionable",
-  "injury_note": "Undisclosed"
+  "team": "MIN",
+  "status": "Active",
+  "injury_status": null,
+  "injury_note": null
  },
  "4420": {
   "name": "Cody Hollister",
@@ -9452,8 +9452,8 @@
   "pos": "RB",
   "team": "NYJ",
   "status": "Active",
-  "injury_status": null,
-  "injury_note": null
+  "injury_status": "Questionable",
+  "injury_note": "Ankle"
  },
  "3556": {
   "name": "Christian Powell",
@@ -15436,8 +15436,8 @@
   "pos": "WR",
   "team": "TEN",
   "status": "Active",
-  "injury_status": null,
-  "injury_note": null
+  "injury_status": "Questionable",
+  "injury_note": "Shoulder"
  },
  "3201": {
   "name": "Roberto Aguayo",
@@ -21668,8 +21668,8 @@
   "pos": "WR",
   "team": "MIN",
   "status": "Active",
-  "injury_status": null,
-  "injury_note": null
+  "injury_status": "Out",
+  "injury_note": "Undisclosed"
  },
  "4218": {
   "name": "Trent Taylor",
@@ -22923,8 +22923,8 @@
   "name": "Terry McLaurin",
   "pos": "WR",
   "team": "WAS",
-  "status": "Active",
-  "injury_status": "Out",
+  "status": "Inactive",
+  "injury_status": "IR",
   "injury_note": "Knee"
  },
  "7096": {
@@ -26988,8 +26988,8 @@
   "pos": "TE",
   "team": "IND",
   "status": "Active",
-  "injury_status": null,
-  "injury_note": null
+  "injury_status": "Questionable",
+  "injury_note": "Knee"
  },
  "5239": {
   "name": "Lamar Jordan",
@@ -27538,7 +27538,7 @@
  "11789": {
   "name": "Joshua Karty",
   "pos": "K",
-  "team": null,
+  "team": "LAR",
   "status": "Active",
   "injury_status": null,
   "injury_note": null
@@ -33418,7 +33418,7 @@
  "11820": {
   "name": "Devin Culp",
   "pos": "TE",
-  "team": null,
+  "team": "MIN",
   "status": "Active",
   "injury_status": null,
   "injury_note": null
