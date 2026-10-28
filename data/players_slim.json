@@ -2450,7 +2450,7 @@
  "11311": {
   "name": "Jason Brownlee",
   "pos": "WR",
-  "team": "NYG",
+  "team": null,
   "status": "Active",
   "injury_status": null,
   "injury_note": null
@@ -6674,7 +6674,7 @@
  "5781": {
   "name": "Malik Turner",
   "pos": "WR",
-  "team": "SF",
+  "team": null,
   "status": "Active",
   "injury_status": null,
   "injury_note": null
@@ -6850,7 +6850,7 @@
  "11633": {
   "name": "Jamari Thrash",
   "pos": "WR",
-  "team": "LV",
+  "team": null,
   "status": "Active",
   "injury_status": null,
   "injury_note": null
@@ -16026,7 +16026,7 @@
  "13355": {
   "name": "DJ Rogers",
   "pos": "TE",
-  "team": "DAL",
+  "team": null,
   "status": "Inactive",
   "injury_status": "Questionable",
   "injury_note": "Knee"
@@ -16858,7 +16858,7 @@
  "6037": {
   "name": "Brett Rypien",
   "pos": "QB",
-  "team": "TB",
+  "team": null,
   "status": "Active",
   "injury_status": null,
   "injury_note": null
@@ -18882,7 +18882,7 @@
  "7087": {
   "name": "Jonathan Ward",
   "pos": "RB",
-  "team": "BAL",
+  "team": null,
   "status": "Active",
   "injury_status": null,
   "injury_note": null
@@ -24018,7 +24018,7 @@
  "11199": {
   "name": "Emari Demercado",
   "pos": "RB",
-  "team": "DAL",
+  "team": null,
   "status": "Active",
   "injury_status": null,
   "injury_note": null
@@ -26058,7 +26058,7 @@
  "7537": {
   "name": "Jaret Patterson",
   "pos": "RB",
-  "team": "CLE",
+  "team": null,
   "status": "Active",
   "injury_status": null,
   "injury_note": null
@@ -26778,7 +26778,7 @@
  "7050": {
   "name": "Josiah Deguara",
   "pos": "TE",
-  "team": "SEA",
+  "team": null,
   "status": "Active",
   "injury_status": null,
   "injury_note": null
@@ -27546,7 +27546,7 @@
  "13208": {
   "name": "Kyrese Rowan",
   "pos": "WR",
-  "team": "NO",
+  "team": null,
   "status": "Active",
   "injury_status": null,
   "injury_note": null
@@ -27762,7 +27762,7 @@
  "12001": {
   "name": "Lawrence Keys",
   "pos": "WR",
-  "team": "DET",
+  "team": null,
   "status": "Active",
   "injury_status": null,
   "injury_note": null
@@ -32794,7 +32794,7 @@
  "13879": {
   "name": "Jameson Geers",
   "pos": "TE",
-  "team": "ARI",
+  "team": null,
   "status": "Inactive",
   "injury_status": "Questionable",
   "injury_note": "Undisclosed"

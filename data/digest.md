@@ -1,5 +1,5 @@
 # Sleeper digest — The Climb
-Pulled: 2026-10-28 16:06 UTC · NFL week 8 (regular)
+Pulled: 2026-10-28 16:17 UTC · NFL week 8 (regular)
 
 ## My roster
 - Tre Tucker (WR-LV)
@@ -51,31 +51,31 @@ Pulled: 2026-10-28 16:06 UTC · NFL week 8 (regular)
 - Umojan Protectorate 113.37 — Two Dumb Jaylens  112.86
 
 ## Trending adds (24h, all Sleeper)
-- Jacksonville Jaguars (DEF-JAX) — 1,556,886 adds
-- Caleb Douglas (WR-MIA) — 1,520,320 adds
-- Seth McGowan (RB-IND) — 1,063,600 adds
-- Washington Commanders (DEF-WAS) — 820,036 adds
-- New England Patriots (DEF-NE) — 818,804 adds
-- Devin Singletary (RB-NYG) — 691,524 adds
-- KC Concepcion Jr. (WR-CLE) — 621,135 adds
-- Brenton Strange (TE-JAX) — 598,824 adds
-- Elijah Mitchell (RB-PHI) — 516,069 adds
-- Tampa Bay Buccaneers (DEF-TB) — 449,910 adds
-- Ryan Flournoy (WR-DAL) — 444,728 adds
-- Jonah Coleman (RB-DEN) — 431,946 adds
-- Chase McLaughlin (K-TB) — 350,600 adds
-- Kaelon Black (RB-SF) — 337,246 adds
-- Tre Tucker (WR-LV) — 324,150 adds
-- Tyler Bass (K-BUF) — 271,210 adds
-- Makai Lemon (WR-PHI) — 256,284 adds
-- Omar Cooper Jr. (WR-NYJ) — 246,008 adds
-- Savion Williams (WR-GB) — 238,035 adds
-- Dylan Sampson (RB-CLE) — 225,285 adds
-- Mason Taylor (TE-NYJ) — 224,120 adds
-- Kirk Cousins (QB-LV) — 210,480 adds
-- Khalil Shakir (WR-BUF) — 202,689 adds
-- Rachaad White (RB-WAS) — 199,629 adds
-- Treylon Burks (WR-WAS) — 197,463 adds
+- Jacksonville Jaguars (DEF-JAX) — 1,563,618 adds
+- Caleb Douglas (WR-MIA) — 1,525,056 adds
+- Seth McGowan (RB-IND) — 1,067,560 adds
+- Washington Commanders (DEF-WAS) — 829,668 adds
+- New England Patriots (DEF-NE) — 822,717 adds
+- Devin Singletary (RB-NYG) — 695,952 adds
+- KC Concepcion Jr. (WR-CLE) — 623,304 adds
+- Brenton Strange (TE-JAX) — 601,794 adds
+- Elijah Mitchell (RB-PHI) — 518,274 adds
+- Tampa Bay Buccaneers (DEF-TB) — 454,090 adds
+- Ryan Flournoy (WR-DAL) — 447,400 adds
+- Jonah Coleman (RB-DEN) — 432,822 adds
+- Chase McLaughlin (K-TB) — 353,280 adds
+- Kaelon Black (RB-SF) — 338,359 adds
+- Tre Tucker (WR-LV) — 325,452 adds
+- Tyler Bass (K-BUF) — 273,740 adds
+- Makai Lemon (WR-PHI) — 257,340 adds
+- Omar Cooper Jr. (WR-NYJ) — 246,672 adds
+- Savion Williams (WR-GB) — 239,302 adds
+- Dylan Sampson (RB-CLE) — 226,415 adds
+- Mason Taylor (TE-NYJ) — 225,395 adds
+- Kirk Cousins (QB-LV) — 212,064 adds
+- Khalil Shakir (WR-BUF) — 204,048 adds
+- Rachaad White (RB-WAS) — 200,559 adds
+- Treylon Burks (WR-WAS) — 198,485 adds
 
 ## League transactions this week
 - free_agent (complete) Sea Squirts: +[Los Angeles Rams (DEF-LAR)] -[Ka'imi Fairbairn (K-HOU)]
