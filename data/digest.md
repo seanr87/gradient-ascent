@@ -1,5 +1,5 @@
 # Sleeper digest — The Climb
-Pulled: 2026-10-29 17:24 UTC · NFL week 8 (regular)
+Pulled: 2026-10-29 17:36 UTC · NFL week 8 (regular)
 
 ## My roster
 - Tre Tucker (WR-LV) (STARTER)
@@ -51,31 +51,31 @@ Pulled: 2026-10-29 17:24 UTC · NFL week 8 (regular)
 - Umojan Protectorate 113.37 — Two Dumb Jaylens  112.86
 
 ## Trending adds (24h, all Sleeper)
-- Elijah Mitchell (RB-PHI) — 828,171 adds
-- Washington Commanders (DEF-WAS) — 586,719 adds
-- Jaydon Blue (RB-PHI) — 392,776 adds
-- Devin Singletary (RB-NYG) — 351,828 adds
-- Jacksonville Jaguars (DEF-JAX) — 317,208 adds
-- Caleb Douglas (WR-MIA) — 281,000 adds
-- Tampa Bay Buccaneers (DEF-TB) — 231,510 adds
-- Ryan Flournoy (WR-DAL) — 214,984 adds
-- Seth McGowan (RB-IND) — 207,744 adds
-- Brenton Strange (TE-JAX) — 191,304 adds
-- New England Patriots (DEF-NE) — 176,820 adds
-- Chase McLaughlin (K-TB) — 163,488 adds
-- Tyler Bass (K-BUF) — 147,570 adds
-- KC Concepcion Jr. (WR-CLE) — 146,061 adds
-- Savion Williams (WR-GB) — 136,864 adds
-- Kirk Cousins (QB-LV) — 107,944 adds
-- Khalil Shakir (WR-BUF) — 104,886 adds
-- Las Vegas Raiders (DEF-LV) — 104,316 adds
-- Tre Tucker (WR-LV) — 97,782 adds
-- Mason Taylor (TE-NYJ) — 92,040 adds
-- Keon Coleman (WR-BUF) — 85,149 adds
-- Emanuel Wilson (RB-SEA) — 84,267 adds
-- Detroit Lions (DEF-DET) — 79,434 adds
-- Makai Lemon (WR-PHI) — 72,976 adds
-- Treylon Burks (WR-WAS) [Questionable] — 69,958 adds
+- Elijah Mitchell (RB-PHI) — 833,607 adds
+- Washington Commanders (DEF-WAS) — 590,240 adds
+- Jaydon Blue (RB-PHI) — 396,184 adds
+- Devin Singletary (RB-NYG) — 353,979 adds
+- Jacksonville Jaguars (DEF-JAX) — 318,462 adds
+- Caleb Douglas (WR-MIA) — 281,904 adds
+- Tampa Bay Buccaneers (DEF-TB) — 232,970 adds
+- Ryan Flournoy (WR-DAL) — 216,480 adds
+- Seth McGowan (RB-IND) — 208,480 adds
+- Brenton Strange (TE-JAX) — 192,501 adds
+- New England Patriots (DEF-NE) — 177,681 adds
+- Chase McLaughlin (K-TB) — 164,400 adds
+- Tyler Bass (K-BUF) — 148,530 adds
+- KC Concepcion Jr. (WR-CLE) — 146,817 adds
+- Savion Williams (WR-GB) — 137,529 adds
+- Kirk Cousins (QB-LV) — 108,592 adds
+- Khalil Shakir (WR-BUF) — 105,507 adds
+- Las Vegas Raiders (DEF-LV) — 105,084 adds
+- Tre Tucker (WR-LV) — 98,208 adds
+- Mason Taylor (TE-NYJ) — 93,110 adds
+- Keon Coleman (WR-BUF) — 85,680 adds
+- Emanuel Wilson (RB-SEA) — 84,672 adds
+- Detroit Lions (DEF-DET) — 79,956 adds
+- Makai Lemon (WR-PHI) — 73,428 adds
+- Treylon Burks (WR-WAS) [Questionable] — 70,308 adds
 
 ## League transactions this week
 - free_agent (complete) Lost in the Land of Love: +[Evan McPherson (K-CIN)] -[Matt Gay (K-LV)]
