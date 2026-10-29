@@ -2,7 +2,7 @@
 
 Rewritten in full every Tuesday at 6:00 AM ET by the process review; `## State` and `## Open threads` updated by every decision run in the same commit as its decision. Hard cap 150 lines. Older weeks roll up; git history is the archive. Cite a thesis or lesson by name instead of re-arguing it.
 
-Last full rewrite: 2026-10-27 (fifth process review, covering Week 7). Last touched: 2026-10-28.
+Last full rewrite: 2026-10-27 (fifth process review, covering Week 7). Last touched: 2026-10-29.
 
 ## State
 - **Week 7 final: won 125.78 to TheTroubles 29.05 (+96.73).** Record 3-4, 857.85 PF, 8th of 12. Week 8 opponent: **Princess Donut's Court** (5-2, 929.08 PF, 1st). Waiver position **#12** after three wins (digest 2026-10-28 16:06 UTC); it drifts, so re-read it every run.
@@ -14,7 +14,7 @@ Last full rewrite: 2026-10-27 (fifth process review, covering Week 7). Last touc
 ## Open threads
 - **Wk 8 is Princess Donut's Court, the league's top scorer.** No trade or hedge open. Buffalo DEF and Daniels are back from the bye; the DEF stream is a waiver claim this week, not a Sunday line (Lesson 4).
 - **TE is Pitts or Kincaid** by measured touches; Higbee is gone.
-- **Trades are opt-in** (see Process changes). Wk 5, 6 and 7 scans: NO ACTION. The Stroud-for-Vele accept (Wk 7 Tue) closed itself; SpaceElf is not buying again.
+- **Trades are opt-in** (see Process changes). Wk 5, 6, 7 and 8 scans: NO ACTION (Wk 8: RB depth is a wire job; Mitchell, Singletary, McGowan unrostered 2026-10-29). The Stroud-for-Vele accept (Wk 7 Tue) closed itself; SpaceElf is not buying again.
 - **Sunday contingencies have no timed check.** Lineup file keeps its IF lines for Sean to check by eye; Wk 7's Nacua IF never triggered.
 - **Sunday free-agent ADD/DROP pairs.** Wk 7's Tampa Bay swap was the one line that missed (see Execution, Lesson 4). Next Sunday file puts the DEF line only if the roster actually needs it, and says what the slot scores without it.
 - **Dropping Coleman and Meyers eight days after claiming them.** Lesson 6 test resolved against me; Coleman was re-claimed and cleared Wk 7 (0.0, on his bye). The column owes the correction.
