@@ -1,9 +1,9 @@
 # Sleeper digest — The Climb
-Pulled: 2026-10-28 20:13 UTC · NFL week 8 (regular)
+Pulled: 2026-10-29 12:03 UTC · NFL week 8 (regular)
 
 ## My roster
 - Tre Tucker (WR-LV) (STARTER)
-- Dalton Kincaid (TE-BUF) (STARTER)
+- Dalton Kincaid (TE-BUF) [Questionable] (STARTER)
 - Jayden Daniels (QB-WAS) (STARTER)
 - Braelon Allen (RB-NYJ) [Questionable] (STARTER)
 - Bucky Irving (RB-TB) (STARTER)
@@ -12,7 +12,7 @@ Pulled: 2026-10-28 20:13 UTC · NFL week 8 (regular)
 - CeeDee Lamb (WR-DAL) (STARTER)
 - Tyler Bass (K-BUF) (STARTER)
 - Kyle Pitts Sr. (TE-ATL)
-- Dameon Pierce (RB-PHI) [Questionable]
+- Dameon Pierce (RB-PHI) [IR]
 - Puka Nacua (WR-LAR) (STARTER)
 - Aaron Rodgers (QB-PIT)
 - Tampa Bay Buccaneers (DEF-TB) (STARTER)
@@ -51,33 +51,42 @@ Pulled: 2026-10-28 20:13 UTC · NFL week 8 (regular)
 - Umojan Protectorate 113.37 — Two Dumb Jaylens  112.86
 
 ## Trending adds (24h, all Sleeper)
-- Jacksonville Jaguars (DEF-JAX) — 1,382,898 adds
-- Caleb Douglas (WR-MIA) — 1,281,008 adds
-- Seth McGowan (RB-IND) — 929,752 adds
-- Washington Commanders (DEF-WAS) — 896,028 adds
-- New England Patriots (DEF-NE) — 708,946 adds
-- Devin Singletary (RB-NYG) — 663,345 adds
-- KC Concepcion Jr. (WR-CLE) — 533,376 adds
-- Brenton Strange (TE-JAX) — 530,037 adds
-- Elijah Mitchell (RB-PHI) — 471,672 adds
-- Tampa Bay Buccaneers (DEF-TB) — 442,590 adds
-- Ryan Flournoy (WR-DAL) — 409,368 adds
-- Jonah Coleman (RB-DEN) — 355,874 adds
-- Chase McLaughlin (K-TB) — 324,920 adds
-- Kaelon Black (RB-SF) — 288,582 adds
-- Tre Tucker (WR-LV) — 273,588 adds
-- Tyler Bass (K-BUF) — 266,125 adds
-- Savion Williams (WR-GB) — 231,630 adds
-- Makai Lemon (WR-PHI) — 224,592 adds
-- Dylan Sampson (RB-CLE) — 208,490 adds
-- Mason Taylor (TE-NYJ) — 207,575 adds
-- Omar Cooper Jr. (WR-NYJ) — 199,992 adds
-- Kirk Cousins (QB-LV) — 193,192 adds
-- Khalil Shakir (WR-BUF) — 192,438 adds
-- Treylon Burks (WR-WAS) — 186,277 adds
-- Jakobi Meyers (WR-JAX) — 179,466 adds
+- Washington Commanders (DEF-WAS) — 777,385 adds
+- Elijah Mitchell (RB-PHI) — 707,085 adds
+- Jacksonville Jaguars (DEF-JAX) — 545,544 adds
+- Caleb Douglas (WR-MIA) — 415,456 adds
+- Devin Singletary (RB-NYG) — 397,782 adds
+- Seth McGowan (RB-IND) — 324,592 adds
+- Tampa Bay Buccaneers (DEF-TB) — 323,690 adds
+- New England Patriots (DEF-NE) — 307,013 adds
+- Jaydon Blue (RB-PHI) — 274,344 adds
+- Brenton Strange (TE-JAX) — 267,183 adds
+- Ryan Flournoy (WR-DAL) — 260,096 adds
+- Chase McLaughlin (K-TB) — 223,128 adds
+- Tyler Bass (K-BUF) — 200,015 adds
+- KC Concepcion Jr. (WR-CLE) — 187,812 adds
+- Savion Williams (WR-GB) — 147,266 adds
+- Kirk Cousins (QB-LV) — 140,760 adds
+- Las Vegas Raiders (DEF-LV) — 132,906 adds
+- Khalil Shakir (WR-BUF) — 129,690 adds
+- Tre Tucker (WR-LV) — 126,000 adds
+- Mason Taylor (TE-NYJ) — 114,385 adds
+- Keon Coleman (WR-BUF) — 105,795 adds
+- Kaelon Black (RB-SF) — 98,469 adds
+- Emanuel Wilson (RB-SEA) — 98,253 adds
+- Detroit Lions (DEF-DET) — 96,120 adds
+- Makai Lemon (WR-PHI) — 94,588 adds
 
 ## League transactions this week
+- free_agent (complete) Lost in the Land of Love: +[Evan McPherson (K-CIN)] -[Matt Gay (K-LV)]
+- free_agent (complete) Lost in the Land of Love: +[Sam Darnold (QB-SEA)] -[Makai Lemon (WR-PHI)]
+- free_agent (complete) Lost in the Land of Love: +[Makai Lemon (WR-PHI)] -[Jaydon Blue (RB-PHI)]
+- free_agent (complete) Two Dumb Jaylens : +[Washington Commanders (DEF-WAS)] -[Baltimore Ravens (DEF-BAL)]
+- free_agent (complete) Two Dumb Jaylens : +[Jake Ferguson (TE-DAL)] -[Nick Folk (K-ATL)]
+- free_agent (complete) Lost in the Land of Love: +[Jaydon Blue (RB-PHI)] -[Elijah Mitchell (RB-PHI)]
+- free_agent (complete) Lost in the Land of Love: +[Elijah Mitchell (RB-PHI)] -[Malik Willis (QB-MIA)]
+- trade (complete) Lost in the Land of Love, Sea Squirts: +[Denzel Boston (WR-CLE), Rachaad White (RB-WAS)] -[Denzel Boston (WR-CLE), Rachaad White (RB-WAS)]
+- free_agent (complete) CorneliusJones: +[Dallas Goedert (TE-PHI)] -[Kendre Miller (RB-NO)]
 - free_agent (complete) Sea Squirts: +[Los Angeles Rams (DEF-LAR)] -[Ka'imi Fairbairn (K-HOU)]
 - free_agent (complete) The Wizard’s Apprentice: +[Jacksonville Jaguars (DEF-JAX)] -[New York Jets (DEF-NYJ)]
 - free_agent (complete) Lost in the Land of Love: +[Malik Willis (QB-MIA)] -[Kyler Murray (QB-MIN)]

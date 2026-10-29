@@ -54,7 +54,7 @@
   player: "Dalton Kincaid"
   pos: "TE"
   team: "BUF"
-  status: ""
+  status: "Questionable"
   acquired: "Draft"
   acquired_via: "R7, pick 79"
   acquired_week: 0
@@ -86,7 +86,7 @@
   player: "Dameon Pierce"
   pos: "RB"
   team: "PHI"
-  status: "Questionable"
+  status: "IR"
   acquired: "Wk 5"
   acquired_via: "waiver claim"
   acquired_week: 5
