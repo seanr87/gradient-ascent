@@ -3764,8 +3764,8 @@
   "pos": "RB",
   "team": "NE",
   "status": "Active",
-  "injury_status": null,
-  "injury_note": null
+  "injury_status": "Questionable",
+  "injury_note": "Ankle"
  },
  "565": {
   "name": "Tony Moeaki",
@@ -6324,8 +6324,8 @@
   "pos": "WR",
   "team": "CIN",
   "status": "Active",
-  "injury_status": "Questionable",
-  "injury_note": "Ankle"
+  "injury_status": null,
+  "injury_note": null
  },
  "8174": {
   "name": "Kevin Harris",
@@ -7028,8 +7028,8 @@
   "pos": "RB",
   "team": "DET",
   "status": "Active",
-  "injury_status": "Questionable",
-  "injury_note": "Neck"
+  "injury_status": null,
+  "injury_note": null
  },
  "13088": {
   "name": "Quali Conley",
@@ -9452,8 +9452,8 @@
   "pos": "RB",
   "team": "NYJ",
   "status": "Active",
-  "injury_status": "Questionable",
-  "injury_note": "Ankle"
+  "injury_status": null,
+  "injury_note": null
  },
  "3556": {
   "name": "Christian Powell",
@@ -17036,8 +17036,8 @@
   "pos": "RB",
   "team": "DET",
   "status": "Active",
-  "injury_status": "Questionable",
-  "injury_note": "Shoulder"
+  "injury_status": null,
+  "injury_note": null
  },
  "3486": {
   "name": "Chris Brown",
@@ -19780,8 +19780,8 @@
   "pos": "WR",
   "team": "DET",
   "status": "Active",
-  "injury_status": "Questionable",
-  "injury_note": "Ankle"
+  "injury_status": null,
+  "injury_note": null
  },
  "11900": {
   "name": "Jacob Kibodi",
@@ -22308,8 +22308,8 @@
   "pos": "RB",
   "team": "CLE",
   "status": "Active",
-  "injury_status": "Questionable",
-  "injury_note": "Knee"
+  "injury_status": null,
+  "injury_note": null
  },
  "3020": {
   "name": "Dan Light",
@@ -26540,8 +26540,8 @@
   "pos": "RB",
   "team": "JAX",
   "status": "Active",
-  "injury_status": null,
-  "injury_note": null
+  "injury_status": "Questionable",
+  "injury_note": "Hamstring"
  },
  "11249": {
   "name": "Chris Smith",
@@ -30068,8 +30068,8 @@
   "pos": "TE",
   "team": "KC",
   "status": "Active",
-  "injury_status": null,
-  "injury_note": null
+  "injury_status": "Questionable",
+  "injury_note": "Ankle"
  },
  "11932": {
   "name": "Mike DiLiello",
@@ -31420,8 +31420,8 @@
   "pos": "TE",
   "team": "LV",
   "status": "Active",
-  "injury_status": "Questionable",
-  "injury_note": "Calf"
+  "injury_status": null,
+  "injury_note": null
  },
  "12826": {
   "name": "Ulysses Bentley",
@@ -32460,8 +32460,8 @@
   "pos": "RB",
   "team": "BUF",
   "status": "Active",
-  "injury_status": null,
-  "injury_note": null
+  "injury_status": "Questionable",
+  "injury_note": "Illness"
  },
  "7334": {
   "name": "Earnest Edwards",
