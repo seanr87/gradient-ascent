@@ -1,5 +1,5 @@
 # Sleeper digest — The Climb
-Pulled: 2026-10-29 23:55 UTC · NFL week 8 (regular)
+Pulled: 2026-10-30 14:22 UTC · NFL week 8 (regular)
 
 ## My roster
 - Tre Tucker (WR-LV) (STARTER)
@@ -36,10 +36,10 @@ Pulled: 2026-10-29 23:55 UTC · NFL week 8 (regular)
 
 ## This week's matchups (week 8)
 - Gradient Ascent 0.00 — Princess Donut's Court 0.00
-- What can Brown do for u? 0.00 — The Wizard’s Apprentice 0.00
-- TheTroubles 0.00 — Sea Squirts 0.00
-- Lost in the Land of Love 0.00 — CorneliusJones 0.00
-- Playful Secrets 0.00 — Two Dumb Jaylens  0.00
+- The Wizard’s Apprentice 18.90 — What can Brown do for u? 0.00
+- TheTroubles 61.40 — Sea Squirts 8.60
+- Lost in the Land of Love 10.80 — CorneliusJones 0.00
+- Two Dumb Jaylens  21.52 — Playful Secrets 14.80
 - The Butker Jihad 0.00 — Umojan Protectorate 0.00
 
 ## Last week's results (week 7)
@@ -51,31 +51,31 @@ Pulled: 2026-10-29 23:55 UTC · NFL week 8 (regular)
 - Umojan Protectorate 113.37 — Two Dumb Jaylens  112.86
 
 ## Trending adds (24h, all Sleeper)
-- Elijah Mitchell (RB-PHI) — 734,544 adds
-- Washington Commanders (DEF-WAS) — 622,433 adds
-- Jaydon Blue (RB-PHI) — 487,008 adds
-- Devin Singletary (RB-NYG) — 316,287 adds
-- Jacksonville Jaguars (DEF-JAX) — 242,250 adds
-- Tampa Bay Buccaneers (DEF-TB) — 229,545 adds
-- Caleb Douglas (WR-MIA) — 207,728 adds
-- Ryan Flournoy (WR-DAL) — 203,296 adds
-- Brenton Strange (TE-JAX) — 193,545 adds
-- Chase McLaughlin (K-TB) — 175,768 adds
-- Tyler Bass (K-BUF) — 161,210 adds
-- New England Patriots (DEF-NE) — 155,974 adds
-- KC Concepcion Jr. (WR-CLE) — 125,721 adds
-- Mason Taylor (TE-NYJ) — 122,960 adds
-- Seth McGowan (RB-IND) — 118,848 adds
-- Savion Williams (WR-GB) — 117,124 adds
-- Las Vegas Raiders (DEF-LV) — 113,538 adds
-- Kirk Cousins (QB-LV) — 110,920 adds
-- Khalil Shakir (WR-BUF) — 99,063 adds
-- Tre Tucker (WR-LV) — 87,378 adds
-- Detroit Lions (DEF-DET) — 82,935 adds
-- Keon Coleman (WR-BUF) — 80,730 adds
-- Kyler Murray (QB-MIN) — 79,160 adds
-- Jake Bates (K-DET) — 76,640 adds
-- Emanuel Wilson (RB-SEA) — 71,730 adds
+- Elijah Mitchell (RB-PHI) — 586,350 adds
+- Washington Commanders (DEF-WAS) — 565,523 adds
+- Jaydon Blue (RB-PHI) — 409,632 adds
+- Devin Singletary (RB-NYG) — 268,785 adds
+- Tampa Bay Buccaneers (DEF-TB) — 222,125 adds
+- Ryan Flournoy (WR-DAL) — 198,520 adds
+- Brenton Strange (TE-JAX) — 184,122 adds
+- Jacksonville Jaguars (DEF-JAX) — 182,580 adds
+- Chase McLaughlin (K-TB) — 166,880 adds
+- Tyler Bass (K-BUF) — 157,015 adds
+- Caleb Douglas (WR-MIA) — 146,688 adds
+- Mason Taylor (TE-NYJ) — 143,945 adds
+- New England Patriots (DEF-NE) — 134,953 adds
+- Las Vegas Raiders (DEF-LV) — 115,716 adds
+- Kirk Cousins (QB-LV) — 110,288 adds
+- KC Concepcion Jr. (WR-CLE) — 104,967 adds
+- Khalil Shakir (WR-BUF) — 89,262 adds
+- Kyler Murray (QB-MIN) — 85,672 adds
+- Detroit Lions (DEF-DET) — 83,592 adds
+- Savion Williams (WR-GB) — 81,466 adds
+- Seth McGowan (RB-IND) — 77,688 adds
+- Jake Bates (K-DET) — 76,072 adds
+- Keon Coleman (WR-BUF) — 75,726 adds
+- Tre Tucker (WR-LV) — 74,694 adds
+- Geno Smith (QB-NYJ) — 66,748 adds
 
 ## League transactions this week
 - free_agent (complete) What can Brown do for u?: +[Las Vegas Raiders (DEF-LV)] -[Carolina Panthers (DEF-CAR)]

@@ -8028,8 +8028,8 @@
   "pos": "WR",
   "team": "GB",
   "status": "Active",
-  "injury_status": null,
-  "injury_note": null
+  "injury_status": "Questionable",
+  "injury_note": "Undisclosed"
  },
  "8211": {
   "name": "Tyrion Davis-Price",
