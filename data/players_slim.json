@@ -1812,8 +1812,8 @@
   "pos": "TE",
   "team": "CHI",
   "status": "Active",
-  "injury_status": "Questionable",
-  "injury_note": "Neck"
+  "injury_status": null,
+  "injury_note": null
  },
  "6081": {
   "name": "Kendall Blanton",
@@ -3764,8 +3764,8 @@
   "pos": "RB",
   "team": "NE",
   "status": "Active",
-  "injury_status": "Questionable",
-  "injury_note": "Ankle"
+  "injury_status": "Out",
+  "injury_note": "Illness"
  },
  "565": {
   "name": "Tony Moeaki",
@@ -10379,8 +10379,8 @@
   "name": "RJ Harvey",
   "pos": "RB",
   "team": "DEN",
-  "status": "Active",
-  "injury_status": "Out",
+  "status": "Inactive",
+  "injury_status": "IR",
   "injury_note": "Knee"
  },
  "350": {
@@ -12020,7 +12020,7 @@
   "pos": "WR",
   "team": "NE",
   "status": "Active",
-  "injury_status": "Questionable",
+  "injury_status": "Out",
   "injury_note": "Ankle"
  },
  "374": {
@@ -17291,9 +17291,9 @@
   "name": "Jack Bech",
   "pos": "WR",
   "team": "LV",
-  "status": "Inactive",
-  "injury_status": "IR",
-  "injury_note": "Forearm"
+  "status": "Active",
+  "injury_status": null,
+  "injury_note": null
  },
  "6223": {
   "name": "Juwann Winfree",
@@ -21620,8 +21620,8 @@
   "pos": "RB",
   "team": "CHI",
   "status": "Active",
-  "injury_status": "Questionable",
-  "injury_note": "Toe"
+  "injury_status": "Out",
+  "injury_note": "Thumb"
  },
  "2205": {
   "name": "Seantavius Jones",

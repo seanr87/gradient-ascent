@@ -1,5 +1,5 @@
 # Sleeper digest — The Climb
-Pulled: 2026-10-31 16:29 UTC · NFL week 8 (regular)
+Pulled: 2026-10-31 20:48 UTC · NFL week 8 (regular)
 
 ## My roster
 - Tre Tucker (WR-LV) (STARTER)
@@ -51,31 +51,31 @@ Pulled: 2026-10-31 16:29 UTC · NFL week 8 (regular)
 - Umojan Protectorate 113.37 — Two Dumb Jaylens  112.86
 
 ## Trending adds (24h, all Sleeper)
-- Elijah Mitchell (RB-PHI) — 168,318 adds
-- Devin Singletary (RB-NYG) — 147,645 adds
-- Ryan Flournoy (WR-DAL) — 134,784 adds
-- Seth McGowan (RB-IND) — 126,464 adds
-- Makai Lemon (WR-PHI) — 121,780 adds
-- Washington Commanders (DEF-WAS) — 104,937 adds
-- Elic Ayomanor (WR-TEN) — 96,948 adds
-- Chris Godwin Jr. (WR-TB) — 93,816 adds
-- Samaje Perine (RB-CIN) — 92,600 adds
-- Jaydon Blue (RB-PHI) — 89,472 adds
-- Mason Taylor (TE-NYJ) — 74,365 adds
-- Tampa Bay Buccaneers (DEF-TB) — 66,430 adds
-- Caleb Douglas (WR-MIA) — 56,264 adds
-- Darius Cooper (WR-PHI) — 55,076 adds
-- KC Concepcion Jr. (WR-CLE) — 53,001 adds
-- Keon Coleman (WR-BUF) — 52,542 adds
-- Khalil Shakir (WR-BUF) — 51,156 adds
-- Brenton Strange (TE-JAX) — 49,257 adds
-- Jadarian Price (RB-SEA) [IR] — 47,178 adds
-- Chris Rodriguez Jr. (RB-JAX) — 43,488 adds
-- Kimani Vidal (RB-LAC) — 36,200 adds
-- Jacksonville Jaguars (DEF-JAX) — 35,574 adds
-- Jordan Addison (WR-MIN) — 35,226 adds
-- Chase McLaughlin (K-TB) — 34,224 adds
-- Tyler Bass (K-BUF) — 32,310 adds
+- Seth McGowan (RB-IND) — 207,304 adds
+- Devin Singletary (RB-NYG) — 181,881 adds
+- Elijah Mitchell (RB-PHI) — 174,654 adds
+- Samaje Perine (RB-CIN) — 147,112 adds
+- Ryan Flournoy (WR-DAL) — 135,728 adds
+- Makai Lemon (WR-PHI) — 132,360 adds
+- Elic Ayomanor (WR-TEN) — 98,748 adds
+- Washington Commanders (DEF-WAS) — 90,454 adds
+- Chris Godwin Jr. (WR-TB) — 87,762 adds
+- Mason Taylor (TE-NYJ) — 67,415 adds
+- Darius Cooper (WR-PHI) — 64,071 adds
+- Tampa Bay Buccaneers (DEF-TB) — 59,105 adds
+- Chris Rodriguez Jr. (RB-JAX) — 57,204 adds
+- Keon Coleman (WR-BUF) — 55,998 adds
+- Jaydon Blue (RB-PHI) — 53,064 adds
+- Jadarian Price (RB-SEA) [IR] — 51,426 adds
+- Kimani Vidal (RB-LAC) — 47,630 adds
+- Corey Kiner (RB-NE) — 45,024 adds
+- Jordan Addison (WR-MIN) — 44,064 adds
+- Khalil Shakir (WR-BUF) — 43,902 adds
+- KC Concepcion Jr. (WR-CLE) — 43,092 adds
+- Caleb Douglas (WR-MIA) — 41,512 adds
+- Brenton Strange (TE-JAX) — 39,528 adds
+- Jacksonville Jaguars (DEF-JAX) — 32,940 adds
+- Jonah Coleman (RB-DEN) — 31,966 adds
 
 ## League transactions this week
 - free_agent (complete) Princess Donut's Court: +[KC Concepcion Jr. (WR-CLE)] -[Bryce Young (QB-CAR)]
