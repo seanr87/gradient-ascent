@@ -1,5 +1,5 @@
 # Sleeper digest — The Climb
-Pulled: 2026-11-01 14:02 UTC · NFL week 8 (regular)
+Pulled: 2026-11-01 14:09 UTC · NFL week 8 (regular)
 
 ## My roster
 - Tre Tucker (WR-LV) (STARTER)
@@ -51,31 +51,31 @@ Pulled: 2026-11-01 14:02 UTC · NFL week 8 (regular)
 - Umojan Protectorate 113.37 — Two Dumb Jaylens  112.86
 
 ## Trending adds (24h, all Sleeper)
-- Seth McGowan (RB-IND) — 303,872 adds
-- Devin Singletary (RB-NYG) — 252,576 adds
-- Samaje Perine (RB-CIN) — 186,296 adds
-- Ryan Flournoy (WR-DAL) — 155,896 adds
-- Elijah Mitchell (RB-PHI) — 132,885 adds
-- Makai Lemon (WR-PHI) — 126,820 adds
-- Washington Commanders (DEF-WAS) — 110,222 adds
-- Corey Kiner (RB-NE) — 107,520 adds
-- Elic Ayomanor (WR-TEN) — 101,996 adds
-- Chris Godwin Jr. (WR-TB) — 88,608 adds
-- Jadarian Price (RB-SEA) [IR] — 71,793 adds
-- Tampa Bay Buccaneers (DEF-TB) — 70,940 adds
-- Chris Rodriguez Jr. (RB-JAX) — 69,075 adds
-- Keon Coleman (WR-BUF) — 63,288 adds
-- Mason Taylor (TE-NYJ) — 62,940 adds
-- Darius Cooper (WR-PHI) — 62,237 adds
-- Jordan Addison (WR-MIN) — 56,295 adds
-- Kimani Vidal (RB-LAC) — 55,840 adds
-- Kyle Williams (WR-NE) — 49,860 adds
-- MarShawn Lloyd (RB-GB) — 45,396 adds
-- Tyler Bass (K-BUF) — 43,375 adds
-- Khalil Shakir (WR-BUF) — 43,164 adds
-- Detroit Lions (DEF-DET) — 42,300 adds
-- Hunter Henry (TE-NE) — 41,511 adds
-- KC Concepcion Jr. (WR-CLE) — 39,798 adds
+- Seth McGowan (RB-IND) — 307,352 adds
+- Devin Singletary (RB-NYG) — 257,265 adds
+- Samaje Perine (RB-CIN) — 190,188 adds
+- Ryan Flournoy (WR-DAL) — 158,648 adds
+- Elijah Mitchell (RB-PHI) — 133,866 adds
+- Makai Lemon (WR-PHI) — 128,568 adds
+- Washington Commanders (DEF-WAS) — 113,043 adds
+- Corey Kiner (RB-NE) — 109,896 adds
+- Elic Ayomanor (WR-TEN) — 103,636 adds
+- Chris Godwin Jr. (WR-TB) — 89,994 adds
+- Tampa Bay Buccaneers (DEF-TB) — 72,820 adds
+- Jadarian Price (RB-SEA) [IR] — 72,792 adds
+- Chris Rodriguez Jr. (RB-JAX) — 70,146 adds
+- Keon Coleman (WR-BUF) — 64,368 adds
+- Mason Taylor (TE-NYJ) — 64,055 adds
+- Darius Cooper (WR-PHI) — 63,049 adds
+- Jordan Addison (WR-MIN) — 57,087 adds
+- Kimani Vidal (RB-LAC) — 56,915 adds
+- Kyle Williams (WR-NE) — 50,830 adds
+- MarShawn Lloyd (RB-GB) — 45,585 adds
+- Tyler Bass (K-BUF) — 44,595 adds
+- Khalil Shakir (WR-BUF) — 43,839 adds
+- Detroit Lions (DEF-DET) — 43,677 adds
+- Hunter Henry (TE-NE) — 42,270 adds
+- Jacksonville Jaguars (DEF-JAX) — 40,722 adds
 
 ## League transactions this week
 - free_agent (complete) What can Brown do for u?: +[Chad Ryland (K-ARI)] -[Eddy Pineiro (K-SF)]
