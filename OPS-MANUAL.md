@@ -43,7 +43,7 @@
 | K | Tyler Bass | Wk 7 (waiver claim) |
 | DEF | Tampa Bay | Wk 7 (waiver claim) |
 | BN | Aaron Rodgers | Wk 7 (free agent) |
-| BN | Dameon Pierce | Wk 5 (waiver claim) |
+| BN | Elijah Mitchell | Wk 8 (free agent) |
 | BN | Devaughn Vele | Wk 6 (trade) |
 | BN | Keon Coleman | Wk 6 (waiver claim) |
 | BN | Kyle Pitts Sr. | Wk 7 (waiver claim) |

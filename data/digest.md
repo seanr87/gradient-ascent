@@ -1,5 +1,5 @@
 # Sleeper digest — The Climb
-Pulled: 2026-10-31 20:48 UTC · NFL week 8 (regular)
+Pulled: 2026-11-01 14:02 UTC · NFL week 8 (regular)
 
 ## My roster
 - Tre Tucker (WR-LV) (STARTER)
@@ -12,7 +12,7 @@ Pulled: 2026-10-31 20:48 UTC · NFL week 8 (regular)
 - CeeDee Lamb (WR-DAL) (STARTER)
 - Tyler Bass (K-BUF) (STARTER)
 - Kyle Pitts Sr. (TE-ATL)
-- Dameon Pierce (RB-PHI) [IR]
+- Elijah Mitchell (RB-PHI)
 - Puka Nacua (WR-LAR) (STARTER)
 - Aaron Rodgers (QB-PIT)
 - Tampa Bay Buccaneers (DEF-TB) (STARTER)
@@ -51,33 +51,36 @@ Pulled: 2026-10-31 20:48 UTC · NFL week 8 (regular)
 - Umojan Protectorate 113.37 — Two Dumb Jaylens  112.86
 
 ## Trending adds (24h, all Sleeper)
-- Seth McGowan (RB-IND) — 207,304 adds
-- Devin Singletary (RB-NYG) — 181,881 adds
-- Elijah Mitchell (RB-PHI) — 174,654 adds
-- Samaje Perine (RB-CIN) — 147,112 adds
-- Ryan Flournoy (WR-DAL) — 135,728 adds
-- Makai Lemon (WR-PHI) — 132,360 adds
-- Elic Ayomanor (WR-TEN) — 98,748 adds
-- Washington Commanders (DEF-WAS) — 90,454 adds
-- Chris Godwin Jr. (WR-TB) — 87,762 adds
-- Mason Taylor (TE-NYJ) — 67,415 adds
-- Darius Cooper (WR-PHI) — 64,071 adds
-- Tampa Bay Buccaneers (DEF-TB) — 59,105 adds
-- Chris Rodriguez Jr. (RB-JAX) — 57,204 adds
-- Keon Coleman (WR-BUF) — 55,998 adds
-- Jaydon Blue (RB-PHI) — 53,064 adds
-- Jadarian Price (RB-SEA) [IR] — 51,426 adds
-- Kimani Vidal (RB-LAC) — 47,630 adds
-- Corey Kiner (RB-NE) — 45,024 adds
-- Jordan Addison (WR-MIN) — 44,064 adds
-- Khalil Shakir (WR-BUF) — 43,902 adds
-- KC Concepcion Jr. (WR-CLE) — 43,092 adds
-- Caleb Douglas (WR-MIA) — 41,512 adds
-- Brenton Strange (TE-JAX) — 39,528 adds
-- Jacksonville Jaguars (DEF-JAX) — 32,940 adds
-- Jonah Coleman (RB-DEN) — 31,966 adds
+- Seth McGowan (RB-IND) — 303,872 adds
+- Devin Singletary (RB-NYG) — 252,576 adds
+- Samaje Perine (RB-CIN) — 186,296 adds
+- Ryan Flournoy (WR-DAL) — 155,896 adds
+- Elijah Mitchell (RB-PHI) — 132,885 adds
+- Makai Lemon (WR-PHI) — 126,820 adds
+- Washington Commanders (DEF-WAS) — 110,222 adds
+- Corey Kiner (RB-NE) — 107,520 adds
+- Elic Ayomanor (WR-TEN) — 101,996 adds
+- Chris Godwin Jr. (WR-TB) — 88,608 adds
+- Jadarian Price (RB-SEA) [IR] — 71,793 adds
+- Tampa Bay Buccaneers (DEF-TB) — 70,940 adds
+- Chris Rodriguez Jr. (RB-JAX) — 69,075 adds
+- Keon Coleman (WR-BUF) — 63,288 adds
+- Mason Taylor (TE-NYJ) — 62,940 adds
+- Darius Cooper (WR-PHI) — 62,237 adds
+- Jordan Addison (WR-MIN) — 56,295 adds
+- Kimani Vidal (RB-LAC) — 55,840 adds
+- Kyle Williams (WR-NE) — 49,860 adds
+- MarShawn Lloyd (RB-GB) — 45,396 adds
+- Tyler Bass (K-BUF) — 43,375 adds
+- Khalil Shakir (WR-BUF) — 43,164 adds
+- Detroit Lions (DEF-DET) — 42,300 adds
+- Hunter Henry (TE-NE) — 41,511 adds
+- KC Concepcion Jr. (WR-CLE) — 39,798 adds
 
 ## League transactions this week
+- free_agent (complete) What can Brown do for u?: +[Chad Ryland (K-ARI)] -[Eddy Pineiro (K-SF)]
+- free_agent (complete) Sea Squirts: +[Ladd McConkey (WR-LAC)] -[Emanuel Wilson (RB-SEA)]
+- free_agent (complete) Gradient Ascent: +[Elijah Mitchell (RB-PHI)] -[Dameon Pierce (RB-PHI) [IR]]
 - free_agent (complete) Princess Donut's Court: +[KC Concepcion Jr. (WR-CLE)] -[Bryce Young (QB-CAR)]
 - free_agent (complete) Playful Secrets: +[Sam Roush (TE-CHI)] -[Roschon Johnson (RB-CHI)]
 - free_agent (complete) What can Brown do for u?: +[Las Vegas Raiders (DEF-LV)] -[Carolina Panthers (DEF-CAR)]

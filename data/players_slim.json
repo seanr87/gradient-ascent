@@ -10540,7 +10540,7 @@
   "pos": "WR",
   "team": "SEA",
   "status": "Active",
-  "injury_status": "Questionable",
+  "injury_status": "Out",
   "injury_note": "Hamstring"
  },
  "8427": {
@@ -13764,7 +13764,7 @@
   "pos": "WR",
   "team": "SEA",
   "status": "Active",
-  "injury_status": "Questionable",
+  "injury_status": "Out",
   "injury_note": "Knee"
  },
  "1022": {
@@ -31140,8 +31140,8 @@
   "pos": "RB",
   "team": "SEA",
   "status": "Active",
-  "injury_status": "Questionable",
-  "injury_note": "Knee - ACL"
+  "injury_status": null,
+  "injury_note": null
  },
  "2838": {
   "name": "Trevor Harman",

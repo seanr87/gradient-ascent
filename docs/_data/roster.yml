@@ -83,13 +83,13 @@
   acquired_via: "free agent"
   acquired_week: 7
 - slot: "BN2"
-  player: "Dameon Pierce"
+  player: "Elijah Mitchell"
   pos: "RB"
   team: "PHI"
-  status: "IR"
-  acquired: "Wk 5"
-  acquired_via: "waiver claim"
-  acquired_week: 5
+  status: ""
+  acquired: "Wk 8"
+  acquired_via: "free agent"
+  acquired_week: 8
 - slot: "BN3"
   player: "Devaughn Vele"
   pos: "WR"
