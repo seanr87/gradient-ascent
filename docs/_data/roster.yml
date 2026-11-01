@@ -51,13 +51,13 @@
   acquired_via: "waiver claim"
   acquired_week: 6
 - slot: "TE"
-  player: "Dalton Kincaid"
+  player: "Kyle Pitts Sr."
   pos: "TE"
-  team: "BUF"
-  status: "Questionable"
-  acquired: "Draft"
-  acquired_via: "R7, pick 79"
-  acquired_week: 0
+  team: "ATL"
+  status: ""
+  acquired: "Wk 7"
+  acquired_via: "waiver claim"
+  acquired_week: 7
 - slot: "K"
   player: "Tyler Bass"
   pos: "K"
@@ -107,10 +107,10 @@
   acquired_via: "waiver claim"
   acquired_week: 6
 - slot: "BN5"
-  player: "Kyle Pitts Sr."
+  player: "Dalton Kincaid"
   pos: "TE"
-  team: "ATL"
+  team: "BUF"
   status: ""
-  acquired: "Wk 7"
-  acquired_via: "waiver claim"
-  acquired_week: 7
+  acquired: "Draft"
+  acquired_via: "R7, pick 79"
+  acquired_week: 0

@@ -39,14 +39,14 @@
 | WR | Puka Nacua | Draft (R1, pick 7) |
 | WR | CeeDee Lamb | Draft (R2, pick 18) |
 | FLEX | Tre Tucker | Wk 6 (waiver claim) |
-| TE | Dalton Kincaid | Draft (R7, pick 79) |
+| TE | Kyle Pitts Sr. | Wk 7 (waiver claim) |
 | K | Tyler Bass | Wk 7 (waiver claim) |
 | DEF | Tampa Bay | Wk 7 (waiver claim) |
 | BN | Aaron Rodgers | Wk 7 (free agent) |
 | BN | Elijah Mitchell | Wk 8 (free agent) |
 | BN | Devaughn Vele | Wk 6 (trade) |
 | BN | Keon Coleman | Wk 6 (waiver claim) |
-| BN | Kyle Pitts Sr. | Wk 7 (waiver claim) |
+| BN | Dalton Kincaid | Draft (R7, pick 79) |
 <!-- ROSTER:END -->
 
 *The digest in the repo is the source of truth if it disagrees with this table — update this table when the roster changes.*
