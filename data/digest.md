@@ -1,5 +1,5 @@
 # Sleeper digest — The Climb
-Pulled: 2026-11-01 17:55 UTC · NFL week 8 (regular)
+Pulled: 2026-11-02 13:34 UTC · NFL week 8 (regular)
 
 ## My roster
 - Tre Tucker (WR-LV) (STARTER)
@@ -35,12 +35,12 @@ Pulled: 2026-11-01 17:55 UTC · NFL week 8 (regular)
 12. The Wizard’s Apprentice — 1-6, 786.04 PF, waiver #6
 
 ## This week's matchups (week 8)
-- Gradient Ascent 0.00 — Princess Donut's Court 0.00
-- The Wizard’s Apprentice 18.90 — What can Brown do for u? 0.00
-- TheTroubles 61.40 — Sea Squirts 8.60
-- Lost in the Land of Love 10.80 — CorneliusJones 0.00
-- Two Dumb Jaylens  21.52 — Playful Secrets 14.80
-- The Butker Jihad 0.00 — Umojan Protectorate 0.00
+- Gradient Ascent 131.63 — Princess Donut's Court 87.61
+- The Wizard’s Apprentice 153.70 — What can Brown do for u? 146.48
+- Sea Squirts 168.78 — TheTroubles 145.76
+- Lost in the Land of Love 87.10 — CorneliusJones 48.16
+- Two Dumb Jaylens  112.97 — Playful Secrets 72.90
+- The Butker Jihad 109.95 — Umojan Protectorate 64.00
 
 ## Last week's results (week 7)
 - Princess Donut's Court 109.47 — The Wizard’s Apprentice 102.58
@@ -51,31 +51,31 @@ Pulled: 2026-11-01 17:55 UTC · NFL week 8 (regular)
 - Umojan Protectorate 113.37 — Two Dumb Jaylens  112.86
 
 ## Trending adds (24h, all Sleeper)
-- Devin Singletary (RB-NYG) — 430,767 adds
-- Seth McGowan (RB-IND) — 339,760 adds
-- Samaje Perine (RB-CIN) — 311,952 adds
-- Ryan Flournoy (WR-DAL) — 240,168 adds
-- Washington Commanders (DEF-WAS) — 206,941 adds
-- Corey Kiner (RB-NE) — 181,740 adds
-- Makai Lemon (WR-PHI) — 156,444 adds
-- Elic Ayomanor (WR-TEN) — 133,964 adds
-- Tampa Bay Buccaneers (DEF-TB) — 131,605 adds
-- Chris Godwin Jr. (WR-TB) — 121,674 adds
-- Elijah Mitchell (RB-PHI) — 117,090 adds
-- Chris Rodriguez Jr. (RB-JAX) — 106,038 adds
-- Mason Taylor (TE-NYJ) — 92,660 adds
-- Jadarian Price (RB-SEA) [IR] — 89,874 adds
-- Kimani Vidal (RB-LAC) — 89,770 adds
-- Keon Coleman (WR-BUF) — 87,561 adds
-- Detroit Lions (DEF-DET) — 85,725 adds
-- Jordan Addison (WR-MIN) — 84,690 adds
-- Tyler Bass (K-BUF) — 84,395 adds
-- Kyle Williams (WR-NE) — 83,605 adds
-- Darius Cooper (WR-PHI) — 73,885 adds
-- Jacksonville Jaguars (DEF-JAX) — 66,972 adds
-- Khalil Shakir (WR-BUF) — 61,884 adds
-- Hunter Henry (TE-NE) — 61,527 adds
-- Kenny Gainwell (RB-TB) — 57,824 adds
+- Devin Singletary (RB-NYG) — 561,105 adds
+- Adonai Mitchell (WR-NYJ) — 460,776 adds
+- Tyler Allgeier (RB-ARI) — 264,005 adds
+- Ryan Flournoy (WR-DAL) — 245,256 adds
+- Washington Commanders (DEF-WAS) — 213,094 adds
+- Emmett Johnson (RB-KC) — 211,203 adds
+- Samaje Perine (RB-CIN) — 209,160 adds
+- Seth McGowan (RB-IND) — 176,384 adds
+- Corey Kiner (RB-NE) — 172,608 adds
+- Gardner Minshew II (QB-ARI) — 155,228 adds
+- Tampa Bay Buccaneers (DEF-TB) — 134,385 adds
+- Makai Lemon (WR-PHI) — 131,608 adds
+- Tyler Bass (K-BUF) — 117,630 adds
+- Detroit Lions (DEF-DET) — 104,814 adds
+- Kimani Vidal (RB-LAC) — 95,155 adds
+- Cooper Kupp (WR-SEA) — 91,896 adds
+- Kyle Williams (WR-NE) — 88,950 adds
+- Kirk Cousins (QB-LV) — 88,920 adds
+- Kenny Gainwell (RB-TB) — 86,912 adds
+- Chris Rodriguez Jr. (RB-JAX) — 86,490 adds
+- Tyler Higbee (TE-LAR) — 80,469 adds
+- Elic Ayomanor (WR-TEN) — 75,436 adds
+- Elijah Mitchell (RB-PHI) — 74,313 adds
+- Chris Godwin Jr. (WR-TB) — 74,142 adds
+- Darius Cooper (WR-PHI) — 68,173 adds
 
 ## League transactions this week
 - free_agent (complete) Princess Donut's Court: +[Matt Gay (K-LV)] -[Cairo Santos (K-CHI)]
@@ -85,16 +85,16 @@ Pulled: 2026-11-01 17:55 UTC · NFL week 8 (regular)
 - free_agent (complete) Princess Donut's Court: +[KC Concepcion Jr. (WR-CLE)] -[Bryce Young (QB-CAR)]
 - free_agent (complete) Playful Secrets: +[Sam Roush (TE-CHI)] -[Roschon Johnson (RB-CHI)]
 - free_agent (complete) What can Brown do for u?: +[Las Vegas Raiders (DEF-LV)] -[Carolina Panthers (DEF-CAR)]
-- free_agent (complete) Princess Donut's Court: +[Jacoby Brissett (QB-ARI)] -[Hunter Henry (TE-NE)]
+- free_agent (complete) Princess Donut's Court: +[Jacoby Brissett (QB-ARI)] -[Hunter Henry (TE-NE) [Out]]
 - free_agent (complete) Lost in the Land of Love: +[Evan McPherson (K-CIN)] -[Matt Gay (K-LV)]
 - free_agent (complete) Lost in the Land of Love: +[Sam Darnold (QB-SEA)] -[Makai Lemon (WR-PHI)]
 - free_agent (complete) Lost in the Land of Love: +[Makai Lemon (WR-PHI)] -[Jaydon Blue (RB-PHI)]
 - free_agent (complete) Two Dumb Jaylens : +[Washington Commanders (DEF-WAS)] -[Baltimore Ravens (DEF-BAL)]
-- free_agent (complete) Two Dumb Jaylens : +[Jake Ferguson (TE-DAL)] -[Nick Folk (K-ATL)]
+- free_agent (complete) Two Dumb Jaylens : +[Jake Ferguson (TE-DAL) [Out]] -[Nick Folk (K-ATL)]
 - free_agent (complete) Lost in the Land of Love: +[Jaydon Blue (RB-PHI)] -[Elijah Mitchell (RB-PHI)]
 - free_agent (complete) Lost in the Land of Love: +[Elijah Mitchell (RB-PHI)] -[Malik Willis (QB-MIA)]
 - trade (complete) Lost in the Land of Love, Sea Squirts: +[Denzel Boston (WR-CLE), Rachaad White (RB-WAS)] -[Denzel Boston (WR-CLE), Rachaad White (RB-WAS)]
 - free_agent (complete) CorneliusJones: +[Dallas Goedert (TE-PHI)] -[Kendre Miller (RB-NO)]
 - free_agent (complete) Sea Squirts: +[Los Angeles Rams (DEF-LAR)] -[Ka'imi Fairbairn (K-HOU)]
 - free_agent (complete) The Wizard’s Apprentice: +[Jacksonville Jaguars (DEF-JAX)] -[New York Jets (DEF-NYJ)]
-- free_agent (complete) Lost in the Land of Love: +[Malik Willis (QB-MIA)] -[Kyler Murray (QB-MIN)]
+- free_agent (complete) Lost in the Land of Love: +[Malik Willis (QB-MIA)] -[Kyler Murray (QB-MIN) [Questionable]]
