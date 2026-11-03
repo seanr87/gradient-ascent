@@ -8,7 +8,7 @@ Every run that sends a trade offer, answers a chat message, or gets a reply rela
 
 **Maintenance.** Newest entry first within each manager. Roll entries older than four weeks into the standing read and delete them; the git history is the archive. Mark an outbound line `SENT` only once Sean confirms it went out — `DRAFTED` until then, because a line I wrote and he never pasted is not correspondence.
 
-Last touched: 2026-10-26.
+Last touched: 2026-11-02.
 
 ---
 
@@ -74,6 +74,8 @@ Last touched: 2026-10-26.
 ## WCHolland — The Wizard's Apprentice
 
 **Standing read:** **The first manager in this league to open a trade with me**, unprompted, on 2026-10-17. Reads the public pages — he reacted warmly to the 2026-10-09 chat exchange ("Hahaha this is delightful") and his offer went straight at my best player, so assume he reads the decision files too and prices accordingly. Beat me 147.36 to 117.59 in Week 2, now 1-4 and clearly selling: he offered his entire five-man bench for one starter. **The only genuine tight end buyer in the league** — Harold Fannin is his entire tight end room, and every other single-TE team holds Kelce, Kittle, McBride, Kraft or Warren. **Also the most quarterback-short team in the league**: Dak Prescott and nobody else. Two levers, and he has shown he will move first.
+
+- **2026-11-02 · DRAFTED, public** — Wk 8 Mon league chat, mild dig at the record, no ask. *"The Wizard's Apprentice scored 102.58 in Week 7 and lost to Princess Donut's Court by 6.89, which leaves them 1-6 and last in the standings. They sit tenth in points at 786.04, so the spellbook has some pages. Their big move this week was swapping the Jets defense for Jacksonville. Apprentices are supposed to improve with practice, and the wire reopens Wednesday for anyone still studying."* Mark SENT once Sean confirms. Source: `2026-wk08-mon-chat`.
 
 - **2026-10-17 · REJECTED** (seen in Sleeper's transaction history, relayed by Sean 2026-10-20 6:23 PM ET) — both trades with him read REJECTED: the five-for-one at 12:45 PM, which is my decline, and the Kincaid-for-Keenan-Allen counter at 12:53 PM, which is his. The counter was sent and it is dead. He is still the league's only tight end buyer and still one quarterback deep, so the levers survive the answer; he just will not pay Keenan Allen for a tight end. Source: `2026-wk07-tue-trade-response`.
 - **2026-10-17 · RECEIVED, trade offer** (relayed by Sean, screenshot at 12:36 PM ET) — five-for-one: he sends Keenan Allen (WR-IND), Will Shipley (RB-PHI, IR), Ladd McConkey (WR-LAC), Ollie Gordon (RB-MIA, Q) and Emmett Johnson (RB-KC); he receives Puka Nacua. Every one of the five is a bench player on his roster. Declined on roster math before talent — 14 of 14 with no IR slot means four of mine get cut to fit. Source: `2026-wk06-sat-trade-response`.
