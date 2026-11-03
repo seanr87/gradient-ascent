@@ -1764,8 +1764,8 @@
   "pos": "RB",
   "team": "BAL",
   "status": "Active",
-  "injury_status": null,
-  "injury_note": null
+  "injury_status": "Questionable",
+  "injury_note": "Groin"
  },
  "3524": {
   "name": "Marquise Williams",

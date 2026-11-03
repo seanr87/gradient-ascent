@@ -1,5 +1,5 @@
 # Sleeper digest — The Climb
-Pulled: 2026-11-03 01:09 UTC · NFL week 8 (regular)
+Pulled: 2026-11-03 03:54 UTC · NFL week 8 (regular)
 
 ## My roster
 - Tre Tucker (WR-LV) (STARTER)
@@ -38,9 +38,9 @@ Pulled: 2026-11-03 01:09 UTC · NFL week 8 (regular)
 - Gradient Ascent 131.63 — Princess Donut's Court 87.61
 - The Wizard’s Apprentice 153.70 — What can Brown do for u? 146.48
 - Sea Squirts 168.78 — TheTroubles 145.76
-- Lost in the Land of Love 87.10 — CorneliusJones 48.16
+- Lost in the Land of Love 118.08 — CorneliusJones 66.76
 - Two Dumb Jaylens  112.97 — Playful Secrets 72.90
-- The Butker Jihad 109.95 — Umojan Protectorate 64.00
+- Umojan Protectorate 112.85 — The Butker Jihad 109.95
 
 ## Last week's results (week 7)
 - Princess Donut's Court 109.47 — The Wizard’s Apprentice 102.58
@@ -51,31 +51,31 @@ Pulled: 2026-11-03 01:09 UTC · NFL week 8 (regular)
 - Umojan Protectorate 113.37 — Two Dumb Jaylens  112.86
 
 ## Trending adds (24h, all Sleeper)
-- Adonai Mitchell (WR-NYJ) — 503,576 adds
-- Gardner Minshew II (QB-ARI) — 342,364 adds
-- Tyler Allgeier (RB-ARI) — 271,380 adds
-- Emmett Johnson (RB-KC) — 216,837 adds
-- Devin Singletary (RB-NYG) — 163,287 adds
-- Ryan Flournoy (WR-DAL) — 73,696 adds
-- Detroit Lions (DEF-DET) — 65,979 adds
-- Kirk Cousins (QB-LV) — 61,328 adds
-- Tyler Bass (K-BUF) — 61,280 adds
-- Treylon Burks (WR-WAS) — 51,401 adds
-- Mike Gesicki (TE-CIN) — 51,152 adds
-- Kenny Gainwell (RB-TB) — 48,632 adds
-- Tampa Bay Buccaneers (DEF-TB) — 40,300 adds
-- Jadarian Price (RB-SEA) — 34,425 adds
-- Malik Washington (WR-MIA) — 33,864 adds
-- Houston Texans (DEF-HOU) — 33,115 adds
-- Cooper Kupp (WR-SEA) — 32,934 adds
-- Malik Willis (QB-MIA) — 30,478 adds
-- Dylan Sampson (RB-CLE) — 28,910 adds
-- Seth McGowan (RB-IND) — 28,672 adds
-- Tyson Bagent (QB-CHI) — 28,326 adds
-- Bo Nix (QB-DEN) — 27,600 adds
-- Jonah Coleman (RB-DEN) — 26,414 adds
-- Chimere Dike (WR-TEN) — 25,038 adds
-- Chase McLaughlin (K-TB) — 23,992 adds
+- Adonai Mitchell (WR-NYJ) — 504,096 adds
+- Gardner Minshew II (QB-ARI) — 386,296 adds
+- Tyler Allgeier (RB-ARI) — 286,680 adds
+- Emmett Johnson (RB-KC) — 214,839 adds
+- Devin Singletary (RB-NYG) — 137,772 adds
+- Ryan Flournoy (WR-DAL) — 75,192 adds
+- Detroit Lions (DEF-DET) — 71,172 adds
+- Tyler Bass (K-BUF) — 65,945 adds
+- Kirk Cousins (QB-LV) — 61,144 adds
+- Mike Gesicki (TE-CIN) — 56,748 adds
+- Treylon Burks (WR-WAS) — 55,622 adds
+- Kenny Gainwell (RB-TB) — 50,672 adds
+- Jadarian Price (RB-SEA) — 44,775 adds
+- Houston Texans (DEF-HOU) — 42,385 adds
+- Tampa Bay Buccaneers (DEF-TB) — 39,675 adds
+- Malik Washington (WR-MIA) — 36,752 adds
+- Malik Willis (QB-MIA) — 33,600 adds
+- Dylan Sampson (RB-CLE) — 31,640 adds
+- Chimere Dike (WR-TEN) — 29,241 adds
+- Seth McGowan (RB-IND) — 27,832 adds
+- Chris Rodriguez Jr. (RB-JAX) [Questionable] — 26,946 adds
+- Sione Vaki (RB-DET) — 26,873 adds
+- Bo Nix (QB-DEN) — 26,742 adds
+- Tyson Bagent (QB-CHI) — 26,490 adds
+- Chase McLaughlin (K-TB) — 26,136 adds
 
 ## League transactions this week
 - free_agent (complete) Princess Donut's Court: +[Matt Gay (K-LV)] -[Cairo Santos (K-CHI)]
