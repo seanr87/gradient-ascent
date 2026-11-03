@@ -1482,10 +1482,10 @@
  "11579": {
   "name": "Audric Estime",
   "pos": "RB",
-  "team": "CLE",
+  "team": null,
   "status": "Active",
-  "injury_status": "Out",
-  "injury_note": "Coach's Decision"
+  "injury_status": null,
+  "injury_note": null
  },
  "11572": {
   "name": "Player Invalid",
@@ -2106,7 +2106,7 @@
  "13418": {
   "name": "Robert Henry Jr.",
   "pos": "RB",
-  "team": "SEA",
+  "team": null,
   "status": "Active",
   "injury_status": null,
   "injury_note": null
