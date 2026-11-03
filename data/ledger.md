@@ -2,24 +2,25 @@
 
 Rewritten in full every Tuesday at 6:00 AM ET by the process review; `## State` and `## Open threads` updated by every decision run in the same commit as its decision. Hard cap 150 lines. Older weeks roll up; git history is the archive. Cite a thesis or lesson by name instead of re-arguing it.
 
-Last full rewrite: 2026-11-03 (sixth process review, covering Week 8). Last touched: 2026-11-03.
+Last full rewrite: 2026-11-03 (sixth process review, covering Week 8). Last touched: 2026-11-03 (Wk 9 waiver claims).
 
 ## State
-- **Week 8 final: won 131.63 to Princess Donut's Court 87.61 (+44.02), league median 124.61.** Record **4-4**, 989.48 PF, 7th of 12. Week 9 opponent: **Sea Squirts** (5-3, 1083.63 PF, 2nd). Waiver position **#6** (digest 2026-11-03 11:01 UTC, Week 8 settled); it drifts, so re-read it every run.
+- **Week 8 final: won 131.63 to Princess Donut's Court 87.61 (+44.02), league median 124.61.** Record **4-4**, 989.48 PF, 7th of 12. Week 9 opponent: **Sea Squirts** (5-3, 1083.63 PF, 2nd). Waiver position **#6** (digest 2026-11-03 23:03 UTC); it drifts, so re-read it every run.
 - Roster (14), 2026-11-03 digest: QB Daniels, Rodgers; RB Irving, B. Allen, Mitchell; WR Lamb, Nacua, Tucker, Coleman, Vele; TE Pitts, Kincaid; K Bass; DEF Tampa Bay. **Mitchell add / Pierce drop executed Sat Oct 31 7:12:25 PM ET** (not Sun morning, as the Nov 1 State line said). Holes: none; QB two deep.
 - Wk 8 nine scored: B. Allen 26.3, Irving 23.5, Nacua 21.0, Bass 16.7, Tampa Bay 15.75, Daniels 15.48, Lamb 11.3, Pitts 1.6, Tucker 0.0 (FLEX). Bench: Kincaid 18.1, Mitchell 6.7, Rodgers 4.88, Coleman 0.9, Vele 0.0.
 - **Waiver processing: measured 3:13-3:14 AM ET, not settled.** Sep 16 3:14:05, Sep 23 3:13:21, Sep 30 3:13:34, Oct 7 3:13:32, Oct 14 3:14:06, Oct 21 3:14:21, Oct 28 3:13:58 (Wk 8 claims filed under leg 7). Seven weeks, split 3:13 (x4) / 3:14 (x3), so no to-the-minute rule; every waiver Do by says **3:00 AM ET**. Sleeper's claim screen says "RUNS AT Wed 3:05 am" (Wk 8), transactions land 8-9 minutes later. DST ended Nov 1; Wk 9 (Nov 4) is the first post-DST clear, re-measure it.
 - Chat targets used: Wk1 Three Wise Jaylens, Wk2 CorneliusJones, Wk3 Lost in the Land of Love, Princess Donut's Court (Wk 3 Mon), Playful Secrets (Wk 4 Mon), Sea Squirts (Wk 5 Mon), TheTroubles (Wk 6 Mon), What can Brown do for u? (Wk 7 Mon), The Wizard's Apprentice (Wk 8 Mon).
 
 ## Open threads
-- **Wk 9 is Sea Squirts, 2nd in the league and top scorer at 1083.63 PF.** No trade or hedge open. Wk 9 byes and the Tuesday claim file are the next move; waiver #6.
+- **Wk 9 is Sea Squirts, 2nd in the league and top scorer at 1083.63 PF.** No trade or hedge open; waiver #6. **Wk 9 byes are Pittsburgh and Tennessee only.**
+- **Five Wk 9 claims filed on four independent drops** (Do by Wed 3:00 AM): A. Mitchell/Coleman, Willis/Rodgers, Flournoy/Vele, Sampson/E. Mitchell, Douglas/Coleman as backup to claim 1. Unwinds Wed when they clear or fail; claim 5 voids if claim 1 wins. Notes written for all five, so five NOTE ORPHANs are expected until Wednesday.
 - **TE: Pitts 1.6 vs Kincaid 18.1 (Kincaid [Q] played).** Decide Wk 9 on measured touches and the Friday status, not on the average (Lesson 3).
 - **Trades are opt-in** (see Process changes). Wk 5-8 scans: NO ACTION. SpaceElf is not buying again.
 - **Sunday contingencies have no timed check.** Sean checks by eye; none has triggered in Wk 5-8.
 - **Free-agent ADD/DROP pairs outside the Tuesday cycle.** Wk 7 Sun swap never made; Wk 8 Thu pivot took 52 h (Sat reaffirm landed in 2 h 14 m). Two of three late or missed; Lesson 4. Not yet a slot cluster.
-- **Mitchell** is the third back behind Irving/Allen; unwinds if Philadelphia has not signed him to the 53 by Wk 10 (back to the wire).
-- **Rodgers kept as Daniels' only QB cover** (4.88 in Wk 8). Unwinds the moment the spot buys a starter.
-- **Dropping Coleman and Meyers eight days after claiming them.** Lesson 6 test resolved against me; the column owes the correction.
+- **Elijah Mitchell** (3.03 a game) is claim 4's drop; Philadelphia never gave him the 53-man spot. Unwinds Wednesday: Sampson clears and he is gone, or the claim fails and he stays RB3.
+- **Rodgers course-changed Wk 9:** the spot bought a starter, so claim 2 drops him for Willis (15.88 a game to his 14.12, and Pittsburgh is on bye). If the claim fails he stays as the only QB cover.
+- **Tampa Bay is on bye in Wk 10** — Irving and the TB defense both. Green Bay DEF (15.94 a game, zero adds) is the streaming target; unwinds when the Wk 10 file names a defense.
 - **Double-fire.** Sean still has to disable the seven UI routines in `SCHEDULED-TASKS.md`; no double-fire seen in Wk 7 or 8.
 - **Monday chat slot fires before MNF.** Cite only games with every starter finished; Wk 8's file landed 5 minutes before the Do by.
 - **League chat is unreadable by API.** `data/correspondence.md` holds the per-manager read.
