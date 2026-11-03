@@ -1388,7 +1388,7 @@
   "pos": "QB",
   "team": "SEA",
   "status": "Active",
-  "injury_status": "Questionable",
+  "injury_status": "Out",
   "injury_note": "Elbow"
  },
  "2936": {
@@ -1628,8 +1628,8 @@
   "pos": "QB",
   "team": "LAR",
   "status": "Active",
-  "injury_status": null,
-  "injury_note": null
+  "injury_status": "Questionable",
+  "injury_note": "Arm"
  },
  "1293": {
   "name": "Jeremy Stewart",
@@ -3434,7 +3434,7 @@
  "11931": {
   "name": "Austin Reed",
   "pos": "QB",
-  "team": null,
+  "team": "BAL",
   "status": "Active",
   "injury_status": null,
   "injury_note": null
@@ -5026,10 +5026,10 @@
  "5773": {
   "name": "KhaDarel Hodge",
   "pos": "WR",
-  "team": null,
+  "team": "SF",
   "status": "Active",
-  "injury_status": "Questionable",
-  "injury_note": "Knee"
+  "injury_status": null,
+  "injury_note": null
  },
  "11520": {
   "name": "Lucky Jackson",
@@ -7180,8 +7180,8 @@
   "pos": "QB",
   "team": "CHI",
   "status": "Active",
-  "injury_status": null,
-  "injury_note": null
+  "injury_status": "Out",
+  "injury_note": "Coach's Decision"
  },
  "6469": {
   "name": "Davis Koppenhaver",
@@ -8268,8 +8268,8 @@
   "pos": "WR",
   "team": "JAX",
   "status": "Active",
-  "injury_status": null,
-  "injury_note": null
+  "injury_status": "Questionable",
+  "injury_note": "Hamstring"
  },
  "11529": {
   "name": "Ed Lee",
@@ -12835,9 +12835,9 @@
   "name": "Jadarian Price",
   "pos": "RB",
   "team": "SEA",
-  "status": "Inactive",
-  "injury_status": "IR",
-  "injury_note": "Chest"
+  "status": "Active",
+  "injury_status": null,
+  "injury_note": null
  },
  "10211": {
   "name": "Camerun Peoples",
@@ -14084,8 +14084,8 @@
   "pos": "RB",
   "team": "JAX",
   "status": "Active",
-  "injury_status": null,
-  "injury_note": null
+  "injury_status": "Questionable",
+  "injury_note": "Hand"
  },
  "4051": {
   "name": "Chad Kelly",
@@ -15858,8 +15858,8 @@
  "13923": {
   "name": "Joshua Pitsenberger",
   "pos": "RB",
-  "team": null,
-  "status": "Inactive",
+  "team": "HOU",
+  "status": "Active",
   "injury_status": null,
   "injury_note": null
  },
@@ -16148,8 +16148,8 @@
   "pos": "RB",
   "team": "JAX",
   "status": "Active",
-  "injury_status": null,
-  "injury_note": null
+  "injury_status": "Questionable",
+  "injury_note": "Ankle"
  },
  "1945": {
   "name": "Chris Boswell",
@@ -20618,7 +20618,7 @@
  "10223": {
   "name": "Eric Gray",
   "pos": "RB",
-  "team": null,
+  "team": "NYG",
   "status": "Active",
   "injury_status": null,
   "injury_note": null
@@ -26468,8 +26468,8 @@
   "pos": "RB",
   "team": "LAR",
   "status": "Active",
-  "injury_status": null,
-  "injury_note": null
+  "injury_status": "Questionable",
+  "injury_note": "Hand"
  },
  "1048": {
   "name": "Lamar Miller",
@@ -27986,8 +27986,8 @@
  "12412": {
   "name": "Terrell Jennings",
   "pos": "RB",
-  "team": null,
-  "status": "Inactive",
+  "team": "NE",
+  "status": "Active",
   "injury_status": null,
   "injury_note": null
  },
@@ -28060,8 +28060,8 @@
   "pos": "K",
   "team": "BAL",
   "status": "Active",
-  "injury_status": null,
-  "injury_note": null
+  "injury_status": "Questionable",
+  "injury_note": "Undisclosed"
  },
  "7319": {
   "name": "Jeff Cotton",
@@ -31298,7 +31298,7 @@
  "9505": {
   "name": "Deuce Vaughn",
   "pos": "RB",
-  "team": "HOU",
+  "team": null,
   "status": "Active",
   "injury_status": null,
   "injury_note": null

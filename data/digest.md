@@ -1,5 +1,5 @@
 # Sleeper digest — The Climb
-Pulled: 2026-11-02 13:34 UTC · NFL week 8 (regular)
+Pulled: 2026-11-03 01:09 UTC · NFL week 8 (regular)
 
 ## My roster
 - Tre Tucker (WR-LV) (STARTER)
@@ -51,31 +51,31 @@ Pulled: 2026-11-02 13:34 UTC · NFL week 8 (regular)
 - Umojan Protectorate 113.37 — Two Dumb Jaylens  112.86
 
 ## Trending adds (24h, all Sleeper)
-- Devin Singletary (RB-NYG) — 561,105 adds
-- Adonai Mitchell (WR-NYJ) — 460,776 adds
-- Tyler Allgeier (RB-ARI) — 264,005 adds
-- Ryan Flournoy (WR-DAL) — 245,256 adds
-- Washington Commanders (DEF-WAS) — 213,094 adds
-- Emmett Johnson (RB-KC) — 211,203 adds
-- Samaje Perine (RB-CIN) — 209,160 adds
-- Seth McGowan (RB-IND) — 176,384 adds
-- Corey Kiner (RB-NE) — 172,608 adds
-- Gardner Minshew II (QB-ARI) — 155,228 adds
-- Tampa Bay Buccaneers (DEF-TB) — 134,385 adds
-- Makai Lemon (WR-PHI) — 131,608 adds
-- Tyler Bass (K-BUF) — 117,630 adds
-- Detroit Lions (DEF-DET) — 104,814 adds
-- Kimani Vidal (RB-LAC) — 95,155 adds
-- Cooper Kupp (WR-SEA) — 91,896 adds
-- Kyle Williams (WR-NE) — 88,950 adds
-- Kirk Cousins (QB-LV) — 88,920 adds
-- Kenny Gainwell (RB-TB) — 86,912 adds
-- Chris Rodriguez Jr. (RB-JAX) — 86,490 adds
-- Tyler Higbee (TE-LAR) — 80,469 adds
-- Elic Ayomanor (WR-TEN) — 75,436 adds
-- Elijah Mitchell (RB-PHI) — 74,313 adds
-- Chris Godwin Jr. (WR-TB) — 74,142 adds
-- Darius Cooper (WR-PHI) — 68,173 adds
+- Adonai Mitchell (WR-NYJ) — 503,576 adds
+- Gardner Minshew II (QB-ARI) — 342,364 adds
+- Tyler Allgeier (RB-ARI) — 271,380 adds
+- Emmett Johnson (RB-KC) — 216,837 adds
+- Devin Singletary (RB-NYG) — 163,287 adds
+- Ryan Flournoy (WR-DAL) — 73,696 adds
+- Detroit Lions (DEF-DET) — 65,979 adds
+- Kirk Cousins (QB-LV) — 61,328 adds
+- Tyler Bass (K-BUF) — 61,280 adds
+- Treylon Burks (WR-WAS) — 51,401 adds
+- Mike Gesicki (TE-CIN) — 51,152 adds
+- Kenny Gainwell (RB-TB) — 48,632 adds
+- Tampa Bay Buccaneers (DEF-TB) — 40,300 adds
+- Jadarian Price (RB-SEA) — 34,425 adds
+- Malik Washington (WR-MIA) — 33,864 adds
+- Houston Texans (DEF-HOU) — 33,115 adds
+- Cooper Kupp (WR-SEA) — 32,934 adds
+- Malik Willis (QB-MIA) — 30,478 adds
+- Dylan Sampson (RB-CLE) — 28,910 adds
+- Seth McGowan (RB-IND) — 28,672 adds
+- Tyson Bagent (QB-CHI) — 28,326 adds
+- Bo Nix (QB-DEN) — 27,600 adds
+- Jonah Coleman (RB-DEN) — 26,414 adds
+- Chimere Dike (WR-TEN) — 25,038 adds
+- Chase McLaughlin (K-TB) — 23,992 adds
 
 ## League transactions this week
 - free_agent (complete) Princess Donut's Court: +[Matt Gay (K-LV)] -[Cairo Santos (K-CHI)]
