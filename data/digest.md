@@ -1,5 +1,5 @@
 # Sleeper digest — The Climb
-Pulled: 2026-11-03 11:01 UTC · NFL week 9 (regular)
+Pulled: 2026-11-03 12:31 UTC · NFL week 9 (regular)
 
 ## My roster
 - Tre Tucker (WR-LV) (STARTER)
@@ -51,30 +51,30 @@ Pulled: 2026-11-03 11:01 UTC · NFL week 9 (regular)
 - Umojan Protectorate 129.70 — The Butker Jihad 109.95
 
 ## Trending adds (24h, all Sleeper)
-- Adonai Mitchell (WR-NYJ) — 686,320 adds
-- Gardner Minshew II (QB-ARI) — 500,820 adds
-- Tyler Allgeier (RB-ARI) — 420,270 adds
-- Emmett Johnson (RB-KC) — 303,462 adds
-- Devin Singletary (RB-NYG) — 200,466 adds
-- Detroit Lions (DEF-DET) — 136,008 adds
-- Houston Texans (DEF-HOU) — 123,040 adds
-- Tyler Bass (K-BUF) — 110,440 adds
-- Ryan Flournoy (WR-DAL) — 106,368 adds
-- Mike Gesicki (TE-CIN) — 93,548 adds
-- Kirk Cousins (QB-LV) — 79,024 adds
-- Kenny Gainwell (RB-TB) — 76,912 adds
-- Treylon Burks (WR-WAS) — 75,831 adds
-- Malik Washington (WR-MIA) — 73,120 adds
-- Malik Willis (QB-MIA) — 68,516 adds
-- Jadarian Price (RB-SEA) — 58,266 adds
-- Tampa Bay Buccaneers (DEF-TB) — 49,760 adds
-- Sione Vaki (RB-DET) — 47,712 adds
-- Dylan Sampson (RB-CLE) — 47,700 adds
-- New Orleans Saints (DEF-NO) — 46,750 adds
-- San Francisco 49ers (DEF-SF) — 45,396 adds
-- Chimere Dike (WR-TEN) — 45,297 adds
-- Chris Rodriguez Jr. (RB-JAX) [Questionable] — 44,019 adds
-- Cairo Santos (K-CHI) — 42,623 adds
-- Mike Washington Jr. (RB-LV) — 38,738 adds
+- Adonai Mitchell (WR-NYJ) — 762,160 adds
+- Gardner Minshew II (QB-ARI) — 543,212 adds
+- Tyler Allgeier (RB-ARI) — 473,045 adds
+- Emmett Johnson (RB-KC) — 335,655 adds
+- Devin Singletary (RB-NYG) — 239,589 adds
+- Detroit Lions (DEF-DET) — 166,986 adds
+- Houston Texans (DEF-HOU) — 157,635 adds
+- Tyler Bass (K-BUF) — 129,990 adds
+- Ryan Flournoy (WR-DAL) — 118,128 adds
+- Mike Gesicki (TE-CIN) — 107,972 adds
+- Malik Washington (WR-MIA) — 89,352 adds
+- Treylon Burks (WR-WAS) — 88,375 adds
+- Kenny Gainwell (RB-TB) — 86,512 adds
+- Kirk Cousins (QB-LV) — 86,080 adds
+- Malik Willis (QB-MIA) — 83,601 adds
+- Jadarian Price (RB-SEA) — 63,207 adds
+- New Orleans Saints (DEF-NO) — 59,790 adds
+- San Francisco 49ers (DEF-SF) — 59,604 adds
+- Sione Vaki (RB-DET) — 56,812 adds
+- Cairo Santos (K-CHI) — 55,706 adds
+- Tampa Bay Buccaneers (DEF-TB) — 53,440 adds
+- Dylan Sampson (RB-CLE) — 52,960 adds
+- Chris Rodriguez Jr. (RB-JAX) [Questionable] — 50,211 adds
+- Chimere Dike (WR-TEN) — 50,211 adds
+- Mike Washington Jr. (RB-LV) — 46,581 adds
 
 ## League transactions this week
