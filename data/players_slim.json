@@ -2292,8 +2292,8 @@
   "pos": "QB",
   "team": "SEA",
   "status": "Active",
-  "injury_status": null,
-  "injury_note": null
+  "injury_status": "Out",
+  "injury_note": "Quadriceps"
  },
  "5809": {
   "name": "Ja'Quan Gardner",
@@ -3316,7 +3316,7 @@
   "pos": "WR",
   "team": "LAC",
   "status": "Active",
-  "injury_status": "Questionable",
+  "injury_status": "Doubtful",
   "injury_note": "Quadriceps"
  },
  "13939": {
@@ -6946,7 +6946,7 @@
  "13744": {
   "name": "Cameron Ross",
   "pos": "WR",
-  "team": "DEN",
+  "team": null,
   "status": "Active",
   "injury_status": null,
   "injury_note": null
@@ -6970,7 +6970,7 @@
  "6386": {
   "name": "Alex Bachman",
   "pos": "WR",
-  "team": "LAR",
+  "team": null,
   "status": "Active",
   "injury_status": null,
   "injury_note": null
@@ -7594,7 +7594,7 @@
  "12941": {
   "name": "Bryson Nesbit",
   "pos": "TE",
-  "team": "MIN",
+  "team": null,
   "status": "Active",
   "injury_status": null,
   "injury_note": null
@@ -8268,8 +8268,8 @@
   "pos": "WR",
   "team": "JAX",
   "status": "Active",
-  "injury_status": "Questionable",
-  "injury_note": "Hamstring"
+  "injury_status": null,
+  "injury_note": null
  },
  "11529": {
   "name": "Ed Lee",
@@ -9498,7 +9498,7 @@
  "8799": {
   "name": "Zaire Mitchell-Paden",
   "pos": "TE",
-  "team": "HOU",
+  "team": null,
   "status": "Active",
   "injury_status": null,
   "injury_note": null
@@ -9508,8 +9508,8 @@
   "pos": "WR",
   "team": "NYJ",
   "status": "Active",
-  "injury_status": null,
-  "injury_note": null
+  "injury_status": "Questionable",
+  "injury_note": "Concussion"
  },
  "5262": {
   "name": "Steve Ishmael",
@@ -11154,7 +11154,7 @@
  "12909": {
   "name": "Eli Pancol",
   "pos": "WR",
-  "team": "DEN",
+  "team": null,
   "status": "Active",
   "injury_status": null,
   "injury_note": null
@@ -14084,8 +14084,8 @@
   "pos": "RB",
   "team": "JAX",
   "status": "Active",
-  "injury_status": "Questionable",
-  "injury_note": "Hand"
+  "injury_status": null,
+  "injury_note": null
  },
  "4051": {
   "name": "Chad Kelly",
@@ -19780,8 +19780,8 @@
   "pos": "WR",
   "team": "DET",
   "status": "Active",
-  "injury_status": null,
-  "injury_note": null
+  "injury_status": "Questionable",
+  "injury_note": "Ribs"
  },
  "11900": {
   "name": "Jacob Kibodi",
@@ -20346,7 +20346,7 @@
  "13962": {
   "name": "Cameron Dorner",
   "pos": "WR",
-  "team": "NE",
+  "team": null,
   "status": "Active",
   "injury_status": null,
   "injury_note": null
@@ -22036,7 +22036,7 @@
   "pos": "RB",
   "team": "HOU",
   "status": "Active",
-  "injury_status": "Questionable",
+  "injury_status": "Out",
   "injury_note": "Groin"
  },
  "2559": {
@@ -26298,7 +26298,7 @@
  "12907": {
   "name": "Quentin Skinner",
   "pos": "WR",
-  "team": "PHI",
+  "team": null,
   "status": "Active",
   "injury_status": null,
   "injury_note": null
@@ -26988,8 +26988,8 @@
   "pos": "TE",
   "team": "IND",
   "status": "Active",
-  "injury_status": null,
-  "injury_note": null
+  "injury_status": "Questionable",
+  "injury_note": "Knee"
  },
  "5239": {
   "name": "Lamar Jordan",
@@ -27970,7 +27970,7 @@
  "11748": {
   "name": "Bub Means",
   "pos": "WR",
-  "team": "CLE",
+  "team": null,
   "status": "Active",
   "injury_status": "Questionable",
   "injury_note": "Knee"
@@ -30330,7 +30330,7 @@
  "5095": {
   "name": "Daniel Carlson",
   "pos": "K",
-  "team": "NO",
+  "team": null,
   "status": "Active",
   "injury_status": null,
   "injury_note": null
