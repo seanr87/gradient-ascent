@@ -1,5 +1,5 @@
 # Sleeper digest — The Climb
-Pulled: 2026-11-04 14:24 UTC · NFL week 9 (regular)
+Pulled: 2026-11-04 17:04 UTC · NFL week 9 (regular)
 
 ## My roster
 - Tre Tucker (WR-LV) (STARTER)
@@ -51,31 +51,31 @@ Pulled: 2026-11-04 14:24 UTC · NFL week 9 (regular)
 - Umojan Protectorate 129.70 — The Butker Jihad 109.95
 
 ## Trending adds (24h, all Sleeper)
-- Adonai Mitchell (WR-NYJ) — 2,058,400 adds
-- Tyler Allgeier (RB-ARI) — 1,529,985 adds
-- Devin Singletary (RB-NYG) — 1,181,295 adds
-- Emmett Johnson (RB-KC) — 923,643 adds
-- Gardner Minshew II (QB-ARI) — 876,348 adds
-- Houston Texans (DEF-HOU) — 759,070 adds
-- Detroit Lions (DEF-DET) — 631,008 adds
-- Chris Rodriguez Jr. (RB-JAX) [Questionable] — 544,041 adds
-- Tyler Bass (K-BUF) — 477,030 adds
-- Malik Willis (QB-MIA) — 443,982 adds
-- Mike Gesicki (TE-CIN) — 431,592 adds
-- New Orleans Saints (DEF-NO) — 388,655 adds
-- Cairo Santos (K-CHI) — 388,563 adds
-- Ryan Flournoy (WR-DAL) — 368,000 adds
-- Malik Washington (WR-MIA) — 340,056 adds
-- Jadarian Price (RB-SEA) — 329,130 adds
-- Dylan Sampson (RB-CLE) — 298,690 adds
-- Treylon Burks (WR-WAS) — 297,780 adds
-- New York Giants (DEF-NYG) — 275,268 adds
-- Sione Vaki (RB-DET) — 251,664 adds
-- Elijah Mitchell (RB-PHI) — 226,881 adds
-- Kenny Gainwell (RB-TB) — 191,520 adds
-- Alvin Kamara (RB-NO) — 181,544 adds
-- San Francisco 49ers (DEF-SF) — 173,040 adds
-- Kirk Cousins (QB-LV) — 166,152 adds
+- Adonai Mitchell (WR-NYJ) — 1,914,144 adds
+- Tyler Allgeier (RB-ARI) — 1,376,485 adds
+- Devin Singletary (RB-NYG) — 1,151,514 adds
+- Emmett Johnson (RB-KC) — 879,777 adds
+- Gardner Minshew II (QB-ARI) — 775,828 adds
+- Houston Texans (DEF-HOU) — 701,455 adds
+- Detroit Lions (DEF-DET) — 647,136 adds
+- Chris Rodriguez Jr. (RB-JAX) [Questionable] — 601,758 adds
+- Tyler Bass (K-BUF) — 473,150 adds
+- Malik Willis (QB-MIA) — 440,643 adds
+- Mike Gesicki (TE-CIN) — 424,224 adds
+- New Orleans Saints (DEF-NO) — 417,690 adds
+- Cairo Santos (K-CHI) — 410,599 adds
+- Ryan Flournoy (WR-DAL) — 352,352 adds
+- Jadarian Price (RB-SEA) — 348,399 adds
+- Malik Washington (WR-MIA) — 315,640 adds
+- Dylan Sampson (RB-CLE) — 308,915 adds
+- Treylon Burks (WR-WAS) — 282,744 adds
+- New York Giants (DEF-NYG) — 280,792 adds
+- Elijah Mitchell (RB-PHI) — 254,124 adds
+- Sione Vaki (RB-DET) — 243,054 adds
+- Alvin Kamara (RB-NO) — 200,992 adds
+- Kenny Gainwell (RB-TB) — 175,480 adds
+- Chicago Bears (DEF-CHI) — 164,361 adds
+- Kirk Cousins (QB-LV) — 161,832 adds
 
 ## League transactions this week
 - free_agent (complete) Playful Secrets: +[Seattle Seahawks (DEF-SEA)] -[Kansas City Chiefs (DEF-KC)]

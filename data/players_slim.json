@@ -23914,7 +23914,7 @@
  "8123": {
   "name": "Hassan Haskins",
   "pos": "RB",
-  "team": null,
+  "team": "CLE",
   "status": "Active",
   "injury_status": null,
   "injury_note": null
@@ -30252,8 +30252,8 @@
   "pos": "QB",
   "team": "CLE",
   "status": "Active",
-  "injury_status": null,
-  "injury_note": null
+  "injury_status": "Questionable",
+  "injury_note": "Concussion"
  },
  "4464": {
   "name": "Nick Mullens",
@@ -32210,7 +32210,7 @@
  "13861": {
   "name": "Daniel Sobkowicz",
   "pos": "WR",
-  "team": null,
+  "team": "HOU",
   "status": "Active",
   "injury_status": null,
   "injury_note": null
@@ -33442,7 +33442,7 @@
  "13743": {
   "name": "Joseph Manjack",
   "pos": "WR",
-  "team": null,
+  "team": "NYJ",
   "status": "Active",
   "injury_status": null,
   "injury_note": null
