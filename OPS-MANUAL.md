@@ -42,10 +42,10 @@
 | TE | Kyle Pitts Sr. | Wk 7 (waiver claim) |
 | K | Tyler Bass | Wk 7 (waiver claim) |
 | DEF | Tampa Bay | Wk 7 (waiver claim) |
-| BN | Aaron Rodgers | Wk 7 (free agent) |
-| BN | Elijah Mitchell | Wk 8 (free agent) |
-| BN | Devaughn Vele | Wk 6 (trade) |
-| BN | Keon Coleman | Wk 6 (waiver claim) |
+| BN | Malik Willis | Wk 8 (waiver claim) |
+| BN | Dylan Sampson | Wk 8 (waiver claim) |
+| BN | Adonai Mitchell | Wk 8 (waiver claim) |
+| BN | Ryan Flournoy | Wk 8 (waiver claim) |
 | BN | Dalton Kincaid | Draft (R7, pick 79) |
 <!-- ROSTER:END -->
 

@@ -1,5 +1,5 @@
 # Sleeper digest — The Climb
-Pulled: 2026-11-04 06:58 UTC · NFL week 9 (regular)
+Pulled: 2026-11-04 14:24 UTC · NFL week 9 (regular)
 
 ## My roster
 - Tre Tucker (WR-LV) (STARTER)
@@ -7,29 +7,29 @@ Pulled: 2026-11-04 06:58 UTC · NFL week 9 (regular)
 - Jayden Daniels (QB-WAS) (STARTER)
 - Braelon Allen (RB-NYJ) (STARTER)
 - Bucky Irving (RB-TB) (STARTER)
-- Keon Coleman (WR-BUF)
-- Devaughn Vele (WR-NO)
+- Adonai Mitchell (WR-NYJ)
+- Ryan Flournoy (WR-DAL)
+- Dylan Sampson (RB-CLE)
 - CeeDee Lamb (WR-DAL) (STARTER)
 - Tyler Bass (K-BUF) (STARTER)
 - Kyle Pitts Sr. (TE-ATL) (STARTER)
-- Elijah Mitchell (RB-PHI)
+- Malik Willis (QB-MIA)
 - Puka Nacua (WR-LAR) (STARTER)
-- Aaron Rodgers (QB-PIT)
 - Tampa Bay Buccaneers (DEF-TB) (STARTER)
 
 ## My matchup this week
 - Opponent: Sea Squirts
 
 ## Standings (W-L, points for)
-1. Umojan Protectorate — 6-2, 1039.30 PF, waiver #12
-2. Sea Squirts — 5-3, 1083.63 PF, waiver #11
-3. Princess Donut's Court — 5-3, 1016.69 PF, waiver #10
-4. The Butker Jihad — 5-3, 1003.12 PF, waiver #9
-5. Playful Secrets — 5-3, 985.31 PF, waiver #8
-6. Two Dumb Jaylens  — 5-3, 971.94 PF, waiver #7
-7. Gradient Ascent — 4-4, 989.48 PF, waiver #6
-8. CorneliusJones — 4-4, 892.21 PF, waiver #5
-9. Lost in the Land of Love — 3-5, 876.70 PF, waiver #4
+1. Umojan Protectorate — 6-2, 1039.30 PF, waiver #10
+2. Sea Squirts — 5-3, 1083.63 PF, waiver #9
+3. Princess Donut's Court — 5-3, 1016.69 PF, waiver #7
+4. The Butker Jihad — 5-3, 1003.12 PF, waiver #6
+5. Playful Secrets — 5-3, 985.31 PF, waiver #11
+6. Two Dumb Jaylens  — 5-3, 971.94 PF, waiver #5
+7. Gradient Ascent — 4-4, 989.48 PF, waiver #12
+8. CorneliusJones — 4-4, 892.21 PF, waiver #4
+9. Lost in the Land of Love — 3-5, 876.70 PF, waiver #8
 10. What can Brown do for u? — 2-6, 942.79 PF, waiver #3
 11. The Wizard’s Apprentice — 2-6, 939.74 PF, waiver #2
 12. TheTroubles — 2-6, 798.87 PF, waiver #1
@@ -51,30 +51,31 @@ Pulled: 2026-11-04 06:58 UTC · NFL week 9 (regular)
 - Umojan Protectorate 129.70 — The Butker Jihad 109.95
 
 ## Trending adds (24h, all Sleeper)
-- Adonai Mitchell (WR-NYJ) — 2,010,568 adds
-- Tyler Allgeier (RB-ARI) — 1,618,395 adds
-- Devin Singletary (RB-NYG) — 1,058,886 adds
-- Gardner Minshew II (QB-ARI) — 939,072 adds
-- Emmett Johnson (RB-KC) — 879,300 adds
-- Houston Texans (DEF-HOU) — 726,620 adds
-- Detroit Lions (DEF-DET) — 538,713 adds
-- Chris Rodriguez Jr. (RB-JAX) [Questionable] — 423,162 adds
-- Tyler Bass (K-BUF) — 421,530 adds
-- Mike Gesicki (TE-CIN) — 390,540 adds
-- Malik Willis (QB-MIA) — 387,835 adds
-- Ryan Flournoy (WR-DAL) — 339,728 adds
-- Malik Washington (WR-MIA) — 327,368 adds
-- Cairo Santos (K-CHI) — 294,588 adds
-- New Orleans Saints (DEF-NO) — 293,170 adds
-- Treylon Burks (WR-WAS) — 280,378 adds
-- Jadarian Price (RB-SEA) — 261,369 adds
-- Dylan Sampson (RB-CLE) — 249,625 adds
-- Sione Vaki (RB-DET) — 234,052 adds
-- New York Giants (DEF-NYG) — 224,808 adds
-- Kenny Gainwell (RB-TB) — 190,608 adds
-- San Francisco 49ers (DEF-SF) — 187,218 adds
-- Elijah Mitchell (RB-PHI) — 166,113 adds
-- Kirk Cousins (QB-LV) — 155,904 adds
-- Mike Washington Jr. (RB-LV) — 155,144 adds
+- Adonai Mitchell (WR-NYJ) — 2,058,400 adds
+- Tyler Allgeier (RB-ARI) — 1,529,985 adds
+- Devin Singletary (RB-NYG) — 1,181,295 adds
+- Emmett Johnson (RB-KC) — 923,643 adds
+- Gardner Minshew II (QB-ARI) — 876,348 adds
+- Houston Texans (DEF-HOU) — 759,070 adds
+- Detroit Lions (DEF-DET) — 631,008 adds
+- Chris Rodriguez Jr. (RB-JAX) [Questionable] — 544,041 adds
+- Tyler Bass (K-BUF) — 477,030 adds
+- Malik Willis (QB-MIA) — 443,982 adds
+- Mike Gesicki (TE-CIN) — 431,592 adds
+- New Orleans Saints (DEF-NO) — 388,655 adds
+- Cairo Santos (K-CHI) — 388,563 adds
+- Ryan Flournoy (WR-DAL) — 368,000 adds
+- Malik Washington (WR-MIA) — 340,056 adds
+- Jadarian Price (RB-SEA) — 329,130 adds
+- Dylan Sampson (RB-CLE) — 298,690 adds
+- Treylon Burks (WR-WAS) — 297,780 adds
+- New York Giants (DEF-NYG) — 275,268 adds
+- Sione Vaki (RB-DET) — 251,664 adds
+- Elijah Mitchell (RB-PHI) — 226,881 adds
+- Kenny Gainwell (RB-TB) — 191,520 adds
+- Alvin Kamara (RB-NO) — 181,544 adds
+- San Francisco 49ers (DEF-SF) — 173,040 adds
+- Kirk Cousins (QB-LV) — 166,152 adds
 
 ## League transactions this week
+- free_agent (complete) Playful Secrets: +[Seattle Seahawks (DEF-SEA)] -[Kansas City Chiefs (DEF-KC)]
