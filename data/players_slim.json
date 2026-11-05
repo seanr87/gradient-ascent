@@ -7364,7 +7364,7 @@
   "pos": "QB",
   "team": "BAL",
   "status": "Inactive",
-  "injury_status": "Out",
+  "injury_status": "IR",
   "injury_note": "Thumb"
  },
  "10937": {
@@ -8724,8 +8724,8 @@
   "pos": "WR",
   "team": "TB",
   "status": "Active",
-  "injury_status": "Questionable",
-  "injury_note": "Foot"
+  "injury_status": null,
+  "injury_note": null
  },
  "7605": {
   "name": "Kyle Trask",
@@ -9204,7 +9204,7 @@
   "pos": "QB",
   "team": "BAL",
   "status": "Inactive",
-  "injury_status": "Out",
+  "injury_status": "IR",
   "injury_note": "Toe"
  },
  "764": {
@@ -15172,8 +15172,8 @@
   "pos": "WR",
   "team": "KC",
   "status": "Active",
-  "injury_status": "Questionable",
-  "injury_note": "Hamstring"
+  "injury_status": null,
+  "injury_note": null
  },
  "8881": {
   "name": "Willie Johnson",
@@ -16468,8 +16468,8 @@
   "pos": "WR",
   "team": "NYG",
   "status": "Active",
-  "injury_status": null,
-  "injury_note": null
+  "injury_status": "Questionable",
+  "injury_note": "Undisclosed"
  },
  "4177": {
   "name": "Mack Hollins",
@@ -17011,8 +17011,8 @@
   "name": "Zavier Scott",
   "pos": "RB",
   "team": "CHI",
-  "status": "Active",
-  "injury_status": "Questionable",
+  "status": "Inactive",
+  "injury_status": "IR",
   "injury_note": "Wrist"
  },
  "11901": {
@@ -19628,8 +19628,8 @@
   "pos": "TE",
   "team": "BUF",
   "status": "Active",
-  "injury_status": null,
-  "injury_note": null
+  "injury_status": "Questionable",
+  "injury_note": "Chest"
  },
  "2078": {
   "name": "Odell Beckham Jr.",
@@ -20284,8 +20284,8 @@
   "pos": "RB",
   "team": "GB",
   "status": "Active",
-  "injury_status": null,
-  "injury_note": null
+  "injury_status": "Questionable",
+  "injury_note": "Knee"
  },
  "13303": {
   "name": "Cade Klubnik",
@@ -21156,8 +21156,8 @@
   "pos": "RB",
   "team": "TB",
   "status": "Active",
-  "injury_status": "Questionable",
-  "injury_note": "Hip"
+  "injury_status": null,
+  "injury_note": null
  },
  "6540": {
   "name": "DeAndre Thompkins",
@@ -23148,8 +23148,8 @@
   "pos": "TE",
   "team": "NYJ",
   "status": "Active",
-  "injury_status": "Questionable",
-  "injury_note": "Back"
+  "injury_status": null,
+  "injury_note": null
  },
  "13242": {
   "name": "Lawrance Toafili",
@@ -24612,8 +24612,8 @@
   "pos": "WR",
   "team": "BUF",
   "status": "Active",
-  "injury_status": null,
-  "injury_note": null
+  "injury_status": "Questionable",
+  "injury_note": "Shoulder"
  },
  "7744": {
   "name": "Antonio Nunn",
@@ -26492,8 +26492,8 @@
   "pos": "RB",
   "team": "BUF",
   "status": "Active",
-  "injury_status": null,
-  "injury_note": null
+  "injury_status": "Questionable",
+  "injury_note": "Illness"
  },
  "6803": {
   "name": "Brandon Aiyuk",
@@ -26700,8 +26700,8 @@
   "pos": "TE",
   "team": "CLE",
   "status": "Active",
-  "injury_status": null,
-  "injury_note": null
+  "injury_status": "Questionable",
+  "injury_note": "Groin"
  },
  "7613": {
   "name": "Jonathan Adams",
@@ -30068,8 +30068,8 @@
   "pos": "TE",
   "team": "KC",
   "status": "Active",
-  "injury_status": "Questionable",
-  "injury_note": "Ankle"
+  "injury_status": null,
+  "injury_note": null
  },
  "11932": {
   "name": "Mike DiLiello",
