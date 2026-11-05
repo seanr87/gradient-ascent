@@ -16314,7 +16314,7 @@
  "7039": {
   "name": "Cody White",
   "pos": "WR",
-  "team": "LV",
+  "team": null,
   "status": "Active",
   "injury_status": null,
   "injury_note": null
@@ -20402,7 +20402,7 @@
  "14058": {
   "name": "Malick Meiga",
   "pos": "WR",
-  "team": "SEA",
+  "team": null,
   "status": "Active",
   "injury_status": null,
   "injury_note": null

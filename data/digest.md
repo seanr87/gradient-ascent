@@ -1,5 +1,5 @@
 # Sleeper digest — The Climb
-Pulled: 2026-11-05 13:02 UTC · NFL week 9 (regular)
+Pulled: 2026-11-05 18:36 UTC · NFL week 9 (regular)
 
 ## My roster
 - Tre Tucker (WR-LV) (STARTER)
@@ -51,31 +51,31 @@ Pulled: 2026-11-05 13:02 UTC · NFL week 9 (regular)
 - Umojan Protectorate 129.70 — The Butker Jihad 109.95
 
 ## Trending adds (24h, all Sleeper)
-- Adonai Mitchell (WR-NYJ) — 656,704 adds
-- Devin Singletary (RB-NYG) — 626,301 adds
-- Chris Rodriguez Jr. (RB-JAX) — 529,560 adds
-- Detroit Lions (DEF-DET) — 501,804 adds
-- Joe Milton (QB-PHI) — 466,676 adds
-- Malik Willis (QB-MIA) — 356,342 adds
-- New Orleans Saints (DEF-NO) — 343,165 adds
-- Cairo Santos (K-CHI) — 302,477 adds
-- Emmett Johnson (RB-KC) — 300,852 adds
-- Tyler Bass (K-BUF) — 253,990 adds
-- Houston Texans (DEF-HOU) — 216,115 adds
-- Shedeur Sanders (QB-CLE) — 213,184 adds
-- Mike Gesicki (TE-CIN) — 199,852 adds
-- Elijah Mitchell (RB-PHI) — 186,885 adds
-- Jadarian Price (RB-SEA) — 176,688 adds
-- Gardner Minshew II (QB-ARI) — 170,880 adds
-- New York Giants (DEF-NYG) — 170,344 adds
-- Ryan Flournoy (WR-DAL) — 163,112 adds
-- Malik Washington (WR-MIA) — 151,344 adds
-- Dylan Sampson (RB-CLE) — 140,835 adds
-- Tyler Allgeier (RB-ARI) — 127,455 adds
-- Drew Lock (QB-SEA) [Questionable] — 119,241 adds
-- Alvin Kamara (RB-NO) [Questionable] — 111,640 adds
-- Kirk Cousins (QB-LV) — 107,680 adds
-- Keenan Allen (WR-IND) — 102,696 adds
+- Chris Rodriguez Jr. (RB-JAX) — 549,135 adds
+- Joe Milton (QB-PHI) — 510,432 adds
+- Devin Singletary (RB-NYG) — 469,449 adds
+- Adonai Mitchell (WR-NYJ) — 432,656 adds
+- Detroit Lions (DEF-DET) — 372,204 adds
+- Malik Willis (QB-MIA) — 302,267 adds
+- New Orleans Saints (DEF-NO) — 251,805 adds
+- Cairo Santos (K-CHI) — 226,058 adds
+- Emmett Johnson (RB-KC) — 193,743 adds
+- Shedeur Sanders (QB-CLE) — 165,880 adds
+- Elijah Mitchell (RB-PHI) — 160,056 adds
+- Tyler Bass (K-BUF) — 156,775 adds
+- Mike Gesicki (TE-CIN) — 142,612 adds
+- Drew Lock (QB-SEA) [Questionable] — 131,417 adds
+- Jadarian Price (RB-SEA) — 125,982 adds
+- Carson Wentz (QB-MIN) — 125,280 adds
+- Ryan Flournoy (WR-DAL) — 120,312 adds
+- Houston Texans (DEF-HOU) — 117,450 adds
+- Gardner Minshew II (QB-ARI) — 112,940 adds
+- Malik Washington (WR-MIA) — 111,224 adds
+- New York Giants (DEF-NYG) — 101,468 adds
+- Dylan Sampson (RB-CLE) — 97,625 adds
+- Kirk Cousins (QB-LV) — 84,384 adds
+- Kaelon Black (RB-SF) — 82,908 adds
+- C.J. Stroud (QB-HOU) — 81,340 adds
 
 ## League transactions this week
 - free_agent (complete) Umojan Protectorate: +[Tank Dell (WR-HOU)] -[Makai Lemon (WR-PHI)]
