@@ -2,7 +2,7 @@
 
 Rewritten in full every Tuesday at 6:00 AM ET by the process review; `## State` and `## Open threads` updated by every decision run in the same commit as its decision. Hard cap 150 lines. Older weeks roll up; git history is the archive. Cite a thesis or lesson by name instead of re-arguing it.
 
-Last full rewrite: 2026-11-03 (sixth process review, covering Week 8). Last touched: 2026-11-04 (Wk 9 post-waiver review).
+Last full rewrite: 2026-11-03 (sixth process review, covering Week 8). Last touched: 2026-11-05 (Wk 9 trade scan).
 
 ## State
 - **Week 8 final: won 131.63 to Princess Donut's Court 87.61 (+44.02), league median 124.61.** Record **4-4**, 989.48 PF, 7th of 12. Week 9 opponent: **Sea Squirts** (5-3, 1083.63 PF, 2nd). Waiver position **#12** (digest 2026-11-04 17:04 UTC; four wins dropped me to last); it drifts, so re-read it every run.
@@ -14,7 +14,7 @@ Last full rewrite: 2026-11-03 (sixth process review, covering Week 8). Last touc
 ## Open threads
 - **Wk 9 is Sea Squirts, 2nd in the league and top scorer at 1083.63 PF.** No trade or hedge open; waiver #12. **Wk 9 byes are Pittsburgh and Tennessee only.**
 - **TE: Pitts 1.6 vs Kincaid 18.1 (Kincaid [Q] played).** Decide Wk 9 on measured touches and the Friday status, not on the average (Lesson 3).
-- **Trades are opt-in** (see Process changes). Wk 5-8 scans: NO ACTION. SpaceElf is not buying again.
+- **Trades are opt-in** (see Process changes). Wk 5-9 scans: NO ACTION. SpaceElf is not buying again.
 - **Sunday contingencies have no timed check.** Sean checks by eye; none has triggered in Wk 5-8.
 - **Free-agent ADD/DROP pairs outside the Tuesday cycle.** Wk 7 Sun swap never made; Wk 8 Thu pivot took 52 h (Sat reaffirm landed in 2 h 14 m). Two of three late or missed; Lesson 4. Not yet a slot cluster.
 - **Wk 9 claims closed:** Mitchell, Willis, Flournoy, Sampson all cleared; Douglas (claim 5) died with claim 1 and is a free agent, passed on in the Wed review. Wk 9 waiver clear time: re-measure (first post-DST).
