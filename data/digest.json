@@ -1,5 +1,5 @@
 {
- "pulled_at_utc": "2026-11-06T00:52:48+00:00",
+ "pulled_at_utc": "2026-11-06T00:56:55+00:00",
  "nfl_week": 9,
  "season_type": "regular",
  "league": {
@@ -1470,203 +1470,203 @@
  ],
  "trending_adds_24h": [
   {
-   "count": 631089,
+   "count": 637371,
    "player_id": "10219"
   },
   {
-   "count": 428337,
+   "count": 434637,
    "player_id": "6130"
   },
   {
-   "count": 400014,
+   "count": 407475,
    "player_id": "DET"
   },
   {
-   "count": 375516,
+   "count": 382860,
    "player_id": "3161"
   },
   {
-   "count": 337072,
+   "count": 341200,
    "player_id": "11625"
   },
   {
-   "count": 312592,
+   "count": 319578,
    "player_id": "2020"
   },
   {
-   "count": 271271,
+   "count": 276752,
    "player_id": "8161"
   },
   {
-   "count": 266310,
+   "count": 271470,
    "player_id": "NO"
   },
   {
-   "count": 197264,
+   "count": 198640,
    "player_id": "11557"
   },
   {
-   "count": 188334,
+   "count": 192618,
    "player_id": "3286"
   },
   {
-   "count": 166383,
+   "count": 168966,
    "player_id": "13337"
   },
   {
-   "count": 146142,
+   "count": 147654,
    "player_id": "7561"
   },
   {
-   "count": 143884,
+   "count": 146276,
    "player_id": "4993"
   },
   {
-   "count": 141840,
+   "count": 144205,
    "player_id": "7042"
   },
   {
-   "count": 121736,
+   "count": 123560,
    "player_id": "11783"
   },
   {
-   "count": 121680,
+   "count": 123507,
    "player_id": "13286"
   },
   {
-   "count": 118872,
+   "count": 121248,
    "player_id": "11610"
   },
   {
-   "count": 106720,
+   "count": 108335,
    "player_id": "HOU"
   },
   {
-   "count": 105792,
+   "count": 107952,
    "player_id": "NYG"
   },
   {
-   "count": 100408,
+   "count": 101416,
    "player_id": "12524"
   },
   {
-   "count": 95355,
+   "count": 96875,
    "player_id": "12469"
   },
   {
-   "count": 86012,
+   "count": 87824,
    "player_id": "1479"
   },
   {
-   "count": 77152,
+   "count": 78384,
    "player_id": "1166"
   },
   {
-   "count": 75194,
+   "count": 76489,
    "player_id": "13414"
   },
   {
-   "count": 69027,
+   "count": 69916,
    "player_id": "9758"
   },
   {
-   "count": 67784,
+   "count": 68816,
    "player_id": "6650"
   },
   {
-   "count": 65681,
+   "count": 66360,
    "player_id": "11729"
   },
   {
-   "count": 59856,
+   "count": 60570,
    "player_id": "5854"
   },
   {
-   "count": 58995,
+   "count": 60057,
    "player_id": "SF"
   },
   {
-   "count": 58352,
+   "count": 59416,
    "player_id": "13296"
   },
   {
-   "count": 58168,
+   "count": 59224,
    "player_id": "4035"
   },
   {
-   "count": 57296,
-   "player_id": "9757"
-  },
-  {
-   "count": 57168,
+   "count": 58464,
    "player_id": "11539"
   },
   {
-   "count": 55956,
+   "count": 58344,
+   "player_id": "9757"
+  },
+  {
+   "count": 56480,
    "player_id": "6011"
   },
   {
-   "count": 55080,
+   "count": 55888,
    "player_id": "12487"
   },
   {
-   "count": 53990,
-   "player_id": "8132"
-  },
-  {
-   "count": 53652,
+   "count": 54696,
    "player_id": "JAX"
   },
   {
-   "count": 51246,
-   "player_id": "9482"
+   "count": 54640,
+   "player_id": "8132"
   },
   {
-   "count": 51225,
+   "count": 52332,
    "player_id": "5189"
   },
   {
-   "count": 49390,
+   "count": 52146,
+   "player_id": "9482"
+  },
+  {
+   "count": 50190,
    "player_id": "CHI"
   },
   {
-   "count": 48035,
+   "count": 48695,
    "player_id": "TB"
   },
   {
-   "count": 47430,
+   "count": 48411,
    "player_id": "8134"
   },
   {
-   "count": 46348,
+   "count": 47164,
    "player_id": "4663"
   },
   {
-   "count": 43729,
+   "count": 44177,
    "player_id": "8135"
   },
   {
-   "count": 43216,
+   "count": 44104,
    "player_id": "13276"
   },
   {
-   "count": 41872,
+   "count": 42696,
    "player_id": "7567"
   },
   {
-   "count": 41778,
+   "count": 42354,
    "player_id": "12540"
   },
   {
-   "count": 40512,
+   "count": 41301,
    "player_id": "11565"
   },
   {
-   "count": 37080,
+   "count": 37701,
    "player_id": "11624"
   },
   {
-   "count": 35744,
+   "count": 36272,
    "player_id": "13424"
   }
  ],

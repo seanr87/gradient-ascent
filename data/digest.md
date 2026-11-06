@@ -1,5 +1,5 @@
 # Sleeper digest — The Climb
-Pulled: 2026-11-06 00:52 UTC · NFL week 9 (regular)
+Pulled: 2026-11-06 00:56 UTC · NFL week 9 (regular)
 
 ## My roster
 - Tre Tucker (WR-LV) (STARTER)
@@ -51,31 +51,31 @@ Pulled: 2026-11-06 00:52 UTC · NFL week 9 (regular)
 - Umojan Protectorate 129.70 — The Butker Jihad 109.95
 
 ## Trending adds (24h, all Sleeper)
-- Chris Rodriguez Jr. (RB-JAX) — 631,089 adds
-- Devin Singletary (RB-NYG) — 428,337 adds
-- Detroit Lions (DEF-DET) — 400,014 adds
-- Carson Wentz (QB-MIN) — 375,516 adds
-- Adonai Mitchell (WR-NYJ) — 337,072 adds
-- Cairo Santos (K-CHI) — 312,592 adds
-- Malik Willis (QB-MIA) — 271,271 adds
-- New Orleans Saints (DEF-NO) — 266,310 adds
-- Joe Milton (QB-PHI) — 197,264 adds
-- Demarcus Robinson (WR-SF) [IR] — 188,334 adds
-- Emmett Johnson (RB-KC) — 166,383 adds
-- Elijah Mitchell (RB-PHI) — 146,142 adds
-- Mike Gesicki (TE-CIN) — 143,884 adds
-- Tyler Bass (K-BUF) — 141,840 adds
-- Ryan Flournoy (WR-DAL) — 121,736 adds
-- Jadarian Price (RB-SEA) — 121,680 adds
-- Malik Washington (WR-MIA) — 118,872 adds
-- Houston Texans (DEF-HOU) — 106,720 adds
-- New York Giants (DEF-NYG) — 105,792 adds
-- Shedeur Sanders (QB-CLE) — 100,408 adds
-- Dylan Sampson (RB-CLE) — 95,355 adds
-- Keenan Allen (WR-IND) — 86,012 adds
-- Kirk Cousins (QB-LV) — 77,152 adds
-- Kaelon Black (RB-SF) — 75,194 adds
-- C.J. Stroud (QB-HOU) — 69,027 adds
+- Chris Rodriguez Jr. (RB-JAX) — 637,371 adds
+- Devin Singletary (RB-NYG) — 434,637 adds
+- Detroit Lions (DEF-DET) — 407,475 adds
+- Carson Wentz (QB-MIN) — 382,860 adds
+- Adonai Mitchell (WR-NYJ) — 341,200 adds
+- Cairo Santos (K-CHI) — 319,578 adds
+- Malik Willis (QB-MIA) — 276,752 adds
+- New Orleans Saints (DEF-NO) — 271,470 adds
+- Joe Milton (QB-PHI) — 198,640 adds
+- Demarcus Robinson (WR-SF) [IR] — 192,618 adds
+- Emmett Johnson (RB-KC) — 168,966 adds
+- Elijah Mitchell (RB-PHI) — 147,654 adds
+- Mike Gesicki (TE-CIN) — 146,276 adds
+- Tyler Bass (K-BUF) — 144,205 adds
+- Ryan Flournoy (WR-DAL) — 123,560 adds
+- Jadarian Price (RB-SEA) — 123,507 adds
+- Malik Washington (WR-MIA) — 121,248 adds
+- Houston Texans (DEF-HOU) — 108,335 adds
+- New York Giants (DEF-NYG) — 107,952 adds
+- Shedeur Sanders (QB-CLE) — 101,416 adds
+- Dylan Sampson (RB-CLE) — 96,875 adds
+- Keenan Allen (WR-IND) — 87,824 adds
+- Kirk Cousins (QB-LV) — 78,384 adds
+- Kaelon Black (RB-SF) — 76,489 adds
+- C.J. Stroud (QB-HOU) — 69,916 adds
 
 ## League transactions this week
 - free_agent (complete) Umojan Protectorate: +[Tank Dell (WR-HOU)] -[Makai Lemon (WR-PHI)]
