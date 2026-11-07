@@ -1388,8 +1388,8 @@
   "pos": "QB",
   "team": "SEA",
   "status": "Active",
-  "injury_status": "Questionable",
-  "injury_note": "Elbow"
+  "injury_status": null,
+  "injury_note": null
  },
  "2936": {
   "name": "Rasheed Williams",
@@ -3434,7 +3434,7 @@
  "11931": {
   "name": "Austin Reed",
   "pos": "QB",
-  "team": "BAL",
+  "team": null,
   "status": "Active",
   "injury_status": null,
   "injury_note": null
@@ -3764,7 +3764,7 @@
   "pos": "RB",
   "team": "NE",
   "status": "Active",
-  "injury_status": "Questionable",
+  "injury_status": "Out",
   "injury_note": "Illness"
  },
  "565": {
@@ -4676,8 +4676,8 @@
   "pos": "WR",
   "team": "ARI",
   "status": "Active",
-  "injury_status": "Questionable",
-  "injury_note": "Ribs"
+  "injury_status": null,
+  "injury_note": null
  },
  "1237": {
   "name": "Dominique Davis",
@@ -6452,7 +6452,7 @@
   "pos": "WR",
   "team": "WAS",
   "status": "Active",
-  "injury_status": "Questionable",
+  "injury_status": "Out",
   "injury_note": "Calf"
  },
  "13422": {
@@ -7068,7 +7068,7 @@
   "pos": "WR",
   "team": "PHI",
   "status": "Active",
-  "injury_status": "Questionable",
+  "injury_status": "Out",
   "injury_note": "Knee"
  },
  "8417": {
@@ -7292,7 +7292,7 @@
   "pos": "WR",
   "team": "PHI",
   "status": "Active",
-  "injury_status": "Questionable",
+  "injury_status": "Out",
   "injury_note": "Ankle"
  },
  "1346": {
@@ -7556,7 +7556,7 @@
   "pos": "WR",
   "team": "SF",
   "status": "Active",
-  "injury_status": "Questionable",
+  "injury_status": "Out",
   "injury_note": "Hamstring"
  },
  "8820": {
@@ -8028,8 +8028,8 @@
   "pos": "WR",
   "team": "GB",
   "status": "Active",
-  "injury_status": "Questionable",
-  "injury_note": "Undisclosed"
+  "injury_status": null,
+  "injury_note": null
  },
  "8211": {
   "name": "Tyrion Davis-Price",
@@ -8724,8 +8724,8 @@
   "pos": "WR",
   "team": "TB",
   "status": "Active",
-  "injury_status": null,
-  "injury_note": null
+  "injury_status": "Questionable",
+  "injury_note": "Foot"
  },
  "7605": {
   "name": "Kyle Trask",
@@ -9092,8 +9092,8 @@
   "pos": "K",
   "team": "PHI",
   "status": "Active",
-  "injury_status": "Questionable",
-  "injury_note": "Ankle"
+  "injury_status": null,
+  "injury_note": null
  },
  "2635": {
   "name": "Vernon Johnson",
@@ -9356,7 +9356,7 @@
   "pos": "WR",
   "team": "WAS",
   "status": "Active",
-  "injury_status": "Questionable",
+  "injury_status": "Out",
   "injury_note": "Foot"
  },
  "7694": {
@@ -9410,7 +9410,7 @@
  "10215": {
   "name": "Jake Haener",
   "pos": "QB",
-  "team": "NYG",
+  "team": null,
   "status": "Active",
   "injury_status": null,
   "injury_note": null
@@ -9508,7 +9508,7 @@
   "pos": "WR",
   "team": "NYJ",
   "status": "Active",
-  "injury_status": "Questionable",
+  "injury_status": "Out",
   "injury_note": "Concussion"
  },
  "5262": {
@@ -10212,7 +10212,7 @@
   "pos": "WR",
   "team": "SF",
   "status": "Active",
-  "injury_status": "Questionable",
+  "injury_status": "Out",
   "injury_note": "Achilles"
  },
  "7562": {
@@ -10538,10 +10538,10 @@
  "8223": {
   "name": "Velus Jones Jr.",
   "pos": "WR",
-  "team": "SEA",
+  "team": null,
   "status": "Active",
-  "injury_status": "Questionable",
-  "injury_note": "Hamstring"
+  "injury_status": null,
+  "injury_note": null
  },
  "8427": {
   "name": "Player Invalid",
@@ -12020,8 +12020,8 @@
   "pos": "WR",
   "team": "NE",
   "status": "Active",
-  "injury_status": "Questionable",
-  "injury_note": "Ankle"
+  "injury_status": "Out",
+  "injury_note": "Knee"
  },
  "374": {
   "name": "Dan Orlovsky",
@@ -12036,8 +12036,8 @@
   "pos": "RB",
   "team": "SF",
   "status": "Active",
-  "injury_status": "Questionable",
-  "injury_note": "Calf"
+  "injury_status": null,
+  "injury_note": null
  },
  "988": {
   "name": "Doug Baldwin",
@@ -12364,8 +12364,8 @@
   "pos": "RB",
   "team": "PHI",
   "status": "Active",
-  "injury_status": "Questionable",
-  "injury_note": "Hamstring"
+  "injury_status": null,
+  "injury_note": null
  },
  "8778": {
   "name": "Justin Rigg",
@@ -13764,7 +13764,7 @@
   "pos": "WR",
   "team": "SEA",
   "status": "Active",
-  "injury_status": "Questionable",
+  "injury_status": "Out",
   "injury_note": "Knee"
  },
  "1022": {
@@ -14132,7 +14132,7 @@
   "pos": "RB",
   "team": "NO",
   "status": "Active",
-  "injury_status": "Questionable",
+  "injury_status": "Out",
   "injury_note": "Shoulder"
  },
  "3810": {
@@ -15060,7 +15060,7 @@
   "pos": "WR",
   "team": "DAL",
   "status": "Active",
-  "injury_status": "Questionable",
+  "injury_status": "Out",
   "injury_note": "Ribs"
  },
  "7885": {
@@ -15908,7 +15908,7 @@
   "pos": "WR",
   "team": "PHI",
   "status": "Active",
-  "injury_status": "Questionable",
+  "injury_status": "Out",
   "injury_note": "Hamstring"
  },
  "2918": {
@@ -16468,8 +16468,8 @@
   "pos": "WR",
   "team": "NYG",
   "status": "Active",
-  "injury_status": "Questionable",
-  "injury_note": "Undisclosed"
+  "injury_status": null,
+  "injury_note": null
  },
  "4177": {
   "name": "Mack Hollins",
@@ -19092,8 +19092,8 @@
   "pos": "WR",
   "team": "LV",
   "status": "Active",
-  "injury_status": "Questionable",
-  "injury_note": "Back"
+  "injury_status": null,
+  "injury_note": null
  },
  "2913": {
   "name": "Gavin Lutman",
@@ -19628,8 +19628,8 @@
   "pos": "TE",
   "team": "BUF",
   "status": "Active",
-  "injury_status": "Questionable",
-  "injury_note": "Chest"
+  "injury_status": null,
+  "injury_note": null
  },
  "2078": {
   "name": "Odell Beckham Jr.",
@@ -20162,9 +20162,9 @@
  "8129": {
   "name": "Dameon Pierce",
   "pos": "RB",
-  "team": "PHI",
+  "team": null,
   "status": "Inactive",
-  "injury_status": "IR",
+  "injury_status": "Questionable",
   "injury_note": "Undisclosed"
  },
  "8434": {
@@ -23036,8 +23036,8 @@
   "pos": "WR",
   "team": "SF",
   "status": "Active",
-  "injury_status": "Questionable",
-  "injury_note": "Knee"
+  "injury_status": "Out",
+  "injury_note": "Knee - Meniscus"
  },
  "3150": {
   "name": "Xavier Rush",
@@ -23172,7 +23172,7 @@
   "pos": "RB",
   "team": "NYG",
   "status": "Active",
-  "injury_status": "Questionable",
+  "injury_status": "Doubtful",
   "injury_note": "Hamstring"
  },
  "3621": {
@@ -24188,7 +24188,7 @@
   "pos": "TE",
   "team": "GB",
   "status": "Active",
-  "injury_status": "Questionable",
+  "injury_status": "Out",
   "injury_note": "Concussion"
  },
  "11381": {
@@ -24268,8 +24268,8 @@
   "pos": "RB",
   "team": "DET",
   "status": "Active",
-  "injury_status": null,
-  "injury_note": null
+  "injury_status": "Questionable",
+  "injury_note": "Ankle"
  },
  "11483": {
   "name": "Ellis Merriweather",
@@ -26372,8 +26372,8 @@
   "pos": "WR",
   "team": "IND",
   "status": "Active",
-  "injury_status": "Questionable",
-  "injury_note": "Concussion"
+  "injury_status": null,
+  "injury_note": null
  },
  "7602": {
   "name": "Kylen Granson",
@@ -26492,8 +26492,8 @@
   "pos": "RB",
   "team": "BUF",
   "status": "Active",
-  "injury_status": "Questionable",
-  "injury_note": "Illness"
+  "injury_status": null,
+  "injury_note": null
  },
  "6803": {
   "name": "Brandon Aiyuk",
@@ -26700,8 +26700,8 @@
   "pos": "TE",
   "team": "CLE",
   "status": "Active",
-  "injury_status": "Questionable",
-  "injury_note": "Groin"
+  "injury_status": null,
+  "injury_note": null
  },
  "7613": {
   "name": "Jonathan Adams",
@@ -26844,8 +26844,8 @@
   "pos": "WR",
   "team": "CLE",
   "status": "Active",
-  "injury_status": "Questionable",
-  "injury_note": "Calf"
+  "injury_status": null,
+  "injury_note": null
  },
  "8126": {
   "name": "Wan'Dale Robinson",
@@ -26988,8 +26988,8 @@
   "pos": "TE",
   "team": "IND",
   "status": "Active",
-  "injury_status": "Questionable",
-  "injury_note": "Knee"
+  "injury_status": null,
+  "injury_note": null
  },
  "5239": {
   "name": "Lamar Jordan",
@@ -27380,7 +27380,7 @@
   "pos": "RB",
   "team": "ARI",
   "status": "Active",
-  "injury_status": "Questionable",
+  "injury_status": "Out",
   "injury_note": "Concussion"
  },
  "7594": {
@@ -28508,8 +28508,8 @@
   "pos": "TE",
   "team": "MIA",
   "status": "Active",
-  "injury_status": "Questionable",
-  "injury_note": "Hamstring"
+  "injury_status": null,
+  "injury_note": null
  },
  "8196": {
   "name": "Ty Fryfogle",
@@ -28764,8 +28764,8 @@
   "pos": "RB",
   "team": "NO",
   "status": "Active",
-  "injury_status": "Questionable",
-  "injury_note": "Back"
+  "injury_status": null,
+  "injury_note": null
  },
  "11989": {
   "name": "D.J. Williams",
@@ -28932,8 +28932,8 @@
   "pos": "WR",
   "team": "KC",
   "status": "Active",
-  "injury_status": null,
-  "injury_note": null
+  "injury_status": "Questionable",
+  "injury_note": "Hip"
  },
  "4644": {
   "name": "Travis Rudolph",
@@ -29370,7 +29370,7 @@
  "3257": {
   "name": "Jacoby Brissett",
   "pos": "QB",
-  "team": "ARI",
+  "team": "BAL",
   "status": "Active",
   "injury_status": null,
   "injury_note": null
@@ -31050,7 +31050,7 @@
  "13580": {
   "name": "Carsen Ryan",
   "pos": "TE",
-  "team": "CLE",
+  "team": null,
   "status": "Active",
   "injury_status": null,
   "injury_note": null
@@ -32940,8 +32940,8 @@
   "pos": "TE",
   "team": "WAS",
   "status": "Active",
-  "injury_status": "Questionable",
-  "injury_note": "Shoulder"
+  "injury_status": null,
+  "injury_note": null
  },
  "2325": {
   "name": "Nelson Agholor",
@@ -33440,7 +33440,7 @@
   "injury_note": null
  },
  "13743": {
-  "name": "Joseph Manjack",
+  "name": "Joseph Manjack IV",
   "pos": "WR",
   "team": "NYJ",
   "status": "Active",
@@ -33658,7 +33658,7 @@
  "2334": {
   "name": "Phillip Dorsett II",
   "pos": "WR",
-  "team": "LV",
+  "team": null,
   "status": "Active",
   "injury_status": null,
   "injury_note": null

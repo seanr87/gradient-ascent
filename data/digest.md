@@ -1,9 +1,9 @@
 # Sleeper digest — The Climb
-Pulled: 2026-11-06 15:20 UTC · NFL week 9 (regular)
+Pulled: 2026-11-07 17:28 UTC · NFL week 9 (regular)
 
 ## My roster
 - Tre Tucker (WR-LV) (STARTER)
-- Dalton Kincaid (TE-BUF) [Questionable]
+- Dalton Kincaid (TE-BUF)
 - Jayden Daniels (QB-WAS) (STARTER)
 - Braelon Allen (RB-NYJ) (STARTER)
 - Bucky Irving (RB-TB) (STARTER)
@@ -51,38 +51,39 @@ Pulled: 2026-11-06 15:20 UTC · NFL week 9 (regular)
 - Umojan Protectorate 129.70 — The Butker Jihad 109.95
 
 ## Trending adds (24h, all Sleeper)
-- Carson Wentz (QB-MIN) — 489,642 adds
-- Chris Rodriguez Jr. (RB-JAX) — 459,693 adds
-- Detroit Lions (DEF-DET) — 357,201 adds
-- Devin Singletary (RB-NYG) — 351,126 adds
-- Cairo Santos (K-CHI) — 287,868 adds
-- Demarcus Robinson (WR-SF) [IR] — 277,650 adds
-- Malik Willis (QB-MIA) — 249,592 adds
-- Adonai Mitchell (WR-NYJ) — 238,000 adds
-- New Orleans Saints (DEF-NO) — 235,070 adds
-- Emmett Johnson (RB-KC) — 139,401 adds
-- Mike Gesicki (TE-CIN) — 127,696 adds
-- Elijah Mitchell (RB-PHI) — 119,259 adds
-- Malik Washington (WR-MIA) — 114,960 adds
-- Tyler Bass (K-BUF) — 112,655 adds
-- Ryan Flournoy (WR-DAL) — 109,392 adds
-- Joe Milton (QB-PHI) — 108,396 adds
-- Jadarian Price (RB-SEA) — 102,699 adds
-- New York Giants (DEF-NYG) — 96,628 adds
-- Houston Texans (DEF-HOU) — 84,090 adds
-- Dylan Sampson (RB-CLE) — 83,715 adds
-- Keenan Allen (WR-IND) — 82,920 adds
-- Shedeur Sanders (QB-CLE) — 69,680 adds
-- Kaelon Black (RB-SF) — 69,405 adds
-- Kirk Cousins (QB-LV) — 68,320 adds
-- Caleb Douglas (WR-MIA) — 55,592 adds
+- Devin Singletary (RB-NYG) — 803,970 adds
+- Demarcus Robinson (WR-SF) [IR] — 245,988 adds
+- Adonai Mitchell (WR-NYJ) — 231,472 adds
+- Omar Cooper Jr. (WR-NYJ) — 168,720 adds
+- Corey Kiner (RB-NE) — 142,824 adds
+- Carson Wentz (QB-MIN) — 98,658 adds
+- Gregory Desrosiers (RB-NYG) — 93,000 adds
+- Darius Cooper (WR-PHI) — 91,077 adds
+- Detroit Lions (DEF-DET) — 78,327 adds
+- New Orleans Saints (DEF-NO) — 76,100 adds
+- Emmett Johnson (RB-KC) — 72,990 adds
+- Malik Willis (QB-MIA) — 64,225 adds
+- Elijah Mitchell (RB-PHI) — 59,130 adds
+- Malik Washington (WR-MIA) — 58,032 adds
+- Ryan Flournoy (WR-DAL) — 52,928 adds
+- Mike Gesicki (TE-CIN) — 52,112 adds
+- Cairo Santos (K-CHI) — 49,385 adds
+- Terrance Ferguson (TE-LAR) [IR] — 49,128 adds
+- Jordan Watkins (WR-SF) — 48,484 adds
+- Jahan Dotson (WR-ATL) — 47,412 adds
+- Dylan Sampson (RB-CLE) — 43,325 adds
+- Shedeur Sanders (QB-CLE) — 42,176 adds
+- New York Giants (DEF-NYG) — 42,128 adds
+- Kaelon Black (RB-SF) — 39,620 adds
+- Keenan Allen (WR-IND) — 38,140 adds
 
 ## League transactions this week
+- trade (complete) Lost in the Land of Love, Playful Secrets: +[Kyle Monangai (RB-CHI) [Questionable], Devin Singletary (RB-NYG)] -[Kyle Monangai (RB-CHI) [Questionable], Devin Singletary (RB-NYG)]
 - free_agent (complete) Lost in the Land of Love: +[Mike Gesicki (TE-CIN)] -[Chris Rodriguez Jr. (RB-JAX)]
 - waiver (failed) What can Brown do for u?: +[Kansas City Chiefs (DEF-KC)] -[]
 - free_agent (complete) Umojan Protectorate: +[Tank Dell (WR-HOU)] -[Makai Lemon (WR-PHI)]
 - waiver (complete) TheTroubles: +[Kansas City Chiefs (DEF-KC)] -[Najee Harris (RB-None)]
-- free_agent (complete) Playful Secrets: +[Deebo Samuel Sr. (WR-SF) [Questionable]] -[Xavier Worthy (WR-KC)]
+- free_agent (complete) Playful Secrets: +[Deebo Samuel Sr. (WR-SF) [Out]] -[Xavier Worthy (WR-KC)]
 - free_agent (complete) Lost in the Land of Love: +[Chris Rodriguez Jr. (RB-JAX)] -[Sam Darnold (QB-SEA) [Out]]
 - free_agent (complete) Two Dumb Jaylens : +[San Francisco 49ers (DEF-SF)] -[Washington Commanders (DEF-WAS)]
 - free_agent (complete) The Wizard’s Apprentice: +[New Orleans Saints (DEF-NO)] -[San Francisco 49ers (DEF-SF)]
