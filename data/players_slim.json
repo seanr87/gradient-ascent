@@ -2172,7 +2172,7 @@
   "pos": "WR",
   "team": "MIN",
   "status": "Active",
-  "injury_status": "Questionable",
+  "injury_status": "Out",
   "injury_note": "Calf"
  },
  "3338": {
@@ -4316,7 +4316,7 @@
   "pos": "RB",
   "team": "MIN",
   "status": "Active",
-  "injury_status": "Questionable",
+  "injury_status": "Out",
   "injury_note": "Knee"
  },
  "11591": {
@@ -4340,7 +4340,7 @@
   "pos": "RB",
   "team": "ATL",
   "status": "Active",
-  "injury_status": "Out",
+  "injury_status": "IR",
   "injury_note": "Hamstring"
  },
  "11060": {
@@ -6228,7 +6228,7 @@
   "pos": "WR",
   "team": "SF",
   "status": "Inactive",
-  "injury_status": "IR",
+  "injury_status": "Questionable",
   "injury_note": "Ankle"
  },
  "7609": {
@@ -6451,7 +6451,7 @@
   "name": "Dyami Brown",
   "pos": "WR",
   "team": "WAS",
-  "status": "Active",
+  "status": "Inactive",
   "injury_status": "Out",
   "injury_note": "Calf"
  },
@@ -14164,8 +14164,8 @@
   "pos": "WR",
   "team": "BUF",
   "status": "Active",
-  "injury_status": "Questionable",
-  "injury_note": "Undisclosed"
+  "injury_status": null,
+  "injury_note": null
  },
  "12460": {
   "name": "Antwane Wells Jr.",
@@ -16475,8 +16475,8 @@
   "name": "Mack Hollins",
   "pos": "WR",
   "team": "NE",
-  "status": "Inactive",
-  "injury_status": "IR",
+  "status": "Active",
+  "injury_status": "Questionable",
   "injury_note": "Calf"
  },
  "12757": {
@@ -20243,8 +20243,8 @@
   "name": "Jordyn Tyson",
   "pos": "WR",
   "team": "NO",
-  "status": "Inactive",
-  "injury_status": "IR",
+  "status": "Active",
+  "injury_status": "Questionable",
   "injury_note": "Hamstring"
  },
  "8437": {
@@ -20644,7 +20644,7 @@
   "pos": "WR",
   "team": "DEN",
   "status": "Inactive",
-  "injury_status": "IR",
+  "injury_status": "Questionable",
   "injury_note": "Ankle"
  },
  "7287": {
@@ -21651,9 +21651,9 @@
   "name": "Ronnie Rivers",
   "pos": "RB",
   "team": "LAR",
-  "status": "Inactive",
-  "injury_status": "IR",
-  "injury_note": "Calf"
+  "status": "Active",
+  "injury_status": null,
+  "injury_note": null
  },
  "6892": {
   "name": "Nate Stanley",
@@ -23628,7 +23628,7 @@
   "pos": "WR",
   "team": "BUF",
   "status": "Active",
-  "injury_status": "Questionable",
+  "injury_status": "Out",
   "injury_note": "Hamstring"
  },
  "7035": {
@@ -24612,8 +24612,8 @@
   "pos": "WR",
   "team": "BUF",
   "status": "Active",
-  "injury_status": "Questionable",
-  "injury_note": "Shoulder"
+  "injury_status": null,
+  "injury_note": null
  },
  "7744": {
   "name": "Antonio Nunn",
@@ -31050,7 +31050,7 @@
  "13580": {
   "name": "Carsen Ryan",
   "pos": "TE",
-  "team": null,
+  "team": "CLE",
   "status": "Active",
   "injury_status": null,
   "injury_note": null
@@ -32300,7 +32300,7 @@
   "pos": "QB",
   "team": "MIN",
   "status": "Active",
-  "injury_status": "Questionable",
+  "injury_status": "Out",
   "injury_note": "Hamstring"
  },
  "13783": {
@@ -32347,7 +32347,7 @@
   "name": "Beaux Collins",
   "pos": "WR",
   "team": "ATL",
-  "status": "Inactive",
+  "status": "Active",
   "injury_status": "IR",
   "injury_note": "Undisclosed"
  },

@@ -1,5 +1,5 @@
 # Sleeper digest — The Climb
-Pulled: 2026-11-07 17:28 UTC · NFL week 9 (regular)
+Pulled: 2026-11-07 21:47 UTC · NFL week 9 (regular)
 
 ## My roster
 - Tre Tucker (WR-LV) (STARTER)
@@ -51,33 +51,34 @@ Pulled: 2026-11-07 17:28 UTC · NFL week 9 (regular)
 - Umojan Protectorate 129.70 — The Butker Jihad 109.95
 
 ## Trending adds (24h, all Sleeper)
-- Devin Singletary (RB-NYG) — 803,970 adds
-- Demarcus Robinson (WR-SF) [IR] — 245,988 adds
-- Adonai Mitchell (WR-NYJ) — 231,472 adds
-- Omar Cooper Jr. (WR-NYJ) — 168,720 adds
-- Corey Kiner (RB-NE) — 142,824 adds
-- Carson Wentz (QB-MIN) — 98,658 adds
-- Gregory Desrosiers (RB-NYG) — 93,000 adds
-- Darius Cooper (WR-PHI) — 91,077 adds
-- Detroit Lions (DEF-DET) — 78,327 adds
-- New Orleans Saints (DEF-NO) — 76,100 adds
-- Emmett Johnson (RB-KC) — 72,990 adds
-- Malik Willis (QB-MIA) — 64,225 adds
-- Elijah Mitchell (RB-PHI) — 59,130 adds
-- Malik Washington (WR-MIA) — 58,032 adds
-- Ryan Flournoy (WR-DAL) — 52,928 adds
-- Mike Gesicki (TE-CIN) — 52,112 adds
-- Cairo Santos (K-CHI) — 49,385 adds
-- Terrance Ferguson (TE-LAR) [IR] — 49,128 adds
-- Jordan Watkins (WR-SF) — 48,484 adds
-- Jahan Dotson (WR-ATL) — 47,412 adds
-- Dylan Sampson (RB-CLE) — 43,325 adds
-- Shedeur Sanders (QB-CLE) — 42,176 adds
-- New York Giants (DEF-NYG) — 42,128 adds
-- Kaelon Black (RB-SF) — 39,620 adds
-- Keenan Allen (WR-IND) — 38,140 adds
+- Devin Singletary (RB-NYG) — 616,338 adds
+- Demarcus Robinson (WR-SF) [Questionable] — 254,952 adds
+- Adonai Mitchell (WR-NYJ) — 164,160 adds
+- Corey Kiner (RB-NE) — 119,622 adds
+- Omar Cooper Jr. (WR-NYJ) — 113,712 adds
+- Gregory Desrosiers (RB-NYG) — 106,464 adds
+- Carson Wentz (QB-MIN) — 78,894 adds
+- Darius Cooper (WR-PHI) — 78,708 adds
+- New Orleans Saints (DEF-NO) — 67,655 adds
+- Alvin Kamara (RB-NO) — 62,088 adds
+- Detroit Lions (DEF-DET) — 61,758 adds
+- Emmett Johnson (RB-KC) — 57,519 adds
+- Malik Willis (QB-MIA) — 56,903 adds
+- Elijah Mitchell (RB-PHI) — 49,941 adds
+- Jordan Watkins (WR-SF) — 47,148 adds
+- Mike Gesicki (TE-CIN) — 43,544 adds
+- Malik Washington (WR-MIA) — 41,600 adds
+- Cairo Santos (K-CHI) — 40,544 adds
+- Ryan Flournoy (WR-DAL) — 40,456 adds
+- New York Giants (DEF-NYG) — 39,916 adds
+- Dylan Sampson (RB-CLE) — 39,355 adds
+- Jahan Dotson (WR-ATL) — 39,141 adds
+- Austin Ekeler (RB-WAS) — 33,748 adds
+- Shedeur Sanders (QB-CLE) — 33,720 adds
+- Jadarian Price (RB-SEA) — 32,229 adds
 
 ## League transactions this week
+- free_agent (complete) Umojan Protectorate: +[Drew Lock (QB-SEA)] -[T.J. Hockenson (TE-MIN)]
 - trade (complete) Lost in the Land of Love, Playful Secrets: +[Kyle Monangai (RB-CHI) [Questionable], Devin Singletary (RB-NYG)] -[Kyle Monangai (RB-CHI) [Questionable], Devin Singletary (RB-NYG)]
 - free_agent (complete) Lost in the Land of Love: +[Mike Gesicki (TE-CIN)] -[Chris Rodriguez Jr. (RB-JAX)]
 - waiver (failed) What can Brown do for u?: +[Kansas City Chiefs (DEF-KC)] -[]
