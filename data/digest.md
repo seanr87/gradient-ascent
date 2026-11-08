@@ -1,5 +1,5 @@
 # Sleeper digest — The Climb
-Pulled: 2026-11-07 21:47 UTC · NFL week 9 (regular)
+Pulled: 2026-11-08 14:02 UTC · NFL week 9 (regular)
 
 ## My roster
 - Tre Tucker (WR-LV) (STARTER)
@@ -51,31 +51,31 @@ Pulled: 2026-11-07 21:47 UTC · NFL week 9 (regular)
 - Umojan Protectorate 129.70 — The Butker Jihad 109.95
 
 ## Trending adds (24h, all Sleeper)
-- Devin Singletary (RB-NYG) — 616,338 adds
-- Demarcus Robinson (WR-SF) [Questionable] — 254,952 adds
-- Adonai Mitchell (WR-NYJ) — 164,160 adds
-- Corey Kiner (RB-NE) — 119,622 adds
-- Omar Cooper Jr. (WR-NYJ) — 113,712 adds
-- Gregory Desrosiers (RB-NYG) — 106,464 adds
-- Carson Wentz (QB-MIN) — 78,894 adds
-- Darius Cooper (WR-PHI) — 78,708 adds
-- New Orleans Saints (DEF-NO) — 67,655 adds
-- Alvin Kamara (RB-NO) — 62,088 adds
-- Detroit Lions (DEF-DET) — 61,758 adds
-- Emmett Johnson (RB-KC) — 57,519 adds
-- Malik Willis (QB-MIA) — 56,903 adds
-- Elijah Mitchell (RB-PHI) — 49,941 adds
-- Jordan Watkins (WR-SF) — 47,148 adds
-- Mike Gesicki (TE-CIN) — 43,544 adds
-- Malik Washington (WR-MIA) — 41,600 adds
-- Cairo Santos (K-CHI) — 40,544 adds
-- Ryan Flournoy (WR-DAL) — 40,456 adds
-- New York Giants (DEF-NYG) — 39,916 adds
-- Dylan Sampson (RB-CLE) — 39,355 adds
-- Jahan Dotson (WR-ATL) — 39,141 adds
-- Austin Ekeler (RB-WAS) — 33,748 adds
-- Shedeur Sanders (QB-CLE) — 33,720 adds
-- Jadarian Price (RB-SEA) — 32,229 adds
+- Devin Singletary (RB-NYG) — 518,436 adds
+- Demarcus Robinson (WR-SF) — 389,544 adds
+- Audric Estime (RB-NO) — 208,368 adds
+- Alvin Kamara (RB-NO) — 137,280 adds
+- Adonai Mitchell (WR-NYJ) — 131,512 adds
+- Gregory Desrosiers (RB-NYG) — 123,376 adds
+- New Orleans Saints (DEF-NO) — 105,985 adds
+- Corey Kiner (RB-NE) — 95,280 adds
+- Carson Wentz (QB-MIN) — 81,342 adds
+- Khalil Herbert (RB-ATL) — 79,929 adds
+- Darius Cooper (WR-PHI) — 78,001 adds
+- Omar Cooper Jr. (WR-NYJ) — 76,216 adds
+- Malik Willis (QB-MIA) — 70,959 adds
+- Detroit Lions (DEF-DET) — 64,188 adds
+- New York Giants (DEF-NYG) — 62,936 adds
+- Dylan Sampson (RB-CLE) — 51,675 adds
+- Jordyn Tyson (WR-NO) [Questionable] — 50,712 adds
+- Cairo Santos (K-CHI) — 50,393 adds
+- Elijah Mitchell (RB-PHI) — 49,617 adds
+- Emmett Johnson (RB-KC) — 46,251 adds
+- Mike Gesicki (TE-CIN) — 45,432 adds
+- Malik Washington (WR-MIA) — 41,128 adds
+- Austin Ekeler (RB-WAS) — 39,856 adds
+- Jordan Watkins (WR-SF) — 38,372 adds
+- Jahan Dotson (WR-ATL) — 36,693 adds
 
 ## League transactions this week
 - free_agent (complete) Umojan Protectorate: +[Drew Lock (QB-SEA)] -[T.J. Hockenson (TE-MIN)]

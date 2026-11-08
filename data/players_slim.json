@@ -2364,8 +2364,8 @@
   "pos": "QB",
   "team": "ATL",
   "status": "Active",
-  "injury_status": null,
-  "injury_note": null
+  "injury_status": "Out",
+  "injury_note": "Coach's Decision"
  },
  "10222": {
   "name": "Jayden Reed",
@@ -4339,7 +4339,7 @@
   "name": "Brian Robinson Jr.",
   "pos": "RB",
   "team": "ATL",
-  "status": "Active",
+  "status": "Inactive",
   "injury_status": "IR",
   "injury_note": "Hamstring"
  },
@@ -6227,9 +6227,9 @@
   "name": "Demarcus Robinson",
   "pos": "WR",
   "team": "SF",
-  "status": "Inactive",
-  "injury_status": "Questionable",
-  "injury_note": "Ankle"
+  "status": "Active",
+  "injury_status": null,
+  "injury_note": null
  },
  "7609": {
   "name": "Demetric Felton",
@@ -6452,7 +6452,7 @@
   "pos": "WR",
   "team": "WAS",
   "status": "Inactive",
-  "injury_status": "Out",
+  "injury_status": "IR",
   "injury_note": "Calf"
  },
  "13422": {
@@ -9410,7 +9410,7 @@
  "10215": {
   "name": "Jake Haener",
   "pos": "QB",
-  "team": null,
+  "team": "NYG",
   "status": "Active",
   "injury_status": null,
   "injury_note": null
@@ -10538,7 +10538,7 @@
  "8223": {
   "name": "Velus Jones Jr.",
   "pos": "WR",
-  "team": null,
+  "team": "SEA",
   "status": "Active",
   "injury_status": null,
   "injury_note": null
@@ -20643,7 +20643,7 @@
   "name": "Pat Bryant",
   "pos": "WR",
   "team": "DEN",
-  "status": "Inactive",
+  "status": "Active",
   "injury_status": "Questionable",
   "injury_note": "Ankle"
  },
@@ -23035,8 +23035,8 @@
   "name": "Christian Kirk",
   "pos": "WR",
   "team": "SF",
-  "status": "Active",
-  "injury_status": "Out",
+  "status": "Inactive",
+  "injury_status": "IR",
   "injury_note": "Knee - Meniscus"
  },
  "3150": {
@@ -31876,8 +31876,8 @@
   "pos": "QB",
   "team": "ATL",
   "status": "Active",
-  "injury_status": null,
-  "injury_note": null
+  "injury_status": "Out",
+  "injury_note": "Coach's Decision"
  },
  "12324": {
   "name": "William Thompson",
@@ -32348,8 +32348,8 @@
   "pos": "WR",
   "team": "ATL",
   "status": "Active",
-  "injury_status": "IR",
-  "injury_note": "Undisclosed"
+  "injury_status": null,
+  "injury_note": null
  },
  "12256": {
   "name": "Baylor Cupp",
