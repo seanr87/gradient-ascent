@@ -7370,7 +7370,7 @@
  "10937": {
   "name": "Jake Moody",
   "pos": "K",
-  "team": "BAL",
+  "team": "ATL",
   "status": "Active",
   "injury_status": null,
   "injury_note": null
@@ -7394,7 +7394,7 @@
  "13428": {
   "name": "Joey Aguilar",
   "pos": "QB",
-  "team": "JAX",
+  "team": "ARI",
   "status": "Active",
   "injury_status": null,
   "injury_note": null
@@ -9498,7 +9498,7 @@
  "8799": {
   "name": "Zaire Mitchell-Paden",
   "pos": "TE",
-  "team": null,
+  "team": "CLE",
   "status": "Active",
   "injury_status": null,
   "injury_note": null
@@ -26242,10 +26242,10 @@
  "12938": {
   "name": "Jackson Meeks",
   "pos": "TE",
-  "team": "DET",
+  "team": null,
   "status": "Active",
-  "injury_status": "Out",
-  "injury_note": "Coach's Decision"
+  "injury_status": null,
+  "injury_note": null
  },
  "7579": {
   "name": "Austin Watkins",
@@ -26306,7 +26306,7 @@
  "650": {
   "name": "Nick Folk",
   "pos": "K",
-  "team": "ATL",
+  "team": null,
   "status": "Active",
   "injury_status": null,
   "injury_note": null
@@ -31818,7 +31818,7 @@
  "13827": {
   "name": "Tanner Arkin",
   "pos": "TE",
-  "team": "NE",
+  "team": null,
   "status": "Active",
   "injury_status": null,
   "injury_note": null
