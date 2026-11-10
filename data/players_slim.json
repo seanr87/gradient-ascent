@@ -2728,9 +2728,9 @@
   "injury_note": null
  },
  "13957": {
-  "name": "Kenny Fletcher",
+  "name": "Kenny Fletcher Jr.",
   "pos": "TE",
-  "team": null,
+  "team": "GB",
   "status": "Active",
   "injury_status": null,
   "injury_note": null
@@ -4675,8 +4675,8 @@
   "name": "Michael Wilson",
   "pos": "WR",
   "team": "ARI",
-  "status": "Active",
-  "injury_status": "Out",
+  "status": "Inactive",
+  "injury_status": "IR",
   "injury_note": "Neck"
  },
  "1237": {
@@ -5706,7 +5706,7 @@
  "1166": {
   "name": "Kirk Cousins",
   "pos": "QB",
-  "team": "LV",
+  "team": "MIN",
   "status": "Active",
   "injury_status": null,
   "injury_note": null
@@ -9890,7 +9890,7 @@
  "12079": {
   "name": "Treyton Welch",
   "pos": "TE",
-  "team": null,
+  "team": "NO",
   "status": "Active",
   "injury_status": null,
   "injury_note": null
@@ -23267,8 +23267,8 @@
   "name": "Jordan Whittington",
   "pos": "WR",
   "team": "LAR",
-  "status": "Active",
-  "injury_status": "Questionable",
+  "status": "Inactive",
+  "injury_status": "IR",
   "injury_note": "Back"
  },
  "5915": {
@@ -23618,7 +23618,7 @@
  "9757": {
   "name": "Kendre Miller",
   "pos": "RB",
-  "team": null,
+  "team": "DAL",
   "status": "Active",
   "injury_status": null,
   "injury_note": null
@@ -24219,8 +24219,8 @@
   "name": "Malik Willis",
   "pos": "QB",
   "team": "MIA",
-  "status": "Active",
-  "injury_status": "Questionable",
+  "status": "Inactive",
+  "injury_status": "IR",
   "injury_note": "Groin"
  },
  "5201": {
@@ -24355,8 +24355,8 @@
   "name": "Gardner Minshew II",
   "pos": "QB",
   "team": "ARI",
-  "status": "Active",
-  "injury_status": "Questionable",
+  "status": "Inactive",
+  "injury_status": "IR",
   "injury_note": "Elbow"
  },
  "822": {
@@ -26362,7 +26362,7 @@
  "9500": {
   "name": "Josh Downs",
   "pos": "WR",
-  "team": "IND",
+  "team": "KC",
   "status": "Active",
   "injury_status": null,
   "injury_note": null
@@ -26914,7 +26914,7 @@
  "11168": {
   "name": "Xavier Smith",
   "pos": "WR",
-  "team": "SF",
+  "team": "LAR",
   "status": "Active",
   "injury_status": null,
   "injury_note": null
@@ -27924,8 +27924,8 @@
   "pos": "WR",
   "team": "CAR",
   "status": "Active",
-  "injury_status": null,
-  "injury_note": null
+  "injury_status": "Out",
+  "injury_note": "Undisclosed"
  },
  "11536": {
   "name": "Milton Wright",
@@ -28548,8 +28548,8 @@
   "pos": "WR",
   "team": null,
   "status": "Active",
-  "injury_status": "Questionable",
-  "injury_note": "Undisclosed"
+  "injury_status": null,
+  "injury_note": null
  },
  "560": {
   "name": "Demaryius Thomas",
@@ -31258,7 +31258,7 @@
  "13806": {
   "name": "Matt Lauter",
   "pos": "TE",
-  "team": null,
+  "team": "NO",
   "status": "Active",
   "injury_status": null,
   "injury_note": null
@@ -33658,7 +33658,7 @@
  "2334": {
   "name": "Phillip Dorsett II",
   "pos": "WR",
-  "team": null,
+  "team": "ARI",
   "status": "Active",
   "injury_status": null,
   "injury_note": null
