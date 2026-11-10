@@ -1,5 +1,5 @@
 # Sleeper digest — The Climb
-Pulled: 2026-11-10 12:32 UTC · NFL week 10 (regular)
+Pulled: 2026-11-10 16:12 UTC · NFL week 10 (regular)
 
 ## My roster
 - Tre Tucker (WR-LV) (STARTER)
@@ -51,30 +51,30 @@ Pulled: 2026-11-10 12:32 UTC · NFL week 10 (regular)
 - Playful Secrets 132.00 — The Butker Jihad 115.28
 
 ## Trending adds (24h, all Sleeper)
-- Tank Dell (WR-HOU) — 1,265,784 adds
-- Corey Kiner (RB-NE) — 805,464 adds
-- Konata Mumpfield (WR-LAR) — 750,825 adds
-- Audric Estime (RB-NO) — 298,320 adds
-- Darren Waller (TE-CAR) — 253,872 adds
-- Jordan Watkins (WR-SF) — 163,720 adds
-- Tutu Atwell (WR-LAR) — 148,477 adds
-- C.J. Stroud (QB-HOU) — 123,921 adds
-- Pat Bryant (WR-DEN) — 121,712 adds
-- Justice Hill (RB-BAL) — 112,059 adds
-- Seth McGowan (RB-IND) — 108,432 adds
-- Caleb Douglas (WR-MIA) — 107,392 adds
-- Pierre Strong Jr. (RB-GB) — 104,967 adds
-- Baltimore Ravens (DEF-BAL) — 96,804 adds
-- Jordyn Tyson (WR-NO) — 77,896 adds
-- Jacksonville Jaguars (DEF-JAX) — 75,552 adds
-- Tyler Higbee (TE-LAR) — 72,099 adds
-- Shedeur Sanders (QB-CLE) — 67,208 adds
-- Tyler Shough (QB-NO) — 63,320 adds
-- Ryan Flournoy (WR-DAL) — 62,544 adds
-- DJ Uiagalelei (QB-LAC) — 57,753 adds
-- Green Bay Packers (DEF-GB) — 57,128 adds
-- Bryce Young (QB-CAR) — 56,100 adds
-- Jadarian Price (RB-SEA) — 52,848 adds
-- Jake Bates (K-DET) — 52,392 adds
+- Tank Dell (WR-HOU) — 1,548,808 adds
+- Corey Kiner (RB-NE) — 1,262,532 adds
+- Konata Mumpfield (WR-LAR) — 1,066,212 adds
+- Audric Estime (RB-NO) — 372,618 adds
+- Darren Waller (TE-CAR) — 366,381 adds
+- Tutu Atwell (WR-LAR) — 219,275 adds
+- Jordan Watkins (WR-SF) — 212,336 adds
+- Baltimore Ravens (DEF-BAL) — 178,227 adds
+- Justice Hill (RB-BAL) — 163,557 adds
+- Pierre Strong Jr. (RB-GB) — 162,243 adds
+- C.J. Stroud (QB-HOU) — 152,271 adds
+- Pat Bryant (WR-DEN) — 147,744 adds
+- Caleb Douglas (WR-MIA) — 141,528 adds
+- Seth McGowan (RB-IND) — 129,040 adds
+- Tyler Higbee (TE-LAR) — 118,908 adds
+- Jacksonville Jaguars (DEF-JAX) — 113,346 adds
+- Jordyn Tyson (WR-NO) — 112,432 adds
+- Green Bay Packers (DEF-GB) — 101,931 adds
+- Tyler Shough (QB-NO) — 97,072 adds
+- Jake Bates (K-DET) — 91,888 adds
+- Bryce Young (QB-CAR) — 82,676 adds
+- Demarcus Robinson (WR-SF) — 82,452 adds
+- DJ Uiagalelei (QB-LAC) — 81,531 adds
+- Aaron Rodgers (QB-PIT) — 79,900 adds
+- Shedeur Sanders (QB-CLE) — 77,856 adds
 
 ## League transactions this week
