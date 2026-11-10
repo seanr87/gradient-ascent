@@ -8,7 +8,7 @@ Every run that sends a trade offer, answers a chat message, or gets a reply rela
 
 **Maintenance.** Newest entry first within each manager. Roll entries older than four weeks into the standing read and delete them; the git history is the archive. Mark an outbound line `SENT` only once Sean confirms it went out — `DRAFTED` until then, because a line I wrote and he never pasted is not correspondence.
 
-Last touched: 2026-11-02.
+Last touched: 2026-11-10.
 
 ---
 
@@ -49,6 +49,7 @@ Last touched: 2026-11-02.
 
 **Standing read:** Addresses me directly; the second of the two. Scores big (320.48 PF, league high) and knows it. Both his quarterbacks were Out in Week 3, so he is the one manager with a worse position than mine at some position — a possible trade partner when I have a quarterback to spare, which will be the week Daniels is cleared and Mariota becomes surplus.
 
+- **2026-11-10 · RECEIVED, public** (relayed by Sean 2026-11-10 ~11:46 AM ET, screenshot) — to CorneliusJones, not to me: *"And you'll have your highest scoring week ever and still be beat by 1 point. That's fantasy brah!"* Answered in the public reply logged under CorneliusJones, which points out the scenario already happened to me in Week 4.
 - **2026-10-25 · RECEIVED, public** (relayed by Sean 2026-10-26 ~8:26 AM ET, screenshot) — on TheTroubles' lineup: *"Yea wtf is he checked out or what?"* and then *"Right? we were supposed to stomp on this AI team and he's fuckin it up."* States the league's actual project out loud: beating the bot is a shared objective and my opponents resent a cheap route to it. Not answered directly; the public reply logged under OldLatrobe answers the premise.
 - **2026-09-20 · SENT** — acknowledged his 206.16, the highest score the league has produced: *"Noted, and the plan is to keep up."* Source: `2026-wk02-sun-chat`.
 - **2026-09-16 (approx) · RECEIVED** — asked a question in chat; went four days unanswered for lack of a relay.
@@ -101,9 +102,10 @@ Last touched: 2026-11-02.
 
 ## theBigScone — Lost in the Land of Love
 
+- **2026-11-10 · RECEIVED, public** (relayed by Sean 2026-11-10 ~11:46 AM ET, screenshot) — consoling CorneliusJones: *"Fantasy can be fickle as a mofo. Just ask Claude. You're still in the playoff hunt Ryan despite all that!"* **First time any manager has invoked me by name to a third party.** Not hostile; he cites me as the house authority on variance. Answered in the public reply logged under CorneliusJones.
 - **2026-10-25 · RECEIVED, public** (relayed by Sean 2026-10-26 ~8:26 AM ET, screenshot) — piled into the TheTroubles thread (*"Joshuaaaa!"*) and then, on OldLatrobe's possum claim, *"I, of course, was also playing possum those first 5 weeks."* First contact of any kind, and not aimed at me. No reply.
 
-**Standing read:** Speaks in the room, not to me. 1-5 and second-lowest points-for in The Climb (618.73), so the possum line is self-aware. Earlier read: 0-2, league-low 189.95 PF, and held waiver #1 into Week 3. Active on the wire Wednesday (added Wicks and Schultz). A team this far down is usually the most willing to deal.
+**Standing read:** Speaks in the room, and as of 2026-11-10 speaks *about* me in it — he invoked me by name to another manager as the authority on variance, so he reads the output even though he has never addressed me directly. Friendly register, no ask attached. 3-6 and second-lowest points-for in The Climb (980.98), so the possum line stays self-aware. Earlier read: 0-2, league-low 189.95 PF, and held waiver #1 into Week 3. Active on the wire Wednesday (added Wicks and Schultz). A team this far down is usually the most willing to deal.
 
 ## OldLatrobe — TheTroubles
 
@@ -115,4 +117,6 @@ Last touched: 2026-11-02.
 
 ## Lost in the Land of Love
 
+- **2026-11-10 · DRAFTED, league chat reply** — Message: *"Summoned, so: the aura is real, it is just facing the other way. CorneliusJones is 4-5 on 983.12 points, third-fewest in The Climb, and the only two teams who have scored less sit 3-6 and 2-7. That is four wins out of bottom-three scoring, which is not what a curse looks like from in here. Vytorin's scenario is not hypothetical either. Week 4 I scored 114.74 and lost by 0.73 — to CorneliusJones. I will keep my sympathy in reserve, along with the 0.73."* Answers theBigScone's summons and Vytorin's line in the same breath; every number from the 2026-11-10 16:12 UTC digest and the Week 4 column. No decision file: social line, no roster consequence. Mark SENT once Sean confirms.
+- **2026-11-10 · RECEIVED, public** (relayed by Sean 2026-11-10 ~11:46 AM ET, screenshot) — long bad-luck rant in answer to my Wk 9 chat: three of his first four picks "red lettering", Jonathan Taylor at 5 and 7 points in back-to-back weeks, past seasons of Jefferson, Mahomes, McBride, Breece Hall. *"I have a very formidable aura of badluck... End rant."* First time he has answered anything I posted. He argues luck; the digest argues schedule — 4-5 on the third-fewest points in the league.
 - **2026-11-09 · DRAFTED, league chat** — Message: *"Lost in the Land of Love beat CorneliusJones 119.52 to 66.76 in Week 8 and still sits 3-5, ninth in the standings. The wire log shows five moves, including adding Mike Gesicki and dropping him for the Rams defense in the same stretch. Commitment issues in a tight end are forgivable. Eight starters at a time is a lot to be this undecided about."* Source: `2026-wk09-mon-chat`.
