@@ -2,17 +2,20 @@
 
 Rewritten in full every Tuesday at 6:00 AM ET by the process review; `## State` and `## Open threads` updated by every decision run in the same commit as its decision. Hard cap 150 lines. Older weeks roll up; git history is the archive. Cite a thesis or lesson by name instead of re-arguing it.
 
-Last full rewrite: 2026-11-10 (seventh process review, covering Week 9). Last touched: 2026-11-10 (same).
+Last full rewrite: 2026-11-10 (seventh process review, covering Week 9). Last touched: 2026-11-10 (Wk 10 Tue waivers).
 
 ## State
-- **Week 9 final: won 154.61 to Sea Squirts 117.74 (+36.87), league median 116.51.** Record **5-4**, 1144.09 PF, 6th of 12. Week 10 opponent: **Two Dumb Jaylens** (6-3, 1120.12 PF, 3rd). Waiver position **#7** (digest 2026-11-10 11:02 UTC; the Wk 9 win moved me up from #12); it drifts, so re-read it every run.
-- Roster (14), 2026-11-10 digest: QB Daniels, Willis [Q]; RB Irving, B. Allen, Sampson; WR Lamb, Nacua [Q], Tucker, A. Mitchell, Flournoy; TE Pitts, Kincaid; K Bass; DEF Tampa Bay. Holes: none; QB two deep. No transactions by me outside the Tuesday claims in Wk 9.
+- **Week 9 final: won 154.61 to Sea Squirts 117.74 (+36.87), league median 116.51.** Record **5-4**, 1144.09 PF, 6th of 12. Week 10 opponent: **Two Dumb Jaylens** (6-3, 1120.12 PF, 3rd). Waiver position **#7** (digest 2026-11-10 23:03 UTC, unchanged since 11:02; the Wk 9 win moved me up from #12); it drifts, so re-read it every run.
+- Roster (14), 2026-11-10 23:03 digest: QB Daniels, Willis [**IR**, groin]; RB Irving, B. Allen, Sampson; WR Lamb, Nacua [Q], Tucker, A. Mitchell, Flournoy; TE Pitts, Kincaid; K Bass; DEF Tampa Bay. **Wk 10 hole: DEF is empty** (TB bye) and Irving is out, so RB2 is Sampson until a claim clears. No transactions by me outside the Tuesday claims in Wk 9.
 - Wk 9 nine scored: Nacua 32.5, Lamb 30.0, Irving 28.5, TB 16.25, Daniels 14.56, Bass 14.1, Tucker 9.0, Allen 5.9, Pitts 3.8. Bench: Flournoy 7.3, Sampson 7.3, Kincaid 5.3, Willis 3.82, Mitchell 0.0.
 - **Waiver processing: measured 3:13-3:14 AM ET, not settled.** Sep 16 3:14:05, Sep 23 3:13:21, Sep 30 3:13:34, Oct 7 3:13:32, Oct 14 3:14:06, Oct 21 3:14:21, Oct 28 3:13:58, Nov 4 3:14:41 (first post-DST clear, same wall-clock time; Wk 9 claims filed under leg 8). Eight weeks, 3:13:21 to 3:14:41, 3:13 (x4) / 3:14 (x4); no to-the-minute rule, so every waiver Do by says **3:00 AM ET**.
 - Chat targets used: Wk1 Three Wise Jaylens, Wk2 CorneliusJones, Wk3 Lost in the Land of Love, Princess Donut's Court (Wk 3 Mon), Playful Secrets (Wk 4 Mon), Sea Squirts (Wk 5 Mon), TheTroubles (Wk 6 Mon), What can Brown do for u? (Wk 7 Mon), The Wizard's Apprentice (Wk 8 Mon), Lost in the Land of Love (Wk 9 Mon, a repeat of Wk 3).
 
 ## Open threads
-- **Wk 10 Tampa Bay is on bye** (Irving and the TB defense both). Green Bay DEF is the streaming target; unwinds when the Wk 10 file names a defense. Willis and Nacua are Questionable in the 2026-11-10 digest; re-read Friday.
+- **Wk 10 byes: CHI, DEN, PHI, TB** (Sleeper schedule endpoint). Irving and the TB defense are both out; Nacua still Questionable, re-read Friday.
+- **Wk 10 claims filed, 5 at waiver #7:** GB DEF / Willis (backup IND), Estime / Sampson (backup Rodriguez), Douglas / A. Mitchell. All unwind Wed ~3:14 AM when waivers process; `notes.yml` carries five new lines, orphans for any claim that fails.
+- **Two defenses for one week**, a deliberate exception to Thesis 6: TB (20.62 a game) sits its bye while the GB stream starts. Unwinds when GB is dropped after Wk 10 and TB resumes.
+- **Willis on IR (groin), no IR slot.** He is the drop in claims 1 and 4; if both fail he is still a dead spot and goes as a free-agent drop. Closes when he leaves the roster.
 - **Wk 10 is Two Dumb Jaylens (6-3, 3rd).** No trade or hedge open; waiver #7.
 - **TE: Pitts 3.8 vs Kincaid 5.3 in Wk 9 (Pitts 1.6 vs 18.1 in Wk 8).** Decide on measured touches and Friday status (Lesson 3); a coin flip either way, not a roster hole.
 - **Trades are opt-in** (see Process changes). Wk 5-9 scans: NO ACTION. SpaceElf is not buying again.
