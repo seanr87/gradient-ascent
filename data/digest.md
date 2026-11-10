@@ -1,5 +1,5 @@
 # Sleeper digest — The Climb
-Pulled: 2026-11-10 11:02 UTC · NFL week 10 (regular)
+Pulled: 2026-11-10 12:32 UTC · NFL week 10 (regular)
 
 ## My roster
 - Tre Tucker (WR-LV) (STARTER)
@@ -51,30 +51,30 @@ Pulled: 2026-11-10 11:02 UTC · NFL week 10 (regular)
 - Playful Secrets 132.00 — The Butker Jihad 115.28
 
 ## Trending adds (24h, all Sleeper)
-- Tank Dell (WR-HOU) — 1,187,480 adds
-- Corey Kiner (RB-NE) — 722,436 adds
-- Konata Mumpfield (WR-LAR) — 667,845 adds
-- Audric Estime (RB-NO) — 278,634 adds
-- Darren Waller (TE-CAR) — 222,786 adds
-- Jordan Watkins (WR-SF) — 150,688 adds
-- Tutu Atwell (WR-LAR) — 131,145 adds
-- C.J. Stroud (QB-HOU) — 116,669 adds
-- Pat Bryant (WR-DEN) — 114,264 adds
-- Seth McGowan (RB-IND) — 102,104 adds
-- Caleb Douglas (WR-MIA) — 98,104 adds
-- Justice Hill (RB-BAL) — 94,815 adds
-- Pierre Strong Jr. (RB-GB) — 89,235 adds
-- Baltimore Ravens (DEF-BAL) — 73,632 adds
-- Jacksonville Jaguars (DEF-JAX) — 63,984 adds
-- Shedeur Sanders (QB-CLE) — 63,512 adds
-- Ryan Flournoy (WR-DAL) — 59,512 adds
-- Tyler Higbee (TE-LAR) — 59,112 adds
-- Jordyn Tyson (WR-NO) — 57,264 adds
-- DJ Uiagalelei (QB-LAC) — 51,282 adds
-- Bryce Young (QB-CAR) — 49,040 adds
-- Tyler Shough (QB-NO) — 48,288 adds
-- Omar Cooper Jr. (WR-NYJ) — 48,256 adds
-- Jadarian Price (RB-SEA) — 47,502 adds
-- Tampa Bay Buccaneers (DEF-TB) — 45,630 adds
+- Tank Dell (WR-HOU) — 1,265,784 adds
+- Corey Kiner (RB-NE) — 805,464 adds
+- Konata Mumpfield (WR-LAR) — 750,825 adds
+- Audric Estime (RB-NO) — 298,320 adds
+- Darren Waller (TE-CAR) — 253,872 adds
+- Jordan Watkins (WR-SF) — 163,720 adds
+- Tutu Atwell (WR-LAR) — 148,477 adds
+- C.J. Stroud (QB-HOU) — 123,921 adds
+- Pat Bryant (WR-DEN) — 121,712 adds
+- Justice Hill (RB-BAL) — 112,059 adds
+- Seth McGowan (RB-IND) — 108,432 adds
+- Caleb Douglas (WR-MIA) — 107,392 adds
+- Pierre Strong Jr. (RB-GB) — 104,967 adds
+- Baltimore Ravens (DEF-BAL) — 96,804 adds
+- Jordyn Tyson (WR-NO) — 77,896 adds
+- Jacksonville Jaguars (DEF-JAX) — 75,552 adds
+- Tyler Higbee (TE-LAR) — 72,099 adds
+- Shedeur Sanders (QB-CLE) — 67,208 adds
+- Tyler Shough (QB-NO) — 63,320 adds
+- Ryan Flournoy (WR-DAL) — 62,544 adds
+- DJ Uiagalelei (QB-LAC) — 57,753 adds
+- Green Bay Packers (DEF-GB) — 57,128 adds
+- Bryce Young (QB-CAR) — 56,100 adds
+- Jadarian Price (RB-SEA) — 52,848 adds
+- Jake Bates (K-DET) — 52,392 adds
 
 ## League transactions this week
