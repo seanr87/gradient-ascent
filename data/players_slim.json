@@ -2308,8 +2308,8 @@
   "pos": "WR",
   "team": "NYG",
   "status": "Active",
-  "injury_status": null,
-  "injury_note": null
+  "injury_status": "Questionable",
+  "injury_note": "Thumb"
  },
  "4026": {
   "name": "DeShone Kizer",
@@ -4228,8 +4228,8 @@
   "pos": "WR",
   "team": null,
   "status": "Active",
-  "injury_status": "Questionable",
-  "injury_note": "Undisclosed"
+  "injury_status": null,
+  "injury_note": null
  },
  "8409": {
   "name": "Tyler Snead",
@@ -4315,8 +4315,8 @@
   "name": "Demond Claiborne",
   "pos": "RB",
   "team": "MIN",
-  "status": "Active",
-  "injury_status": "Out",
+  "status": "Inactive",
+  "injury_status": "IR",
   "injury_note": "Knee"
  },
  "11591": {
@@ -4676,8 +4676,8 @@
   "pos": "WR",
   "team": "ARI",
   "status": "Active",
-  "injury_status": null,
-  "injury_note": null
+  "injury_status": "Out",
+  "injury_note": "Neck"
  },
  "1237": {
   "name": "Dominique Davis",
@@ -5442,7 +5442,7 @@
  "260": {
   "name": "Josh Johnson",
   "pos": "QB",
-  "team": "CIN",
+  "team": "ARI",
   "status": "Active",
   "injury_status": null,
   "injury_note": null
@@ -5748,7 +5748,7 @@
   "pos": "TE",
   "team": "DAL",
   "status": "Active",
-  "injury_status": "Questionable",
+  "injury_status": "Out",
   "injury_note": "Knee"
  },
  "5834": {
@@ -11475,7 +11475,7 @@
   "name": "Puka Nacua",
   "pos": "WR",
   "team": "LAR",
-  "status": "Active",
+  "status": "Inactive",
   "injury_status": "Questionable",
   "injury_note": "Knee"
  },
@@ -16028,8 +16028,8 @@
   "pos": "TE",
   "team": null,
   "status": "Inactive",
-  "injury_status": "Questionable",
-  "injury_note": "Knee"
+  "injury_status": null,
+  "injury_note": null
  },
  "243": {
   "name": "Ben Obomanu",
@@ -16108,7 +16108,7 @@
   "pos": "RB",
   "team": "DAL",
   "status": "Active",
-  "injury_status": "Questionable",
+  "injury_status": "Out",
   "injury_note": "Knee"
  },
  "247": {
@@ -17828,8 +17828,8 @@
   "pos": "WR",
   "team": "NYG",
   "status": "Active",
-  "injury_status": null,
-  "injury_note": null
+  "injury_status": "Questionable",
+  "injury_note": "Chest"
  },
  "2200": {
   "name": "Timothy Flanders",
@@ -23627,8 +23627,8 @@
   "name": "Joshua Palmer",
   "pos": "WR",
   "team": "BUF",
-  "status": "Active",
-  "injury_status": "Out",
+  "status": "Inactive",
+  "injury_status": "IR",
   "injury_note": "Hamstring"
  },
  "7035": {
@@ -24220,8 +24220,8 @@
   "pos": "QB",
   "team": "MIA",
   "status": "Active",
-  "injury_status": null,
-  "injury_note": null
+  "injury_status": "Questionable",
+  "injury_note": "Groin"
  },
  "5201": {
   "name": "Terry Swanson",
@@ -24356,8 +24356,8 @@
   "pos": "QB",
   "team": "ARI",
   "status": "Active",
-  "injury_status": null,
-  "injury_note": null
+  "injury_status": "Questionable",
+  "injury_note": "Elbow"
  },
  "822": {
   "name": "Tandon Doss",
@@ -25100,8 +25100,8 @@
   "pos": "TE",
   "team": "WAS",
   "status": "Active",
-  "injury_status": null,
-  "injury_note": null
+  "injury_status": "Questionable",
+  "injury_note": "Knee"
  },
  "13436": {
   "name": "Kentrel Bullock",
@@ -27684,8 +27684,8 @@
   "pos": "TE",
   "team": null,
   "status": "Active",
-  "injury_status": "Questionable",
-  "injury_note": "Undisclosed"
+  "injury_status": null,
+  "injury_note": null
  },
  "5096": {
   "name": "Ray-Ray McCloud",
@@ -27740,8 +27740,8 @@
   "pos": "WR",
   "team": "BUF",
   "status": "Active",
-  "injury_status": null,
-  "injury_note": null
+  "injury_status": "Out",
+  "injury_note": "Coach's Decision"
  },
  "8127": {
   "name": "Charlie Kolar",
@@ -30612,8 +30612,8 @@
   "pos": "TE",
   "team": "WAS",
   "status": "Active",
-  "injury_status": null,
-  "injury_note": null
+  "injury_status": "Questionable",
+  "injury_note": "Hip"
  },
  "6151": {
   "name": "Miles Sanders",
@@ -31100,8 +31100,8 @@
   "pos": "RB",
   "team": "GB",
   "status": "Active",
-  "injury_status": "Questionable",
-  "injury_note": "Hand"
+  "injury_status": "Out",
+  "injury_note": "Finger"
  },
  "5804": {
   "name": "Julian Williams",
@@ -32796,8 +32796,8 @@
   "pos": "TE",
   "team": null,
   "status": "Inactive",
-  "injury_status": "Questionable",
-  "injury_note": "Undisclosed"
+  "injury_status": null,
+  "injury_note": null
  },
  "2217": {
   "name": "Robert Herron",
