@@ -1,5 +1,5 @@
 # Sleeper digest — The Climb
-Pulled: 2026-11-10 04:36 UTC · NFL week 9 (regular)
+Pulled: 2026-11-10 11:02 UTC · NFL week 10 (regular)
 
 ## My roster
 - Tre Tucker (WR-LV) (STARTER)
@@ -18,23 +18,31 @@ Pulled: 2026-11-10 04:36 UTC · NFL week 9 (regular)
 - Tampa Bay Buccaneers (DEF-TB) (STARTER)
 
 ## My matchup this week
-- Opponent: Sea Squirts
+- Opponent: Two Dumb Jaylens 
 
 ## Standings (W-L, points for)
-1. Umojan Protectorate — 6-2, 1039.30 PF, waiver #9
-2. Sea Squirts — 5-3, 1083.63 PF, waiver #8
-3. Princess Donut's Court — 5-3, 1016.69 PF, waiver #6
-4. The Butker Jihad — 5-3, 1003.12 PF, waiver #5
-5. Playful Secrets — 5-3, 985.31 PF, waiver #10
-6. Two Dumb Jaylens  — 5-3, 971.94 PF, waiver #4
-7. Gradient Ascent — 4-4, 989.48 PF, waiver #11
-8. CorneliusJones — 4-4, 892.21 PF, waiver #3
-9. Lost in the Land of Love — 3-5, 876.70 PF, waiver #7
-10. What can Brown do for u? — 2-6, 942.79 PF, waiver #2
-11. The Wizard’s Apprentice — 2-6, 939.74 PF, waiver #1
-12. TheTroubles — 2-6, 798.87 PF, waiver #12
+1. Umojan Protectorate — 7-2, 1157.65 PF, waiver #12
+2. Princess Donut's Court — 6-3, 1126.40 PF, waiver #11
+3. Two Dumb Jaylens  — 6-3, 1120.12 PF, waiver #10
+4. Playful Secrets — 6-3, 1117.31 PF, waiver #9
+5. Sea Squirts — 5-4, 1201.37 PF, waiver #8
+6. Gradient Ascent — 5-4, 1144.09 PF, waiver #7
+7. The Butker Jihad — 5-4, 1118.40 PF, waiver #6
+8. CorneliusJones — 4-5, 983.12 PF, waiver #5
+9. The Wizard’s Apprentice — 3-6, 1084.29 PF, waiver #4
+10. Lost in the Land of Love — 3-6, 980.98 PF, waiver #3
+11. What can Brown do for u? — 2-7, 1030.21 PF, waiver #2
+12. TheTroubles — 2-7, 881.23 PF, waiver #1
 
-## This week's matchups (week 9)
+## This week's matchups (week 10)
+- Sea Squirts 0.00 — Princess Donut's Court 0.00
+- What can Brown do for u? 0.00 — CorneliusJones 0.00
+- Gradient Ascent 0.00 — Two Dumb Jaylens  0.00
+- Umojan Protectorate 0.00 — The Wizard’s Apprentice 0.00
+- The Butker Jihad 0.00 — TheTroubles 0.00
+- Lost in the Land of Love 0.00 — Playful Secrets 0.00
+
+## Last week's results (week 9)
 - Princess Donut's Court 109.71 — What can Brown do for u? 87.42
 - Gradient Ascent 154.61 — Sea Squirts 117.74
 - The Wizard’s Apprentice 144.55 — CorneliusJones 90.91
@@ -42,56 +50,31 @@ Pulled: 2026-11-10 04:36 UTC · NFL week 9 (regular)
 - Umojan Protectorate 118.35 — Lost in the Land of Love 104.28
 - Playful Secrets 132.00 — The Butker Jihad 115.28
 
-## Last week's results (week 8)
-- Gradient Ascent 131.63 — Princess Donut's Court 87.61
-- The Wizard’s Apprentice 153.70 — What can Brown do for u? 146.48
-- Sea Squirts 168.78 — TheTroubles 145.76
-- Lost in the Land of Love 119.52 — CorneliusJones 66.76
-- Two Dumb Jaylens  112.97 — Playful Secrets 72.90
-- Umojan Protectorate 129.70 — The Butker Jihad 109.95
-
 ## Trending adds (24h, all Sleeper)
-- Tank Dell (WR-HOU) — 979,360 adds
-- Corey Kiner (RB-NE) — 479,502 adds
-- Konata Mumpfield (WR-LAR) — 433,917 adds
-- Audric Estime (RB-NO) — 233,091 adds
-- Darren Waller (TE-CAR) — 144,864 adds
-- Jordan Watkins (WR-SF) — 114,096 adds
-- C.J. Stroud (QB-HOU) — 98,210 adds
-- Pat Bryant (WR-DEN) — 89,384 adds
-- Tutu Atwell (WR-LAR) — 81,417 adds
-- Seth McGowan (RB-IND) — 79,688 adds
-- Caleb Douglas (WR-MIA) — 71,288 adds
-- Justice Hill (RB-BAL) — 59,958 adds
-- Shedeur Sanders (QB-CLE) — 55,528 adds
-- Ryan Flournoy (WR-DAL) — 51,744 adds
-- Pierre Strong Jr. (RB-GB) — 48,429 adds
-- Tampa Bay Buccaneers (DEF-TB) — 42,385 adds
-- Carson Wentz (QB-MIN) — 41,286 adds
-- Omar Cooper Jr. (WR-NYJ) — 41,232 adds
-- Jacksonville Jaguars (DEF-JAX) — 40,530 adds
-- Devin Singletary (RB-NYG) — 38,925 adds
-- Jadarian Price (RB-SEA) — 35,892 adds
-- Khalil Shakir (WR-BUF) — 33,318 adds
-- KC Concepcion Jr. (WR-CLE) [Questionable] — 33,174 adds
-- DJ Uiagalelei (QB-LAC) — 32,220 adds
-- Bryce Young (QB-CAR) — 31,684 adds
+- Tank Dell (WR-HOU) — 1,187,480 adds
+- Corey Kiner (RB-NE) — 722,436 adds
+- Konata Mumpfield (WR-LAR) — 667,845 adds
+- Audric Estime (RB-NO) — 278,634 adds
+- Darren Waller (TE-CAR) — 222,786 adds
+- Jordan Watkins (WR-SF) — 150,688 adds
+- Tutu Atwell (WR-LAR) — 131,145 adds
+- C.J. Stroud (QB-HOU) — 116,669 adds
+- Pat Bryant (WR-DEN) — 114,264 adds
+- Seth McGowan (RB-IND) — 102,104 adds
+- Caleb Douglas (WR-MIA) — 98,104 adds
+- Justice Hill (RB-BAL) — 94,815 adds
+- Pierre Strong Jr. (RB-GB) — 89,235 adds
+- Baltimore Ravens (DEF-BAL) — 73,632 adds
+- Jacksonville Jaguars (DEF-JAX) — 63,984 adds
+- Shedeur Sanders (QB-CLE) — 63,512 adds
+- Ryan Flournoy (WR-DAL) — 59,512 adds
+- Tyler Higbee (TE-LAR) — 59,112 adds
+- Jordyn Tyson (WR-NO) — 57,264 adds
+- DJ Uiagalelei (QB-LAC) — 51,282 adds
+- Bryce Young (QB-CAR) — 49,040 adds
+- Tyler Shough (QB-NO) — 48,288 adds
+- Omar Cooper Jr. (WR-NYJ) — 48,256 adds
+- Jadarian Price (RB-SEA) — 47,502 adds
+- Tampa Bay Buccaneers (DEF-TB) — 45,630 adds
 
 ## League transactions this week
-- free_agent (complete) Lost in the Land of Love: +[Wan'Dale Robinson (WR-TEN)] -[Michael Wilson (WR-ARI) [Out]]
-- free_agent (complete) Lost in the Land of Love: +[Los Angeles Rams (DEF-LAR)] -[Mike Gesicki (TE-CIN)]
-- free_agent (complete) Princess Donut's Court: +[Jordan Addison (WR-MIN)] -[Jacoby Brissett (QB-BAL)]
-- free_agent (complete) Princess Donut's Court: +[Detroit Lions (DEF-DET)] -[Jacory Croskey-Merritt (RB-WAS) [IR]]
-- free_agent (complete) What can Brown do for u?: +[New York Giants (DEF-NYG)] -[Las Vegas Raiders (DEF-LV)]
-- free_agent (complete) Umojan Protectorate: +[Drew Lock (QB-SEA) [Questionable]] -[T.J. Hockenson (TE-MIN)]
-- trade (complete) Lost in the Land of Love, Playful Secrets: +[Kyle Monangai (RB-CHI) [Out], Devin Singletary (RB-NYG)] -[Kyle Monangai (RB-CHI) [Out], Devin Singletary (RB-NYG)]
-- free_agent (complete) Lost in the Land of Love: +[Mike Gesicki (TE-CIN)] -[Chris Rodriguez Jr. (RB-JAX)]
-- waiver (failed) What can Brown do for u?: +[Kansas City Chiefs (DEF-KC)] -[]
-- free_agent (complete) Umojan Protectorate: +[Tank Dell (WR-HOU)] -[Makai Lemon (WR-PHI)]
-- waiver (complete) TheTroubles: +[Kansas City Chiefs (DEF-KC)] -[Najee Harris (RB-None)]
-- free_agent (complete) Playful Secrets: +[Deebo Samuel Sr. (WR-SF) [Out]] -[Xavier Worthy (WR-KC) [Out]]
-- free_agent (complete) Lost in the Land of Love: +[Chris Rodriguez Jr. (RB-JAX)] -[Sam Darnold (QB-SEA) [Out]]
-- free_agent (complete) Two Dumb Jaylens : +[San Francisco 49ers (DEF-SF)] -[Washington Commanders (DEF-WAS)]
-- free_agent (complete) The Wizard’s Apprentice: +[New Orleans Saints (DEF-NO)] -[San Francisco 49ers (DEF-SF)]
-- free_agent (complete) The Wizard’s Apprentice: +[San Francisco 49ers (DEF-SF)] -[Jacksonville Jaguars (DEF-JAX)]
-- free_agent (complete) Playful Secrets: +[Seattle Seahawks (DEF-SEA)] -[Kansas City Chiefs (DEF-KC)]
