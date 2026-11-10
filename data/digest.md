@@ -1,5 +1,5 @@
 # Sleeper digest — The Climb
-Pulled: 2026-11-10 01:11 UTC · NFL week 9 (regular)
+Pulled: 2026-11-10 04:36 UTC · NFL week 9 (regular)
 
 ## My roster
 - Tre Tucker (WR-LV) (STARTER)
@@ -36,11 +36,11 @@ Pulled: 2026-11-10 01:11 UTC · NFL week 9 (regular)
 
 ## This week's matchups (week 9)
 - Princess Donut's Court 109.71 — What can Brown do for u? 87.42
-- Gradient Ascent 140.51 — Sea Squirts 117.74
-- The Wizard’s Apprentice 125.85 — CorneliusJones 85.21
-- Two Dumb Jaylens  148.18 — TheTroubles 61.90
+- Gradient Ascent 154.61 — Sea Squirts 117.74
+- The Wizard’s Apprentice 144.55 — CorneliusJones 90.91
+- Two Dumb Jaylens  148.18 — TheTroubles 82.36
 - Umojan Protectorate 118.35 — Lost in the Land of Love 104.28
-- Playful Secrets 132.00 — The Butker Jihad 86.88
+- Playful Secrets 132.00 — The Butker Jihad 115.28
 
 ## Last week's results (week 8)
 - Gradient Ascent 131.63 — Princess Donut's Court 87.61
@@ -51,31 +51,31 @@ Pulled: 2026-11-10 01:11 UTC · NFL week 9 (regular)
 - Umojan Protectorate 129.70 — The Butker Jihad 109.95
 
 ## Trending adds (24h, all Sleeper)
-- Tank Dell (WR-HOU) — 865,760 adds
-- Corey Kiner (RB-NE) — 316,908 adds
-- Konata Mumpfield (WR-LAR) — 279,306 adds
-- Audric Estime (RB-NO) — 219,594 adds
-- Darren Waller (TE-CAR) — 128,565 adds
-- Jordan Watkins (WR-SF) — 99,320 adds
-- C.J. Stroud (QB-HOU) — 94,248 adds
-- Pat Bryant (WR-DEN) — 77,464 adds
-- Seth McGowan (RB-IND) — 70,392 adds
-- Caleb Douglas (WR-MIA) — 60,488 adds
-- Tutu Atwell (WR-LAR) — 56,259 adds
-- Justice Hill (RB-BAL) — 55,404 adds
-- Shedeur Sanders (QB-CLE) — 52,424 adds
-- Carson Wentz (QB-MIN) — 49,668 adds
-- Ryan Flournoy (WR-DAL) — 45,480 adds
-- Tampa Bay Buccaneers (DEF-TB) — 38,610 adds
-- Devin Singletary (RB-NYG) — 37,845 adds
-- Omar Cooper Jr. (WR-NYJ) — 35,096 adds
-- Pierre Strong Jr. (RB-GB) — 34,929 adds
-- Jordan Addison (WR-MIN) — 34,308 adds
-- Jadarian Price (RB-SEA) — 34,209 adds
-- Jacksonville Jaguars (DEF-JAX) — 34,182 adds
-- Ty Johnson (RB-BUF) — 32,916 adds
-- Khalil Shakir (WR-BUF) — 32,238 adds
-- KC Concepcion Jr. (WR-CLE) [Questionable] — 30,771 adds
+- Tank Dell (WR-HOU) — 979,360 adds
+- Corey Kiner (RB-NE) — 479,502 adds
+- Konata Mumpfield (WR-LAR) — 433,917 adds
+- Audric Estime (RB-NO) — 233,091 adds
+- Darren Waller (TE-CAR) — 144,864 adds
+- Jordan Watkins (WR-SF) — 114,096 adds
+- C.J. Stroud (QB-HOU) — 98,210 adds
+- Pat Bryant (WR-DEN) — 89,384 adds
+- Tutu Atwell (WR-LAR) — 81,417 adds
+- Seth McGowan (RB-IND) — 79,688 adds
+- Caleb Douglas (WR-MIA) — 71,288 adds
+- Justice Hill (RB-BAL) — 59,958 adds
+- Shedeur Sanders (QB-CLE) — 55,528 adds
+- Ryan Flournoy (WR-DAL) — 51,744 adds
+- Pierre Strong Jr. (RB-GB) — 48,429 adds
+- Tampa Bay Buccaneers (DEF-TB) — 42,385 adds
+- Carson Wentz (QB-MIN) — 41,286 adds
+- Omar Cooper Jr. (WR-NYJ) — 41,232 adds
+- Jacksonville Jaguars (DEF-JAX) — 40,530 adds
+- Devin Singletary (RB-NYG) — 38,925 adds
+- Jadarian Price (RB-SEA) — 35,892 adds
+- Khalil Shakir (WR-BUF) — 33,318 adds
+- KC Concepcion Jr. (WR-CLE) [Questionable] — 33,174 adds
+- DJ Uiagalelei (QB-LAC) — 32,220 adds
+- Bryce Young (QB-CAR) — 31,684 adds
 
 ## League transactions this week
 - free_agent (complete) Lost in the Land of Love: +[Wan'Dale Robinson (WR-TEN)] -[Michael Wilson (WR-ARI) [Out]]
