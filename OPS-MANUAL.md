@@ -43,7 +43,7 @@
 | K | Tyler Bass | Wk 7 (waiver claim) |
 | DEF | Tampa Bay | Wk 7 (waiver claim) |
 | BN | Chris Rodriguez Jr. | Wk 9 (waiver claim) |
-| BN | Adonai Mitchell | Wk 8 (waiver claim) |
+| BN | Konata Mumpfield | Wk 10 (free agent) |
 | BN | Ryan Flournoy | Wk 8 (waiver claim) |
 | BN | Dalton Kincaid | Draft (R7, pick 79) |
 | BN | Green Bay | Wk 9 (waiver claim) |
