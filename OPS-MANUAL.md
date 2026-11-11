@@ -42,11 +42,11 @@
 | TE | Kyle Pitts Sr. | Wk 7 (waiver claim) |
 | K | Tyler Bass | Wk 7 (waiver claim) |
 | DEF | Tampa Bay | Wk 7 (waiver claim) |
-| BN | Malik Willis | Wk 8 (waiver claim) |
-| BN | Dylan Sampson | Wk 8 (waiver claim) |
+| BN | Chris Rodriguez Jr. | Wk 9 (waiver claim) |
 | BN | Adonai Mitchell | Wk 8 (waiver claim) |
 | BN | Ryan Flournoy | Wk 8 (waiver claim) |
 | BN | Dalton Kincaid | Draft (R7, pick 79) |
+| BN | Green Bay | Wk 9 (waiver claim) |
 <!-- ROSTER:END -->
 
 *The digest in the repo is the source of truth if it disagrees with this table — update this table when the roster changes.*

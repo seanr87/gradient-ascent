@@ -1,36 +1,36 @@
 # Sleeper digest — The Climb
-Pulled: 2026-11-11 07:06 UTC · NFL week 10 (regular)
+Pulled: 2026-11-11 14:23 UTC · NFL week 10 (regular)
 
 ## My roster
 - Tre Tucker (WR-LV) (STARTER)
+- Chris Rodriguez Jr. (RB-JAX)
 - Dalton Kincaid (TE-BUF)
 - Jayden Daniels (QB-WAS) (STARTER)
 - Braelon Allen (RB-NYJ) (STARTER)
 - Bucky Irving (RB-TB) (STARTER)
 - Adonai Mitchell (WR-NYJ)
 - Ryan Flournoy (WR-DAL)
-- Dylan Sampson (RB-CLE)
 - CeeDee Lamb (WR-DAL) (STARTER)
 - Tyler Bass (K-BUF) (STARTER)
 - Kyle Pitts Sr. (TE-ATL) (STARTER)
-- Malik Willis (QB-MIA) [IR]
-- Puka Nacua (WR-LAR) [Questionable] (STARTER)
+- Puka Nacua (WR-LAR) [Doubtful] (STARTER)
+- Green Bay Packers (DEF-GB)
 - Tampa Bay Buccaneers (DEF-TB) (STARTER)
 
 ## My matchup this week
 - Opponent: Two Dumb Jaylens 
 
 ## Standings (W-L, points for)
-1. Umojan Protectorate — 7-2, 1157.65 PF, waiver #12
-2. Princess Donut's Court — 6-3, 1126.40 PF, waiver #11
-3. Two Dumb Jaylens  — 6-3, 1120.12 PF, waiver #10
-4. Playful Secrets — 6-3, 1117.31 PF, waiver #9
-5. Sea Squirts — 5-4, 1201.37 PF, waiver #8
-6. Gradient Ascent — 5-4, 1144.09 PF, waiver #7
-7. The Butker Jihad — 5-4, 1118.40 PF, waiver #6
-8. CorneliusJones — 4-5, 983.12 PF, waiver #5
-9. The Wizard’s Apprentice — 3-6, 1084.29 PF, waiver #4
-10. Lost in the Land of Love — 3-6, 980.98 PF, waiver #3
+1. Umojan Protectorate — 7-2, 1157.65 PF, waiver #8
+2. Princess Donut's Court — 6-3, 1126.40 PF, waiver #5
+3. Two Dumb Jaylens  — 6-3, 1120.12 PF, waiver #4
+4. Playful Secrets — 6-3, 1117.31 PF, waiver #7
+5. Sea Squirts — 5-4, 1201.37 PF, waiver #6
+6. Gradient Ascent — 5-4, 1144.09 PF, waiver #12
+7. The Butker Jihad — 5-4, 1118.40 PF, waiver #3
+8. CorneliusJones — 4-5, 983.12 PF, waiver #11
+9. The Wizard’s Apprentice — 3-6, 1084.29 PF, waiver #10
+10. Lost in the Land of Love — 3-6, 980.98 PF, waiver #9
 11. What can Brown do for u? — 2-7, 1030.21 PF, waiver #2
 12. TheTroubles — 2-7, 881.23 PF, waiver #1
 
@@ -51,30 +51,31 @@ Pulled: 2026-11-11 07:06 UTC · NFL week 10 (regular)
 - Playful Secrets 132.00 — The Butker Jihad 115.28
 
 ## Trending adds (24h, all Sleeper)
-- Corey Kiner (RB-NE) — 3,684,420 adds
-- Tank Dell (WR-HOU) — 2,460,960 adds
-- Konata Mumpfield (WR-LAR) — 2,314,314 adds
-- Fernando Mendoza (QB-LV) — 1,016,432 adds
-- Audric Estime (RB-NO) — 850,566 adds
-- Darren Waller (TE-CAR) — 839,583 adds
-- Tutu Atwell (WR-LAR) — 767,396 adds
-- Kyle McCord (QB-MIA) — 626,416 adds
-- Baltimore Ravens (DEF-BAL) — 501,942 adds
-- Pierre Strong Jr. (RB-GB) — 443,763 adds
-- Tyler Higbee (TE-LAR) — 348,768 adds
-- Justice Hill (RB-BAL) — 317,700 adds
-- Jordan Watkins (WR-SF) — 310,728 adds
-- Ashton Dulin (WR-IND) — 291,366 adds
-- Aaron Rodgers (QB-PIT) — 257,200 adds
-- Demarcus Robinson (WR-SF) — 252,648 adds
-- Pat Bryant (WR-DEN) — 252,336 adds
-- Jake Bates (K-DET) — 238,368 adds
-- C.J. Stroud (QB-HOU) — 237,104 adds
-- Josh Downs (WR-KC) — 232,625 adds
-- Jacksonville Jaguars (DEF-JAX) — 221,532 adds
-- Caleb Douglas (WR-MIA) — 210,624 adds
-- Green Bay Packers (DEF-GB) — 206,171 adds
-- Tyler Shough (QB-NO) — 197,392 adds
-- Bryce Young (QB-CAR) — 183,456 adds
+- Corey Kiner (RB-NE) — 3,822,360 adds
+- Konata Mumpfield (WR-LAR) — 2,465,451 adds
+- Tank Dell (WR-HOU) — 2,357,944 adds
+- Fernando Mendoza (QB-LV) — 1,179,248 adds
+- Tutu Atwell (WR-LAR) — 991,270 adds
+- Audric Estime (RB-NO) — 949,545 adds
+- Darren Waller (TE-CAR) — 935,190 adds
+- Kyle McCord (QB-MIA) — 742,876 adds
+- Baltimore Ravens (DEF-BAL) — 578,763 adds
+- Pierre Strong Jr. (RB-GB) — 496,233 adds
+- Ashton Dulin (WR-IND) — 440,622 adds
+- Tyler Higbee (TE-LAR) — 404,181 adds
+- Justice Hill (RB-BAL) — 342,180 adds
+- Jake Bates (K-DET) — 307,560 adds
+- Jordan Watkins (WR-SF) — 300,112 adds
+- Aaron Rodgers (QB-PIT) — 296,320 adds
+- Demarcus Robinson (WR-SF) — 290,484 adds
+- Pat Bryant (WR-DEN) — 268,456 adds
+- Indianapolis Colts (DEF-IND) — 263,187 adds
+- Josh Downs (WR-KC) — 260,850 adds
+- C.J. Stroud (QB-HOU) — 243,551 adds
+- Tyler Bass (K-BUF) — 230,800 adds
+- Jordan Addison (WR-MIN) — 230,346 adds
+- Jacksonville Jaguars (DEF-JAX) — 225,396 adds
+- Caleb Douglas (WR-MIA) — 210,016 adds
 
 ## League transactions this week
+- free_agent (complete) Lost in the Land of Love: +[Bryce Young (QB-CAR)] -[Devin Singletary (RB-NYG)]

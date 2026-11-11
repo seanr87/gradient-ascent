@@ -30,7 +30,7 @@
   player: "Puka Nacua"
   pos: "WR"
   team: "LAR"
-  status: "Questionable"
+  status: "Doubtful"
   acquired: "Draft"
   acquired_via: "R1, pick 7"
   acquired_week: 0
@@ -75,22 +75,14 @@
   acquired_via: "waiver claim"
   acquired_week: 7
 - slot: "BN1"
-  player: "Malik Willis"
-  pos: "QB"
-  team: "MIA"
-  status: "IR"
-  acquired: "Wk 8"
-  acquired_via: "waiver claim"
-  acquired_week: 8
-- slot: "BN2"
-  player: "Dylan Sampson"
+  player: "Chris Rodriguez Jr."
   pos: "RB"
-  team: "CLE"
+  team: "JAX"
   status: ""
-  acquired: "Wk 8"
+  acquired: "Wk 9"
   acquired_via: "waiver claim"
-  acquired_week: 8
-- slot: "BN3"
+  acquired_week: 9
+- slot: "BN2"
   player: "Adonai Mitchell"
   pos: "WR"
   team: "NYJ"
@@ -98,7 +90,7 @@
   acquired: "Wk 8"
   acquired_via: "waiver claim"
   acquired_week: 8
-- slot: "BN4"
+- slot: "BN3"
   player: "Ryan Flournoy"
   pos: "WR"
   team: "DAL"
@@ -106,7 +98,7 @@
   acquired: "Wk 8"
   acquired_via: "waiver claim"
   acquired_week: 8
-- slot: "BN5"
+- slot: "BN4"
   player: "Dalton Kincaid"
   pos: "TE"
   team: "BUF"
@@ -114,3 +106,11 @@
   acquired: "Draft"
   acquired_via: "R7, pick 79"
   acquired_week: 0
+- slot: "BN5"
+  player: "Green Bay"
+  pos: "DEF"
+  team: "GB"
+  status: ""
+  acquired: "Wk 9"
+  acquired_via: "waiver claim"
+  acquired_week: 9
