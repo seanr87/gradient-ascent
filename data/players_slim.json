@@ -3684,8 +3684,8 @@
   "pos": "TE",
   "team": "MIN",
   "status": "Active",
-  "injury_status": null,
-  "injury_note": null
+  "injury_status": "Questionable",
+  "injury_note": "Wrist"
  },
  "3920": {
   "name": "Harvey Binford",
@@ -6204,8 +6204,8 @@
   "pos": "QB",
   "team": "KC",
   "status": "Active",
-  "injury_status": "Questionable",
-  "injury_note": "Elbow"
+  "injury_status": null,
+  "injury_note": null
  },
  "ARI": {
   "name": "Arizona Cardinals",
@@ -8268,8 +8268,8 @@
   "pos": "WR",
   "team": "JAX",
   "status": "Active",
-  "injury_status": null,
-  "injury_note": null
+  "injury_status": "Questionable",
+  "injury_note": "Ankle"
  },
  "11529": {
   "name": "Ed Lee",
@@ -9356,8 +9356,8 @@
   "pos": "WR",
   "team": "WAS",
   "status": "Active",
-  "injury_status": "Questionable",
-  "injury_note": "Foot"
+  "injury_status": null,
+  "injury_note": null
  },
  "7694": {
   "name": "Tommy Tremble",
@@ -9596,8 +9596,8 @@
   "pos": "WR",
   "team": "MIA",
   "status": "Active",
-  "injury_status": null,
-  "injury_note": null
+  "injury_status": "Questionable",
+  "injury_note": "Knee"
  },
  "7521": {
   "name": "Chris Blair",
@@ -10100,7 +10100,7 @@
   "pos": "WR",
   "team": null,
   "status": "Active",
-  "injury_status": "Questionable",
+  "injury_status": "",
   "injury_note": "Knee - ACL"
  },
  "8013": {
@@ -11476,7 +11476,7 @@
   "pos": "WR",
   "team": "LAR",
   "status": "Inactive",
-  "injury_status": "Doubtful",
+  "injury_status": "Out",
   "injury_note": "Knee - MCL"
  },
  "13149": {
@@ -14084,8 +14084,8 @@
   "pos": "RB",
   "team": "JAX",
   "status": "Active",
-  "injury_status": null,
-  "injury_note": null
+  "injury_status": "Questionable",
+  "injury_note": "Hand"
  },
  "4051": {
   "name": "Chad Kelly",
@@ -16148,8 +16148,8 @@
   "pos": "RB",
   "team": "JAX",
   "status": "Active",
-  "injury_status": null,
-  "injury_note": null
+  "injury_status": "Questionable",
+  "injury_note": "Ankle"
  },
  "1945": {
   "name": "Chris Boswell",
@@ -16700,8 +16700,8 @@
   "pos": "WR",
   "team": "KC",
   "status": "Active",
-  "injury_status": "Questionable",
-  "injury_note": "Hamstring"
+  "injury_status": null,
+  "injury_note": null
  },
  "11994": {
   "name": "Kameron Johnson",
@@ -17148,8 +17148,8 @@
   "pos": "QB",
   "team": "DET",
   "status": "Active",
-  "injury_status": null,
-  "injury_note": null
+  "injury_status": "Questionable",
+  "injury_note": "Chest"
  },
  "12891": {
   "name": "Jordan Bly",
@@ -19780,8 +19780,8 @@
   "pos": "WR",
   "team": "DET",
   "status": "Active",
-  "injury_status": null,
-  "injury_note": null
+  "injury_status": "Questionable",
+  "injury_note": "Ribs"
  },
  "11900": {
   "name": "Jacob Kibodi",
@@ -23948,8 +23948,8 @@
   "pos": "QB",
   "team": "MIN",
   "status": "Active",
-  "injury_status": null,
-  "injury_note": null
+  "injury_status": "Questionable",
+  "injury_note": "Ankle"
  },
  "188": {
   "name": "Eli Manning",
@@ -25100,7 +25100,7 @@
   "pos": "TE",
   "team": "WAS",
   "status": "Active",
-  "injury_status": "Questionable",
+  "injury_status": "Out",
   "injury_note": "Knee"
  },
  "13436": {
@@ -31788,8 +31788,8 @@
   "pos": "RB",
   "team": "MIA",
   "status": "Active",
-  "injury_status": "Questionable",
-  "injury_note": "Quadriceps"
+  "injury_status": null,
+  "injury_note": null
  },
  "198": {
   "name": "Kellen Clemens",
@@ -31818,7 +31818,7 @@
  "13827": {
   "name": "Tanner Arkin",
   "pos": "TE",
-  "team": null,
+  "team": "NE",
   "status": "Active",
   "injury_status": null,
   "injury_note": null

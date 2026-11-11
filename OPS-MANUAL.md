@@ -34,19 +34,19 @@
 | Slot | Player | Acquired |
 |------|--------|----------|
 | QB | Jayden Daniels | Draft (R5, pick 55) |
-| RB | Bucky Irving | Draft (R3, pick 31) |
+| RB | Chris Rodriguez Jr. | Wk 9 (waiver claim) |
 | RB | Braelon Allen | Wk 3 (waiver claim) |
-| WR | Puka Nacua | Draft (R1, pick 7) |
+| WR | Ryan Flournoy | Wk 8 (waiver claim) |
 | WR | CeeDee Lamb | Draft (R2, pick 18) |
 | FLEX | Tre Tucker | Wk 6 (waiver claim) |
 | TE | Kyle Pitts Sr. | Wk 7 (waiver claim) |
 | K | Tyler Bass | Wk 7 (waiver claim) |
-| DEF | Tampa Bay | Wk 7 (waiver claim) |
-| BN | Chris Rodriguez Jr. | Wk 9 (waiver claim) |
+| DEF | Green Bay | Wk 9 (waiver claim) |
+| BN | Bucky Irving | Draft (R3, pick 31) |
 | BN | Konata Mumpfield | Wk 10 (free agent) |
-| BN | Ryan Flournoy | Wk 8 (waiver claim) |
+| BN | Puka Nacua | Draft (R1, pick 7) |
 | BN | Dalton Kincaid | Draft (R7, pick 79) |
-| BN | Green Bay | Wk 9 (waiver claim) |
+| BN | Tampa Bay | Wk 7 (waiver claim) |
 <!-- ROSTER:END -->
 
 *The digest in the repo is the source of truth if it disagrees with this table — update this table when the roster changes.*

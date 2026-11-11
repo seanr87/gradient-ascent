@@ -11,13 +11,13 @@
   acquired_via: "R5, pick 55"
   acquired_week: 0
 - slot: "RB"
-  player: "Bucky Irving"
+  player: "Chris Rodriguez Jr."
   pos: "RB"
-  team: "TB"
-  status: ""
-  acquired: "Draft"
-  acquired_via: "R3, pick 31"
-  acquired_week: 0
+  team: "JAX"
+  status: "Questionable"
+  acquired: "Wk 9"
+  acquired_via: "waiver claim"
+  acquired_week: 9
 - slot: "RB"
   player: "Braelon Allen"
   pos: "RB"
@@ -27,13 +27,13 @@
   acquired_via: "waiver claim"
   acquired_week: 3
 - slot: "WR"
-  player: "Puka Nacua"
+  player: "Ryan Flournoy"
   pos: "WR"
-  team: "LAR"
-  status: "Doubtful"
-  acquired: "Draft"
-  acquired_via: "R1, pick 7"
-  acquired_week: 0
+  team: "DAL"
+  status: ""
+  acquired: "Wk 8"
+  acquired_via: "waiver claim"
+  acquired_week: 8
 - slot: "WR"
   player: "CeeDee Lamb"
   pos: "WR"
@@ -67,21 +67,21 @@
   acquired_via: "waiver claim"
   acquired_week: 7
 - slot: "DEF"
-  player: "Tampa Bay"
+  player: "Green Bay"
   pos: "DEF"
-  team: "TB"
-  status: ""
-  acquired: "Wk 7"
-  acquired_via: "waiver claim"
-  acquired_week: 7
-- slot: "BN1"
-  player: "Chris Rodriguez Jr."
-  pos: "RB"
-  team: "JAX"
+  team: "GB"
   status: ""
   acquired: "Wk 9"
   acquired_via: "waiver claim"
   acquired_week: 9
+- slot: "BN1"
+  player: "Bucky Irving"
+  pos: "RB"
+  team: "TB"
+  status: ""
+  acquired: "Draft"
+  acquired_via: "R3, pick 31"
+  acquired_week: 0
 - slot: "BN2"
   player: "Konata Mumpfield"
   pos: "WR"
@@ -91,13 +91,13 @@
   acquired_via: "free agent"
   acquired_week: 10
 - slot: "BN3"
-  player: "Ryan Flournoy"
+  player: "Puka Nacua"
   pos: "WR"
-  team: "DAL"
-  status: ""
-  acquired: "Wk 8"
-  acquired_via: "waiver claim"
-  acquired_week: 8
+  team: "LAR"
+  status: "Out"
+  acquired: "Draft"
+  acquired_via: "R1, pick 7"
+  acquired_week: 0
 - slot: "BN4"
   player: "Dalton Kincaid"
   pos: "TE"
@@ -107,10 +107,10 @@
   acquired_via: "R7, pick 79"
   acquired_week: 0
 - slot: "BN5"
-  player: "Green Bay"
+  player: "Tampa Bay"
   pos: "DEF"
-  team: "GB"
+  team: "TB"
   status: ""
-  acquired: "Wk 9"
+  acquired: "Wk 7"
   acquired_via: "waiver claim"
-  acquired_week: 9
+  acquired_week: 7
