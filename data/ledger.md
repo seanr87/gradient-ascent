@@ -2,13 +2,13 @@
 
 Rewritten in full every Tuesday at 6:00 AM ET by the process review; `## State` and `## Open threads` updated by every decision run in the same commit as its decision. Hard cap 150 lines. Older weeks roll up; git history is the archive. Cite a thesis or lesson by name instead of re-arguing it.
 
-Last full rewrite: 2026-11-10 (seventh process review, covering Week 9). Last touched: 2026-11-10 (Wk 10 Tue waivers).
+Last full rewrite: 2026-11-10 (seventh process review, covering Week 9). Last touched: 2026-11-10 (Wk 10 Tue waivers, then the filing confirmation).
 
 ## State
 - **Week 9 final: won 154.61 to Sea Squirts 117.74 (+36.87), league median 116.51.** Record **5-4**, 1144.09 PF, 6th of 12. Week 10 opponent: **Two Dumb Jaylens** (6-3, 1120.12 PF, 3rd). Waiver position **#7** (digest 2026-11-10 23:03 UTC, unchanged since 11:02; the Wk 9 win moved me up from #12); it drifts, so re-read it every run.
 - Roster (14), 2026-11-10 23:03 digest: QB Daniels, Willis [**IR**, groin]; RB Irving, B. Allen, Sampson; WR Lamb, Nacua [Q], Tucker, A. Mitchell, Flournoy; TE Pitts, Kincaid; K Bass; DEF Tampa Bay. **Wk 10 hole: DEF is empty** (TB bye) and Irving is out, so RB2 is Sampson until a claim clears. No transactions by me outside the Tuesday claims in Wk 9.
 - Wk 9 nine scored: Nacua 32.5, Lamb 30.0, Irving 28.5, TB 16.25, Daniels 14.56, Bass 14.1, Tucker 9.0, Allen 5.9, Pitts 3.8. Bench: Flournoy 7.3, Sampson 7.3, Kincaid 5.3, Willis 3.82, Mitchell 0.0.
-- **Waiver processing: measured 3:13-3:14 AM ET, not settled.** Sep 16 3:14:05, Sep 23 3:13:21, Sep 30 3:13:34, Oct 7 3:13:32, Oct 14 3:14:06, Oct 21 3:14:21, Oct 28 3:13:58, Nov 4 3:14:41 (first post-DST clear, same wall-clock time; Wk 9 claims filed under leg 8). Eight weeks, 3:13:21 to 3:14:41, 3:13 (x4) / 3:14 (x4); no to-the-minute rule, so every waiver Do by says **3:00 AM ET**.
+- **Waiver processing: measured 3:13-3:14 AM ET, not settled.** Sep 16 3:14:05, Sep 23 3:13:21, Sep 30 3:13:34, Oct 7 3:13:32, Oct 14 3:14:06, Oct 21 3:14:21, Oct 28 3:13:58, Nov 4 3:14:41 (first post-DST clear, same wall-clock time; Wk 9 claims filed under leg 8). Eight weeks, 3:13:21 to 3:14:41, 3:13 (x4) / 3:14 (x4); no to-the-minute rule, so every waiver Do by says **3:00 AM ET**. **New 2026-11-10, from a screenshot of the claim queue: Sleeper labels the Wk 10 claims "RUNS AT Wed 3:05 am".** That is the scheduled start, and the eight measured clears sit 8-10 minutes after it, so 3:05 scheduled plus queue time explains 3:13-3:14 rather than contradicting it. First direct read of the schedule rather than an inferred clear; the process review has the evidence to settle the Do by.
 - Chat targets used: Wk1 Three Wise Jaylens, Wk2 CorneliusJones, Wk3 Lost in the Land of Love, Princess Donut's Court (Wk 3 Mon), Playful Secrets (Wk 4 Mon), Sea Squirts (Wk 5 Mon), TheTroubles (Wk 6 Mon), What can Brown do for u? (Wk 7 Mon), The Wizard's Apprentice (Wk 8 Mon), Lost in the Land of Love (Wk 9 Mon, a repeat of Wk 3).
 
 ## Open threads
@@ -21,7 +21,7 @@ Last full rewrite: 2026-11-10 (seventh process review, covering Week 9). Last to
 - **Trades are opt-in** (see Process changes). Wk 5-9 scans: NO ACTION. SpaceElf is not buying again.
 - **Sunday contingencies have no timed check.** Sean checks by eye; none has triggered in Wk 5-9.
 - **Free-agent ADD/DROP pairs outside the Tuesday cycle.** Wk 7 Sun swap never made; Wk 8 Thu pivot took 52 h. None in Wk 9. Lesson 4. Not yet a slot cluster.
-- **Wk 9 claim timing slipped to 11:49 PM ET** (5 h 37 m after the file, 3 h 10 m before Do by; Wk 6-8 were 2-3 min to 2 h). One data point; if Wk 10 claims land after 10 PM again, move the Tue slot or add a reminder.
+- **Claim timing recovered in Wk 10.** All five filed by 7:08 PM ET, 58 min after the 6:10 PM file and 8 h before the deadline, against Wk 9's 11:49 PM. The "after 10 PM again" condition did not trigger, so no slot move; Wk 9 stays a single outlier. Closes if Wk 11 also lands before 10 PM.
 - **Notification delivery is unconfirmed, with one reported miss.** Sean says no push arrived for the Wk 9 Sun lineup (commit 9:02 AM ET). No run log, so this review cannot grade it. The slow Tue claims in Wk 9 are consistent with a late or missed push but do not prove it. Watch; no change on one report.
 - **Monday chat slot fires 4-5 minutes before the 8:15 PM Do by** three weeks running (Wk 7-9). Unverifiable whether Sean posts in time; cite only finished games (Lesson 2).
 - **Double-fire.** Sean still has to disable the seven UI routines in `SCHEDULED-TASKS.md`; no double-fire seen in Wk 7-9.
