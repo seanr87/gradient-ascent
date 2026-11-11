@@ -5106,7 +5106,7 @@
  "8500": {
   "name": "John FitzPatrick",
   "pos": "TE",
-  "team": "CLE",
+  "team": null,
   "status": "Active",
   "injury_status": null,
   "injury_note": null
@@ -8082,7 +8082,7 @@
  "7599": {
   "name": "Jermar Jefferson",
   "pos": "RB",
-  "team": "ARI",
+  "team": null,
   "status": "Active",
   "injury_status": null,
   "injury_note": null
@@ -13514,7 +13514,7 @@
  "14080": {
   "name": "Barika Kpeenu",
   "pos": "RB",
-  "team": "TB",
+  "team": null,
   "status": "Active",
   "injury_status": null,
   "injury_note": null
@@ -16194,7 +16194,7 @@
  "12457": {
   "name": "Jaydon Blue",
   "pos": "RB",
-  "team": "PHI",
+  "team": null,
   "status": "Active",
   "injury_status": null,
   "injury_note": null
@@ -18130,7 +18130,7 @@
  "3258": {
   "name": "Nick Vannett",
   "pos": "TE",
-  "team": "BAL",
+  "team": null,
   "status": "Active",
   "injury_status": null,
   "injury_note": null
@@ -19634,7 +19634,7 @@
  "2078": {
   "name": "Odell Beckham Jr.",
   "pos": "WR",
-  "team": "MIN",
+  "team": null,
   "status": "Active",
   "injury_status": null,
   "injury_note": null
@@ -22410,7 +22410,7 @@
  "4274": {
   "name": "David Moore",
   "pos": "WR",
-  "team": "CAR",
+  "team": null,
   "status": "Active",
   "injury_status": null,
   "injury_note": null
@@ -23226,7 +23226,7 @@
  "6154": {
   "name": "David Sills V",
   "pos": "WR",
-  "team": "TB",
+  "team": null,
   "status": "Active",
   "injury_status": null,
   "injury_note": null
@@ -25890,7 +25890,7 @@
  "12389": {
   "name": "Hayden Rucci",
   "pos": "TE",
-  "team": "LAC",
+  "team": null,
   "status": "Active",
   "injury_status": null,
   "injury_note": null
@@ -28842,7 +28842,7 @@
  "11569": {
   "name": "Jarquez Hunter",
   "pos": "RB",
-  "team": "NO",
+  "team": null,
   "status": "Active",
   "injury_status": null,
   "injury_note": null
@@ -28930,7 +28930,7 @@
  "11320": {
   "name": "Nikko Remigio",
   "pos": "WR",
-  "team": "KC",
+  "team": null,
   "status": "Active",
   "injury_status": null,
   "injury_note": null
@@ -30252,8 +30252,8 @@
   "pos": "QB",
   "team": "CLE",
   "status": "Active",
-  "injury_status": "Questionable",
-  "injury_note": "Concussion"
+  "injury_status": null,
+  "injury_note": null
  },
  "4464": {
   "name": "Nick Mullens",
@@ -30402,7 +30402,7 @@
  "13630": {
   "name": "Evan Svoboda",
   "pos": "TE",
-  "team": "LAC",
+  "team": null,
   "status": "Active",
   "injury_status": null,
   "injury_note": null
@@ -30778,7 +30778,7 @@
  "12851": {
   "name": "Rivaldo Fairweather",
   "pos": "TE",
-  "team": "ARI",
+  "team": null,
   "status": "Active",
   "injury_status": null,
   "injury_note": null
