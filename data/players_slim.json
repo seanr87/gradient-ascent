@@ -12620,8 +12620,8 @@
   "pos": "RB",
   "team": "TEN",
   "status": "Active",
-  "injury_status": null,
-  "injury_note": null
+  "injury_status": "Questionable",
+  "injury_note": "Finger"
  },
  "5384": {
   "name": "Jonah Trinnaman",
@@ -17148,8 +17148,8 @@
   "pos": "QB",
   "team": "DET",
   "status": "Active",
-  "injury_status": "Questionable",
-  "injury_note": "Chest"
+  "injury_status": null,
+  "injury_note": null
  },
  "12891": {
   "name": "Jordan Bly",
@@ -20068,8 +20068,8 @@
   "pos": "RB",
   "team": "KC",
   "status": "Active",
-  "injury_status": null,
-  "injury_note": null
+  "injury_status": "Questionable",
+  "injury_note": "Hamstring"
  },
  "5224": {
   "name": "Taj Williams",
@@ -23700,7 +23700,7 @@
   "pos": "RB",
   "team": "NE",
   "status": "Active",
-  "injury_status": "Doubtful",
+  "injury_status": "Questionable",
   "injury_note": "Knee"
  },
  "1330": {
@@ -24716,8 +24716,8 @@
   "pos": "TE",
   "team": "NO",
   "status": "Active",
-  "injury_status": "Questionable",
-  "injury_note": "Back"
+  "injury_status": null,
+  "injury_note": null
  },
  "13066": {
   "name": "Ben Sauls",
@@ -28764,8 +28764,8 @@
   "pos": "RB",
   "team": "NO",
   "status": "Active",
-  "injury_status": "Questionable",
-  "injury_note": "Back"
+  "injury_status": null,
+  "injury_note": null
  },
  "11989": {
   "name": "D.J. Williams",
@@ -30060,8 +30060,8 @@
   "pos": "WR",
   "team": "MIA",
   "status": "Active",
-  "injury_status": null,
-  "injury_note": null
+  "injury_status": "Questionable",
+  "injury_note": "Quadriceps"
  },
  "1466": {
   "name": "Travis Kelce",
