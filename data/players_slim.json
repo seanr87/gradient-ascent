@@ -2930,7 +2930,7 @@
  "6045": {
   "name": "Gary Jennings",
   "pos": "WR",
-  "team": "LAC",
+  "team": null,
   "status": "Active",
   "injury_status": null,
   "injury_note": null
@@ -31538,7 +31538,7 @@
  "12015": {
   "name": "Harrison Mevis",
   "pos": "K",
-  "team": null,
+  "team": "BAL",
   "status": "Active",
   "injury_status": null,
   "injury_note": null
@@ -33826,7 +33826,7 @@
  "7922": {
   "name": "Riley Patterson",
   "pos": "K",
-  "team": null,
+  "team": "BAL",
   "status": "Active",
   "injury_status": null,
   "injury_note": null
