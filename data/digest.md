@@ -1,5 +1,5 @@
 # Sleeper digest — The Climb
-Pulled: 2026-11-12 18:36 UTC · NFL week 10 (regular)
+Pulled: 2026-11-12 18:52 UTC · NFL week 10 (regular)
 
 ## My roster
 - Tre Tucker (WR-LV) (STARTER)
@@ -51,31 +51,31 @@ Pulled: 2026-11-12 18:36 UTC · NFL week 10 (regular)
 - Playful Secrets 132.00 — The Butker Jihad 115.28
 
 ## Trending adds (24h, all Sleeper)
-- Corey Kiner (RB-NE) — 522,708 adds
-- Konata Mumpfield (WR-LAR) — 469,458 adds
-- Tutu Atwell (WR-LAR) — 394,695 adds
-- Darren Waller (TE-CAR) — 341,757 adds
-- Ashton Dulin (WR-IND) — 221,598 adds
-- Indianapolis Colts (DEF-IND) — 205,533 adds
-- Fernando Mendoza (QB-LV) — 202,080 adds
-- Justice Hill (RB-BAL) — 179,712 adds
-- Jake Bates (K-DET) — 170,720 adds
-- Audric Estime (RB-NO) — 168,930 adds
-- Tank Dell (WR-HOU) [Questionable] — 168,520 adds
-- Tyler Higbee (TE-LAR) — 140,859 adds
-- Baltimore Ravens (DEF-BAL) — 140,010 adds
-- Demarcus Robinson (WR-SF) — 129,264 adds
-- Khalil Shakir (WR-BUF) — 125,289 adds
-- Tyler Bass (K-BUF) — 123,585 adds
-- Jordan Addison (WR-MIN) — 119,574 adds
-- Aaron Rodgers (QB-PIT) — 104,868 adds
-- Chris Rodriguez Jr. (RB-JAX) [Questionable] — 101,025 adds
-- Kyle McCord (QB-MIA) — 97,572 adds
-- New York Giants (DEF-NYG) — 93,264 adds
-- Jason Sanders (K-NYJ) — 92,585 adds
-- Pierre Strong Jr. (RB-GB) — 86,553 adds
-- CJ Daniels (WR-LAR) — 78,228 adds
-- KC Concepcion Jr. (WR-CLE) — 77,769 adds
+- Corey Kiner (RB-NE) — 525,354 adds
+- Konata Mumpfield (WR-LAR) — 472,275 adds
+- Tutu Atwell (WR-LAR) — 396,942 adds
+- Darren Waller (TE-CAR) — 344,754 adds
+- Ashton Dulin (WR-IND) — 223,047 adds
+- Indianapolis Colts (DEF-IND) — 207,033 adds
+- Fernando Mendoza (QB-LV) — 203,296 adds
+- Justice Hill (RB-BAL) — 181,665 adds
+- Jake Bates (K-DET) — 171,792 adds
+- Audric Estime (RB-NO) — 169,851 adds
+- Tank Dell (WR-HOU) [Questionable] — 169,096 adds
+- Tyler Higbee (TE-LAR) — 141,732 adds
+- Baltimore Ravens (DEF-BAL) — 140,706 adds
+- Demarcus Robinson (WR-SF) — 129,648 adds
+- Khalil Shakir (WR-BUF) — 125,964 adds
+- Tyler Bass (K-BUF) — 124,650 adds
+- Jordan Addison (WR-MIN) — 120,564 adds
+- Aaron Rodgers (QB-PIT) — 105,688 adds
+- Chris Rodriguez Jr. (RB-JAX) [Questionable] — 102,285 adds
+- Kyle McCord (QB-MIA) — 97,996 adds
+- New York Giants (DEF-NYG) — 94,032 adds
+- Jason Sanders (K-NYJ) — 93,145 adds
+- Pierre Strong Jr. (RB-GB) — 86,931 adds
+- CJ Daniels (WR-LAR) — 78,756 adds
+- KC Concepcion Jr. (WR-CLE) — 78,345 adds
 
 ## League transactions this week
 - free_agent (complete) Lost in the Land of Love: +[Jacory Croskey-Merritt (RB-WAS) [IR]] -[Rachaad White (RB-WAS)]
