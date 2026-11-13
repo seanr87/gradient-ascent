@@ -5484,8 +5484,8 @@
   "pos": "QB",
   "team": "WAS",
   "status": "Active",
-  "injury_status": null,
-  "injury_note": null
+  "injury_status": "Out",
+  "injury_note": "Coach's Decision"
  },
  "13846": {
   "name": "Jack Velling",
@@ -6604,8 +6604,8 @@
   "pos": "QB",
   "team": "LAC",
   "status": "Active",
-  "injury_status": "Questionable",
-  "injury_note": "Finger"
+  "injury_status": null,
+  "injury_note": null
  },
  "6849": {
   "name": "Denzel Mims",
@@ -8188,8 +8188,8 @@
   "pos": "WR",
   "team": "LAC",
   "status": "Active",
-  "injury_status": null,
-  "injury_note": null
+  "injury_status": "Questionable",
+  "injury_note": "Shoulder"
  },
  "968": {
   "name": "Greg Salas",
@@ -8572,8 +8572,8 @@
   "pos": "TE",
   "team": "LAR",
   "status": "Active",
-  "injury_status": null,
-  "injury_note": null
+  "injury_status": "Questionable",
+  "injury_note": "Illness"
  },
  "11267": {
   "name": "Aron Cruickshank",
@@ -9572,8 +9572,8 @@
   "pos": "RB",
   "team": "LAC",
   "status": "Active",
-  "injury_status": null,
-  "injury_note": null
+  "injury_status": "Questionable",
+  "injury_note": "Hip"
  },
  "1059": {
   "name": "Bobby Rainey",
@@ -11476,7 +11476,7 @@
   "pos": "WR",
   "team": "LAR",
   "status": "Active",
-  "injury_status": "Out",
+  "injury_status": "IR",
   "injury_note": "Knee - MCL"
  },
  "13149": {
@@ -16628,8 +16628,8 @@
   "pos": "TE",
   "team": "NYG",
   "status": "Active",
-  "injury_status": null,
-  "injury_note": null
+  "injury_status": "Out",
+  "injury_note": "Coach's Decision"
  },
  "4650": {
   "name": "Billy Brown",
@@ -18652,8 +18652,8 @@
   "pos": "K",
   "team": "GB",
   "status": "Active",
-  "injury_status": "Questionable",
-  "injury_note": "Calf"
+  "injury_status": null,
+  "injury_note": null
  },
  "13117": {
   "name": "Qualan Jones",
@@ -22724,8 +22724,8 @@
   "pos": "WR",
   "team": "BAL",
   "status": "Active",
-  "injury_status": null,
-  "injury_note": null
+  "injury_status": "Questionable",
+  "injury_note": "Calf"
  },
  "8783": {
   "name": "Kendric Pryor",
@@ -24876,8 +24876,8 @@
   "pos": "WR",
   "team": "GB",
   "status": "Active",
-  "injury_status": "Questionable",
-  "injury_note": "Head"
+  "injury_status": null,
+  "injury_note": null
  },
  "11073": {
   "name": "Thayer Thomas",
@@ -28930,7 +28930,7 @@
  "11320": {
   "name": "Nikko Remigio",
   "pos": "WR",
-  "team": null,
+  "team": "HOU",
   "status": "Active",
   "injury_status": null,
   "injury_note": null
@@ -29972,8 +29972,8 @@
   "pos": "WR",
   "team": "HOU",
   "status": "Active",
-  "injury_status": "Questionable",
-  "injury_note": "Hand"
+  "injury_status": null,
+  "injury_note": null
  },
  "110": {
   "name": "Stephen Gostkowski",

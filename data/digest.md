@@ -1,5 +1,5 @@
 # Sleeper digest — The Climb
-Pulled: 2026-11-12 22:09 UTC · NFL week 10 (regular)
+Pulled: 2026-11-13 00:53 UTC · NFL week 10 (regular)
 
 ## My roster
 - Tre Tucker (WR-LV) (STARTER)
@@ -13,7 +13,7 @@ Pulled: 2026-11-12 22:09 UTC · NFL week 10 (regular)
 - CeeDee Lamb (WR-DAL) (STARTER)
 - Tyler Bass (K-BUF) (STARTER)
 - Kyle Pitts Sr. (TE-ATL) (STARTER)
-- Puka Nacua (WR-LAR) [Out]
+- Puka Nacua (WR-LAR) [IR]
 - Green Bay Packers (DEF-GB) (STARTER)
 - Tampa Bay Buccaneers (DEF-TB)
 
@@ -51,31 +51,31 @@ Pulled: 2026-11-12 22:09 UTC · NFL week 10 (regular)
 - Playful Secrets 132.00 — The Butker Jihad 115.28
 
 ## Trending adds (24h, all Sleeper)
-- Corey Kiner (RB-NE) — 511,230 adds
-- Konata Mumpfield (WR-LAR) — 441,594 adds
-- Tutu Atwell (WR-LAR) — 371,161 adds
-- Darren Waller (TE-CAR) — 352,602 adds
-- Ashton Dulin (WR-IND) — 217,656 adds
-- Indianapolis Colts (DEF-IND) — 206,529 adds
-- Justice Hill (RB-BAL) — 192,393 adds
-- Fernando Mendoza (QB-LV) — 182,640 adds
-- Jake Bates (K-DET) — 162,072 adds
-- Audric Estime (RB-NO) — 154,701 adds
-- Tank Dell (WR-HOU) [Questionable] — 140,480 adds
-- Tyler Higbee (TE-LAR) — 135,576 adds
-- Baltimore Ravens (DEF-BAL) — 125,772 adds
-- Tyler Bass (K-BUF) — 123,945 adds
-- Khalil Shakir (WR-BUF) — 123,300 adds
-- Jordan Addison (WR-MIN) — 121,230 adds
-- Chris Rodriguez Jr. (RB-JAX) [Questionable] — 116,145 adds
-- Demarcus Robinson (WR-SF) — 107,310 adds
-- New York Giants (DEF-NYG) — 101,724 adds
-- Aaron Rodgers (QB-PIT) — 100,004 adds
-- Jason Sanders (K-NYJ) — 91,495 adds
-- Kyle McCord (QB-MIA) — 86,576 adds
-- Mack Hollins (WR-NE) — 83,568 adds
-- KC Concepcion Jr. (WR-CLE) — 78,849 adds
-- Brenton Strange (TE-JAX) — 78,363 adds
+- Corey Kiner (RB-NE) — 483,804 adds
+- Konata Mumpfield (WR-LAR) — 470,547 adds
+- Darren Waller (TE-CAR) — 433,269 adds
+- Tutu Atwell (WR-LAR) — 398,937 adds
+- Justice Hill (RB-BAL) — 253,035 adds
+- Indianapolis Colts (DEF-IND) — 248,616 adds
+- Ashton Dulin (WR-IND) — 232,452 adds
+- Jake Bates (K-DET) — 193,856 adds
+- Fernando Mendoza (QB-LV) — 191,408 adds
+- Chris Rodriguez Jr. (RB-JAX) [Questionable] — 160,866 adds
+- Tyler Bass (K-BUF) — 153,655 adds
+- Khalil Shakir (WR-BUF) — 151,227 adds
+- Audric Estime (RB-NO) — 149,754 adds
+- Jordan Addison (WR-MIN) — 143,433 adds
+- Tyler Higbee (TE-LAR) [Questionable] — 142,839 adds
+- New York Giants (DEF-NYG) — 134,828 adds
+- Tank Dell (WR-HOU) — 132,024 adds
+- Baltimore Ravens (DEF-BAL) — 127,560 adds
+- Jason Sanders (K-NYJ) — 119,565 adds
+- Aaron Rodgers (QB-PIT) — 111,336 adds
+- Mack Hollins (WR-NE) — 102,234 adds
+- Austin Ekeler (RB-WAS) — 100,108 adds
+- Demarcus Robinson (WR-SF) — 91,536 adds
+- KC Concepcion Jr. (WR-CLE) — 91,143 adds
+- Brenton Strange (TE-JAX) — 87,102 adds
 
 ## League transactions this week
 - free_agent (complete) CorneliusJones: +[Washington Commanders (DEF-WAS)] -[Jordan Watkins (WR-SF)]
