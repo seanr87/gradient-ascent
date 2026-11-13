@@ -9596,7 +9596,7 @@
   "pos": "WR",
   "team": "MIA",
   "status": "Active",
-  "injury_status": "Questionable",
+  "injury_status": "Doubtful",
   "injury_note": "Knee"
  },
  "7521": {
@@ -11475,7 +11475,7 @@
   "name": "Puka Nacua",
   "pos": "WR",
   "team": "LAR",
-  "status": "Active",
+  "status": "Inactive",
   "injury_status": "IR",
   "injury_note": "Knee - MCL"
  },
@@ -28546,7 +28546,7 @@
  "9490": {
   "name": "Tyler Scott",
   "pos": "WR",
-  "team": null,
+  "team": "LAR",
   "status": "Active",
   "injury_status": null,
   "injury_note": null
@@ -30612,8 +30612,8 @@
   "pos": "TE",
   "team": "WAS",
   "status": "Active",
-  "injury_status": null,
-  "injury_note": null
+  "injury_status": "Questionable",
+  "injury_note": "Back"
  },
  "6151": {
   "name": "Miles Sanders",
@@ -33656,7 +33656,7 @@
   "injury_note": null
  },
  "2334": {
-  "name": "Phillip Dorsett II",
+  "name": "Phillip Dorsett",
   "pos": "WR",
   "team": "ARI",
   "status": "Active",
