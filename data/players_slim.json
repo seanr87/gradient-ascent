@@ -843,7 +843,7 @@
   "name": "Mo Alie-Cox",
   "pos": "TE",
   "team": "IND",
-  "status": "Active",
+  "status": "Inactive",
   "injury_status": "IR",
   "injury_note": "Groin"
  },
@@ -2563,8 +2563,8 @@
   "name": "Chris Brooks",
   "pos": "RB",
   "team": "GB",
-  "status": "Inactive",
-  "injury_status": "IR",
+  "status": "Active",
+  "injury_status": "Questionable",
   "injury_note": "Ankle"
  },
  "6196": {
@@ -3316,8 +3316,8 @@
   "pos": "WR",
   "team": "LAC",
   "status": "Active",
-  "injury_status": "Questionable",
-  "injury_note": "Quadriceps"
+  "injury_status": "Doubtful",
+  "injury_note": "Hamstring"
  },
  "13939": {
   "name": "Gabriel Benyard",
@@ -3764,7 +3764,7 @@
   "pos": "RB",
   "team": "NE",
   "status": "Active",
-  "injury_status": "Out",
+  "injury_status": "IR",
   "injury_note": "Illness"
  },
  "565": {
@@ -9572,8 +9572,8 @@
   "pos": "RB",
   "team": "LAC",
   "status": "Active",
-  "injury_status": "Questionable",
-  "injury_note": "Hip"
+  "injury_status": null,
+  "injury_note": null
  },
  "1059": {
   "name": "Bobby Rainey",
@@ -10652,7 +10652,7 @@
   "pos": "TE",
   "team": "ARI",
   "status": "Inactive",
-  "injury_status": "IR",
+  "injury_status": "Questionable",
   "injury_note": "Knee"
  },
  "1139": {
@@ -16107,9 +16107,9 @@
   "name": "Tyler Goodson",
   "pos": "RB",
   "team": "DAL",
-  "status": "Active",
-  "injury_status": "Out",
-  "injury_note": "Knee"
+  "status": "Inactive",
+  "injury_status": "IR",
+  "injury_note": "Knee - ACL + MCL"
  },
  "247": {
   "name": "Harry Douglas",
@@ -18300,8 +18300,8 @@
   "pos": "RB",
   "team": "NE",
   "status": "Inactive",
-  "injury_status": "IR",
-  "injury_note": "Ankle"
+  "injury_status": "Questionable",
+  "injury_note": "Knee"
  },
  "5117": {
   "name": "Jordan Thomas",
@@ -21179,8 +21179,8 @@
   "name": "Travis Etienne Jr.",
   "pos": "RB",
   "team": "NO",
-  "status": "Inactive",
-  "injury_status": "IR",
+  "status": "Active",
+  "injury_status": "Questionable",
   "injury_note": "Hamstring"
  },
  "12217": {
@@ -22036,7 +22036,7 @@
   "pos": "RB",
   "team": "HOU",
   "status": "Active",
-  "injury_status": "Questionable",
+  "injury_status": "Out",
   "injury_note": "Groin"
  },
  "2559": {
@@ -23988,8 +23988,8 @@
   "pos": "TE",
   "team": "PIT",
   "status": "Active",
-  "injury_status": null,
-  "injury_note": null
+  "injury_status": "Questionable",
+  "injury_note": "Illness"
  },
  "8527": {
   "name": "Dareke Young",
@@ -24187,8 +24187,8 @@
   "name": "Josh Whyle",
   "pos": "TE",
   "team": "GB",
-  "status": "Active",
-  "injury_status": "Out",
+  "status": "Inactive",
+  "injury_status": "IR",
   "injury_note": "Concussion"
  },
  "11381": {
@@ -24587,8 +24587,8 @@
   "name": "Xavier Legette",
   "pos": "WR",
   "team": "CAR",
-  "status": "Inactive",
-  "injury_status": "IR",
+  "status": "Active",
+  "injury_status": "Questionable",
   "injury_note": "Knee"
  },
  "4146": {
@@ -27195,8 +27195,8 @@
   "name": "Skyy Moore",
   "pos": "WR",
   "team": "GB",
-  "status": "Inactive",
-  "injury_status": "IR",
+  "status": "Active",
+  "injury_status": "Questionable",
   "injury_note": "Ankle"
  },
  "2446": {
@@ -27898,7 +27898,7 @@
  "4718": {
   "name": "Dare Ogunbowale",
   "pos": "RB",
-  "team": null,
+  "team": "HOU",
   "status": "Active",
   "injury_status": null,
   "injury_note": null

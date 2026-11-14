@@ -1,5 +1,5 @@
 # Sleeper digest — The Climb
-Pulled: 2026-11-14 17:29 UTC · NFL week 10 (regular)
+Pulled: 2026-11-14 21:48 UTC · NFL week 10 (regular)
 
 ## My roster
 - Tre Tucker (WR-LV) (STARTER)
@@ -51,31 +51,31 @@ Pulled: 2026-11-14 17:29 UTC · NFL week 10 (regular)
 - Playful Secrets 132.00 — The Butker Jihad 115.28
 
 ## Trending adds (24h, all Sleeper)
-- Emmett Johnson (RB-KC) — 1,319,787 adds
-- Chimere Dike (WR-TEN) — 322,578 adds
-- Darren Waller (TE-CAR) — 299,331 adds
-- Tutu Atwell (WR-LAR) — 131,390 adds
-- Justice Hill (RB-BAL) — 117,684 adds
-- Konata Mumpfield (WR-LAR) — 110,484 adds
-- Chris Rodriguez Jr. (RB-JAX) — 97,821 adds
-- Tyler Higbee (TE-LAR) — 95,058 adds
-- Corey Kiner (RB-NE) — 77,694 adds
-- Ashton Dulin (WR-IND) — 71,451 adds
-- Khalil Shakir (WR-BUF) — 56,916 adds
-- Brenton Strange (TE-JAX) — 56,502 adds
-- Hunter Henry (TE-NE) — 53,919 adds
-- Mike Gesicki (TE-CIN) — 53,604 adds
-- Jordan Addison (WR-MIN) [Questionable] — 53,091 adds
-- Caleb Douglas (WR-MIA) — 52,936 adds
-- Elic Ayomanor (WR-TEN) — 52,256 adds
-- Tank Dell (WR-HOU) — 51,960 adds
-- Indianapolis Colts (DEF-IND) — 48,969 adds
-- Fernando Mendoza (QB-LV) — 45,264 adds
-- Zonovan Knight (RB-ARI) — 38,232 adds
-- Jordyn Tyson (WR-NO) — 37,080 adds
-- CJ Daniels (WR-LAR) — 36,868 adds
-- Gavin Bartholomew (TE-MIN) — 36,810 adds
-- Mack Hollins (WR-NE) — 33,585 adds
+- Emmett Johnson (RB-KC) — 1,423,071 adds
+- Chimere Dike (WR-TEN) — 411,003 adds
+- Darren Waller (TE-CAR) — 240,048 adds
+- Justice Hill (RB-BAL) — 150,084 adds
+- Chris Rodriguez Jr. (RB-JAX) — 121,581 adds
+- Tutu Atwell (WR-LAR) — 115,395 adds
+- Tyler Higbee (TE-LAR) — 111,987 adds
+- Corey Kiner (RB-NE) — 79,428 adds
+- Konata Mumpfield (WR-LAR) — 75,177 adds
+- Ashton Dulin (WR-IND) — 63,396 adds
+- Tank Dell (WR-HOU) — 57,448 adds
+- Mike Gesicki (TE-CIN) — 53,892 adds
+- Brenton Strange (TE-JAX) — 53,775 adds
+- Hunter Henry (TE-NE) — 52,323 adds
+- Gavin Bartholomew (TE-MIN) — 50,355 adds
+- Khalil Shakir (WR-BUF) — 48,627 adds
+- Indianapolis Colts (DEF-IND) — 48,207 adds
+- Zonovan Knight (RB-ARI) — 47,900 adds
+- Caleb Douglas (WR-MIA) — 47,704 adds
+- Elic Ayomanor (WR-TEN) — 46,708 adds
+- Jordan Addison (WR-MIN) [Questionable] — 42,354 adds
+- Fernando Mendoza (QB-LV) — 40,368 adds
+- Darnell Washington (TE-PIT) — 40,175 adds
+- CJ Daniels (WR-LAR) — 39,680 adds
+- Jordan Mason (RB-MIN) — 33,905 adds
 
 ## League transactions this week
 - free_agent (complete) CorneliusJones: +[Washington Commanders (DEF-WAS)] -[Jordan Watkins (WR-SF)]
