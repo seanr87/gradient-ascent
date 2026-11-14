@@ -1,10 +1,10 @@
 # Sleeper digest — The Climb
-Pulled: 2026-11-13 16:06 UTC · NFL week 10 (regular)
+Pulled: 2026-11-14 17:29 UTC · NFL week 10 (regular)
 
 ## My roster
 - Tre Tucker (WR-LV) (STARTER)
-- Chris Rodriguez Jr. (RB-JAX) [Questionable] (STARTER)
-- Dalton Kincaid (TE-BUF) [Questionable]
+- Chris Rodriguez Jr. (RB-JAX) (STARTER)
+- Dalton Kincaid (TE-BUF)
 - Jayden Daniels (QB-WAS) (STARTER)
 - Braelon Allen (RB-NYJ) (STARTER)
 - Bucky Irving (RB-TB)
@@ -51,37 +51,37 @@ Pulled: 2026-11-13 16:06 UTC · NFL week 10 (regular)
 - Playful Secrets 132.00 — The Butker Jihad 115.28
 
 ## Trending adds (24h, all Sleeper)
-- Darren Waller (TE-CAR) — 468,315 adds
-- Konata Mumpfield (WR-LAR) — 441,459 adds
-- Tutu Atwell (WR-LAR) — 350,364 adds
-- Corey Kiner (RB-NE) — 342,738 adds
-- Justice Hill (RB-BAL) — 297,711 adds
-- Indianapolis Colts (DEF-IND) — 232,719 adds
-- Chris Rodriguez Jr. (RB-JAX) [Questionable] — 228,744 adds
-- Ashton Dulin (WR-IND) — 191,430 adds
-- Jake Bates (K-DET) — 169,848 adds
-- Khalil Shakir (WR-BUF) — 162,675 adds
-- Fernando Mendoza (QB-LV) — 162,032 adds
-- Jordan Addison (WR-MIN) — 150,750 adds
-- Tyler Bass (K-BUF) — 144,880 adds
-- Jason Sanders (K-NYJ) — 118,785 adds
-- Audric Estime (RB-NO) — 109,977 adds
-- Tyler Higbee (TE-LAR) [Questionable] — 107,217 adds
-- Mack Hollins (WR-NE) — 105,267 adds
-- Tank Dell (WR-HOU) — 103,840 adds
-- New York Giants (DEF-NYG) — 102,716 adds
-- Baltimore Ravens (DEF-BAL) — 98,655 adds
-- Aaron Rodgers (QB-PIT) — 97,636 adds
-- Caleb Douglas (WR-MIA) — 96,376 adds
-- KC Concepcion Jr. (WR-CLE) — 86,859 adds
-- Austin Ekeler (RB-WAS) — 84,460 adds
-- Brenton Strange (TE-JAX) — 81,873 adds
+- Emmett Johnson (RB-KC) — 1,319,787 adds
+- Chimere Dike (WR-TEN) — 322,578 adds
+- Darren Waller (TE-CAR) — 299,331 adds
+- Tutu Atwell (WR-LAR) — 131,390 adds
+- Justice Hill (RB-BAL) — 117,684 adds
+- Konata Mumpfield (WR-LAR) — 110,484 adds
+- Chris Rodriguez Jr. (RB-JAX) — 97,821 adds
+- Tyler Higbee (TE-LAR) — 95,058 adds
+- Corey Kiner (RB-NE) — 77,694 adds
+- Ashton Dulin (WR-IND) — 71,451 adds
+- Khalil Shakir (WR-BUF) — 56,916 adds
+- Brenton Strange (TE-JAX) — 56,502 adds
+- Hunter Henry (TE-NE) — 53,919 adds
+- Mike Gesicki (TE-CIN) — 53,604 adds
+- Jordan Addison (WR-MIN) [Questionable] — 53,091 adds
+- Caleb Douglas (WR-MIA) — 52,936 adds
+- Elic Ayomanor (WR-TEN) — 52,256 adds
+- Tank Dell (WR-HOU) — 51,960 adds
+- Indianapolis Colts (DEF-IND) — 48,969 adds
+- Fernando Mendoza (QB-LV) — 45,264 adds
+- Zonovan Knight (RB-ARI) — 38,232 adds
+- Jordyn Tyson (WR-NO) — 37,080 adds
+- CJ Daniels (WR-LAR) — 36,868 adds
+- Gavin Bartholomew (TE-MIN) — 36,810 adds
+- Mack Hollins (WR-NE) — 33,585 adds
 
 ## League transactions this week
 - free_agent (complete) CorneliusJones: +[Washington Commanders (DEF-WAS)] -[Jordan Watkins (WR-SF)]
 - free_agent (complete) What can Brown do for u?: +[Indianapolis Colts (DEF-IND)] -[New York Giants (DEF-NYG)]
 - free_agent (complete) Lost in the Land of Love: +[Jacory Croskey-Merritt (RB-WAS) [IR]] -[Rachaad White (RB-WAS)]
 - free_agent (complete) Two Dumb Jaylens : +[Buffalo Bills (DEF-BUF)] -[Jake Ferguson (TE-DAL) [Out]]
-- free_agent (complete) Gradient Ascent: +[Konata Mumpfield (WR-LAR)] -[Adonai Mitchell (WR-NYJ)]
+- free_agent (complete) Gradient Ascent: +[Konata Mumpfield (WR-LAR)] -[Adonai Mitchell (WR-NYJ) [Questionable]]
 - free_agent (complete) Princess Donut's Court: +[Aaron Rodgers (QB-PIT)] -[Detroit Lions (DEF-DET)]
 - free_agent (complete) Lost in the Land of Love: +[Bryce Young (QB-CAR)] -[Devin Singletary (RB-NYG)]

@@ -14,7 +14,7 @@
   player: "Chris Rodriguez Jr."
   pos: "RB"
   team: "JAX"
-  status: "Questionable"
+  status: ""
   acquired: "Wk 9"
   acquired_via: "waiver claim"
   acquired_week: 9
@@ -102,7 +102,7 @@
   player: "Dalton Kincaid"
   pos: "TE"
   team: "BUF"
-  status: "Questionable"
+  status: ""
   acquired: "Draft"
   acquired_via: "R7, pick 79"
   acquired_week: 0
