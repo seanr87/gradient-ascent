@@ -1,5 +1,5 @@
 # Sleeper digest — The Climb
-Pulled: 2026-11-14 21:48 UTC · NFL week 10 (regular)
+Pulled: 2026-11-15 14:02 UTC · NFL week 10 (regular)
 
 ## My roster
 - Tre Tucker (WR-LV) (STARTER)
@@ -51,33 +51,34 @@ Pulled: 2026-11-14 21:48 UTC · NFL week 10 (regular)
 - Playful Secrets 132.00 — The Butker Jihad 115.28
 
 ## Trending adds (24h, all Sleeper)
-- Emmett Johnson (RB-KC) — 1,423,071 adds
-- Chimere Dike (WR-TEN) — 411,003 adds
-- Darren Waller (TE-CAR) — 240,048 adds
-- Justice Hill (RB-BAL) — 150,084 adds
-- Chris Rodriguez Jr. (RB-JAX) — 121,581 adds
-- Tutu Atwell (WR-LAR) — 115,395 adds
-- Tyler Higbee (TE-LAR) — 111,987 adds
-- Corey Kiner (RB-NE) — 79,428 adds
-- Konata Mumpfield (WR-LAR) — 75,177 adds
-- Ashton Dulin (WR-IND) — 63,396 adds
-- Tank Dell (WR-HOU) — 57,448 adds
-- Mike Gesicki (TE-CIN) — 53,892 adds
-- Brenton Strange (TE-JAX) — 53,775 adds
-- Hunter Henry (TE-NE) — 52,323 adds
-- Gavin Bartholomew (TE-MIN) — 50,355 adds
-- Khalil Shakir (WR-BUF) — 48,627 adds
-- Indianapolis Colts (DEF-IND) — 48,207 adds
-- Zonovan Knight (RB-ARI) — 47,900 adds
-- Caleb Douglas (WR-MIA) — 47,704 adds
-- Elic Ayomanor (WR-TEN) — 46,708 adds
-- Jordan Addison (WR-MIN) [Questionable] — 42,354 adds
-- Fernando Mendoza (QB-LV) — 40,368 adds
-- Darnell Washington (TE-PIT) — 40,175 adds
-- CJ Daniels (WR-LAR) — 39,680 adds
-- Jordan Mason (RB-MIN) — 33,905 adds
+- Emmett Johnson (RB-KC) — 1,375,731 adds
+- Chimere Dike (WR-TEN) — 580,230 adds
+- Justice Hill (RB-BAL) — 245,628 adds
+- Darren Waller (TE-CAR) — 225,630 adds
+- Chris Rodriguez Jr. (RB-JAX) — 175,437 adds
+- Tyler Higbee (TE-LAR) — 141,876 adds
+- Tutu Atwell (WR-LAR) — 114,534 adds
+- Corey Kiner (RB-NE) — 97,464 adds
+- Tank Dell (WR-HOU) — 88,712 adds
+- Caleb Douglas (WR-MIA) — 74,632 adds
+- Indianapolis Colts (DEF-IND) — 72,321 adds
+- Gavin Bartholomew (TE-MIN) — 71,973 adds
+- Ashton Dulin (WR-IND) — 67,392 adds
+- Zonovan Knight (RB-ARI) — 66,194 adds
+- Brenton Strange (TE-JAX) — 62,217 adds
+- Elic Ayomanor (WR-TEN) — 60,028 adds
+- Mike Gesicki (TE-CIN) — 59,376 adds
+- Darnell Washington (TE-PIT) — 56,445 adds
+- Khalil Shakir (WR-BUF) — 55,638 adds
+- Hunter Henry (TE-NE) — 55,608 adds
+- Konata Mumpfield (WR-LAR) — 54,945 adds
+- Jadarian Price (RB-SEA) — 48,474 adds
+- Jordan Addison (WR-MIN) [Questionable] — 48,285 adds
+- Colby Parkinson (TE-LAR) — 46,362 adds
+- CJ Daniels (WR-LAR) — 46,028 adds
 
 ## League transactions this week
+- free_agent (complete) Princess Donut's Court: +[Zonovan Knight (RB-ARI)] -[Brenton Strange (TE-JAX)]
 - free_agent (complete) CorneliusJones: +[Washington Commanders (DEF-WAS)] -[Jordan Watkins (WR-SF)]
 - free_agent (complete) What can Brown do for u?: +[Indianapolis Colts (DEF-IND)] -[New York Giants (DEF-NYG)]
 - free_agent (complete) Lost in the Land of Love: +[Jacory Croskey-Merritt (RB-WAS) [IR]] -[Rachaad White (RB-WAS)]

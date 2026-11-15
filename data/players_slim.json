@@ -500,8 +500,8 @@
   "pos": "QB",
   "team": "NE",
   "status": "Active",
-  "injury_status": null,
-  "injury_note": null
+  "injury_status": "Out",
+  "injury_note": "Coach's Decision"
  },
  "355": {
   "name": "Brian Leonard",
@@ -3763,7 +3763,7 @@
   "name": "TreVeyon Henderson",
   "pos": "RB",
   "team": "NE",
-  "status": "Active",
+  "status": "Inactive",
   "injury_status": "IR",
   "injury_note": "Illness"
  },
@@ -10651,7 +10651,7 @@
   "name": "Hunter Long",
   "pos": "TE",
   "team": "ARI",
-  "status": "Inactive",
+  "status": "Active",
   "injury_status": "Questionable",
   "injury_note": "Knee"
  },
@@ -12020,8 +12020,8 @@
   "pos": "WR",
   "team": "NE",
   "status": "Active",
-  "injury_status": "Questionable",
-  "injury_note": "Knee"
+  "injury_status": null,
+  "injury_note": null
  },
  "374": {
   "name": "Dan Orlovsky",
@@ -18068,8 +18068,8 @@
   "pos": "TE",
   "team": "NE",
   "status": "Active",
-  "injury_status": "Questionable",
-  "injury_note": "Back"
+  "injury_status": null,
+  "injury_note": null
  },
  "2306": {
   "name": "Jameis Winston",
@@ -18299,9 +18299,9 @@
   "name": "Reggie Gilliam",
   "pos": "RB",
   "team": "NE",
-  "status": "Inactive",
-  "injury_status": "Questionable",
-  "injury_note": "Knee"
+  "status": "Active",
+  "injury_status": null,
+  "injury_note": null
  },
  "5117": {
   "name": "Jordan Thomas",
@@ -19780,8 +19780,8 @@
   "pos": "WR",
   "team": "DET",
   "status": "Active",
-  "injury_status": "Questionable",
-  "injury_note": "Ribs"
+  "injury_status": null,
+  "injury_note": null
  },
  "11900": {
   "name": "Jacob Kibodi",
@@ -23700,8 +23700,8 @@
   "pos": "RB",
   "team": "NE",
   "status": "Active",
-  "injury_status": "Questionable",
-  "injury_note": "Knee"
+  "injury_status": null,
+  "injury_note": null
  },
  "1330": {
   "name": "Junior Hemingway",
@@ -24268,8 +24268,8 @@
   "pos": "RB",
   "team": "DET",
   "status": "Active",
-  "injury_status": "Questionable",
-  "injury_note": "Ankle"
+  "injury_status": null,
+  "injury_note": null
  },
  "11483": {
   "name": "Ellis Merriweather",
@@ -30412,8 +30412,8 @@
   "pos": "RB",
   "team": null,
   "status": "Inactive",
-  "injury_status": "Questionable",
-  "injury_note": "Undisclosed"
+  "injury_status": null,
+  "injury_note": null
  },
  "12510": {
   "name": "Jalen Milroe",
@@ -32934,6 +32934,14 @@
   "status": "Active",
   "injury_status": null,
   "injury_note": null
+ },
+ "13200": {
+  "name": "Max Hurleman",
+  "pos": "WR",
+  "team": "PIT",
+  "status": "Active",
+  "injury_status": "Out",
+  "injury_note": "Undisclosed"
  },
  "7716": {
   "name": "John Bates",
