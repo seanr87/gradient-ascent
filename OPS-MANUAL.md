@@ -36,16 +36,16 @@
 | QB | Jayden Daniels | Draft (R5, pick 55) |
 | RB | Chris Rodriguez Jr. | Wk 9 (waiver claim) |
 | RB | Braelon Allen | Wk 3 (waiver claim) |
-| WR | Ryan Flournoy | Wk 8 (waiver claim) |
+| WR | Tre Tucker | Wk 6 (waiver claim) |
 | WR | CeeDee Lamb | Draft (R2, pick 18) |
-| FLEX | Tre Tucker | Wk 6 (waiver claim) |
+| FLEX | Dalton Kincaid | Draft (R7, pick 79) |
 | TE | Kyle Pitts Sr. | Wk 7 (waiver claim) |
 | K | Tyler Bass | Wk 7 (waiver claim) |
 | DEF | Green Bay | Wk 9 (waiver claim) |
 | BN | Bucky Irving | Draft (R3, pick 31) |
 | BN | Konata Mumpfield | Wk 10 (free agent) |
 | BN | Puka Nacua | Draft (R1, pick 7) |
-| BN | Dalton Kincaid | Draft (R7, pick 79) |
+| BN | Ryan Flournoy | Wk 8 (waiver claim) |
 | BN | Tampa Bay | Wk 7 (waiver claim) |
 <!-- ROSTER:END -->
 

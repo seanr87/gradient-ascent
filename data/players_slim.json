@@ -33228,8 +33228,8 @@
   "pos": "QB",
   "team": "NE",
   "status": "Active",
-  "injury_status": null,
-  "injury_note": null
+  "injury_status": "Out",
+  "injury_note": "Ankle"
  },
  "13194": {
   "name": "Key'Shawn Smith",

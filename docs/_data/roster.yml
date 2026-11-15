@@ -27,13 +27,13 @@
   acquired_via: "waiver claim"
   acquired_week: 3
 - slot: "WR"
-  player: "Ryan Flournoy"
+  player: "Tre Tucker"
   pos: "WR"
-  team: "DAL"
+  team: "LV"
   status: ""
-  acquired: "Wk 8"
+  acquired: "Wk 6"
   acquired_via: "waiver claim"
-  acquired_week: 8
+  acquired_week: 6
 - slot: "WR"
   player: "CeeDee Lamb"
   pos: "WR"
@@ -43,13 +43,13 @@
   acquired_via: "R2, pick 18"
   acquired_week: 0
 - slot: "FLEX"
-  player: "Tre Tucker"
-  pos: "WR"
-  team: "LV"
+  player: "Dalton Kincaid"
+  pos: "TE"
+  team: "BUF"
   status: ""
-  acquired: "Wk 6"
-  acquired_via: "waiver claim"
-  acquired_week: 6
+  acquired: "Draft"
+  acquired_via: "R7, pick 79"
+  acquired_week: 0
 - slot: "TE"
   player: "Kyle Pitts Sr."
   pos: "TE"
@@ -99,13 +99,13 @@
   acquired_via: "R1, pick 7"
   acquired_week: 0
 - slot: "BN4"
-  player: "Dalton Kincaid"
-  pos: "TE"
-  team: "BUF"
+  player: "Ryan Flournoy"
+  pos: "WR"
+  team: "DAL"
   status: ""
-  acquired: "Draft"
-  acquired_via: "R7, pick 79"
-  acquired_week: 0
+  acquired: "Wk 8"
+  acquired_via: "waiver claim"
+  acquired_week: 8
 - slot: "BN5"
   player: "Tampa Bay"
   pos: "DEF"
