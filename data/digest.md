@@ -1,5 +1,5 @@
 # Sleeper digest — The Climb
-Pulled: 2026-11-15 18:50 UTC · NFL week 10 (regular)
+Pulled: 2026-11-16 13:20 UTC · NFL week 10 (regular)
 
 ## My roster
 - Tre Tucker (WR-LV) (STARTER)
@@ -35,12 +35,12 @@ Pulled: 2026-11-15 18:50 UTC · NFL week 10 (regular)
 12. TheTroubles — 2-7, 881.23 PF, waiver #1
 
 ## This week's matchups (week 10)
-- Sea Squirts 63.95 — Princess Donut's Court 0.80
-- CorneliusJones 24.00 — What can Brown do for u? 16.91
-- Gradient Ascent 30.11 — Two Dumb Jaylens  15.10
-- Umojan Protectorate 44.03 — The Wizard’s Apprentice 21.20
-- TheTroubles 49.46 — The Butker Jihad 27.29
-- Lost in the Land of Love 55.20 — Playful Secrets 51.92
+- Sea Squirts 162.06 — Princess Donut's Court 67.57
+- CorneliusJones 104.46 — What can Brown do for u? 65.43
+- Two Dumb Jaylens  123.75 — Gradient Ascent 77.96
+- Umojan Protectorate 164.63 — The Wizard’s Apprentice 154.22
+- TheTroubles 156.59 — The Butker Jihad 120.53
+- Lost in the Land of Love 161.27 — Playful Secrets 124.12
 
 ## Last week's results (week 9)
 - Princess Donut's Court 109.71 — What can Brown do for u? 87.42
@@ -51,33 +51,35 @@ Pulled: 2026-11-15 18:50 UTC · NFL week 10 (regular)
 - Playful Secrets 132.00 — The Butker Jihad 115.28
 
 ## Trending adds (24h, all Sleeper)
-- Emmett Johnson (RB-KC) — 899,577 adds
-- Chimere Dike (WR-TEN) — 727,722 adds
-- Justice Hill (RB-BAL) — 359,460 adds
-- Darren Waller (TE-CAR) — 306,234 adds
-- Chris Rodriguez Jr. (RB-JAX) — 218,412 adds
-- Tyler Higbee (TE-LAR) — 197,775 adds
-- Tutu Atwell (WR-LAR) — 144,802 adds
-- Tank Dell (WR-HOU) — 133,360 adds
-- Caleb Douglas (WR-MIA) — 125,632 adds
-- Indianapolis Colts (DEF-IND) — 111,975 adds
-- Brenton Strange (TE-JAX) — 95,715 adds
-- Elic Ayomanor (WR-TEN) — 95,324 adds
-- Gavin Bartholomew (TE-MIN) — 87,885 adds
-- Mike Gesicki (TE-CIN) — 85,796 adds
-- Khalil Shakir (WR-BUF) — 80,352 adds
-- Fernando Mendoza (QB-LV) — 80,016 adds
-- Darnell Washington (TE-PIT) — 77,130 adds
-- Zonovan Knight (RB-ARI) — 76,968 adds
-- Ashton Dulin (WR-IND) — 74,997 adds
-- Corey Kiner (RB-NE) — 70,188 adds
-- Ryan Fitzgerald (K-CAR) — 69,295 adds
-- Colby Parkinson (TE-LAR) — 64,980 adds
-- Konata Mumpfield (WR-LAR) — 64,926 adds
-- Jadarian Price (RB-SEA) — 62,415 adds
-- Jakobi Meyers (WR-JAX) — 61,470 adds
+- Justice Hill (RB-BAL) — 418,734 adds
+- Chimere Dike (WR-TEN) — 398,745 adds
+- Emmett Johnson (RB-KC) — 380,349 adds
+- Quentin Johnston (WR-LAC) — 281,561 adds
+- Darren Waller (TE-CAR) — 206,766 adds
+- Seth McGowan (RB-IND) — 193,488 adds
+- Tutu Atwell (WR-LAR) — 168,791 adds
+- Jordyn Tyson (WR-NO) — 166,448 adds
+- Tyler Higbee (TE-LAR) — 166,140 adds
+- Fernando Mendoza (QB-LV) — 163,848 adds
+- Xavier Hutchinson (WR-HOU) [Questionable] — 153,202 adds
+- Ryan Flournoy (WR-DAL) — 142,344 adds
+- Caleb Douglas (WR-MIA) — 121,480 adds
+- Chris Rodriguez Jr. (RB-JAX) — 120,762 adds
+- Michael Mayer (TE-LV) — 110,277 adds
+- Mike Gesicki (TE-CIN) — 100,380 adds
+- Darnell Washington (TE-PIT) — 93,295 adds
+- Elic Ayomanor (WR-TEN) — 91,732 adds
+- Deshaun Watson (QB-CLE) — 87,744 adds
+- Tank Dell (WR-HOU) — 87,520 adds
+- Gavin Bartholomew (TE-MIN) — 86,607 adds
+- Brenton Strange (TE-JAX) — 86,229 adds
+- Tampa Bay Buccaneers (DEF-TB) — 79,715 adds
+- Kaelon Black (RB-SF) — 78,134 adds
+- Pat Bryant (WR-DEN) — 75,896 adds
 
 ## League transactions this week
+- free_agent (complete) Lost in the Land of Love: +[Fernando Mendoza (QB-LV)] -[Bryce Young (QB-CAR)]
+- free_agent (complete) Lost in the Land of Love: +[Pat Bryant (WR-DEN)] -[Wan'Dale Robinson (WR-TEN) [Questionable]]
 - free_agent (complete) Princess Donut's Court: +[Zonovan Knight (RB-ARI)] -[Brenton Strange (TE-JAX)]
 - free_agent (complete) CorneliusJones: +[Washington Commanders (DEF-WAS)] -[Jordan Watkins (WR-SF)]
 - free_agent (complete) What can Brown do for u?: +[Indianapolis Colts (DEF-IND)] -[New York Giants (DEF-NYG)]
