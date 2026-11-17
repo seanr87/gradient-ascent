@@ -1,5 +1,5 @@
 # Sleeper digest — The Climb
-Pulled: 2026-11-17 11:01 UTC · NFL week 11 (regular)
+Pulled: 2026-11-17 12:31 UTC · NFL week 11 (regular)
 
 ## My roster
 - Tre Tucker (WR-LV) (STARTER)
@@ -51,30 +51,30 @@ Pulled: 2026-11-17 11:01 UTC · NFL week 11 (regular)
 - Lost in the Land of Love 161.27 — Playful Secrets 124.12
 
 ## Trending adds (24h, all Sleeper)
-- Xavier Hutchinson (WR-HOU) [Questionable] — 403,872 adds
-- Michael Mayer (TE-LV) — 387,180 adds
-- Seth McGowan (RB-IND) — 290,920 adds
-- Jordyn Tyson (WR-NO) — 253,368 adds
-- Ryan Flournoy (WR-DAL) — 216,736 adds
-- Mark Andrews (TE-BAL) — 206,982 adds
-- Pat Bryant (WR-DEN) — 178,648 adds
-- Quentin Johnston (WR-LAC) — 142,562 adds
-- Justice Hill (RB-BAL) — 141,417 adds
-- Detroit Lions (DEF-DET) — 136,152 adds
-- Kaelon Black (RB-SF) — 94,346 adds
-- Emmett Johnson (RB-KC) — 93,429 adds
-- Elic Ayomanor (WR-TEN) — 85,784 adds
-- Chase McLaughlin (K-TB) — 82,232 adds
-- Caleb Douglas (WR-MIA) — 80,752 adds
-- Gavin Bartholomew (TE-MIN) — 80,208 adds
-- Deshaun Watson (QB-CLE) — 79,432 adds
-- Bo Nix (QB-DEN) — 72,882 adds
-- Tampa Bay Buccaneers (DEF-TB) — 71,260 adds
-- Jacory Croskey-Merritt (RB-WAS) [IR] — 70,893 adds
-- Kirk Cousins (QB-MIN) — 64,384 adds
-- C.J. Stroud (QB-HOU) — 64,372 adds
-- Brenton Strange (TE-JAX) — 52,641 adds
-- Darren Waller (TE-CAR) — 51,606 adds
-- Alvin Kamara (RB-NO) — 48,808 adds
+- Xavier Hutchinson (WR-HOU) [Questionable] — 468,594 adds
+- Michael Mayer (TE-LV) — 461,916 adds
+- Seth McGowan (RB-IND) — 325,448 adds
+- Jordyn Tyson (WR-NO) — 287,512 adds
+- Ryan Flournoy (WR-DAL) — 257,232 adds
+- Mark Andrews (TE-BAL) — 243,378 adds
+- Pat Bryant (WR-DEN) — 217,544 adds
+- Detroit Lions (DEF-DET) — 172,629 adds
+- Justice Hill (RB-BAL) — 149,562 adds
+- Quentin Johnston (WR-LAC) — 140,868 adds
+- Kaelon Black (RB-SF) — 104,818 adds
+- Chase McLaughlin (K-TB) — 102,984 adds
+- Elic Ayomanor (WR-TEN) — 101,468 adds
+- Emmett Johnson (RB-KC) — 99,432 adds
+- Bo Nix (QB-DEN) — 92,550 adds
+- Caleb Douglas (WR-MIA) — 91,184 adds
+- Gavin Bartholomew (TE-MIN) — 87,237 adds
+- Deshaun Watson (QB-CLE) — 84,464 adds
+- Jacory Croskey-Merritt (RB-WAS) [IR] — 82,935 adds
+- Tampa Bay Buccaneers (DEF-TB) — 80,540 adds
+- Kirk Cousins (QB-MIN) — 72,824 adds
+- C.J. Stroud (QB-HOU) — 72,121 adds
+- Brenton Strange (TE-JAX) — 59,679 adds
+- Darren Waller (TE-CAR) — 59,058 adds
+- Adonai Mitchell (WR-NYJ) — 57,144 adds
 
 ## League transactions this week
