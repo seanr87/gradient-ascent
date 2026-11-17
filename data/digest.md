@@ -1,5 +1,5 @@
 # Sleeper digest — The Climb
-Pulled: 2026-11-17 19:23 UTC · NFL week 11 (regular)
+Pulled: 2026-11-17 19:33 UTC · NFL week 11 (regular)
 
 ## My roster
 - Tre Tucker (WR-LV) (STARTER)
@@ -51,30 +51,30 @@ Pulled: 2026-11-17 19:23 UTC · NFL week 11 (regular)
 - Lost in the Land of Love 161.27 — Playful Secrets 124.12
 
 ## Trending adds (24h, all Sleeper)
-- Michael Mayer (TE-LV) — 1,094,355 adds
-- Xavier Hutchinson (WR-HOU) [Questionable] — 912,667 adds
-- Seth McGowan (RB-IND) — 572,360 adds
-- Ryan Flournoy (WR-DAL) — 564,736 adds
-- Mark Andrews (TE-BAL) — 520,821 adds
-- Jordyn Tyson (WR-NO) — 517,152 adds
-- Pat Bryant (WR-DEN) — 503,880 adds
-- Detroit Lions (DEF-DET) — 455,769 adds
-- Chase McLaughlin (K-TB) — 244,464 adds
-- Bo Nix (QB-DEN) — 243,924 adds
-- Elic Ayomanor (WR-TEN) — 217,096 adds
-- Cairo Santos (K-CHI) — 204,666 adds
-- Kaelon Black (RB-SF) — 190,995 adds
-- Jacory Croskey-Merritt (RB-WAS) [IR] — 188,667 adds
-- Justice Hill (RB-BAL) — 182,691 adds
-- Caleb Douglas (WR-MIA) — 168,104 adds
-- David Montgomery (RB-HOU) [Out] — 149,466 adds
-- Tampa Bay Buccaneers (DEF-TB) — 139,660 adds
-- Emmett Johnson (RB-KC) — 138,618 adds
-- Gavin Bartholomew (TE-MIN) — 133,335 adds
-- Kirk Cousins (QB-MIN) — 129,216 adds
-- C.J. Stroud (QB-HOU) — 127,309 adds
-- Adonai Mitchell (WR-NYJ) — 122,664 adds
-- Darren Waller (TE-CAR) — 111,987 adds
-- Mike Gesicki (TE-CIN) — 109,056 adds
+- Michael Mayer (TE-LV) — 1,106,559 adds
+- Xavier Hutchinson (WR-HOU) [Questionable] — 921,718 adds
+- Seth McGowan (RB-IND) — 577,296 adds
+- Ryan Flournoy (WR-DAL) — 570,784 adds
+- Mark Andrews (TE-BAL) — 526,410 adds
+- Jordyn Tyson (WR-NO) — 521,848 adds
+- Pat Bryant (WR-DEN) — 510,080 adds
+- Detroit Lions (DEF-DET) — 460,413 adds
+- Chase McLaughlin (K-TB) — 246,680 adds
+- Bo Nix (QB-DEN) — 246,576 adds
+- Elic Ayomanor (WR-TEN) — 219,452 adds
+- Cairo Santos (K-CHI) — 207,382 adds
+- Kaelon Black (RB-SF) — 193,249 adds
+- Jacory Croskey-Merritt (RB-WAS) [IR] — 192,240 adds
+- Justice Hill (RB-BAL) — 183,915 adds
+- Caleb Douglas (WR-MIA) — 170,176 adds
+- David Montgomery (RB-HOU) [Out] — 151,320 adds
+- Tampa Bay Buccaneers (DEF-TB) — 141,045 adds
+- Emmett Johnson (RB-KC) — 139,644 adds
+- Gavin Bartholomew (TE-MIN) — 134,568 adds
+- Kirk Cousins (QB-MIN) — 130,584 adds
+- C.J. Stroud (QB-HOU) — 128,646 adds
+- Adonai Mitchell (WR-NYJ) — 123,944 adds
+- Darren Waller (TE-CAR) — 113,094 adds
+- Mike Gesicki (TE-CIN) — 110,308 adds
 
 ## League transactions this week
