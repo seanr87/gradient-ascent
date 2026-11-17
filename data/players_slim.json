@@ -2450,7 +2450,7 @@
  "11311": {
   "name": "Jason Brownlee",
   "pos": "WR",
-  "team": null,
+  "team": "TEN",
   "status": "Active",
   "injury_status": null,
   "injury_note": null
@@ -3316,7 +3316,7 @@
   "pos": "WR",
   "team": "LAC",
   "status": "Active",
-  "injury_status": "Doubtful",
+  "injury_status": "Out",
   "injury_note": "Hamstring"
  },
  "13939": {
@@ -3916,8 +3916,8 @@
   "pos": "WR",
   "team": "BAL",
   "status": "Active",
-  "injury_status": null,
-  "injury_note": null
+  "injury_status": "Out",
+  "injury_note": "Coach's Decision"
  },
  "1650": {
   "name": "Cameron Marshall",
@@ -5058,7 +5058,7 @@
  "4574": {
   "name": "Cooper Rush",
   "pos": "QB",
-  "team": null,
+  "team": "TB",
   "status": "Active",
   "injury_status": null,
   "injury_note": null
@@ -13052,8 +13052,8 @@
   "pos": "QB",
   "team": "BAL",
   "status": "Active",
-  "injury_status": null,
-  "injury_note": null
+  "injury_status": "Out",
+  "injury_note": "Coach's Decision"
  },
  "3214": {
   "name": "Hunter Henry",
@@ -13200,7 +13200,7 @@
   "injury_note": null
  },
  "13356": {
-  "name": "Trebor Pena",
+  "name": "Trebor Pe\u00f1a",
   "pos": "WR",
   "team": "JAX",
   "status": "Active",
@@ -13492,8 +13492,8 @@
   "pos": "RB",
   "team": null,
   "status": "Active",
-  "injury_status": "Questionable",
-  "injury_note": "Knee - ACL"
+  "injury_status": null,
+  "injury_note": null
  },
  "2732": {
   "name": "Connor Hamlett",
@@ -16858,7 +16858,7 @@
  "6037": {
   "name": "Brett Rypien",
   "pos": "QB",
-  "team": null,
+  "team": "LV",
   "status": "Active",
   "injury_status": null,
   "injury_note": null
@@ -22906,7 +22906,7 @@
  "11306": {
   "name": "Xavier Gipson",
   "pos": "WR",
-  "team": "PHI",
+  "team": "NYG",
   "status": "Active",
   "injury_status": null,
   "injury_note": null
@@ -23226,7 +23226,7 @@
  "6154": {
   "name": "David Sills V",
   "pos": "WR",
-  "team": null,
+  "team": "TB",
   "status": "Active",
   "injury_status": null,
   "injury_note": null
@@ -26372,8 +26372,8 @@
   "pos": "WR",
   "team": "IND",
   "status": "Active",
-  "injury_status": null,
-  "injury_note": null
+  "injury_status": "Questionable",
+  "injury_note": "Toe"
  },
  "7602": {
   "name": "Kylen Granson",
@@ -27178,7 +27178,7 @@
  "8235": {
   "name": "Samori Toure",
   "pos": "WR",
-  "team": null,
+  "team": "IND",
   "status": "Active",
   "injury_status": null,
   "injury_note": null
@@ -27682,7 +27682,7 @@
  "6850": {
   "name": "Harrison Bryant",
   "pos": "TE",
-  "team": null,
+  "team": "IND",
   "status": "Active",
   "injury_status": null,
   "injury_note": null
@@ -32035,7 +32035,7 @@
   "name": "Jordan Addison",
   "pos": "WR",
   "team": "MIN",
-  "status": "Active",
+  "status": "Inactive",
   "injury_status": "Out",
   "injury_note": "Thumb"
  },
@@ -32083,9 +32083,9 @@
   "name": "David Njoku",
   "pos": "TE",
   "team": "LAC",
-  "status": "Inactive",
-  "injury_status": "IR",
-  "injury_note": "Lower Leg"
+  "status": "Active",
+  "injury_status": null,
+  "injury_note": null
  },
  "13621": {
   "name": "Dillon Bell",

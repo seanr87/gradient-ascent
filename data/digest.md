@@ -1,5 +1,5 @@
 # Sleeper digest — The Climb
-Pulled: 2026-11-16 13:20 UTC · NFL week 10 (regular)
+Pulled: 2026-11-17 01:09 UTC · NFL week 10 (regular)
 
 ## My roster
 - Tre Tucker (WR-LV) (STARTER)
@@ -51,31 +51,31 @@ Pulled: 2026-11-16 13:20 UTC · NFL week 10 (regular)
 - Playful Secrets 132.00 — The Butker Jihad 115.28
 
 ## Trending adds (24h, all Sleeper)
-- Justice Hill (RB-BAL) — 418,734 adds
-- Chimere Dike (WR-TEN) — 398,745 adds
-- Emmett Johnson (RB-KC) — 380,349 adds
-- Quentin Johnston (WR-LAC) — 281,561 adds
-- Darren Waller (TE-CAR) — 206,766 adds
-- Seth McGowan (RB-IND) — 193,488 adds
-- Tutu Atwell (WR-LAR) — 168,791 adds
-- Jordyn Tyson (WR-NO) — 166,448 adds
-- Tyler Higbee (TE-LAR) — 166,140 adds
-- Fernando Mendoza (QB-LV) — 163,848 adds
-- Xavier Hutchinson (WR-HOU) [Questionable] — 153,202 adds
-- Ryan Flournoy (WR-DAL) — 142,344 adds
-- Caleb Douglas (WR-MIA) — 121,480 adds
-- Chris Rodriguez Jr. (RB-JAX) — 120,762 adds
-- Michael Mayer (TE-LV) — 110,277 adds
-- Mike Gesicki (TE-CIN) — 100,380 adds
-- Darnell Washington (TE-PIT) — 93,295 adds
-- Elic Ayomanor (WR-TEN) — 91,732 adds
-- Deshaun Watson (QB-CLE) — 87,744 adds
-- Tank Dell (WR-HOU) — 87,520 adds
-- Gavin Bartholomew (TE-MIN) — 86,607 adds
-- Brenton Strange (TE-JAX) — 86,229 adds
-- Tampa Bay Buccaneers (DEF-TB) — 79,715 adds
-- Kaelon Black (RB-SF) — 78,134 adds
-- Pat Bryant (WR-DEN) — 75,896 adds
+- Quentin Johnston (WR-LAC) — 220,906 adds
+- Seth McGowan (RB-IND) — 201,656 adds
+- Xavier Hutchinson (WR-HOU) [Questionable] — 196,014 adds
+- Jordyn Tyson (WR-NO) — 195,936 adds
+- Michael Mayer (TE-LV) — 180,702 adds
+- Justice Hill (RB-BAL) — 170,415 adds
+- Ryan Flournoy (WR-DAL) — 134,936 adds
+- Emmett Johnson (RB-KC) — 98,253 adds
+- Pat Bryant (WR-DEN) — 84,912 adds
+- Deshaun Watson (QB-CLE) — 72,072 adds
+- Kaelon Black (RB-SF) — 67,452 adds
+- Gavin Bartholomew (TE-MIN) — 64,584 adds
+- Caleb Douglas (WR-MIA) — 59,408 adds
+- C.J. Stroud (QB-HOU) — 51,562 adds
+- Detroit Lions (DEF-DET) — 50,967 adds
+- Elic Ayomanor (WR-TEN) — 48,588 adds
+- Tampa Bay Buccaneers (DEF-TB) — 47,980 adds
+- Kirk Cousins (QB-MIN) — 46,784 adds
+- Darren Waller (TE-CAR) — 42,894 adds
+- Alvin Kamara (RB-NO) — 42,504 adds
+- Brenton Strange (TE-JAX) — 39,735 adds
+- Fernando Mendoza (QB-LV) — 39,632 adds
+- Dohnte Meyers (WR-CIN) — 39,546 adds
+- Bo Nix (QB-DEN) — 35,010 adds
+- Josh Downs (WR-KC) — 29,600 adds
 
 ## League transactions this week
 - free_agent (complete) Lost in the Land of Love: +[Fernando Mendoza (QB-LV)] -[Bryce Young (QB-CAR)]
