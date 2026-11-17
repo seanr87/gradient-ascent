@@ -1,5 +1,5 @@
 # Sleeper digest — The Climb
-Pulled: 2026-11-17 05:03 UTC · NFL week 11 (regular)
+Pulled: 2026-11-17 11:01 UTC · NFL week 11 (regular)
 
 ## My roster
 - Tre Tucker (WR-LV) (STARTER)
@@ -21,18 +21,18 @@ Pulled: 2026-11-17 05:03 UTC · NFL week 11 (regular)
 - Opponent: The Butker Jihad
 
 ## Standings (W-L, points for)
-1. Umojan Protectorate — 7-2, 1157.65 PF, waiver #8
-2. Princess Donut's Court — 6-3, 1126.40 PF, waiver #5
-3. Two Dumb Jaylens  — 6-3, 1120.12 PF, waiver #4
-4. Playful Secrets — 6-3, 1117.31 PF, waiver #7
-5. Sea Squirts — 5-4, 1201.37 PF, waiver #6
-6. Gradient Ascent — 5-4, 1144.09 PF, waiver #12
-7. The Butker Jihad — 5-4, 1118.40 PF, waiver #3
-8. CorneliusJones — 4-5, 983.12 PF, waiver #11
-9. The Wizard’s Apprentice — 3-6, 1084.29 PF, waiver #10
-10. Lost in the Land of Love — 3-6, 980.98 PF, waiver #9
-11. What can Brown do for u? — 2-7, 1030.21 PF, waiver #2
-12. TheTroubles — 2-7, 881.23 PF, waiver #1
+1. Umojan Protectorate — 8-2, 1322.28 PF, waiver #12
+2. Two Dumb Jaylens  — 7-3, 1243.87 PF, waiver #11
+3. Sea Squirts — 6-4, 1363.43 PF, waiver #10
+4. Playful Secrets — 6-4, 1241.43 PF, waiver #9
+5. Princess Donut's Court — 6-4, 1203.87 PF, waiver #8
+6. The Butker Jihad — 5-5, 1238.93 PF, waiver #7
+7. Gradient Ascent — 5-5, 1222.05 PF, waiver #6
+8. CorneliusJones — 5-5, 1087.58 PF, waiver #5
+9. Lost in the Land of Love — 4-6, 1142.25 PF, waiver #4
+10. The Wizard’s Apprentice — 3-7, 1248.26 PF, waiver #3
+11. TheTroubles — 3-7, 1037.82 PF, waiver #2
+12. What can Brown do for u? — 2-8, 1112.14 PF, waiver #1
 
 ## This week's matchups (week 11)
 - Princess Donut's Court 0.00 — CorneliusJones 0.00
@@ -51,30 +51,30 @@ Pulled: 2026-11-17 05:03 UTC · NFL week 11 (regular)
 - Lost in the Land of Love 161.27 — Playful Secrets 124.12
 
 ## Trending adds (24h, all Sleeper)
-- Xavier Hutchinson (WR-HOU) [Questionable] — 276,297 adds
-- Michael Mayer (TE-LV) — 239,643 adds
-- Seth McGowan (RB-IND) — 229,664 adds
-- Jordyn Tyson (WR-NO) — 205,648 adds
-- Quentin Johnston (WR-LAC) — 162,015 adds
-- Ryan Flournoy (WR-DAL) — 145,264 adds
-- Justice Hill (RB-BAL) — 141,237 adds
-- Mark Andrews (TE-BAL) — 114,093 adds
-- Pat Bryant (WR-DEN) — 104,808 adds
-- Emmett Johnson (RB-KC) — 89,370 adds
-- Kaelon Black (RB-SF) — 74,459 adds
-- Deshaun Watson (QB-CLE) — 73,080 adds
-- Detroit Lions (DEF-DET) — 72,540 adds
-- Gavin Bartholomew (TE-MIN) — 67,878 adds
-- Caleb Douglas (WR-MIA) — 63,432 adds
-- Elic Ayomanor (WR-TEN) — 58,172 adds
-- Tampa Bay Buccaneers (DEF-TB) — 53,920 adds
-- C.J. Stroud (QB-HOU) — 52,087 adds
-- Kirk Cousins (QB-MIN) — 49,832 adds
-- Chase McLaughlin (K-TB) — 44,168 adds
-- Brenton Strange (TE-JAX) — 42,399 adds
-- Darren Waller (TE-CAR) — 41,391 adds
-- Alvin Kamara (RB-NO) — 41,336 adds
-- Jacory Croskey-Merritt (RB-WAS) [IR] — 40,437 adds
-- Bo Nix (QB-DEN) — 40,326 adds
+- Xavier Hutchinson (WR-HOU) [Questionable] — 403,872 adds
+- Michael Mayer (TE-LV) — 387,180 adds
+- Seth McGowan (RB-IND) — 290,920 adds
+- Jordyn Tyson (WR-NO) — 253,368 adds
+- Ryan Flournoy (WR-DAL) — 216,736 adds
+- Mark Andrews (TE-BAL) — 206,982 adds
+- Pat Bryant (WR-DEN) — 178,648 adds
+- Quentin Johnston (WR-LAC) — 142,562 adds
+- Justice Hill (RB-BAL) — 141,417 adds
+- Detroit Lions (DEF-DET) — 136,152 adds
+- Kaelon Black (RB-SF) — 94,346 adds
+- Emmett Johnson (RB-KC) — 93,429 adds
+- Elic Ayomanor (WR-TEN) — 85,784 adds
+- Chase McLaughlin (K-TB) — 82,232 adds
+- Caleb Douglas (WR-MIA) — 80,752 adds
+- Gavin Bartholomew (TE-MIN) — 80,208 adds
+- Deshaun Watson (QB-CLE) — 79,432 adds
+- Bo Nix (QB-DEN) — 72,882 adds
+- Tampa Bay Buccaneers (DEF-TB) — 71,260 adds
+- Jacory Croskey-Merritt (RB-WAS) [IR] — 70,893 adds
+- Kirk Cousins (QB-MIN) — 64,384 adds
+- C.J. Stroud (QB-HOU) — 64,372 adds
+- Brenton Strange (TE-JAX) — 52,641 adds
+- Darren Waller (TE-CAR) — 51,606 adds
+- Alvin Kamara (RB-NO) — 48,808 adds
 
 ## League transactions this week
