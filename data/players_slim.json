@@ -2306,7 +2306,7 @@
  "10228": {
   "name": "Charlie Jones",
   "pos": "WR",
-  "team": "NYG",
+  "team": null,
   "status": "Active",
   "injury_status": null,
   "injury_note": null
@@ -5106,7 +5106,7 @@
  "8500": {
   "name": "John FitzPatrick",
   "pos": "TE",
-  "team": null,
+  "team": "KC",
   "status": "Active",
   "injury_status": null,
   "injury_note": null
@@ -9698,7 +9698,7 @@
  "4233": {
   "name": "Zane Gonzalez",
   "pos": "K",
-  "team": "MIA",
+  "team": null,
   "status": "Active",
   "injury_status": null,
   "injury_note": null
@@ -30266,7 +30266,7 @@
  "13011": {
   "name": "Brennan Presley",
   "pos": "WR",
-  "team": "LAR",
+  "team": null,
   "status": "Active",
   "injury_status": null,
   "injury_note": null
@@ -30410,8 +30410,8 @@
  "13778": {
   "name": "EJ Smith",
   "pos": "RB",
-  "team": null,
-  "status": "Inactive",
+  "team": "KC",
+  "status": "Active",
   "injury_status": null,
   "injury_note": null
  },
