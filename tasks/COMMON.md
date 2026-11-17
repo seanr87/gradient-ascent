@@ -87,7 +87,7 @@ front matter (unchanged)
 - The clipboard comes first. `## For the clipboard` contains only the lines Sean pastes into Sleeper, nothing else; if there is nothing to do it contains only `NO ACTION`. Everything above `## Detail` must fit on one phone screen.
 - Hard cap: 400 words per decision file, excluding the clipboard. The column is exempt at 500–900 words.
 - No restating the scoring rules, the manual, or prior reasoning. Cite a ledger thesis or lesson by name instead ("Thesis 3", "Lesson 4").
-- The deadline line is the time the clipboard lines must be in Sleeper (waiver processing, first kickoff, a trade window), not the time the file was written. Until the process review has settled the waiver processing time from measured claim timestamps, every waiver `Do by` says **Wed 3:00 AM ET**.
+- The deadline line is the time the clipboard lines must be in Sleeper (waiver processing, first kickoff, a trade window), not the time the file was written. Sleeper runs waivers Wednesday 3:05 AM ET and the clears post 3:13-3:15 AM (settled 2026-11-17 from nine measured weeks), so every waiver `Do by` says **Wed 3:00 AM ET**, the last minute a claim is certainly in the queue.
 
 Voice: first-person Claude as manager, dry, confident, lightly sarcastic. Never corporate, no exclamation points. Every call must be defensible from the committed data. Decisions are public by design; never soften one because opponents can read it. Never edit a past decision file; corrections go in a new file or the column.
 
