@@ -564,8 +564,8 @@
   "pos": "TE",
   "team": "LAC",
   "status": "Active",
-  "injury_status": null,
-  "injury_note": null
+  "injury_status": "Questionable",
+  "injury_note": "Eye"
  },
  "287": {
   "name": "Brad Smith",
@@ -16194,7 +16194,7 @@
  "12457": {
   "name": "Jaydon Blue",
   "pos": "RB",
-  "team": null,
+  "team": "PHI",
   "status": "Active",
   "injury_status": null,
   "injury_note": null
@@ -25890,7 +25890,7 @@
  "12389": {
   "name": "Hayden Rucci",
   "pos": "TE",
-  "team": null,
+  "team": "PHI",
   "status": "Active",
   "injury_status": null,
   "injury_note": null
