@@ -1,5 +1,5 @@
 # Sleeper digest — The Climb
-Pulled: 2026-11-18 02:33 UTC · NFL week 11 (regular)
+Pulled: 2026-11-18 02:38 UTC · NFL week 11 (regular)
 
 ## My roster
 - Tre Tucker (WR-LV) (STARTER)
