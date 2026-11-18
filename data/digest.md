@@ -1,11 +1,11 @@
 # Sleeper digest — The Climb
-Pulled: 2026-11-18 17:08 UTC · NFL week 11 (regular)
+Pulled: 2026-11-18 22:33 UTC · NFL week 11 (regular)
 
 ## My roster
 - Tre Tucker (WR-LV) (STARTER)
 - Xavier Hutchinson (WR-HOU)
-- Chris Rodriguez Jr. (RB-JAX) (STARTER)
-- Dalton Kincaid (TE-BUF) (STARTER)
+- Chris Rodriguez Jr. (RB-JAX) [Questionable] (STARTER)
+- Dalton Kincaid (TE-BUF) [Questionable] (STARTER)
 - Jayden Daniels (QB-WAS) (STARTER)
 - Braelon Allen (RB-NYJ) (STARTER)
 - Bucky Irving (RB-TB)
@@ -51,31 +51,31 @@ Pulled: 2026-11-18 17:08 UTC · NFL week 11 (regular)
 - Lost in the Land of Love 161.27 — Playful Secrets 124.12
 
 ## Trending adds (24h, all Sleeper)
-- Michael Mayer (TE-LV) — 1,782,144 adds
-- Xavier Hutchinson (WR-HOU) — 1,774,129 adds
-- Pat Bryant (WR-DEN) — 1,105,128 adds
-- Detroit Lions (DEF-DET) — 1,098,333 adds
-- Mark Andrews (TE-BAL) — 972,144 adds
-- Ryan Flournoy (WR-DAL) — 878,152 adds
-- Seth McGowan (RB-IND) — 828,576 adds
-- Elic Ayomanor (WR-TEN) — 820,108 adds
-- Jordyn Tyson (WR-NO) — 590,688 adds
-- Jacory Croskey-Merritt (RB-WAS) [IR] — 557,892 adds
-- Cairo Santos (K-CHI) — 494,543 adds
-- Bo Nix (QB-DEN) — 432,324 adds
-- Chimere Dike (WR-TEN) — 376,740 adds
-- Chase McLaughlin (K-TB) — 318,000 adds
-- Kaelon Black (RB-SF) — 313,285 adds
-- David Montgomery (RB-HOU) — 307,092 adds
-- Caleb Douglas (WR-MIA) — 282,008 adds
-- Justice Hill (RB-BAL) — 279,711 adds
-- Courtland Sutton (WR-DEN) — 260,226 adds
-- Adonai Mitchell (WR-NYJ) — 253,640 adds
-- Gavin Bartholomew (TE-MIN) — 239,661 adds
-- Tampa Bay Buccaneers (DEF-TB) — 223,635 adds
-- Kyle Monangai (RB-CHI) [Questionable] — 209,196 adds
-- Darren Waller (TE-CAR) — 206,694 adds
-- Kenny Gainwell (RB-TB) — 200,584 adds
+- Xavier Hutchinson (WR-HOU) — 1,649,760 adds
+- Michael Mayer (TE-LV) — 1,449,297 adds
+- Detroit Lions (DEF-DET) — 1,135,620 adds
+- Pat Bryant (WR-DEN) — 997,376 adds
+- Mark Andrews (TE-BAL) — 869,814 adds
+- Elic Ayomanor (WR-TEN) — 824,268 adds
+- Ryan Flournoy (WR-DAL) — 715,192 adds
+- Seth McGowan (RB-IND) — 708,192 adds
+- Jacory Croskey-Merritt (RB-WAS) [IR] — 510,525 adds
+- Cairo Santos (K-CHI) — 509,957 adds
+- Chimere Dike (WR-TEN) — 499,878 adds
+- Jordyn Tyson (WR-NO) [Questionable] — 438,200 adds
+- Bo Nix (QB-DEN) — 384,720 adds
+- David Montgomery (RB-HOU) — 278,964 adds
+- Kaelon Black (RB-SF) — 271,236 adds
+- Justice Hill (RB-BAL) — 270,540 adds
+- Chase McLaughlin (K-TB) — 268,224 adds
+- Courtland Sutton (WR-DEN) — 250,560 adds
+- Caleb Douglas (WR-MIA) [Questionable] — 243,560 adds
+- Adonai Mitchell (WR-NYJ) — 229,784 adds
+- Gavin Bartholomew (TE-MIN) — 223,191 adds
+- Tampa Bay Buccaneers (DEF-TB) — 218,575 adds
+- Kyle Monangai (RB-CHI) — 195,420 adds
+- Darren Waller (TE-CAR) [Questionable] — 195,363 adds
+- Kenny Gainwell (RB-TB) — 188,072 adds
 
 ## League transactions this week
 - free_agent (complete) Sea Squirts: +[T.J. Hockenson (TE-MIN) [Questionable]] -[Denzel Boston (WR-CLE)]
