@@ -39,13 +39,15 @@
 | WR | Tre Tucker | Wk 6 (waiver claim) |
 | WR | CeeDee Lamb | Draft (R2, pick 18) |
 | FLEX | Dalton Kincaid | Draft (R7, pick 79) |
-| TE | Kyle Pitts Sr. | Wk 7 (waiver claim) |
+| TE | — | — |
 | K | Tyler Bass | Wk 7 (waiver claim) |
-| DEF | Green Bay | Wk 9 (waiver claim) |
+| DEF | — | — |
 | BN | Bucky Irving | Draft (R3, pick 31) |
-| BN | Konata Mumpfield | Wk 10 (free agent) |
+| BN | Courtland Sutton | Wk 11 (free agent) |
+| BN | Makai Lemon | Wk 11 (free agent) |
 | BN | Puka Nacua | Draft (R1, pick 7) |
 | BN | Ryan Flournoy | Wk 8 (waiver claim) |
+| BN | Xavier Hutchinson | Wk 11 (free agent) |
 | BN | Tampa Bay | Wk 7 (waiver claim) |
 <!-- ROSTER:END -->
 

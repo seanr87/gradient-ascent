@@ -51,13 +51,13 @@
   acquired_via: "R7, pick 79"
   acquired_week: 0
 - slot: "TE"
-  player: "Kyle Pitts Sr."
-  pos: "TE"
-  team: "ATL"
+  player: "—"
+  pos: ""
+  team: ""
   status: ""
-  acquired: "Wk 7"
-  acquired_via: "waiver claim"
-  acquired_week: 7
+  acquired: ""
+  acquired_via: ""
+  acquired_week: -1
 - slot: "K"
   player: "Tyler Bass"
   pos: "K"
@@ -67,13 +67,13 @@
   acquired_via: "waiver claim"
   acquired_week: 7
 - slot: "DEF"
-  player: "Green Bay"
-  pos: "DEF"
-  team: "GB"
+  player: "—"
+  pos: ""
+  team: ""
   status: ""
-  acquired: "Wk 9"
-  acquired_via: "waiver claim"
-  acquired_week: 9
+  acquired: ""
+  acquired_via: ""
+  acquired_week: -1
 - slot: "BN1"
   player: "Bucky Irving"
   pos: "RB"
@@ -83,14 +83,22 @@
   acquired_via: "R3, pick 31"
   acquired_week: 0
 - slot: "BN2"
-  player: "Konata Mumpfield"
+  player: "Courtland Sutton"
   pos: "WR"
-  team: "LAR"
+  team: "DEN"
   status: ""
-  acquired: "Wk 10"
+  acquired: "Wk 11"
   acquired_via: "free agent"
-  acquired_week: 10
+  acquired_week: 11
 - slot: "BN3"
+  player: "Makai Lemon"
+  pos: "WR"
+  team: "PHI"
+  status: ""
+  acquired: "Wk 11"
+  acquired_via: "free agent"
+  acquired_week: 11
+- slot: "BN4"
   player: "Puka Nacua"
   pos: "WR"
   team: "LAR"
@@ -98,7 +106,7 @@
   acquired: "Draft"
   acquired_via: "R1, pick 7"
   acquired_week: 0
-- slot: "BN4"
+- slot: "BN5"
   player: "Ryan Flournoy"
   pos: "WR"
   team: "DAL"
@@ -106,7 +114,15 @@
   acquired: "Wk 8"
   acquired_via: "waiver claim"
   acquired_week: 8
-- slot: "BN5"
+- slot: "BN6"
+  player: "Xavier Hutchinson"
+  pos: "WR"
+  team: "HOU"
+  status: ""
+  acquired: "Wk 11"
+  acquired_via: "free agent"
+  acquired_week: 11
+- slot: "BN7"
   player: "Tampa Bay"
   pos: "DEF"
   team: "TB"
