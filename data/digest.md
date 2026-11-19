@@ -1,5 +1,5 @@
 # Sleeper digest — The Climb
-Pulled: 2026-11-19 13:02 UTC · NFL week 11 (regular)
+Pulled: 2026-11-19 13:19 UTC · NFL week 11 (regular)
 
 ## My roster
 - Tre Tucker (WR-LV) (STARTER)
@@ -51,31 +51,31 @@ Pulled: 2026-11-19 13:02 UTC · NFL week 11 (regular)
 - Lost in the Land of Love 161.27 — Playful Secrets 124.12
 
 ## Trending adds (24h, all Sleeper)
-- Detroit Lions (DEF-DET) — 832,122 adds
-- Xavier Hutchinson (WR-HOU) — 789,656 adds
-- Michael Mayer (TE-LV) — 502,119 adds
-- Chimere Dike (WR-TEN) — 434,655 adds
-- Cairo Santos (K-CHI) — 423,738 adds
-- Pat Bryant (WR-DEN) — 421,808 adds
-- Elic Ayomanor (WR-TEN) — 389,652 adds
-- Mark Andrews (TE-BAL) — 336,798 adds
-- Seth McGowan (RB-IND) — 313,880 adds
-- Ryan Flournoy (WR-DAL) — 290,608 adds
-- Bo Nix (QB-DEN) — 208,032 adds
-- Jacory Croskey-Merritt (RB-WAS) [IR] — 184,302 adds
-- Justice Hill (RB-BAL) — 176,994 adds
-- Chase McLaughlin (K-TB) — 166,544 adds
-- Tampa Bay Buccaneers (DEF-TB) — 152,825 adds
-- David Montgomery (RB-HOU) — 146,496 adds
-- Courtland Sutton (WR-DEN) — 143,082 adds
-- Samaje Perine (RB-CIN) — 139,864 adds
-- Kaelon Black (RB-SF) — 115,304 adds
-- Kyle Monangai (RB-CHI) — 114,984 adds
-- Jordyn Tyson (WR-NO) [Questionable] — 113,000 adds
-- Pittsburgh Steelers (DEF-PIT) — 111,912 adds
-- Gavin Bartholomew (TE-MIN) — 111,834 adds
-- Darren Waller (TE-CAR) [Questionable] — 111,393 adds
-- Jason Sanders (K-NYJ) — 110,945 adds
+- Detroit Lions (DEF-DET) — 835,299 adds
+- Xavier Hutchinson (WR-HOU) — 791,994 adds
+- Michael Mayer (TE-LV) — 503,604 adds
+- Chimere Dike (WR-TEN) — 437,121 adds
+- Cairo Santos (K-CHI) — 425,523 adds
+- Pat Bryant (WR-DEN) — 423,208 adds
+- Elic Ayomanor (WR-TEN) — 390,908 adds
+- Mark Andrews (TE-BAL) — 338,067 adds
+- Seth McGowan (RB-IND) — 314,968 adds
+- Ryan Flournoy (WR-DAL) — 291,288 adds
+- Bo Nix (QB-DEN) — 208,752 adds
+- Jacory Croskey-Merritt (RB-WAS) [IR] — 184,932 adds
+- Justice Hill (RB-BAL) — 177,858 adds
+- Chase McLaughlin (K-TB) — 167,224 adds
+- Tampa Bay Buccaneers (DEF-TB) — 153,435 adds
+- David Montgomery (RB-HOU) — 146,910 adds
+- Courtland Sutton (WR-DEN) — 143,541 adds
+- Samaje Perine (RB-CIN) — 140,540 adds
+- Kaelon Black (RB-SF) — 115,661 adds
+- Kyle Monangai (RB-CHI) — 115,524 adds
+- Jordyn Tyson (WR-NO) [Questionable] — 113,304 adds
+- Pittsburgh Steelers (DEF-PIT) — 112,233 adds
+- Gavin Bartholomew (TE-MIN) — 112,221 adds
+- Darren Waller (TE-CAR) [Questionable] — 111,627 adds
+- Jason Sanders (K-NYJ) — 111,470 adds
 
 ## League transactions this week
 - free_agent (complete) Sea Squirts: +[T.J. Hockenson (TE-MIN) [Questionable]] -[Denzel Boston (WR-CLE)]
