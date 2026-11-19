@@ -11475,7 +11475,7 @@
   "name": "Puka Nacua",
   "pos": "WR",
   "team": "LAR",
-  "status": "Inactive",
+  "status": "Active",
   "injury_status": "IR",
   "injury_note": "Knee - MCL"
  },
@@ -25100,8 +25100,8 @@
   "pos": "TE",
   "team": "WAS",
   "status": "Active",
-  "injury_status": "Questionable",
-  "injury_note": "Knee"
+  "injury_status": null,
+  "injury_note": null
  },
  "13436": {
   "name": "Kentrel Bullock",
@@ -29276,8 +29276,8 @@
   "pos": "TE",
   "team": "DAL",
   "status": "Active",
-  "injury_status": null,
-  "injury_note": null
+  "injury_status": "Questionable",
+  "injury_note": "Illness"
  },
  "7309": {
   "name": "Siaosi Mariner",

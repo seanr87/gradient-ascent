@@ -43,10 +43,10 @@
 | K | Tyler Bass | Wk 7 (waiver claim) |
 | DEF | Tampa Bay | Wk 7 (waiver claim) |
 | BN | Chris Rodriguez Jr. | Wk 9 (waiver claim) |
+| BN | Ollie Gordon II | Wk 11 (trade) |
 | BN | Courtland Sutton | Wk 11 (free agent) |
 | BN | Makai Lemon | Wk 11 (free agent) |
 | BN | Puka Nacua | Draft (R1, pick 7) |
-| BN | Ryan Flournoy | Wk 8 (waiver claim) |
 | BN | Xavier Hutchinson | Wk 11 (free agent) |
 <!-- ROSTER:END -->
 

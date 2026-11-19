@@ -83,6 +83,14 @@
   acquired_via: "waiver claim"
   acquired_week: 9
 - slot: "BN2"
+  player: "Ollie Gordon II"
+  pos: "RB"
+  team: "MIA"
+  status: ""
+  acquired: "Wk 11"
+  acquired_via: "trade"
+  acquired_week: 11
+- slot: "BN3"
   player: "Courtland Sutton"
   pos: "WR"
   team: "DEN"
@@ -90,7 +98,7 @@
   acquired: "Wk 11"
   acquired_via: "free agent"
   acquired_week: 11
-- slot: "BN3"
+- slot: "BN4"
   player: "Makai Lemon"
   pos: "WR"
   team: "PHI"
@@ -98,7 +106,7 @@
   acquired: "Wk 11"
   acquired_via: "free agent"
   acquired_week: 11
-- slot: "BN4"
+- slot: "BN5"
   player: "Puka Nacua"
   pos: "WR"
   team: "LAR"
@@ -106,14 +114,6 @@
   acquired: "Draft"
   acquired_via: "R1, pick 7"
   acquired_week: 0
-- slot: "BN5"
-  player: "Ryan Flournoy"
-  pos: "WR"
-  team: "DAL"
-  status: ""
-  acquired: "Wk 8"
-  acquired_via: "waiver claim"
-  acquired_week: 8
 - slot: "BN6"
   player: "Xavier Hutchinson"
   pos: "WR"
