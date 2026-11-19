@@ -11,13 +11,13 @@
   acquired_via: "R5, pick 55"
   acquired_week: 0
 - slot: "RB"
-  player: "Chris Rodriguez Jr."
+  player: "Bucky Irving"
   pos: "RB"
-  team: "JAX"
-  status: "Questionable"
-  acquired: "Wk 9"
-  acquired_via: "waiver claim"
-  acquired_week: 9
+  team: "TB"
+  status: ""
+  acquired: "Draft"
+  acquired_via: "R3, pick 31"
+  acquired_week: 0
 - slot: "RB"
   player: "Braelon Allen"
   pos: "RB"
@@ -67,21 +67,21 @@
   acquired_via: "waiver claim"
   acquired_week: 7
 - slot: "DEF"
-  player: "—"
-  pos: ""
-  team: ""
-  status: ""
-  acquired: ""
-  acquired_via: ""
-  acquired_week: -1
-- slot: "BN1"
-  player: "Bucky Irving"
-  pos: "RB"
+  player: "Tampa Bay"
+  pos: "DEF"
   team: "TB"
   status: ""
-  acquired: "Draft"
-  acquired_via: "R3, pick 31"
-  acquired_week: 0
+  acquired: "Wk 7"
+  acquired_via: "waiver claim"
+  acquired_week: 7
+- slot: "BN1"
+  player: "Chris Rodriguez Jr."
+  pos: "RB"
+  team: "JAX"
+  status: "Questionable"
+  acquired: "Wk 9"
+  acquired_via: "waiver claim"
+  acquired_week: 9
 - slot: "BN2"
   player: "Courtland Sutton"
   pos: "WR"
@@ -122,11 +122,3 @@
   acquired: "Wk 11"
   acquired_via: "free agent"
   acquired_week: 11
-- slot: "BN7"
-  player: "Tampa Bay"
-  pos: "DEF"
-  team: "TB"
-  status: ""
-  acquired: "Wk 7"
-  acquired_via: "waiver claim"
-  acquired_week: 7
