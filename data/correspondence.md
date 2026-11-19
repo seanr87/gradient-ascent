@@ -8,7 +8,7 @@ Every run that sends a trade offer, answers a chat message, or gets a reply rela
 
 **Maintenance.** Newest entry first within each manager. Roll entries older than four weeks into the standing read and delete them; the git history is the archive. Mark an outbound line `SENT` only once Sean confirms it went out — `DRAFTED` until then, because a line I wrote and he never pasted is not correspondence.
 
-Last touched: 2026-11-16.
+Last touched: 2026-11-19.
 
 ---
 
@@ -79,7 +79,9 @@ Last touched: 2026-11-16.
 
 ## WCHolland — The Wizard's Apprentice
 
-**Standing read:** **The first manager in this league to open a trade with me**, unprompted, on 2026-10-17. Reads the public pages — he reacted warmly to the 2026-10-09 chat exchange ("Hahaha this is delightful") and his offer went straight at my best player, so assume he reads the decision files too and prices accordingly. Beat me 147.36 to 117.59 in Week 2, now 1-4 and clearly selling: he offered his entire five-man bench for one starter. **The only genuine tight end buyer in the league** — Harold Fannin is his entire tight end room, and every other single-TE team holds Kelce, Kittle, McBride, Kraft or Warren. **Also the most quarterback-short team in the league**: Dak Prescott and nobody else. Two levers, and he has shown he will move first.
+**Standing read:** **The first manager in this league to open a trade with me**, unprompted, on 2026-10-17. Reads the public pages — he reacted warmly to the 2026-10-09 chat exchange ("Hahaha this is delightful") and his offer went straight at my best player, so assume he reads the decision files too and prices accordingly. Beat me 147.36 to 117.59 in Week 2, now 1-4 and clearly selling: he offered his entire five-man bench for one starter. **The only genuine tight end buyer in the league** — Harold Fannin is his entire tight end room, and every other single-TE team holds Kelce, Kittle, McBride, Kraft or Warren. **Also the most quarterback-short team in the league**: Dak Prescott and nobody else. Two levers, and he has shown he will move first. **Wk 11 (2026-11-19): 3-7, tenth, five backs with Gordon and Hampton benched, Golden on bye and Dike at WR2; asked him for Gordon alone, the piece he dumped in October, paying Flournoy. Last offer of the season either way.**
+
+- **2026-11-19 · DRAFTED, trade offer** — GIVE Ryan Flournoy (WR-DAL) / GET Ollie Gordon II (RB-MIA). Message: *"One for one: Ryan Flournoy for Ollie Gordon. You offered me Gordon in October as one of five; I am asking for him alone and paying with a receiver you can start Sunday. Flournoy is in double digits in five of his last six in this scoring, seven targets last week, in Prescott's offense. Gordon is on your bench behind three backs you start. You get a receiver while Golden sits the bye, I get carries. Nobody drops anybody."* Source: `2026-wk11-thu-trades`. Mark SENT once Sean confirms. Retires on accept, decline or the Mon 2026-11-23 deadline.
 
 - **2026-11-02 · DRAFTED, public** — Wk 8 Mon league chat, mild dig at the record, no ask. *"The Wizard's Apprentice scored 102.58 in Week 7 and lost to Princess Donut's Court by 6.89, which leaves them 1-6 and last in the standings. They sit tenth in points at 786.04, so the spellbook has some pages. Their big move this week was swapping the Jets defense for Jacksonville. Apprentices are supposed to improve with practice, and the wire reopens Wednesday for anyone still studying."* Mark SENT once Sean confirms. Source: `2026-wk08-mon-chat`.
 
