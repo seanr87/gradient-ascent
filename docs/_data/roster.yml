@@ -43,6 +43,14 @@
   acquired_via: "R2, pick 18"
   acquired_week: 0
 - slot: "FLEX"
+  player: "Makai Lemon"
+  pos: "WR"
+  team: "PHI"
+  status: ""
+  acquired: "Wk 11"
+  acquired_via: "free agent"
+  acquired_week: 11
+- slot: "TE"
   player: "Dalton Kincaid"
   pos: "TE"
   team: "BUF"
@@ -50,14 +58,6 @@
   acquired: "Draft"
   acquired_via: "R7, pick 79"
   acquired_week: 0
-- slot: "TE"
-  player: "—"
-  pos: ""
-  team: ""
-  status: ""
-  acquired: ""
-  acquired_via: ""
-  acquired_week: -1
 - slot: "K"
   player: "Tyler Bass"
   pos: "K"
@@ -99,14 +99,6 @@
   acquired_via: "free agent"
   acquired_week: 11
 - slot: "BN4"
-  player: "Makai Lemon"
-  pos: "WR"
-  team: "PHI"
-  status: ""
-  acquired: "Wk 11"
-  acquired_via: "free agent"
-  acquired_week: 11
-- slot: "BN5"
   player: "Puka Nacua"
   pos: "WR"
   team: "LAR"
@@ -114,7 +106,7 @@
   acquired: "Draft"
   acquired_via: "R1, pick 7"
   acquired_week: 0
-- slot: "BN6"
+- slot: "BN5"
   player: "Xavier Hutchinson"
   pos: "WR"
   team: "HOU"

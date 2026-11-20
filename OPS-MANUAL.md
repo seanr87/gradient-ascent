@@ -38,14 +38,13 @@
 | RB | Braelon Allen | Wk 3 (waiver claim) |
 | WR | Tre Tucker | Wk 6 (waiver claim) |
 | WR | CeeDee Lamb | Draft (R2, pick 18) |
-| FLEX | Dalton Kincaid | Draft (R7, pick 79) |
-| TE | — | — |
+| FLEX | Makai Lemon | Wk 11 (free agent) |
+| TE | Dalton Kincaid | Draft (R7, pick 79) |
 | K | Tyler Bass | Wk 7 (waiver claim) |
 | DEF | Tampa Bay | Wk 7 (waiver claim) |
 | BN | Chris Rodriguez Jr. | Wk 9 (waiver claim) |
 | BN | Ollie Gordon II | Wk 11 (trade) |
 | BN | Courtland Sutton | Wk 11 (free agent) |
-| BN | Makai Lemon | Wk 11 (free agent) |
 | BN | Puka Nacua | Draft (R1, pick 7) |
 | BN | Xavier Hutchinson | Wk 11 (free agent) |
 <!-- ROSTER:END -->
