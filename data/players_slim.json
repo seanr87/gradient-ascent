@@ -340,8 +340,8 @@
   "pos": "WR",
   "team": "HOU",
   "status": "Active",
-  "injury_status": null,
-  "injury_note": null
+  "injury_status": "Questionable",
+  "injury_note": "Hip"
  },
  "4828": {
   "name": "Rashard Davis",
@@ -10852,8 +10852,8 @@
   "pos": "RB",
   "team": "IND",
   "status": "Active",
-  "injury_status": null,
-  "injury_note": null
+  "injury_status": "Out",
+  "injury_note": "Hamstring"
  },
  "65": {
   "name": "Domenik Hixon",
@@ -23348,8 +23348,8 @@
   "pos": "TE",
   "team": "LV",
   "status": "Active",
-  "injury_status": null,
-  "injury_note": null
+  "injury_status": "Questionable",
+  "injury_note": "Calf"
  },
  "269": {
   "name": "Pierre Garcon",
