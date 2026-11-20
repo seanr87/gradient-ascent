@@ -8444,8 +8444,8 @@
   "pos": "QB",
   "team": "ARI",
   "status": "Active",
-  "injury_status": null,
-  "injury_note": null
+  "injury_status": "Questionable",
+  "injury_note": "Back"
  },
  "817": {
   "name": "Jeremy Kerley",
@@ -14004,8 +14004,8 @@
   "pos": "QB",
   "team": "IND",
   "status": "Active",
-  "injury_status": null,
-  "injury_note": null
+  "injury_status": "Out",
+  "injury_note": "Coach's Decision"
  },
  "12118": {
   "name": "Jacob Warren",
@@ -15908,8 +15908,8 @@
   "pos": "WR",
   "team": "PHI",
   "status": "Active",
-  "injury_status": "Questionable",
-  "injury_note": "Hamstring"
+  "injury_status": null,
+  "injury_note": null
  },
  "2918": {
   "name": "Demetrius Wilson",
@@ -26076,8 +26076,8 @@
   "pos": "RB",
   "team": "SF",
   "status": "Active",
-  "injury_status": null,
-  "injury_note": null
+  "injury_status": "Questionable",
+  "injury_note": "Calf"
  },
  "2909": {
   "name": "Beau Gardner",
@@ -26372,8 +26372,8 @@
   "pos": "WR",
   "team": "IND",
   "status": "Active",
-  "injury_status": "Questionable",
-  "injury_note": "Toe"
+  "injury_status": null,
+  "injury_note": null
  },
  "7602": {
   "name": "Kylen Granson",
@@ -26778,7 +26778,7 @@
  "7050": {
   "name": "Josiah Deguara",
   "pos": "TE",
-  "team": null,
+  "team": "LAC",
   "status": "Active",
   "injury_status": null,
   "injury_note": null

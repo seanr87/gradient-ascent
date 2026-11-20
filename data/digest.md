@@ -1,5 +1,5 @@
 # Sleeper digest — The Climb
-Pulled: 2026-11-19 22:09 UTC · NFL week 11 (regular)
+Pulled: 2026-11-20 00:52 UTC · NFL week 11 (regular)
 
 ## My roster
 - Tre Tucker (WR-LV) (STARTER)
@@ -51,33 +51,35 @@ Pulled: 2026-11-19 22:09 UTC · NFL week 11 (regular)
 - Lost in the Land of Love 161.27 — Playful Secrets 124.12
 
 ## Trending adds (24h, all Sleeper)
-- Detroit Lions (DEF-DET) — 536,625 adds
-- Xavier Hutchinson (WR-HOU) — 495,278 adds
-- Chimere Dike (WR-TEN) — 358,470 adds
-- Cairo Santos (K-CHI) — 312,242 adds
-- Michael Mayer (TE-LV) — 270,594 adds
-- Pat Bryant (WR-DEN) — 240,776 adds
-- Elic Ayomanor (WR-TEN) — 231,488 adds
-- Seth McGowan (RB-IND) — 222,952 adds
-- Mark Andrews (TE-BAL) — 201,636 adds
-- Ryan Flournoy (WR-DAL) — 170,096 adds
-- Justice Hill (RB-BAL) — 145,296 adds
-- Bo Nix (QB-DEN) — 125,790 adds
-- Chase McLaughlin (K-TB) — 121,232 adds
-- Jacory Croskey-Merritt (RB-WAS) [IR] — 107,118 adds
-- Samaje Perine (RB-CIN) — 104,132 adds
-- Tampa Bay Buccaneers (DEF-TB) — 102,600 adds
-- Courtland Sutton (WR-DEN) — 97,821 adds
-- Kyle Monangai (RB-CHI) — 87,456 adds
-- Jason Sanders (K-NYJ) — 85,325 adds
-- David Montgomery (RB-HOU) — 85,242 adds
-- Gavin Bartholomew (TE-MIN) — 84,420 adds
-- Jake Bates (K-DET) — 78,112 adds
-- Brenton Strange (TE-JAX) — 76,662 adds
-- Adonai Mitchell (WR-NYJ) — 76,016 adds
-- Kenny Gainwell (RB-TB) — 74,392 adds
+- Detroit Lions (DEF-DET) — 647,532 adds
+- Xavier Hutchinson (WR-HOU) — 530,950 adds
+- Chimere Dike (WR-TEN) — 432,522 adds
+- Cairo Santos (K-CHI) — 407,225 adds
+- Michael Mayer (TE-LV) — 298,242 adds
+- Seth McGowan (RB-IND) — 257,720 adds
+- Pat Bryant (WR-DEN) — 242,752 adds
+- Elic Ayomanor (WR-TEN) — 240,144 adds
+- Mark Andrews (TE-BAL) — 215,640 adds
+- Ryan Flournoy (WR-DAL) — 184,712 adds
+- Justice Hill (RB-BAL) — 180,639 adds
+- Bo Nix (QB-DEN) — 147,198 adds
+- Chase McLaughlin (K-TB) — 144,888 adds
+- Tampa Bay Buccaneers (DEF-TB) — 119,785 adds
+- Chris Rodriguez Jr. (RB-JAX) [Questionable] — 117,639 adds
+- Jacory Croskey-Merritt (RB-WAS) [IR] — 116,784 adds
+- Samaje Perine (RB-CIN) — 115,988 adds
+- Courtland Sutton (WR-DEN) — 104,598 adds
+- Gavin Bartholomew (TE-MIN) — 103,833 adds
+- Jake Bates (K-DET) — 100,744 adds
+- Jason Sanders (K-NYJ) — 98,880 adds
+- Brenton Strange (TE-JAX) — 92,628 adds
+- Kyle Monangai (RB-CHI) — 91,158 adds
+- David Montgomery (RB-HOU) — 87,948 adds
+- Joey Slye (K-TEN) — 87,858 adds
 
 ## League transactions this week
+- free_agent (complete) What can Brown do for u?: +[Dallas Cowboys (DEF-DAL)] -[Indianapolis Colts (DEF-IND)]
+- free_agent (complete) Lost in the Land of Love: +[Seth McGowan (RB-IND)] -[Los Angeles Rams (DEF-LAR)]
 - trade (complete) Gradient Ascent, The Wizard’s Apprentice: +[Ryan Flournoy (WR-DAL), Ollie Gordon II (RB-MIA)] -[Ryan Flournoy (WR-DAL), Ollie Gordon II (RB-MIA)]
 - free_agent (complete) The Butker Jihad: +[Emari Demercado (RB-HOU)] -[Caleb Douglas (WR-MIA) [Questionable]]
 - free_agent (complete) Sea Squirts: +[T.J. Hockenson (TE-MIN) [Questionable]] -[Denzel Boston (WR-CLE)]
