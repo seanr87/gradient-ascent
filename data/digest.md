@@ -1,5 +1,5 @@
 # Sleeper digest — The Climb
-Pulled: 2026-11-21 17:29 UTC · NFL week 11 (regular)
+Pulled: 2026-11-21 21:48 UTC · NFL week 11 (regular)
 
 ## My roster
 - Tre Tucker (WR-LV) (STARTER)
@@ -51,31 +51,31 @@ Pulled: 2026-11-21 17:29 UTC · NFL week 11 (regular)
 - Lost in the Land of Love 161.27 — Playful Secrets 124.12
 
 ## Trending adds (24h, all Sleeper)
-- Chimere Dike (WR-TEN) — 238,140 adds
-- Adonai Mitchell (WR-NYJ) — 175,352 adds
-- Justice Hill (RB-BAL) — 139,932 adds
-- Michael Mayer (TE-LV) — 120,060 adds
-- Pat Bryant (WR-DEN) — 112,568 adds
-- Mark Andrews (TE-BAL) — 106,263 adds
-- Detroit Lions (DEF-DET) — 101,385 adds
-- Chris Rodriguez Jr. (RB-JAX) — 87,885 adds
-- Cairo Santos (K-CHI) — 80,122 adds
-- Konata Mumpfield (WR-LAR) — 77,085 adds
-- Elic Ayomanor (WR-TEN) — 70,472 adds
-- Dawson Knox (TE-BUF) — 65,550 adds
-- Jacory Croskey-Merritt (RB-WAS) [IR] — 59,724 adds
-- Brenton Strange (TE-JAX) — 54,918 adds
-- Ryan Flournoy (WR-DAL) — 54,816 adds
-- Chase McLaughlin (K-TB) — 53,328 adds
-- Samaje Perine (RB-CIN) — 52,972 adds
-- Terrance Ferguson (TE-LAR) [IR] — 52,480 adds
-- Darren Waller (TE-CAR) [Questionable] — 52,407 adds
-- Kenny Gainwell (RB-TB) — 50,408 adds
-- Emmett Johnson (RB-KC) — 49,167 adds
-- Courtland Sutton (WR-DEN) — 45,189 adds
-- Mason Taylor (TE-NYJ) — 38,100 adds
-- Tampa Bay Buccaneers (DEF-TB) — 37,840 adds
-- Gavin Bartholomew (TE-MIN) — 37,368 adds
+- Chimere Dike (WR-TEN) — 184,212 adds
+- Adonai Mitchell (WR-NYJ) — 138,680 adds
+- Justice Hill (RB-BAL) — 123,174 adds
+- Michael Mayer (TE-LV) — 87,984 adds
+- Pat Bryant (WR-DEN) — 81,288 adds
+- Mark Andrews (TE-BAL) — 76,005 adds
+- Detroit Lions (DEF-DET) — 75,114 adds
+- Cairo Santos (K-CHI) — 64,897 adds
+- Dawson Knox (TE-BUF) — 61,140 adds
+- Konata Mumpfield (WR-LAR) — 56,646 adds
+- Elic Ayomanor (WR-TEN) — 50,444 adds
+- Jacory Croskey-Merritt (RB-WAS) [IR] — 46,836 adds
+- Chase McLaughlin (K-TB) — 44,888 adds
+- Kenny Gainwell (RB-TB) — 43,224 adds
+- Samaje Perine (RB-CIN) — 42,484 adds
+- Chris Rodriguez Jr. (RB-JAX) — 40,482 adds
+- Ryan Flournoy (WR-DAL) — 40,136 adds
+- Emmett Johnson (RB-KC) — 39,654 adds
+- Darren Waller (TE-CAR) [Questionable] — 36,684 adds
+- Brenton Strange (TE-JAX) — 35,118 adds
+- Terrance Ferguson (TE-LAR) [IR] — 32,696 adds
+- Courtland Sutton (WR-DEN) — 32,670 adds
+- Caleb Douglas (WR-MIA) — 31,616 adds
+- Tampa Bay Buccaneers (DEF-TB) — 30,150 adds
+- Roman Wilson (WR-PIT) [Questionable] — 28,620 adds
 
 ## League transactions this week
 - waiver (complete) Lost in the Land of Love: +[Green Bay Packers (DEF-GB)] -[Seth McGowan (RB-IND) [Out]]
