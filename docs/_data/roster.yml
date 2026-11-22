@@ -54,7 +54,7 @@
   player: "Darren Waller"
   pos: "TE"
   team: "CAR"
-  status: "Questionable"
+  status: ""
   acquired: "Wk 11"
   acquired_via: "free agent"
   acquired_week: 11
@@ -110,7 +110,7 @@
   player: "Dalton Kincaid"
   pos: "TE"
   team: "BUF"
-  status: "Doubtful"
+  status: "Out"
   acquired: "Draft"
   acquired_via: "R7, pick 79"
   acquired_week: 0

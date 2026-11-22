@@ -1,16 +1,16 @@
 # Sleeper digest — The Climb
-Pulled: 2026-11-22 16:12 UTC · NFL week 11 (regular)
+Pulled: 2026-11-22 19:37 UTC · NFL week 11 (regular)
 
 ## My roster
 - Xavier Hutchinson (WR-HOU)
 - Chris Rodriguez Jr. (RB-JAX)
-- Dalton Kincaid (TE-BUF) [Doubtful]
+- Dalton Kincaid (TE-BUF) [Out]
 - Jayden Daniels (QB-WAS) (STARTER)
 - Braelon Allen (RB-NYJ)
 - Bucky Irving (RB-TB) (STARTER)
 - Ollie Gordon II (RB-MIA) (STARTER)
 - Makai Lemon (WR-PHI) (STARTER)
-- Darren Waller (TE-CAR) [Questionable] (STARTER)
+- Darren Waller (TE-CAR) (STARTER)
 - Courtland Sutton (WR-DEN) (STARTER)
 - CeeDee Lamb (WR-DAL) (STARTER)
 - Tyler Bass (K-BUF) (STARTER)
@@ -35,12 +35,12 @@ Pulled: 2026-11-22 16:12 UTC · NFL week 11 (regular)
 12. What can Brown do for u? — 2-8, 1112.14 PF, waiver #1
 
 ## This week's matchups (week 11)
-- CorneliusJones 5.20 — Princess Donut's Court 3.20
-- Sea Squirts 48.20 — Two Dumb Jaylens  0.00
-- Umojan Protectorate 8.60 — What can Brown do for u? 0.00
-- The Butker Jihad 4.90 — Gradient Ascent 0.00
-- Playful Secrets 0.00 — The Wizard’s Apprentice 0.00
-- Lost in the Land of Love 6.00 — TheTroubles 0.00
+- Princess Donut's Court 43.22 — CorneliusJones 19.80
+- Sea Squirts 65.90 — Two Dumb Jaylens  30.08
+- Umojan Protectorate 43.97 — What can Brown do for u? 25.05
+- Gradient Ascent 46.05 — The Butker Jihad 27.30
+- Playful Secrets 72.14 — The Wizard’s Apprentice 70.68
+- TheTroubles 48.52 — Lost in the Land of Love 48.02
 
 ## Last week's results (week 10)
 - Sea Squirts 162.06 — Princess Donut's Court 77.47
@@ -51,34 +51,35 @@ Pulled: 2026-11-22 16:12 UTC · NFL week 11 (regular)
 - Lost in the Land of Love 161.27 — Playful Secrets 124.12
 
 ## Trending adds (24h, all Sleeper)
-- Chimere Dike (WR-TEN) — 294,705 adds
-- Adonai Mitchell (WR-NYJ) — 186,384 adds
-- Justice Hill (RB-BAL) — 183,339 adds
-- Dawson Knox (TE-BUF) — 173,712 adds
-- Roman Wilson (WR-PIT) [Questionable] — 138,978 adds
-- Michael Mayer (TE-LV) — 125,379 adds
-- Kenny Gainwell (RB-TB) — 124,608 adds
-- Cairo Santos (K-CHI) — 115,787 adds
-- Konata Mumpfield (WR-LAR) — 98,613 adds
-- Mark Andrews (TE-BAL) — 96,579 adds
-- Chase McLaughlin (K-TB) — 93,336 adds
-- Detroit Lions (DEF-DET) — 91,971 adds
-- Pat Bryant (WR-DEN) — 90,568 adds
-- Samaje Perine (RB-CIN) — 68,796 adds
-- Elic Ayomanor (WR-TEN) — 66,884 adds
-- Jacory Croskey-Merritt (RB-WAS) [IR] — 64,224 adds
-- Emmett Johnson (RB-KC) — 62,730 adds
-- Darren Waller (TE-CAR) [Questionable] — 58,806 adds
-- Gunnar Helm (TE-TEN) — 57,008 adds
-- Ryan Flournoy (WR-DAL) — 53,728 adds
-- Caleb Douglas (WR-MIA) — 47,176 adds
-- Joey Slye (K-TEN) — 46,791 adds
-- Brenton Strange (TE-JAX) — 46,350 adds
-- Courtland Sutton (WR-DEN) — 44,919 adds
-- Tampa Bay Buccaneers (DEF-TB) — 44,600 adds
+- Michael Mayer (TE-LV) — 494,802 adds
+- Dawson Knox (TE-BUF) — 425,694 adds
+- Chimere Dike (WR-TEN) — 395,514 adds
+- Adonai Mitchell (WR-NYJ) — 267,688 adds
+- Justice Hill (RB-BAL) — 265,140 adds
+- Roman Wilson (WR-PIT) — 208,953 adds
+- Kenny Gainwell (RB-TB) — 190,584 adds
+- Cairo Santos (K-CHI) — 172,662 adds
+- Darren Waller (TE-CAR) — 145,053 adds
+- Mark Andrews (TE-BAL) — 144,018 adds
+- Chase McLaughlin (K-TB) — 138,200 adds
+- Detroit Lions (DEF-DET) — 133,713 adds
+- Konata Mumpfield (WR-LAR) — 123,273 adds
+- Pat Bryant (WR-DEN) — 122,944 adds
+- Samaje Perine (RB-CIN) — 116,436 adds
+- Mason Taylor (TE-NYJ) — 114,615 adds
+- Gunnar Helm (TE-TEN) — 102,557 adds
+- Mike Gesicki (TE-CIN) — 93,812 adds
+- Brenton Strange (TE-JAX) — 88,434 adds
+- Elic Ayomanor (WR-TEN) — 83,272 adds
+- Joey Slye (K-TEN) — 82,854 adds
+- Emmett Johnson (RB-KC) — 80,955 adds
+- Fernando Mendoza (QB-LV) — 77,616 adds
+- Jacory Croskey-Merritt (RB-WAS) [IR] — 77,058 adds
+- Jason Sanders (K-NYJ) — 72,330 adds
 
 ## League transactions this week
-- free_agent (complete) Gradient Ascent: +[Darren Waller (TE-CAR) [Questionable]] -[Tre Tucker (WR-LV)]
+- free_agent (complete) Princess Donut's Court: +[Chase McLaughlin (K-TB)] -[Matt Gay (K-LV) [Questionable]]
+- free_agent (complete) Gradient Ascent: +[Darren Waller (TE-CAR)] -[Tre Tucker (WR-LV)]
 - free_agent (complete) The Wizard’s Apprentice: +[Chig Okonkwo (TE-WAS)] -[Mike Gesicki (TE-CIN)]
 - waiver (complete) Lost in the Land of Love: +[Green Bay Packers (DEF-GB)] -[Seth McGowan (RB-IND) [Out]]
 - free_agent (complete) What can Brown do for u?: +[Dallas Cowboys (DEF-DAL)] -[Indianapolis Colts (DEF-IND)]
