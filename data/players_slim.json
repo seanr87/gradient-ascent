@@ -9356,8 +9356,8 @@
   "pos": "WR",
   "team": "WAS",
   "status": "Active",
-  "injury_status": "Questionable",
-  "injury_note": "Foot"
+  "injury_status": null,
+  "injury_note": null
  },
  "7694": {
   "name": "Tommy Tremble",
@@ -11475,7 +11475,7 @@
   "name": "Puka Nacua",
   "pos": "WR",
   "team": "LAR",
-  "status": "Active",
+  "status": "Inactive",
   "injury_status": "IR",
   "injury_note": "Knee - MCL"
  },
@@ -23884,8 +23884,8 @@
   "pos": "RB",
   "team": "LAR",
   "status": "Active",
-  "injury_status": null,
-  "injury_note": null
+  "injury_status": "Questionable",
+  "injury_note": "Toe"
  },
  "PHI": {
   "name": "Philadelphia Eagles",
