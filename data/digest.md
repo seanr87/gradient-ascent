@@ -1,17 +1,17 @@
 # Sleeper digest — The Climb
-Pulled: 2026-11-22 14:02 UTC · NFL week 11 (regular)
+Pulled: 2026-11-22 16:12 UTC · NFL week 11 (regular)
 
 ## My roster
-- Tre Tucker (WR-LV) (STARTER)
 - Xavier Hutchinson (WR-HOU)
 - Chris Rodriguez Jr. (RB-JAX)
-- Dalton Kincaid (TE-BUF) [Doubtful] (STARTER)
+- Dalton Kincaid (TE-BUF) [Doubtful]
 - Jayden Daniels (QB-WAS) (STARTER)
-- Braelon Allen (RB-NYJ) (STARTER)
+- Braelon Allen (RB-NYJ)
 - Bucky Irving (RB-TB) (STARTER)
-- Ollie Gordon II (RB-MIA)
+- Ollie Gordon II (RB-MIA) (STARTER)
 - Makai Lemon (WR-PHI) (STARTER)
-- Courtland Sutton (WR-DEN)
+- Darren Waller (TE-CAR) [Questionable] (STARTER)
+- Courtland Sutton (WR-DEN) (STARTER)
 - CeeDee Lamb (WR-DAL) (STARTER)
 - Tyler Bass (K-BUF) (STARTER)
 - Puka Nacua (WR-LAR) [IR]
@@ -51,33 +51,35 @@ Pulled: 2026-11-22 14:02 UTC · NFL week 11 (regular)
 - Lost in the Land of Love 161.27 — Playful Secrets 124.12
 
 ## Trending adds (24h, all Sleeper)
-- Chimere Dike (WR-TEN) — 239,049 adds
-- Adonai Mitchell (WR-NYJ) — 159,680 adds
-- Justice Hill (RB-BAL) — 148,545 adds
-- Dawson Knox (TE-BUF) — 126,252 adds
-- Roman Wilson (WR-PIT) [Questionable] — 104,409 adds
-- Michael Mayer (TE-LV) — 98,280 adds
-- Kenny Gainwell (RB-TB) — 90,400 adds
-- Cairo Santos (K-CHI) — 87,136 adds
-- Konata Mumpfield (WR-LAR) — 84,105 adds
-- Mark Andrews (TE-BAL) — 81,405 adds
-- Pat Bryant (WR-DEN) — 81,176 adds
-- Detroit Lions (DEF-DET) — 72,279 adds
-- Chase McLaughlin (K-TB) — 69,280 adds
-- Jacory Croskey-Merritt (RB-WAS) [IR] — 57,960 adds
-- Elic Ayomanor (WR-TEN) — 55,668 adds
-- Emmett Johnson (RB-KC) — 53,820 adds
-- Samaje Perine (RB-CIN) — 53,160 adds
-- Ryan Flournoy (WR-DAL) — 46,160 adds
-- Darren Waller (TE-CAR) [Questionable] — 44,793 adds
-- Gunnar Helm (TE-TEN) — 41,874 adds
-- Caleb Douglas (WR-MIA) — 39,312 adds
-- Brenton Strange (TE-JAX) — 36,963 adds
-- Courtland Sutton (WR-DEN) — 36,351 adds
-- Tampa Bay Buccaneers (DEF-TB) — 35,980 adds
-- Jason Sanders (K-NYJ) — 34,790 adds
+- Chimere Dike (WR-TEN) — 294,705 adds
+- Adonai Mitchell (WR-NYJ) — 186,384 adds
+- Justice Hill (RB-BAL) — 183,339 adds
+- Dawson Knox (TE-BUF) — 173,712 adds
+- Roman Wilson (WR-PIT) [Questionable] — 138,978 adds
+- Michael Mayer (TE-LV) — 125,379 adds
+- Kenny Gainwell (RB-TB) — 124,608 adds
+- Cairo Santos (K-CHI) — 115,787 adds
+- Konata Mumpfield (WR-LAR) — 98,613 adds
+- Mark Andrews (TE-BAL) — 96,579 adds
+- Chase McLaughlin (K-TB) — 93,336 adds
+- Detroit Lions (DEF-DET) — 91,971 adds
+- Pat Bryant (WR-DEN) — 90,568 adds
+- Samaje Perine (RB-CIN) — 68,796 adds
+- Elic Ayomanor (WR-TEN) — 66,884 adds
+- Jacory Croskey-Merritt (RB-WAS) [IR] — 64,224 adds
+- Emmett Johnson (RB-KC) — 62,730 adds
+- Darren Waller (TE-CAR) [Questionable] — 58,806 adds
+- Gunnar Helm (TE-TEN) — 57,008 adds
+- Ryan Flournoy (WR-DAL) — 53,728 adds
+- Caleb Douglas (WR-MIA) — 47,176 adds
+- Joey Slye (K-TEN) — 46,791 adds
+- Brenton Strange (TE-JAX) — 46,350 adds
+- Courtland Sutton (WR-DEN) — 44,919 adds
+- Tampa Bay Buccaneers (DEF-TB) — 44,600 adds
 
 ## League transactions this week
+- free_agent (complete) Gradient Ascent: +[Darren Waller (TE-CAR) [Questionable]] -[Tre Tucker (WR-LV)]
+- free_agent (complete) The Wizard’s Apprentice: +[Chig Okonkwo (TE-WAS)] -[Mike Gesicki (TE-CIN)]
 - waiver (complete) Lost in the Land of Love: +[Green Bay Packers (DEF-GB)] -[Seth McGowan (RB-IND) [Out]]
 - free_agent (complete) What can Brown do for u?: +[Dallas Cowboys (DEF-DAL)] -[Indianapolis Colts (DEF-IND)]
 - free_agent (complete) Lost in the Land of Love: +[Seth McGowan (RB-IND) [Out]] -[Los Angeles Rams (DEF-LAR)]

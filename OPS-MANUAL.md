@@ -35,18 +35,18 @@
 |------|--------|----------|
 | QB | Jayden Daniels | Draft (R5, pick 55) |
 | RB | Bucky Irving | Draft (R3, pick 31) |
-| RB | Braelon Allen | Wk 3 (waiver claim) |
-| WR | Tre Tucker | Wk 6 (waiver claim) |
+| RB | Ollie Gordon II | Wk 11 (trade) |
+| WR | Makai Lemon | Wk 11 (free agent) |
 | WR | CeeDee Lamb | Draft (R2, pick 18) |
-| FLEX | Makai Lemon | Wk 11 (free agent) |
-| TE | Dalton Kincaid | Draft (R7, pick 79) |
+| FLEX | Courtland Sutton | Wk 11 (free agent) |
+| TE | Darren Waller | Wk 11 (free agent) |
 | K | Tyler Bass | Wk 7 (waiver claim) |
 | DEF | Tampa Bay | Wk 7 (waiver claim) |
+| BN | Braelon Allen | Wk 3 (waiver claim) |
 | BN | Chris Rodriguez Jr. | Wk 9 (waiver claim) |
-| BN | Ollie Gordon II | Wk 11 (trade) |
-| BN | Courtland Sutton | Wk 11 (free agent) |
 | BN | Puka Nacua | Draft (R1, pick 7) |
 | BN | Xavier Hutchinson | Wk 11 (free agent) |
+| BN | Dalton Kincaid | Draft (R7, pick 79) |
 <!-- ROSTER:END -->
 
 *The digest in the repo is the source of truth if it disagrees with this table — update this table when the roster changes.*
