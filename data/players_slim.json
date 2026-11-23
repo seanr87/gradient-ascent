@@ -16148,8 +16148,8 @@
   "pos": "RB",
   "team": "JAX",
   "status": "Active",
-  "injury_status": null,
-  "injury_note": null
+  "injury_status": "Questionable",
+  "injury_note": "Undisclosed"
  },
  "1945": {
   "name": "Chris Boswell",
@@ -17740,8 +17740,8 @@
   "pos": "K",
   "team": "JAX",
   "status": "Active",
-  "injury_status": null,
-  "injury_note": null
+  "injury_status": "Questionable",
+  "injury_note": "Lower Body"
  },
  "574": {
   "name": "Dez Bryant",

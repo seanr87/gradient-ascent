@@ -1,5 +1,5 @@
 # Sleeper digest — The Climb
-Pulled: 2026-11-23 00:38 UTC · NFL week 11 (regular)
+Pulled: 2026-11-23 13:19 UTC · NFL week 11 (regular)
 
 ## My roster
 - Xavier Hutchinson (WR-HOU)
@@ -35,12 +35,12 @@ Pulled: 2026-11-23 00:38 UTC · NFL week 11 (regular)
 12. What can Brown do for u? — 2-8, 1112.14 PF, waiver #1
 
 ## This week's matchups (week 11)
-- Princess Donut's Court 90.54 — CorneliusJones 54.75
-- Sea Squirts 110.90 — Two Dumb Jaylens  59.26
-- Umojan Protectorate 82.83 — What can Brown do for u? 73.30
-- Gradient Ascent 89.60 — The Butker Jihad 53.66
-- The Wizard’s Apprentice 168.25 — Playful Secrets 115.56
-- TheTroubles 117.81 — Lost in the Land of Love 90.26
+- CorneliusJones 103.30 — Princess Donut's Court 90.54
+- Sea Squirts 110.90 — Two Dumb Jaylens  60.06
+- Umojan Protectorate 85.43 — What can Brown do for u? 73.10
+- Gradient Ascent 89.60 — The Butker Jihad 77.74
+- The Wizard’s Apprentice 168.25 — Playful Secrets 123.26
+- TheTroubles 124.11 — Lost in the Land of Love 106.01
 
 ## Last week's results (week 10)
 - Sea Squirts 162.06 — Princess Donut's Court 77.47
@@ -51,33 +51,34 @@ Pulled: 2026-11-23 00:38 UTC · NFL week 11 (regular)
 - Lost in the Land of Love 161.27 — Playful Secrets 124.12
 
 ## Trending adds (24h, all Sleeper)
-- Michael Mayer (TE-LV) — 790,290 adds
-- Dawson Knox (TE-BUF) — 411,702 adds
-- Chimere Dike (WR-TEN) — 372,915 adds
-- Justice Hill (RB-BAL) — 322,929 adds
-- Adonai Mitchell (WR-NYJ) — 273,352 adds
-- Mason Taylor (TE-NYJ) — 199,505 adds
-- Roman Wilson (WR-PIT) — 188,937 adds
-- Kenny Gainwell (RB-TB) — 185,624 adds
-- Cairo Santos (K-CHI) — 156,590 adds
-- Darren Waller (TE-CAR) — 142,956 adds
-- Samaje Perine (RB-CIN) — 135,544 adds
-- Pat Bryant (WR-DEN) — 133,792 adds
-- Mike Gesicki (TE-CIN) — 132,636 adds
-- Konata Mumpfield (WR-LAR) — 132,381 adds
-- Chase McLaughlin (K-TB) — 127,616 adds
-- Mark Andrews (TE-BAL) — 126,162 adds
-- Detroit Lions (DEF-DET) — 119,664 adds
-- Brenton Strange (TE-JAX) — 116,505 adds
-- Evan Engram (TE-DEN) — 99,112 adds
-- Fernando Mendoza (QB-LV) — 97,872 adds
-- Treylon Burks (WR-WAS) — 93,919 adds
-- Gunnar Helm (TE-TEN) — 93,653 adds
-- Courtland Sutton (WR-DEN) — 81,297 adds
-- San Francisco 49ers (DEF-SF) — 81,012 adds
-- Joey Slye (K-TEN) — 80,235 adds
+- Michael Mayer (TE-LV) — 755,550 adds
+- Dawson Knox (TE-BUF) — 356,598 adds
+- Justice Hill (RB-BAL) — 347,490 adds
+- Chimere Dike (WR-TEN) — 306,891 adds
+- Adonai Mitchell (WR-NYJ) — 211,112 adds
+- Mason Taylor (TE-NYJ) — 187,880 adds
+- Kenny Gainwell (RB-TB) — 149,840 adds
+- Roman Wilson (WR-PIT) — 149,688 adds
+- Samaje Perine (RB-CIN) — 132,920 adds
+- Darren Waller (TE-CAR) — 130,383 adds
+- Fernando Mendoza (QB-LV) — 129,208 adds
+- Mike Gesicki (TE-CIN) — 125,400 adds
+- Cairo Santos (K-CHI) — 122,997 adds
+- Evan Engram (TE-DEN) — 111,136 adds
+- Chris Rodriguez Jr. (RB-JAX) — 111,087 adds
+- Konata Mumpfield (WR-LAR) — 109,197 adds
+- Pat Bryant (WR-DEN) — 102,672 adds
+- Brenton Strange (TE-JAX) — 102,438 adds
+- Chase McLaughlin (K-TB) — 101,112 adds
+- Treylon Burks (WR-WAS) — 100,345 adds
+- Mark Andrews (TE-BAL) — 95,373 adds
+- Detroit Lions (DEF-DET) — 94,536 adds
+- San Francisco 49ers (DEF-SF) — 83,568 adds
+- Gunnar Helm (TE-TEN) — 73,381 adds
+- Washington Commanders (DEF-WAS) — 73,066 adds
 
 ## League transactions this week
+- free_agent (complete) Lost in the Land of Love: +[Keenan Allen (WR-SF)] -[Pat Bryant (WR-DEN)]
 - free_agent (complete) Princess Donut's Court: +[Chase McLaughlin (K-TB)] -[Matt Gay (K-LV)]
 - free_agent (complete) Gradient Ascent: +[Darren Waller (TE-CAR)] -[Tre Tucker (WR-LV)]
 - free_agent (complete) The Wizard’s Apprentice: +[Chig Okonkwo (TE-WAS)] -[Mike Gesicki (TE-CIN)]
