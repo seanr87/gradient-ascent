@@ -4467,8 +4467,8 @@
   "name": "Ben VanSumeren",
   "pos": "RB",
   "team": "KC",
-  "status": "Active",
-  "injury_status": "Questionable",
+  "status": "Inactive",
+  "injury_status": "IR",
   "injury_note": "Knee"
  },
  "5138": {
@@ -13036,8 +13036,8 @@
   "pos": "TE",
   "team": null,
   "status": "Inactive",
-  "injury_status": "Questionable",
-  "injury_note": "Undisclosed"
+  "injury_status": null,
+  "injury_note": null
  },
  "2048": {
   "name": "Marion Grice",

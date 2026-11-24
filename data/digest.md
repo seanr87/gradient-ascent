@@ -1,5 +1,5 @@
 # Sleeper digest — The Climb
-Pulled: 2026-11-24 19:34 UTC · NFL week 12 (regular)
+Pulled: 2026-11-24 20:52 UTC · NFL week 12 (regular)
 
 ## My roster
 - Xavier Hutchinson (WR-HOU)
@@ -51,30 +51,30 @@ Pulled: 2026-11-24 19:34 UTC · NFL week 12 (regular)
 - TheTroubles 131.61 — Lost in the Land of Love 122.71
 
 ## Trending adds (24h, all Sleeper)
-- Chris Rodriguez Jr. (RB-JAX) — 920,178 adds
-- Washington Commanders (DEF-WAS) — 587,181 adds
-- Justice Hill (RB-BAL) — 388,476 adds
-- Jacory Croskey-Merritt (RB-WAS) — 353,520 adds
-- New York Giants (DEF-NYG) — 350,032 adds
-- Chimere Dike (WR-TEN) — 243,630 adds
-- Cleveland Browns (DEF-CLE) — 209,524 adds
-- Fernando Mendoza (QB-LV) — 200,472 adds
-- Tyler Higbee (TE-LAR) — 200,358 adds
-- Jack Bech (WR-LV) — 185,504 adds
-- Konata Mumpfield (WR-LAR) — 185,391 adds
-- Ted Hurst III (WR-TB) — 179,406 adds
-- Deshaun Watson (QB-CLE) — 152,640 adds
-- Samaje Perine (RB-CIN) — 137,220 adds
-- Tai Felton (WR-MIN) — 129,516 adds
-- Tampa Bay Buccaneers (DEF-TB) — 123,555 adds
-- Dylan Sampson (RB-CLE) — 115,625 adds
-- Evan Engram (TE-DEN) — 96,336 adds
-- Antonio Williams (WR-WAS) — 79,811 adds
-- Jason Sanders (K-NYJ) — 73,770 adds
-- KC Concepcion Jr. (WR-CLE) — 68,670 adds
-- Devaughn Vele (WR-NO) — 64,449 adds
-- New England Patriots (DEF-NE) — 62,685 adds
-- Omar Cooper Jr. (WR-NYJ) [Out] — 57,760 adds
-- Rhamondre Stevenson (RB-NE) — 55,665 adds
+- Chris Rodriguez Jr. (RB-JAX) — 958,752 adds
+- Washington Commanders (DEF-WAS) — 633,885 adds
+- Justice Hill (RB-BAL) — 392,508 adds
+- New York Giants (DEF-NYG) — 371,976 adds
+- Jacory Croskey-Merritt (RB-WAS) — 369,099 adds
+- Chimere Dike (WR-TEN) — 256,167 adds
+- Cleveland Browns (DEF-CLE) — 223,447 adds
+- Tyler Higbee (TE-LAR) — 209,007 adds
+- Fernando Mendoza (QB-LV) — 201,496 adds
+- Konata Mumpfield (WR-LAR) — 194,238 adds
+- Ted Hurst III (WR-TB) — 185,514 adds
+- Jack Bech (WR-LV) — 184,190 adds
+- Deshaun Watson (QB-CLE) — 164,880 adds
+- Samaje Perine (RB-CIN) — 142,128 adds
+- Tai Felton (WR-MIN) — 139,770 adds
+- Tampa Bay Buccaneers (DEF-TB) — 130,095 adds
+- Dylan Sampson (RB-CLE) — 123,980 adds
+- Evan Engram (TE-DEN) — 98,336 adds
+- Antonio Williams (WR-WAS) — 84,779 adds
+- Jason Sanders (K-NYJ) — 76,895 adds
+- KC Concepcion Jr. (WR-CLE) — 73,062 adds
+- New England Patriots (DEF-NE) — 67,501 adds
+- Devaughn Vele (WR-NO) — 66,094 adds
+- Omar Cooper Jr. (WR-NYJ) [Out] — 61,304 adds
+- Rhamondre Stevenson (RB-NE) — 59,616 adds
 
 ## League transactions this week
