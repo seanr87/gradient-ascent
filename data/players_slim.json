@@ -12538,7 +12538,7 @@
  "12036": {
   "name": "Ian Wheeler",
   "pos": "RB",
-  "team": null,
+  "team": "LAC",
   "status": "Active",
   "injury_status": null,
   "injury_note": null
@@ -13034,8 +13034,8 @@
  "6964": {
   "name": "Sean McKeon",
   "pos": "TE",
-  "team": null,
-  "status": "Inactive",
+  "team": "IND",
+  "status": "Active",
   "injury_status": null,
   "injury_note": null
  },
@@ -15994,7 +15994,7 @@
  "8002": {
   "name": "Shane Buechele",
   "pos": "QB",
-  "team": "BUF",
+  "team": "IND",
   "status": "Active",
   "injury_status": null,
   "injury_note": null
@@ -21324,8 +21324,8 @@
   "pos": "WR",
   "team": "PIT",
   "status": "Active",
-  "injury_status": null,
-  "injury_note": null
+  "injury_status": "Questionable",
+  "injury_note": "Calf"
  },
  "7904": {
   "name": "Stevie Scott",
@@ -31002,7 +31002,7 @@
  "7865": {
   "name": "Brandon Smith",
   "pos": "WR",
-  "team": null,
+  "team": "PIT",
   "status": "Active",
   "injury_status": null,
   "injury_note": null
@@ -33188,8 +33188,8 @@
   "pos": "RB",
   "team": "DEN",
   "status": "Active",
-  "injury_status": null,
-  "injury_note": null
+  "injury_status": "Out",
+  "injury_note": "Personal"
  },
  "5278": {
   "name": "Jarvion Franklin",
