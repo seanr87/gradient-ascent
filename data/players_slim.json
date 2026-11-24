@@ -2108,8 +2108,8 @@
   "pos": "RB",
   "team": "WAS",
   "status": "Active",
-  "injury_status": null,
-  "injury_note": null
+  "injury_status": "Out",
+  "injury_note": "Coach's Decision"
  },
  "5550": {
   "name": "John David Moore",
@@ -2188,8 +2188,8 @@
   "pos": "RB",
   "team": "WAS",
   "status": "Active",
-  "injury_status": "Questionable",
-  "injury_note": "Heel"
+  "injury_status": null,
+  "injury_note": null
  },
  "6496": {
   "name": "Cole Hedlund",
@@ -5484,8 +5484,8 @@
   "pos": "QB",
   "team": "WAS",
   "status": "Active",
-  "injury_status": null,
-  "injury_note": null
+  "injury_status": "Out",
+  "injury_note": "Coach's Decision"
  },
  "13846": {
   "name": "Jack Velling",
@@ -6724,8 +6724,8 @@
   "pos": "TE",
   "team": "DET",
   "status": "Active",
-  "injury_status": null,
-  "injury_note": null
+  "injury_status": "Questionable",
+  "injury_note": "Ankle"
  },
  "11567": {
   "name": "Jordan Travis",
@@ -11972,8 +11972,8 @@
   "pos": "RB",
   "team": "PHI",
   "status": "Active",
-  "injury_status": null,
-  "injury_note": null
+  "injury_status": "Questionable",
+  "injury_note": "Illness"
  },
  "12540": {
   "name": "Chimere Dike",
@@ -12660,8 +12660,8 @@
   "pos": "RB",
   "team": "SEA",
   "status": "Active",
-  "injury_status": "Out",
-  "injury_note": "Knee"
+  "injury_status": "IR",
+  "injury_note": "Knee - MCL"
  },
  "10217": {
   "name": "Clayton Tune",
@@ -13387,9 +13387,9 @@
   "name": "Jacory Croskey-Merritt",
   "pos": "RB",
   "team": "WAS",
-  "status": "Inactive",
-  "injury_status": "IR",
-  "injury_note": "Groin"
+  "status": "Active",
+  "injury_status": null,
+  "injury_note": null
  },
  "3856": {
   "name": "Braxton Deaver",
@@ -14188,8 +14188,8 @@
   "pos": "TE",
   "team": "PHI",
   "status": "Active",
-  "injury_status": null,
-  "injury_note": null
+  "injury_status": "Questionable",
+  "injury_note": "Shin"
  },
  "12849": {
   "name": "Traeshon Holden",
@@ -19684,8 +19684,8 @@
   "pos": "TE",
   "team": "CIN",
   "status": "Active",
-  "injury_status": null,
-  "injury_note": null
+  "injury_status": "Out",
+  "injury_note": "Coach's Decision"
  },
  "11247": {
   "name": "Mac Hippenhammer",
@@ -20618,7 +20618,7 @@
  "10223": {
   "name": "Eric Gray",
   "pos": "RB",
-  "team": null,
+  "team": "IND",
   "status": "Active",
   "injury_status": null,
   "injury_note": null
@@ -25412,8 +25412,8 @@
   "pos": "QB",
   "team": "PHI",
   "status": "Active",
-  "injury_status": null,
-  "injury_note": null
+  "injury_status": "Questionable",
+  "injury_note": "Ribs"
  },
  "5008": {
   "name": "Durham Smythe",
@@ -33252,7 +33252,7 @@
   "pos": "TE",
   "team": "CIN",
   "status": "Active",
-  "injury_status": "Out",
+  "injury_status": "Questionable",
   "injury_note": "Undisclosed"
  },
  "8581": {

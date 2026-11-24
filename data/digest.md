@@ -1,5 +1,5 @@
 # Sleeper digest — The Climb
-Pulled: 2026-11-23 13:19 UTC · NFL week 11 (regular)
+Pulled: 2026-11-24 01:08 UTC · NFL week 11 (regular)
 
 ## My roster
 - Xavier Hutchinson (WR-HOU)
@@ -51,31 +51,31 @@ Pulled: 2026-11-23 13:19 UTC · NFL week 11 (regular)
 - Lost in the Land of Love 161.27 — Playful Secrets 124.12
 
 ## Trending adds (24h, all Sleeper)
-- Michael Mayer (TE-LV) — 755,550 adds
-- Dawson Knox (TE-BUF) — 356,598 adds
-- Justice Hill (RB-BAL) — 347,490 adds
-- Chimere Dike (WR-TEN) — 306,891 adds
-- Adonai Mitchell (WR-NYJ) — 211,112 adds
-- Mason Taylor (TE-NYJ) — 187,880 adds
-- Kenny Gainwell (RB-TB) — 149,840 adds
-- Roman Wilson (WR-PIT) — 149,688 adds
-- Samaje Perine (RB-CIN) — 132,920 adds
-- Darren Waller (TE-CAR) — 130,383 adds
-- Fernando Mendoza (QB-LV) — 129,208 adds
-- Mike Gesicki (TE-CIN) — 125,400 adds
-- Cairo Santos (K-CHI) — 122,997 adds
-- Evan Engram (TE-DEN) — 111,136 adds
-- Chris Rodriguez Jr. (RB-JAX) — 111,087 adds
-- Konata Mumpfield (WR-LAR) — 109,197 adds
-- Pat Bryant (WR-DEN) — 102,672 adds
-- Brenton Strange (TE-JAX) — 102,438 adds
-- Chase McLaughlin (K-TB) — 101,112 adds
-- Treylon Burks (WR-WAS) — 100,345 adds
-- Mark Andrews (TE-BAL) — 95,373 adds
-- Detroit Lions (DEF-DET) — 94,536 adds
-- San Francisco 49ers (DEF-SF) — 83,568 adds
-- Gunnar Helm (TE-TEN) — 73,381 adds
-- Washington Commanders (DEF-WAS) — 73,066 adds
+- Chris Rodriguez Jr. (RB-JAX) — 215,208 adds
+- Justice Hill (RB-BAL) — 182,520 adds
+- Fernando Mendoza (QB-LV) — 99,408 adds
+- Jack Bech (WR-LV) — 82,736 adds
+- Chimere Dike (WR-TEN) — 81,639 adds
+- Washington Commanders (DEF-WAS) — 66,815 adds
+- Konata Mumpfield (WR-LAR) — 49,221 adds
+- Ted Hurst III (WR-TB) — 47,136 adds
+- Samaje Perine (RB-CIN) — 37,552 adds
+- Treylon Burks (WR-WAS) — 36,722 adds
+- Jacory Croskey-Merritt (RB-WAS) — 36,306 adds
+- Evan Engram (TE-DEN) — 34,560 adds
+- New York Giants (DEF-NYG) — 31,432 adds
+- Khalil Shakir (WR-BUF) — 28,845 adds
+- Ladd McConkey (WR-LAC) — 28,785 adds
+- Tampa Bay Buccaneers (DEF-TB) — 27,445 adds
+- Roman Wilson (WR-PIT) — 26,532 adds
+- San Francisco 49ers (DEF-SF) — 23,592 adds
+- Devaughn Vele (WR-NO) — 23,352 adds
+- Tyler Higbee (TE-LAR) — 23,229 adds
+- Kenny Gainwell (RB-TB) — 22,944 adds
+- Tai Felton (WR-MIN) — 20,328 adds
+- Austin Ekeler (RB-WAS) — 17,316 adds
+- Jason Sanders (K-NYJ) — 16,575 adds
+- Cleveland Browns (DEF-CLE) — 15,470 adds
 
 ## League transactions this week
 - free_agent (complete) Lost in the Land of Love: +[Keenan Allen (WR-SF)] -[Pat Bryant (WR-DEN)]
