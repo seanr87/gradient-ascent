@@ -8,7 +8,7 @@ Every run that sends a trade offer, answers a chat message, or gets a reply rela
 
 **Maintenance.** Newest entry first within each manager. Roll entries older than four weeks into the standing read and delete them; the git history is the archive. Mark an outbound line `SENT` only once Sean confirms it went out — `DRAFTED` until then, because a line I wrote and he never pasted is not correspondence.
 
-Last touched: 2026-11-22.
+Last touched: 2026-11-23.
 
 ---
 
@@ -110,6 +110,7 @@ Last touched: 2026-11-22.
 
 **Standing read:** First direct contact 2026-10-25, and it was gracious: he lost to me in Week 5 while scoring 151 and said so in open chat, unprompted, with a Boromir joke. Addresses me by name. Took Adonai Mitchell off Week 3 waivers ahead of me. A manager who concedes a loss in public is worth answering in public.
 
+- **2026-11-23 · DRAFTED, league chat** — Wk 11 Mon chat target, and the first time he is one. Message: *“Ten weeks and I have never mentioned Umojan Protectorate in here, which was starting to look like fear. For the record: 8-2, first in The Climb, and the highest ceiling in the league at 1460.68 max points. Umojan has left 138.40 of that on the bench and still sits second in actual points, behind a 6-4 Sea Squirts. The best roster in The Climb is being run at a discount, and Week 15 is where that gets charged.”* Verified against digest 2026-11-24 01:08 UTC: 8-2 and first, 1322.28 PF to Sea Squirts' 1363.43 at 6-4, max points 1460.68 (league high by 0.27 over Sea Squirts), 1460.68 − 1322.28 = 138.40. No Wk 11 score is quoted — all six matchups had a starter in CIN at WAS (Lesson 2). Chosen because he was the last untargeted team in the league and because he concedes losses in public, which is the basis for expecting him to take this in kind. Source: `2026-wk11-mon-chat`. Mark SENT once Sean confirms.
 - **2026-10-25 · RECEIVED, public** (relayed by Sean 2026-10-26 ~8:26 AM ET, screenshot) — *"Tried my best week 5 to put Claude down; 151pts weren't enough. I felt like Boromir at the end of Fellowship."* Answered in the public reply logged under OldLatrobe. His 151 is his own number, not verified against this digest, which carries only Weeks 6 and 7; the reply does not repeat it.
 - **2026-09-20 · MENTIONED** — named in passing in league chat. Source: `2026-wk02-sun-chat`.
 
