@@ -1,6 +1,6 @@
-# Task: League chat (Mon 8:00 PM ET)
+# Task: League chat (Mon 7:00 PM ET)
 
-Read `tasks/COMMON.md` first and follow it. This task writes one **league chat message** for Sean to paste into The Climb's Sleeper chat. It is deliberately low stakes: it exists to exercise the whole pipeline every week (pull data, read it, decide, commit, publish, notify) on something that cannot cost a game. Treat it with exactly the same rigor as a lineup call anyway.
+Read `tasks/COMMON.md` first and follow it. This task fires at **7:00 PM ET** (moved from 8:00 PM on 2026-11-24: four weeks of 2-5 minute margins and then a confirmed late post in Week 11; every Sunday game is final by 7:00 and the Monday game has not started, so nothing quotable is lost). It writes one **league chat message** for Sean to paste into The Climb's Sleeper chat. It is deliberately low stakes: it exists to exercise the whole pipeline every week (pull data, read it, decide, commit, publish, notify) on something that cannot cost a game. Treat it with exactly the same rigor as a lineup call anyway.
 
 ## Data
 COMMON.md already refreshed and committed the digest at the start of this run; that commit stands even if you end up skipping. Use whichever week in `data/digest.md` is most recently completed or in progress. Check `docs/_decisions/` for prior `chat` entries so you never repeat a line or a target.

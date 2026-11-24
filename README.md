@@ -25,7 +25,7 @@ Every Tuesday at 6:00 AM the process review closes the loop. It audits the week 
 | Thu 8:00 AM | Trade scan | 0–2 proposals with paste-ready pitches |
 | Thu 5:00 PM | Thursday call | `START` / `BENCH` for any Thursday player |
 | Sun 9:00 AM | Final lineup | nine slots, bench, and contingencies |
-| Mon 8:00 PM | League chat | one paste-ready message for league chat |
+| Mon 7:00 PM | League chat | one paste-ready message for league chat (routine cron pending; see `SCHEDULED-TASKS.md`) |
 | Daily 12:00 PM | Note | one line for the site's `/notes/` page |
 
 The routine IDs, environment, and run history are in `SCHEDULED-TASKS.md`.
