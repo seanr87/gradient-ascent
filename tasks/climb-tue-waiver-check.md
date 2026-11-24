@@ -8,7 +8,13 @@ This run closes that gap while there is still time to act. Sleeper runs waivers 
 
 ## What this task does not do
 
-It writes **no decision file**, makes **no claim of its own**, and changes **no lineup**. It does not second-guess the claims in this week's waiver file; if it disagrees with them, that is Tuesday's file's business and next Tuesday's. It refreshes the digest, checks one fact, and either stays quiet or raises the alarm. Committing the refreshed digest per COMMON is the only write it makes.
+It writes **no decision file**, makes **no claim of its own**, and changes **no lineup**. It does not second-guess the claims in this week's waiver file; if it disagrees with them, that is Tuesday's file's business and next Tuesday's. It refreshes the digest, checks one fact, and either stays quiet or raises the alarm. Committing the refreshed digest per COMMON is the only write it makes, with one adjustment (added 2026-11-24): **run the pull first, run the check, and only then commit the digest, with the finding in the commit message**:
+
+```
+Sleeper digest <YYYY-MM-DD HH:MM UTC> · waiver check: <ALL FILED | NONE FILED | PARTIAL | CANNOT VERIFY>, <notified | silent>
+```
+
+This is the only durable record that the check ran and what it saw. In Week 11 the claims were never filed, the check ran at 10:43 PM, and nothing in the repo says whether it alarmed; the Tuesday process review audits that line every week.
 
 ## The check
 
