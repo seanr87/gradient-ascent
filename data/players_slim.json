@@ -3826,7 +3826,7 @@
  "13310": {
   "name": "Miller Moss",
   "pos": "QB",
-  "team": "CHI",
+  "team": null,
   "status": "Active",
   "injury_status": null,
   "injury_note": null
@@ -13050,10 +13050,10 @@
  "11648": {
   "name": "Kedon Slovis",
   "pos": "QB",
-  "team": "BAL",
+  "team": null,
   "status": "Active",
-  "injury_status": "Out",
-  "injury_note": "Coach's Decision"
+  "injury_status": null,
+  "injury_note": null
  },
  "3214": {
   "name": "Hunter Henry",
@@ -26498,7 +26498,7 @@
  "6803": {
   "name": "Brandon Aiyuk",
   "pos": "WR",
-  "team": "SF",
+  "team": null,
   "status": "Active",
   "injury_status": "DNR",
   "injury_note": "Knee - ACL + MCL"
@@ -26844,8 +26844,8 @@
   "pos": "WR",
   "team": "CLE",
   "status": "Active",
-  "injury_status": null,
-  "injury_note": null
+  "injury_status": "Questionable",
+  "injury_note": "Toe"
  },
  "8126": {
   "name": "Wan'Dale Robinson",
@@ -30410,7 +30410,7 @@
  "13778": {
   "name": "EJ Smith",
   "pos": "RB",
-  "team": "KC",
+  "team": null,
   "status": "Active",
   "injury_status": null,
   "injury_note": null
@@ -30474,7 +30474,7 @@
  "11963": {
   "name": "Chris Collier",
   "pos": "RB",
-  "team": "LV",
+  "team": null,
   "status": "Inactive",
   "injury_status": "Questionable",
   "injury_note": "Undisclosed"
@@ -33250,7 +33250,7 @@
  "13312": {
   "name": "Josh Kattus",
   "pos": "TE",
-  "team": "CIN",
+  "team": null,
   "status": "Active",
   "injury_status": "Questionable",
   "injury_note": "Undisclosed"
