@@ -1,5 +1,5 @@
 # Sleeper digest — The Climb
-Pulled: 2026-11-24 06:56 UTC · NFL week 12 (regular)
+Pulled: 2026-11-24 11:01 UTC · NFL week 12 (regular)
 
 ## My roster
 - Xavier Hutchinson (WR-HOU)
@@ -51,30 +51,30 @@ Pulled: 2026-11-24 06:56 UTC · NFL week 12 (regular)
 - TheTroubles 131.61 — Lost in the Land of Love 122.71
 
 ## Trending adds (24h, all Sleeper)
-- Chris Rodriguez Jr. (RB-JAX) — 327,672 adds
-- Justice Hill (RB-BAL) — 206,037 adds
-- Jacory Croskey-Merritt (RB-WAS) — 160,245 adds
-- Fernando Mendoza (QB-LV) — 110,392 adds
-- Washington Commanders (DEF-WAS) — 109,291 adds
-- Jack Bech (WR-LV) — 103,952 adds
-- Chimere Dike (WR-TEN) — 99,099 adds
-- Ted Hurst III (WR-TB) — 76,260 adds
-- New York Giants (DEF-NYG) — 72,484 adds
-- Konata Mumpfield (WR-LAR) — 64,728 adds
-- Samaje Perine (RB-CIN) — 60,968 adds
-- Tyler Higbee (TE-LAR) — 48,924 adds
-- Evan Engram (TE-DEN) — 48,872 adds
-- Tampa Bay Buccaneers (DEF-TB) — 41,470 adds
-- Cleveland Browns (DEF-CLE) — 37,002 adds
-- Khalil Shakir (WR-BUF) — 32,868 adds
-- Tai Felton (WR-MIN) — 32,778 adds
-- Devaughn Vele (WR-NO) — 31,857 adds
-- Antonio Williams (WR-WAS) — 30,195 adds
-- Deshaun Watson (QB-CLE) — 30,096 adds
-- Ladd McConkey (WR-LAC) — 29,135 adds
-- Roman Wilson (WR-PIT) — 26,838 adds
-- Jason Sanders (K-NYJ) — 26,355 adds
-- San Francisco 49ers (DEF-SF) — 25,989 adds
-- Kenny Gainwell (RB-TB) — 25,672 adds
+- Chris Rodriguez Jr. (RB-JAX) — 397,251 adds
+- Justice Hill (RB-BAL) — 230,562 adds
+- Jacory Croskey-Merritt (RB-WAS) — 189,711 adds
+- Washington Commanders (DEF-WAS) — 159,005 adds
+- Fernando Mendoza (QB-LV) — 122,504 adds
+- Jack Bech (WR-LV) — 116,686 adds
+- Chimere Dike (WR-TEN) — 114,219 adds
+- New York Giants (DEF-NYG) — 106,712 adds
+- Ted Hurst III (WR-TB) — 92,382 adds
+- Konata Mumpfield (WR-LAR) — 81,486 adds
+- Samaje Perine (RB-CIN) — 70,952 adds
+- Tyler Higbee (TE-LAR) — 68,346 adds
+- Cleveland Browns (DEF-CLE) — 60,172 adds
+- Evan Engram (TE-DEN) — 55,872 adds
+- Tampa Bay Buccaneers (DEF-TB) — 53,480 adds
+- Tai Felton (WR-MIN) — 44,910 adds
+- Deshaun Watson (QB-CLE) — 43,984 adds
+- Devaughn Vele (WR-NO) — 37,338 adds
+- Antonio Williams (WR-WAS) — 37,200 adds
+- Khalil Shakir (WR-BUF) — 34,857 adds
+- Jason Sanders (K-NYJ) — 33,075 adds
+- Dylan Sampson (RB-CLE) — 31,865 adds
+- Ladd McConkey (WR-LAC) — 31,515 adds
+- San Francisco 49ers (DEF-SF) — 29,403 adds
+- Roman Wilson (WR-PIT) — 29,349 adds
 
 ## League transactions this week
