@@ -1,5 +1,5 @@
 # Sleeper digest — The Climb
-Pulled: 2026-11-25 17:04 UTC · NFL week 12 (regular)
+Pulled: 2026-11-25 23:34 UTC · NFL week 12 (regular)
 
 ## My roster
 - Chris Rodriguez Jr. (RB-JAX)
@@ -7,14 +7,14 @@ Pulled: 2026-11-25 17:04 UTC · NFL week 12 (regular)
 - Braelon Allen (RB-NYJ)
 - Bucky Irving (RB-TB) (STARTER)
 - Ollie Gordon II (RB-MIA) (STARTER)
-- Konata Mumpfield (WR-LAR)
+- Konata Mumpfield (WR-LAR) (STARTER)
 - Makai Lemon (WR-PHI) (STARTER)
+- Caleb Douglas (WR-MIA)
 - Ted Hurst III (WR-TB)
 - Darren Waller (TE-CAR) (STARTER)
 - Tyler Higbee (TE-LAR)
 - CeeDee Lamb (WR-DAL) (STARTER)
 - Tyler Bass (K-BUF) (STARTER)
-- Puka Nacua (WR-LAR) [IR]
 - Tampa Bay Buccaneers (DEF-TB) (STARTER)
 
 ## My matchup this week
@@ -51,31 +51,33 @@ Pulled: 2026-11-25 17:04 UTC · NFL week 12 (regular)
 - TheTroubles 131.61 — Lost in the Land of Love 122.71
 
 ## Trending adds (24h, all Sleeper)
-- Chris Rodriguez Jr. (RB-JAX) — 1,419,750 adds
-- Washington Commanders (DEF-WAS) — 1,260,168 adds
-- New York Giants (DEF-NYG) — 559,572 adds
-- Justice Hill (RB-BAL) — 509,715 adds
-- Chimere Dike (WR-TEN) — 460,683 adds
-- Deshaun Watson (QB-CLE) — 435,168 adds
-- Cleveland Browns (DEF-CLE) — 431,914 adds
-- Konata Mumpfield (WR-LAR) — 425,475 adds
-- Tyler Higbee (TE-LAR) — 346,734 adds
-- Jacory Croskey-Merritt (RB-WAS) — 342,648 adds
-- Ted Hurst III (WR-TB) — 318,480 adds
-- Tai Felton (WR-MIN) — 299,058 adds
-- Samaje Perine (RB-CIN) — 290,544 adds
-- Fernando Mendoza (QB-LV) — 269,056 adds
-- Jack Bech (WR-LV) — 235,004 adds
-- Mason Rudolph (QB-PIT) — 226,008 adds
-- Tampa Bay Buccaneers (DEF-TB) — 221,235 adds
-- Dylan Sampson (RB-CLE) — 206,895 adds
-- New England Patriots (DEF-NE) — 177,275 adds
-- Evan Engram (TE-DEN) — 129,864 adds
-- Jason Sanders (K-NYJ) — 129,850 adds
-- Omar Cooper Jr. (WR-NYJ) [Questionable] — 128,920 adds
-- Geno Smith (QB-NYJ) — 128,616 adds
-- KC Concepcion Jr. (WR-CLE) — 114,948 adds
-- Antonio Williams (WR-WAS) — 112,604 adds
+- Washington Commanders (DEF-WAS) — 1,247,316 adds
+- Chris Rodriguez Jr. (RB-JAX) — 1,178,712 adds
+- Deshaun Watson (QB-CLE) — 522,592 adds
+- Justice Hill (RB-BAL) — 512,289 adds
+- New York Giants (DEF-NYG) — 507,568 adds
+- Cleveland Browns (DEF-CLE) — 468,097 adds
+- Konata Mumpfield (WR-LAR) — 463,068 adds
+- Chimere Dike (WR-TEN) — 421,479 adds
+- Tyler Higbee (TE-LAR) — 325,062 adds
+- Samaje Perine (RB-CIN) — 324,300 adds
+- Ted Hurst III (WR-TB) — 298,248 adds
+- Jacory Croskey-Merritt (RB-WAS) — 288,828 adds
+- Mason Rudolph (QB-PIT) — 280,132 adds
+- Tai Felton (WR-MIN) [Questionable] — 272,232 adds
+- Fernando Mendoza (QB-LV) — 266,696 adds
+- Tampa Bay Buccaneers (DEF-TB) — 215,460 adds
+- New England Patriots (DEF-NE) — 209,951 adds
+- Jack Bech (WR-LV) — 198,586 adds
+- Dylan Sampson (RB-CLE) — 193,900 adds
+- Geno Smith (QB-NYJ) — 174,484 adds
+- Omar Cooper Jr. (WR-NYJ) [Questionable] — 139,048 adds
+- Jason Sanders (K-NYJ) — 134,880 adds
+- Evan Engram (TE-DEN) — 122,272 adds
+- KC Concepcion Jr. (WR-CLE) — 107,307 adds
+- J.J. McCarthy (QB-NYG) — 100,860 adds
 
 ## League transactions this week
+- free_agent (complete) TheTroubles: +[New York Giants (DEF-NYG)] -[New England Patriots (DEF-NE)]
+- free_agent (complete) Gradient Ascent: +[Caleb Douglas (WR-MIA)] -[Puka Nacua (WR-LAR) [IR]]
 - free_agent (complete) Umojan Protectorate: +[Deshaun Watson (QB-CLE)] -[Spencer Shrader (K-IND)]

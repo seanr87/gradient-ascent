@@ -1996,8 +1996,8 @@
   "pos": "WR",
   "team": "ATL",
   "status": "Active",
-  "injury_status": null,
-  "injury_note": null
+  "injury_status": "Questionable",
+  "injury_note": "Hamstring"
  },
  "8194": {
   "name": "Jashaun Corbin",
@@ -3490,7 +3490,7 @@
  "2197": {
   "name": "Brandin Cooks",
   "pos": "WR",
-  "team": null,
+  "team": "SF",
   "status": "Active",
   "injury_status": null,
   "injury_note": null
@@ -5748,7 +5748,7 @@
   "pos": "TE",
   "team": "DAL",
   "status": "Active",
-  "injury_status": "Doubtful",
+  "injury_status": "Out",
   "injury_note": "Knee"
  },
  "5834": {
@@ -6188,8 +6188,8 @@
   "pos": "TE",
   "team": "NYG",
   "status": "Active",
-  "injury_status": null,
-  "injury_note": null
+  "injury_status": "Questionable",
+  "injury_note": "Groin"
  },
  "592": {
   "name": "Jahvid Best",
@@ -8268,8 +8268,8 @@
   "pos": "WR",
   "team": "JAX",
   "status": "Active",
-  "injury_status": null,
-  "injury_note": null
+  "injury_status": "Questionable",
+  "injury_note": "Ankle"
  },
  "11529": {
   "name": "Ed Lee",
@@ -9356,8 +9356,8 @@
   "pos": "WR",
   "team": "WAS",
   "status": "Active",
-  "injury_status": null,
-  "injury_note": null
+  "injury_status": "Questionable",
+  "injury_note": "Foot"
  },
  "7694": {
   "name": "Tommy Tremble",
@@ -10212,8 +10212,8 @@
   "pos": "WR",
   "team": "SF",
   "status": "Active",
-  "injury_status": null,
-  "injury_note": null
+  "injury_status": "Questionable",
+  "injury_note": "Achilles"
  },
  "7562": {
   "name": "Tutu Atwell",
@@ -11244,8 +11244,8 @@
   "pos": "RB",
   "team": "BAL",
   "status": "Active",
-  "injury_status": null,
-  "injury_note": null
+  "injury_status": "Questionable",
+  "injury_note": "Concussion"
  },
  "3588": {
   "name": "Michael Miller",
@@ -11356,8 +11356,8 @@
   "pos": "WR",
   "team": "MIN",
   "status": "Active",
-  "injury_status": null,
-  "injury_note": null
+  "injury_status": "Questionable",
+  "injury_note": "Hip"
  },
  "1974": {
   "name": "Cody Parkey",
@@ -11972,8 +11972,8 @@
   "pos": "RB",
   "team": "PHI",
   "status": "Active",
-  "injury_status": "Questionable",
-  "injury_note": "Illness"
+  "injury_status": null,
+  "injury_note": null
  },
  "12540": {
   "name": "Chimere Dike",
@@ -13050,7 +13050,7 @@
  "11648": {
   "name": "Kedon Slovis",
   "pos": "QB",
-  "team": null,
+  "team": "ARI",
   "status": "Active",
   "injury_status": null,
   "injury_note": null
@@ -13988,7 +13988,7 @@
   "pos": "WR",
   "team": "DAL",
   "status": "Active",
-  "injury_status": "Questionable",
+  "injury_status": "Out",
   "injury_note": "Ankle"
  },
  "3516": {
@@ -16956,8 +16956,8 @@
   "pos": "TE",
   "team": "CLE",
   "status": "Active",
-  "injury_status": null,
-  "injury_note": null
+  "injury_status": "Questionable",
+  "injury_note": "Hip"
  },
  "12528": {
   "name": "Ajou Ajou",
@@ -18956,8 +18956,8 @@
   "pos": "QB",
   "team": "SF",
   "status": "Active",
-  "injury_status": null,
-  "injury_note": null
+  "injury_status": "Questionable",
+  "injury_note": "Ankle"
  },
  "13920": {
   "name": "Jonathan Brady",
@@ -20708,8 +20708,8 @@
   "pos": "WR",
   "team": "CAR",
   "status": "Active",
-  "injury_status": null,
-  "injury_note": null
+  "injury_status": "Questionable",
+  "injury_note": "Foot"
  },
  "2528": {
   "name": "Ben Koyack",
@@ -21140,8 +21140,8 @@
   "pos": "WR",
   "team": "WAS",
   "status": "Active",
-  "injury_status": null,
-  "injury_note": null
+  "injury_status": "Questionable",
+  "injury_note": "Personal"
  },
  "7522": {
   "name": "Hunter Thedford",
@@ -22724,8 +22724,8 @@
   "pos": "WR",
   "team": "BAL",
   "status": "Active",
-  "injury_status": null,
-  "injury_note": null
+  "injury_status": "Questionable",
+  "injury_note": "Groin"
  },
  "8783": {
   "name": "Kendric Pryor",
@@ -23996,8 +23996,8 @@
   "pos": "WR",
   "team": "LV",
   "status": "Active",
-  "injury_status": "Questionable",
-  "injury_note": "Undisclosed"
+  "injury_status": null,
+  "injury_note": null
  },
  "13026": {
   "name": "Moochie Dixon",
@@ -26498,7 +26498,7 @@
  "6803": {
   "name": "Brandon Aiyuk",
   "pos": "WR",
-  "team": null,
+  "team": "WAS",
   "status": "Active",
   "injury_status": null,
   "injury_note": null
@@ -26556,8 +26556,8 @@
   "pos": "WR",
   "team": "BAL",
   "status": "Active",
-  "injury_status": null,
-  "injury_note": null
+  "injury_status": "Questionable",
+  "injury_note": "Ankle"
  },
  "5407": {
   "name": "Ervin Philips",
@@ -26700,8 +26700,8 @@
   "pos": "TE",
   "team": "CLE",
   "status": "Active",
-  "injury_status": null,
-  "injury_note": null
+  "injury_status": "Questionable",
+  "injury_note": "Groin"
  },
  "7613": {
   "name": "Jonathan Adams",
@@ -26988,8 +26988,8 @@
   "pos": "TE",
   "team": "IND",
   "status": "Active",
-  "injury_status": null,
-  "injury_note": null
+  "injury_status": "Questionable",
+  "injury_note": "Knee"
  },
  "5239": {
   "name": "Lamar Jordan",
@@ -28420,7 +28420,7 @@
   "pos": "RB",
   "team": "CHI",
   "status": "Active",
-  "injury_status": "Questionable",
+  "injury_status": "Out",
   "injury_note": "Ankle"
  },
  "248": {
@@ -29876,8 +29876,8 @@
   "pos": "WR",
   "team": "MIN",
   "status": "Active",
-  "injury_status": null,
-  "injury_note": null
+  "injury_status": "Questionable",
+  "injury_note": "Knee"
  },
  "2753": {
   "name": "Rasheed Bailey",
@@ -32084,8 +32084,8 @@
   "pos": "TE",
   "team": "LAC",
   "status": "Active",
-  "injury_status": null,
-  "injury_note": null
+  "injury_status": "Questionable",
+  "injury_note": "Shoulder"
  },
  "13621": {
   "name": "Dillon Bell",
@@ -32210,7 +32210,7 @@
  "13861": {
   "name": "Daniel Sobkowicz",
   "pos": "WR",
-  "team": null,
+  "team": "HOU",
   "status": "Active",
   "injury_status": null,
   "injury_note": null
@@ -33188,7 +33188,7 @@
   "pos": "RB",
   "team": "DEN",
   "status": "Active",
-  "injury_status": "Out",
+  "injury_status": "Sus",
   "injury_note": "Personal"
  },
  "5278": {
