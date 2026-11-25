@@ -38,15 +38,16 @@
 | RB | Ollie Gordon II | Wk 11 (trade) |
 | WR | Makai Lemon | Wk 11 (free agent) |
 | WR | CeeDee Lamb | Draft (R2, pick 18) |
-| FLEX | Courtland Sutton | Wk 11 (free agent) |
+| FLEX | — | — |
 | TE | Darren Waller | Wk 11 (free agent) |
 | K | Tyler Bass | Wk 7 (waiver claim) |
 | DEF | Tampa Bay | Wk 7 (waiver claim) |
 | BN | Braelon Allen | Wk 3 (waiver claim) |
 | BN | Chris Rodriguez Jr. | Wk 9 (waiver claim) |
+| BN | Konata Mumpfield | Wk 11 (waiver claim) |
 | BN | Puka Nacua | Draft (R1, pick 7) |
-| BN | Xavier Hutchinson | Wk 11 (free agent) |
-| BN | Dalton Kincaid | Draft (R7, pick 79) |
+| BN | Ted Hurst III | Wk 11 (waiver claim) |
+| BN | Tyler Higbee | Wk 11 (waiver claim) |
 <!-- ROSTER:END -->
 
 *The digest in the repo is the source of truth if it disagrees with this table — update this table when the roster changes.*

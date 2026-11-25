@@ -1,17 +1,17 @@
 # Sleeper digest — The Climb
-Pulled: 2026-11-25 03:40 UTC · NFL week 12 (regular)
+Pulled: 2026-11-25 09:08 UTC · NFL week 12 (regular)
 
 ## My roster
-- Xavier Hutchinson (WR-HOU)
 - Chris Rodriguez Jr. (RB-JAX)
-- Dalton Kincaid (TE-BUF) [Out]
 - Jayden Daniels (QB-WAS) (STARTER)
 - Braelon Allen (RB-NYJ)
 - Bucky Irving (RB-TB) (STARTER)
 - Ollie Gordon II (RB-MIA) (STARTER)
+- Konata Mumpfield (WR-LAR)
 - Makai Lemon (WR-PHI) (STARTER)
+- Ted Hurst III (WR-TB)
 - Darren Waller (TE-CAR) (STARTER)
-- Courtland Sutton (WR-DEN) (STARTER)
+- Tyler Higbee (TE-LAR)
 - CeeDee Lamb (WR-DAL) (STARTER)
 - Tyler Bass (K-BUF) (STARTER)
 - Puka Nacua (WR-LAR) [IR]
@@ -21,16 +21,16 @@ Pulled: 2026-11-25 03:40 UTC · NFL week 12 (regular)
 - Opponent: Lost in the Land of Love
 
 ## Standings (W-L, points for)
-1. Umojan Protectorate — 9-2, 1414.31 PF, waiver #12
-2. Sea Squirts — 7-4, 1505.63 PF, waiver #11
-3. Two Dumb Jaylens  — 7-4, 1309.53 PF, waiver #10
-4. Princess Donut's Court — 7-4, 1308.61 PF, waiver #9
-5. Playful Secrets — 6-5, 1364.69 PF, waiver #8
-6. Gradient Ascent — 6-5, 1329.71 PF, waiver #7
-7. The Butker Jihad — 5-6, 1316.67 PF, waiver #6
-8. CorneliusJones — 5-6, 1190.88 PF, waiver #5
-9. The Wizard’s Apprentice — 4-7, 1426.61 PF, waiver #4
-10. Lost in the Land of Love — 4-7, 1264.96 PF, waiver #3
+1. Umojan Protectorate — 9-2, 1414.31 PF, waiver #11
+2. Sea Squirts — 7-4, 1505.63 PF, waiver #8
+3. Two Dumb Jaylens  — 7-4, 1309.53 PF, waiver #7
+4. Princess Donut's Court — 7-4, 1308.61 PF, waiver #6
+5. Playful Secrets — 6-5, 1364.69 PF, waiver #5
+6. Gradient Ascent — 6-5, 1329.71 PF, waiver #12
+7. The Butker Jihad — 5-6, 1316.67 PF, waiver #4
+8. CorneliusJones — 5-6, 1190.88 PF, waiver #3
+9. The Wizard’s Apprentice — 4-7, 1426.61 PF, waiver #10
+10. Lost in the Land of Love — 4-7, 1264.96 PF, waiver #9
 11. TheTroubles — 4-7, 1169.43 PF, waiver #2
 12. What can Brown do for u? — 2-9, 1197.04 PF, waiver #1
 
@@ -51,30 +51,30 @@ Pulled: 2026-11-25 03:40 UTC · NFL week 12 (regular)
 - TheTroubles 131.61 — Lost in the Land of Love 122.71
 
 ## Trending adds (24h, all Sleeper)
-- Chris Rodriguez Jr. (RB-JAX) — 1,324,764 adds
-- Washington Commanders (DEF-WAS) — 930,244 adds
-- New York Giants (DEF-NYG) — 513,592 adds
-- Justice Hill (RB-BAL) — 490,446 adds
-- Jacory Croskey-Merritt (RB-WAS) — 409,842 adds
-- Chimere Dike (WR-TEN) — 366,012 adds
-- Cleveland Browns (DEF-CLE) — 332,535 adds
-- Tyler Higbee (TE-LAR) — 297,495 adds
-- Konata Mumpfield (WR-LAR) — 283,356 adds
-- Ted Hurst III (WR-TB) — 263,262 adds
-- Deshaun Watson (QB-CLE) — 253,040 adds
-- Fernando Mendoza (QB-LV) — 240,784 adds
-- Tai Felton (WR-MIN) — 231,594 adds
-- Jack Bech (WR-LV) — 216,032 adds
-- Samaje Perine (RB-CIN) — 189,948 adds
-- Dylan Sampson (RB-CLE) — 183,530 adds
-- Tampa Bay Buccaneers (DEF-TB) — 177,595 adds
-- Evan Engram (TE-DEN) — 121,560 adds
-- Antonio Williams (WR-WAS) — 117,489 adds
-- New England Patriots (DEF-NE) — 104,741 adds
-- KC Concepcion Jr. (WR-CLE) — 104,454 adds
-- Jason Sanders (K-NYJ) — 99,265 adds
-- Omar Cooper Jr. (WR-NYJ) [Out] — 89,840 adds
-- Rhamondre Stevenson (RB-NE) — 85,743 adds
-- Devaughn Vele (WR-NO) — 81,263 adds
+- Chris Rodriguez Jr. (RB-JAX) — 1,560,465 adds
+- Washington Commanders (DEF-WAS) — 1,147,986 adds
+- New York Giants (DEF-NYG) — 588,772 adds
+- Justice Hill (RB-BAL) — 556,497 adds
+- Chimere Dike (WR-TEN) — 452,034 adds
+- Jacory Croskey-Merritt (RB-WAS) — 401,760 adds
+- Cleveland Browns (DEF-CLE) — 392,875 adds
+- Konata Mumpfield (WR-LAR) — 371,709 adds
+- Tyler Higbee (TE-LAR) — 359,379 adds
+- Deshaun Watson (QB-CLE) — 350,336 adds
+- Ted Hurst III (WR-TB) — 321,426 adds
+- Tai Felton (WR-MIN) — 303,756 adds
+- Fernando Mendoza (QB-LV) — 270,544 adds
+- Jack Bech (WR-LV) — 255,790 adds
+- Samaje Perine (RB-CIN) — 251,184 adds
+- Dylan Sampson (RB-CLE) — 216,895 adds
+- Tampa Bay Buccaneers (DEF-TB) — 210,860 adds
+- Mason Rudolph (QB-PIT) — 146,886 adds
+- New England Patriots (DEF-NE) — 134,050 adds
+- Evan Engram (TE-DEN) — 132,984 adds
+- Antonio Williams (WR-WAS) — 123,046 adds
+- KC Concepcion Jr. (WR-CLE) — 120,807 adds
+- Jason Sanders (K-NYJ) — 114,470 adds
+- Omar Cooper Jr. (WR-NYJ) [Questionable] — 112,928 adds
+- Rhamondre Stevenson (RB-NE) — 97,101 adds
 
 ## League transactions this week
