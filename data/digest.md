@@ -1,5 +1,5 @@
 # Sleeper digest — The Climb
-Pulled: 2026-11-25 02:33 UTC · NFL week 12 (regular)
+Pulled: 2026-11-25 02:38 UTC · NFL week 12 (regular)
 
 ## My roster
 - Xavier Hutchinson (WR-HOU)
