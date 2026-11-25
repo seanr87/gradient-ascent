@@ -594,7 +594,7 @@
  "12699": {
   "name": "LaJohntay Wester",
   "pos": "WR",
-  "team": "BAL",
+  "team": null,
   "status": "Active",
   "injury_status": null,
   "injury_note": null
@@ -1676,8 +1676,8 @@
   "pos": "TE",
   "team": "KC",
   "status": "Active",
-  "injury_status": null,
-  "injury_note": null
+  "injury_status": "Questionable",
+  "injury_note": "Ribs"
  },
  "10861": {
   "name": "Xazavian Valladay",
@@ -5058,7 +5058,7 @@
  "4574": {
   "name": "Cooper Rush",
   "pos": "QB",
-  "team": "TB",
+  "team": null,
   "status": "Active",
   "injury_status": null,
   "injury_note": null
@@ -8826,7 +8826,7 @@
  "6659": {
   "name": "Craig Reynolds",
   "pos": "RB",
-  "team": "WAS",
+  "team": null,
   "status": "Active",
   "injury_status": null,
   "injury_note": null
@@ -19612,7 +19612,7 @@
   "pos": "RB",
   "team": "KC",
   "status": "Active",
-  "injury_status": "Questionable",
+  "injury_status": "Out",
   "injury_note": "Groin"
  },
  "13773": {
@@ -24066,7 +24066,7 @@
  "12860": {
   "name": "Theo Wease Jr.",
   "pos": "WR",
-  "team": "LAC",
+  "team": null,
   "status": "Active",
   "injury_status": null,
   "injury_note": null
@@ -26778,7 +26778,7 @@
  "7050": {
   "name": "Josiah Deguara",
   "pos": "TE",
-  "team": "LAC",
+  "team": null,
   "status": "Active",
   "injury_status": null,
   "injury_note": null
@@ -27992,9 +27992,9 @@
   "injury_note": null
  },
  "8200": {
-  "name": "Kevin Austin",
+  "name": "Kevin Austin Jr.",
   "pos": "WR",
-  "team": null,
+  "team": "NO",
   "status": "Active",
   "injury_status": null,
   "injury_note": null
