@@ -7180,8 +7180,8 @@
   "pos": "QB",
   "team": "CHI",
   "status": "Active",
-  "injury_status": null,
-  "injury_note": null
+  "injury_status": "Out",
+  "injury_note": "Coach's Decision"
  },
  "6469": {
   "name": "Davis Koppenhaver",
@@ -7546,7 +7546,7 @@
  "96": {
   "name": "Aaron Rodgers",
   "pos": "QB",
-  "team": "PIT",
+  "team": null,
   "status": "Active",
   "injury_status": null,
   "injury_note": null
@@ -27898,7 +27898,7 @@
  "4718": {
   "name": "Dare Ogunbowale",
   "pos": "RB",
-  "team": "HOU",
+  "team": null,
   "status": "Active",
   "injury_status": null,
   "injury_note": null
