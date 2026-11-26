@@ -1,5 +1,5 @@
 # Sleeper digest — The Climb
-Pulled: 2026-11-26 18:38 UTC · NFL week 12 (regular)
+Pulled: 2026-11-26 20:08 UTC · NFL week 12 (regular)
 
 ## My roster
 - Chris Rodriguez Jr. (RB-JAX)
@@ -35,11 +35,11 @@ Pulled: 2026-11-26 18:38 UTC · NFL week 12 (regular)
 12. What can Brown do for u? — 2-9, 1197.04 PF, waiver #1
 
 ## This week's matchups (week 12)
-- Two Dumb Jaylens  12.12 — Princess Donut's Court 1.76
-- Umojan Protectorate 31.50 — CorneliusJones 0.90
-- Sea Squirts 3.00 — The Butker Jihad 0.00
-- Playful Secrets 28.52 — What can Brown do for u? 0.00
-- Gradient Ascent 10.90 — Lost in the Land of Love -1.00
+- Two Dumb Jaylens  14.12 — Princess Donut's Court 7.50
+- Umojan Protectorate 31.50 — CorneliusJones 9.50
+- Sea Squirts 20.30 — The Butker Jihad 0.00
+- Playful Secrets 51.42 — What can Brown do for u? 7.60
+- Gradient Ascent 10.90 — Lost in the Land of Love 5.60
 - The Wizard’s Apprentice 4.90 — TheTroubles 1.90
 
 ## Last week's results (week 11)
@@ -51,33 +51,38 @@ Pulled: 2026-11-26 18:38 UTC · NFL week 12 (regular)
 - TheTroubles 131.61 — Lost in the Land of Love 122.71
 
 ## Trending adds (24h, all Sleeper)
-- Washington Commanders (DEF-WAS) — 553,399 adds
-- Deshaun Watson (QB-CLE) — 342,712 adds
-- Chris Rodriguez Jr. (RB-JAX) — 293,220 adds
-- Cleveland Browns (DEF-CLE) — 282,772 adds
-- Konata Mumpfield (WR-LAR) — 243,612 adds
-- Justice Hill (RB-BAL) — 230,877 adds
-- New England Patriots (DEF-NE) — 171,857 adds
-- New York Giants (DEF-NYG) — 171,576 adds
-- Samaje Perine (RB-CIN) — 155,284 adds
-- Geno Smith (QB-NYJ) — 154,360 adds
-- Chimere Dike (WR-TEN) — 140,796 adds
-- Fernando Mendoza (QB-LV) — 120,104 adds
-- Ted Hurst III (WR-TB) — 98,190 adds
-- Jacory Croskey-Merritt (RB-WAS) — 88,245 adds
-- Mason Rudolph (QB-PIT) — 84,158 adds
-- Dylan Sampson (RB-CLE) — 81,305 adds
-- Tampa Bay Buccaneers (DEF-TB) — 81,245 adds
-- Tyler Higbee (TE-LAR) [Out] — 79,155 adds
-- Omar Cooper Jr. (WR-NYJ) [Questionable] — 74,488 adds
-- J.J. McCarthy (QB-NYG) — 74,229 adds
-- Evan Engram (TE-DEN) — 74,080 adds
-- Jason Sanders (K-NYJ) — 73,530 adds
-- Blake Corum (RB-LAR) — 66,736 adds
-- Darren Waller (TE-CAR) — 65,952 adds
-- Emmett Johnson (RB-KC) — 65,223 adds
+- Washington Commanders (DEF-WAS) — 531,328 adds
+- Deshaun Watson (QB-CLE) — 343,888 adds
+- Cleveland Browns (DEF-CLE) — 277,256 adds
+- Chris Rodriguez Jr. (RB-JAX) — 277,101 adds
+- Konata Mumpfield (WR-LAR) — 233,793 adds
+- Justice Hill (RB-BAL) — 227,808 adds
+- New England Patriots (DEF-NE) — 174,503 adds
+- New York Giants (DEF-NYG) — 160,604 adds
+- Geno Smith (QB-NYJ) — 156,432 adds
+- Samaje Perine (RB-CIN) — 151,200 adds
+- Chimere Dike (WR-TEN) — 136,206 adds
+- Fernando Mendoza (QB-LV) — 118,040 adds
+- Ted Hurst III (WR-TB) — 95,262 adds
+- Evan Engram (TE-DEN) — 86,088 adds
+- Jacory Croskey-Merritt (RB-WAS) — 84,555 adds
+- Dylan Sampson (RB-CLE) — 79,180 adds
+- Mason Rudolph (QB-PIT) — 78,286 adds
+- Tampa Bay Buccaneers (DEF-TB) — 77,900 adds
+- J.J. McCarthy (QB-NYG) — 74,859 adds
+- Omar Cooper Jr. (WR-NYJ) [Questionable] — 73,184 adds
+- Darren Waller (TE-CAR) — 72,792 adds
+- Jason Sanders (K-NYJ) — 71,910 adds
+- Blake Corum (RB-LAR) — 68,984 adds
+- Tyler Higbee (TE-LAR) [Out] — 68,634 adds
+- Emmett Johnson (RB-KC) — 64,764 adds
 
 ## League transactions this week
+- free_agent (complete) Two Dumb Jaylens : +[Brenton Strange (TE-JAX)] -[George Holani (RB-SEA) [IR]]
+- free_agent (complete) Lost in the Land of Love: +[Evan Engram (TE-DEN)] -[Kyle Pitts Sr. (TE-ATL)]
+- free_agent (complete) Lost in the Land of Love: +[Kyle Pitts Sr. (TE-ATL)] -[San Francisco 49ers (DEF-SF)]
+- free_agent (complete) Princess Donut's Court: +[Justice Hill (RB-BAL)] -[Mike Washington Jr. (RB-LV)]
+- free_agent (complete) Princess Donut's Court: +[Washington Commanders (DEF-WAS)] -[Pittsburgh Steelers (DEF-PIT)]
 - free_agent (complete) TheTroubles: +[New York Giants (DEF-NYG)] -[New England Patriots (DEF-NE)]
 - free_agent (complete) Gradient Ascent: +[Caleb Douglas (WR-MIA)] -[Puka Nacua (WR-LAR) [IR]]
 - free_agent (complete) Umojan Protectorate: +[Deshaun Watson (QB-CLE)] -[Spencer Shrader (K-IND)]
