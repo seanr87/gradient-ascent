@@ -1,5 +1,5 @@
 # Sleeper digest — The Climb
-Pulled: 2026-11-25 23:34 UTC · NFL week 12 (regular)
+Pulled: 2026-11-26 13:01 UTC · NFL week 12 (regular)
 
 ## My roster
 - Chris Rodriguez Jr. (RB-JAX)
@@ -12,7 +12,7 @@ Pulled: 2026-11-25 23:34 UTC · NFL week 12 (regular)
 - Caleb Douglas (WR-MIA)
 - Ted Hurst III (WR-TB)
 - Darren Waller (TE-CAR) (STARTER)
-- Tyler Higbee (TE-LAR)
+- Tyler Higbee (TE-LAR) [Out]
 - CeeDee Lamb (WR-DAL) (STARTER)
 - Tyler Bass (K-BUF) (STARTER)
 - Tampa Bay Buccaneers (DEF-TB) (STARTER)
@@ -35,12 +35,12 @@ Pulled: 2026-11-25 23:34 UTC · NFL week 12 (regular)
 12. What can Brown do for u? — 2-9, 1197.04 PF, waiver #1
 
 ## This week's matchups (week 12)
-- Two Dumb Jaylens  0.00 — Princess Donut's Court 0.00
-- Umojan Protectorate 0.00 — CorneliusJones 0.00
+- Two Dumb Jaylens  9.12 — Princess Donut's Court 0.00
+- Umojan Protectorate 31.50 — CorneliusJones 0.00
 - The Butker Jihad 0.00 — Sea Squirts 0.00
-- Playful Secrets 0.00 — What can Brown do for u? 0.00
-- Lost in the Land of Love 0.00 — Gradient Ascent 0.00
-- TheTroubles 0.00 — The Wizard’s Apprentice 0.00
+- Playful Secrets 15.50 — What can Brown do for u? 0.00
+- Gradient Ascent 10.90 — Lost in the Land of Love 0.00
+- The Wizard’s Apprentice 4.90 — TheTroubles 1.90
 
 ## Last week's results (week 11)
 - Princess Donut's Court 104.74 — CorneliusJones 103.30
@@ -51,31 +51,31 @@ Pulled: 2026-11-25 23:34 UTC · NFL week 12 (regular)
 - TheTroubles 131.61 — Lost in the Land of Love 122.71
 
 ## Trending adds (24h, all Sleeper)
-- Washington Commanders (DEF-WAS) — 1,247,316 adds
-- Chris Rodriguez Jr. (RB-JAX) — 1,178,712 adds
-- Deshaun Watson (QB-CLE) — 522,592 adds
-- Justice Hill (RB-BAL) — 512,289 adds
-- New York Giants (DEF-NYG) — 507,568 adds
-- Cleveland Browns (DEF-CLE) — 468,097 adds
-- Konata Mumpfield (WR-LAR) — 463,068 adds
-- Chimere Dike (WR-TEN) — 421,479 adds
-- Tyler Higbee (TE-LAR) — 325,062 adds
-- Samaje Perine (RB-CIN) — 324,300 adds
-- Ted Hurst III (WR-TB) — 298,248 adds
-- Jacory Croskey-Merritt (RB-WAS) — 288,828 adds
-- Mason Rudolph (QB-PIT) — 280,132 adds
-- Tai Felton (WR-MIN) [Questionable] — 272,232 adds
-- Fernando Mendoza (QB-LV) — 266,696 adds
-- Tampa Bay Buccaneers (DEF-TB) — 215,460 adds
-- New England Patriots (DEF-NE) — 209,951 adds
-- Jack Bech (WR-LV) — 198,586 adds
-- Dylan Sampson (RB-CLE) — 193,900 adds
-- Geno Smith (QB-NYJ) — 174,484 adds
-- Omar Cooper Jr. (WR-NYJ) [Questionable] — 139,048 adds
-- Jason Sanders (K-NYJ) — 134,880 adds
-- Evan Engram (TE-DEN) — 122,272 adds
-- KC Concepcion Jr. (WR-CLE) — 107,307 adds
-- J.J. McCarthy (QB-NYG) — 100,860 adds
+- Washington Commanders (DEF-WAS) — 806,344 adds
+- Chris Rodriguez Jr. (RB-JAX) — 456,678 adds
+- Deshaun Watson (QB-CLE) — 426,088 adds
+- Cleveland Browns (DEF-CLE) — 355,040 adds
+- Konata Mumpfield (WR-LAR) — 353,475 adds
+- Justice Hill (RB-BAL) — 294,336 adds
+- New York Giants (DEF-NYG) — 276,028 adds
+- Samaje Perine (RB-CIN) — 216,348 adds
+- Chimere Dike (WR-TEN) — 210,411 adds
+- New England Patriots (DEF-NE) — 206,472 adds
+- Geno Smith (QB-NYJ) — 179,948 adds
+- Fernando Mendoza (QB-LV) — 165,424 adds
+- Tyler Higbee (TE-LAR) [Out] — 153,945 adds
+- Ted Hurst III (WR-TB) — 139,242 adds
+- Mason Rudolph (QB-PIT) — 136,176 adds
+- Jacory Croskey-Merritt (RB-WAS) — 133,803 adds
+- Tampa Bay Buccaneers (DEF-TB) — 123,605 adds
+- Dylan Sampson (RB-CLE) — 114,295 adds
+- Tai Felton (WR-MIN) [Questionable] — 101,976 adds
+- Omar Cooper Jr. (WR-NYJ) [Questionable] — 101,808 adds
+- Jason Sanders (K-NYJ) — 99,075 adds
+- J.J. McCarthy (QB-NYG) — 89,604 adds
+- Jacksonville Jaguars (DEF-JAX) — 85,140 adds
+- Evan Engram (TE-DEN) — 81,224 adds
+- Darren Waller (TE-CAR) — 73,512 adds
 
 ## League transactions this week
 - free_agent (complete) TheTroubles: +[New York Giants (DEF-NYG)] -[New England Patriots (DEF-NE)]

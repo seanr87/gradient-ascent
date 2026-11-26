@@ -1388,8 +1388,8 @@
   "pos": "QB",
   "team": "SEA",
   "status": "Active",
-  "injury_status": null,
-  "injury_note": null
+  "injury_status": "Questionable",
+  "injury_note": "Elbow"
  },
  "2936": {
   "name": "Rasheed Williams",
@@ -2292,8 +2292,8 @@
   "pos": "QB",
   "team": "SEA",
   "status": "Active",
-  "injury_status": "Questionable",
-  "injury_note": "Quadriceps"
+  "injury_status": null,
+  "injury_note": null
  },
  "5809": {
   "name": "Ja'Quan Gardner",
@@ -3124,8 +3124,8 @@
   "pos": "WR",
   "team": "SEA",
   "status": "Active",
-  "injury_status": null,
-  "injury_note": null
+  "injury_status": "Questionable",
+  "injury_note": "Ankle"
  },
  "9510": {
   "name": "Lew Nichols",
@@ -8028,8 +8028,8 @@
   "pos": "WR",
   "team": "GB",
   "status": "Active",
-  "injury_status": null,
-  "injury_note": null
+  "injury_status": "Out",
+  "injury_note": "Concussion"
  },
  "8211": {
   "name": "Tyrion Davis-Price",
@@ -8572,8 +8572,8 @@
   "pos": "TE",
   "team": "LAR",
   "status": "Active",
-  "injury_status": null,
-  "injury_note": null
+  "injury_status": "Out",
+  "injury_note": "Chest"
  },
  "11267": {
   "name": "Aron Cruickshank",
@@ -15668,8 +15668,8 @@
   "pos": "TE",
   "team": "SEA",
   "status": "Active",
-  "injury_status": null,
-  "injury_note": null
+  "injury_status": "Questionable",
+  "injury_note": "Ankle"
  },
  "806": {
   "name": "Daniel Thomas",
@@ -16764,8 +16764,8 @@
   "pos": "TE",
   "team": "LAR",
   "status": "Active",
-  "injury_status": null,
-  "injury_note": null
+  "injury_status": "Questionable",
+  "injury_note": "Ankle"
  },
  "8153": {
   "name": "Isaiah Spiller",
@@ -18300,8 +18300,8 @@
   "pos": "RB",
   "team": "NE",
   "status": "Active",
-  "injury_status": null,
-  "injury_note": null
+  "injury_status": "Questionable",
+  "injury_note": "Knee"
  },
  "5117": {
   "name": "Jordan Thomas",
@@ -18876,8 +18876,8 @@
   "pos": "QB",
   "team": "LAR",
   "status": "Active",
-  "injury_status": null,
-  "injury_note": null
+  "injury_status": "Out",
+  "injury_note": "Coach's Decision"
  },
  "7087": {
   "name": "Jonathan Ward",
@@ -19268,8 +19268,8 @@
   "pos": "WR",
   "team": "SF",
   "status": "Active",
-  "injury_status": null,
-  "injury_note": null
+  "injury_status": "Questionable",
+  "injury_note": "Groin"
  },
  "6625": {
   "name": "Clayton Hatfield",
@@ -24876,8 +24876,8 @@
   "pos": "WR",
   "team": "GB",
   "status": "Active",
-  "injury_status": "Questionable",
-  "injury_note": "Thigh"
+  "injury_status": null,
+  "injury_note": null
  },
  "11073": {
   "name": "Thayer Thomas",
@@ -27196,8 +27196,8 @@
   "pos": "WR",
   "team": "GB",
   "status": "Active",
-  "injury_status": "Questionable",
-  "injury_note": "Ankle"
+  "injury_status": null,
+  "injury_note": null
  },
  "2446": {
   "name": "MyCole Pruitt",
@@ -30420,8 +30420,8 @@
   "pos": "QB",
   "team": "SEA",
   "status": "Active",
-  "injury_status": null,
-  "injury_note": null
+  "injury_status": "Questionable",
+  "injury_note": "Illness"
  },
  "665": {
   "name": "Dennis Dixon",
@@ -31100,7 +31100,7 @@
   "pos": "RB",
   "team": "GB",
   "status": "Active",
-  "injury_status": "Questionable",
+  "injury_status": "Out",
   "injury_note": "Finger"
  },
  "5804": {
