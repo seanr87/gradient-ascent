@@ -27,13 +27,13 @@
   acquired_via: "trade"
   acquired_week: 11
 - slot: "WR"
-  player: "Makai Lemon"
+  player: "Caleb Douglas"
   pos: "WR"
-  team: "PHI"
+  team: "MIA"
   status: ""
-  acquired: "Wk 11"
+  acquired: "Wk 12"
   acquired_via: "free agent"
-  acquired_week: 11
+  acquired_week: 12
 - slot: "WR"
   player: "CeeDee Lamb"
   pos: "WR"
@@ -54,7 +54,7 @@
   player: "Darren Waller"
   pos: "TE"
   team: "CAR"
-  status: ""
+  status: "Questionable"
   acquired: "Wk 11"
   acquired_via: "free agent"
   acquired_week: 11
@@ -91,13 +91,13 @@
   acquired_via: "waiver claim"
   acquired_week: 9
 - slot: "BN3"
-  player: "Caleb Douglas"
+  player: "Makai Lemon"
   pos: "WR"
-  team: "MIA"
+  team: "PHI"
   status: ""
-  acquired: "Wk 12"
+  acquired: "Wk 11"
   acquired_via: "free agent"
-  acquired_week: 12
+  acquired_week: 11
 - slot: "BN4"
   player: "Ted Hurst III"
   pos: "WR"

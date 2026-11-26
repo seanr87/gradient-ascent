@@ -36,7 +36,7 @@
 | QB | Jayden Daniels | Draft (R5, pick 55) |
 | RB | Bucky Irving | Draft (R3, pick 31) |
 | RB | Ollie Gordon II | Wk 11 (trade) |
-| WR | Makai Lemon | Wk 11 (free agent) |
+| WR | Caleb Douglas | Wk 12 (free agent) |
 | WR | CeeDee Lamb | Draft (R2, pick 18) |
 | FLEX | Konata Mumpfield | Wk 11 (waiver claim) |
 | TE | Darren Waller | Wk 11 (free agent) |
@@ -44,7 +44,7 @@
 | DEF | Tampa Bay | Wk 7 (waiver claim) |
 | BN | Braelon Allen | Wk 3 (waiver claim) |
 | BN | Chris Rodriguez Jr. | Wk 9 (waiver claim) |
-| BN | Caleb Douglas | Wk 12 (free agent) |
+| BN | Makai Lemon | Wk 11 (free agent) |
 | BN | Ted Hurst III | Wk 11 (waiver claim) |
 | BN | Tyler Higbee | Wk 11 (waiver claim) |
 <!-- ROSTER:END -->
