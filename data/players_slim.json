@@ -1676,8 +1676,8 @@
   "pos": "TE",
   "team": "KC",
   "status": "Active",
-  "injury_status": "Questionable",
-  "injury_note": "Ribs"
+  "injury_status": null,
+  "injury_note": null
  },
  "10861": {
   "name": "Xazavian Valladay",
@@ -9715,8 +9715,8 @@
   "name": "Tyler Badie",
   "pos": "RB",
   "team": "DEN",
-  "status": "Inactive",
-  "injury_status": "IR",
+  "status": "Active",
+  "injury_status": "Questionable",
   "injury_note": "Thumb"
  },
  "1855": {
@@ -12364,8 +12364,8 @@
   "pos": "RB",
   "team": "PHI",
   "status": "Active",
-  "injury_status": null,
-  "injury_note": null
+  "injury_status": "Questionable",
+  "injury_note": "Neck"
  },
  "8778": {
   "name": "Justin Rigg",
@@ -14188,8 +14188,8 @@
   "pos": "TE",
   "team": "PHI",
   "status": "Active",
-  "injury_status": null,
-  "injury_note": null
+  "injury_status": "Out",
+  "injury_note": "Shoulder"
  },
  "12849": {
   "name": "Traeshon Holden",
@@ -15668,8 +15668,8 @@
   "pos": "TE",
   "team": "SEA",
   "status": "Active",
-  "injury_status": "Questionable",
-  "injury_note": "Ankle"
+  "injury_status": null,
+  "injury_note": null
  },
  "806": {
   "name": "Daniel Thomas",
@@ -16956,8 +16956,8 @@
   "pos": "TE",
   "team": "CLE",
   "status": "Active",
-  "injury_status": "Questionable",
-  "injury_note": "Hip"
+  "injury_status": null,
+  "injury_note": null
  },
  "12528": {
   "name": "Ajou Ajou",
@@ -19628,8 +19628,8 @@
   "pos": "TE",
   "team": "BUF",
   "status": "Active",
-  "injury_status": "Questionable",
-  "injury_note": "Thumb"
+  "injury_status": null,
+  "injury_note": null
  },
  "2078": {
   "name": "Odell Beckham Jr.",
@@ -25020,8 +25020,8 @@
   "pos": "QB",
   "team": "KC",
   "status": "Active",
-  "injury_status": null,
-  "injury_note": null
+  "injury_status": "Out",
+  "injury_note": "Coach's Decision"
  },
  "2593": {
   "name": "Antwan Goodley",
@@ -26700,8 +26700,8 @@
   "pos": "TE",
   "team": "CLE",
   "status": "Active",
-  "injury_status": "Questionable",
-  "injury_note": "Groin"
+  "injury_status": null,
+  "injury_note": null
  },
  "7613": {
   "name": "Jonathan Adams",
@@ -27740,8 +27740,8 @@
   "pos": "WR",
   "team": "BUF",
   "status": "Active",
-  "injury_status": null,
-  "injury_note": null
+  "injury_status": "Out",
+  "injury_note": "Coach's Decision"
  },
  "8127": {
   "name": "Charlie Kolar",
