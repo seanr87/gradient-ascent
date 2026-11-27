@@ -1,5 +1,5 @@
 # Sleeper digest — The Climb
-Pulled: 2026-11-27 02:50 UTC · NFL week 12 (regular)
+Pulled: 2026-11-27 15:20 UTC · NFL week 12 (regular)
 
 ## My roster
 - Chris Rodriguez Jr. (RB-JAX)
@@ -35,12 +35,12 @@ Pulled: 2026-11-27 02:50 UTC · NFL week 12 (regular)
 12. What can Brown do for u? — 2-9, 1197.04 PF, waiver #1
 
 ## This week's matchups (week 12)
-- Princess Donut's Court 27.20 — Two Dumb Jaylens  21.12
+- Princess Donut's Court 29.20 — Two Dumb Jaylens  23.87
 - CorneliusJones 54.50 — Umojan Protectorate 31.50
-- Sea Squirts 49.20 — The Butker Jihad 10.70
+- Sea Squirts 49.20 — The Butker Jihad 13.00
 - Playful Secrets 113.22 — What can Brown do for u? 25.15
-- Gradient Ascent 31.80 — Lost in the Land of Love 11.50
-- The Wizard’s Apprentice 63.04 — TheTroubles 4.64
+- Gradient Ascent 42.90 — Lost in the Land of Love 11.50
+- The Wizard’s Apprentice 84.44 — TheTroubles 10.64
 
 ## Last week's results (week 11)
 - Princess Donut's Court 104.74 — CorneliusJones 103.30
@@ -51,31 +51,31 @@ Pulled: 2026-11-27 02:50 UTC · NFL week 12 (regular)
 - TheTroubles 131.61 — Lost in the Land of Love 122.71
 
 ## Trending adds (24h, all Sleeper)
-- Washington Commanders (DEF-WAS) — 288,169 adds
-- Deshaun Watson (QB-CLE) — 234,592 adds
-- Cleveland Browns (DEF-CLE) — 177,142 adds
-- Chris Rodriguez Jr. (RB-JAX) — 163,665 adds
-- Konata Mumpfield (WR-LAR) — 134,658 adds
-- New England Patriots (DEF-NE) — 130,907 adds
-- Justice Hill (RB-BAL) — 109,449 adds
-- Geno Smith (QB-NYJ) — 106,896 adds
-- Evan Engram (TE-DEN) — 97,568 adds
-- Samaje Perine (RB-CIN) — 94,228 adds
-- Chimere Dike (WR-TEN) — 93,474 adds
-- Joe Milton (QB-PHI) — 89,804 adds
-- Sam Roush (TE-CHI) — 80,136 adds
-- New York Giants (DEF-NYG) — 78,468 adds
-- Fernando Mendoza (QB-LV) — 75,504 adds
-- Blake Corum (RB-LAR) — 69,704 adds
-- Ted Hurst III (WR-TB) — 64,020 adds
-- Darren Waller (TE-CAR) [Questionable] — 62,910 adds
-- Brenton Strange (TE-JAX) — 54,477 adds
-- Jacory Croskey-Merritt (RB-WAS) — 52,065 adds
-- Jason Sanders (K-NYJ) — 51,875 adds
-- J.J. McCarthy (QB-NYG) — 51,096 adds
-- Tampa Bay Buccaneers (DEF-TB) — 49,420 adds
-- Dylan Sampson (RB-CLE) — 49,125 adds
-- Omar Cooper Jr. (WR-NYJ) [Questionable] — 46,992 adds
+- Deshaun Watson (QB-CLE) — 191,288 adds
+- Washington Commanders (DEF-WAS) — 190,561 adds
+- Joe Milton (QB-PHI) — 136,760 adds
+- Sam Roush (TE-CHI) — 124,369 adds
+- Cleveland Browns (DEF-CLE) — 123,928 adds
+- Chris Rodriguez Jr. (RB-JAX) — 119,709 adds
+- New England Patriots (DEF-NE) — 97,524 adds
+- Evan Engram (TE-DEN) — 93,208 adds
+- Geno Smith (QB-NYJ) — 84,964 adds
+- Justice Hill (RB-BAL) — 77,868 adds
+- Chimere Dike (WR-TEN) — 73,116 adds
+- Samaje Perine (RB-CIN) — 68,984 adds
+- Fernando Mendoza (QB-LV) — 58,080 adds
+- Konata Mumpfield (WR-LAR) — 57,546 adds
+- New York Giants (DEF-NYG) — 52,280 adds
+- Darren Waller (TE-CAR) [Questionable] — 51,282 adds
+- Brenton Strange (TE-JAX) — 49,203 adds
+- Ted Hurst III (WR-TB) — 47,196 adds
+- J.J. McCarthy (QB-NYG) — 41,934 adds
+- Jason Sanders (K-NYJ) — 41,490 adds
+- Jacory Croskey-Merritt (RB-WAS) — 38,538 adds
+- Dylan Sampson (RB-CLE) — 37,460 adds
+- Tampa Bay Buccaneers (DEF-TB) — 36,545 adds
+- Omar Cooper Jr. (WR-NYJ) [Questionable] — 35,632 adds
+- Tai Felton (WR-MIN) — 34,626 adds
 
 ## League transactions this week
 - free_agent (complete) Two Dumb Jaylens : +[Brenton Strange (TE-JAX)] -[George Holani (RB-SEA) [IR]]

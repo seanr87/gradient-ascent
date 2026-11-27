@@ -33868,8 +33868,8 @@
   "pos": "WR",
   "team": "KC",
   "status": "Active",
-  "injury_status": null,
-  "injury_note": null
+  "injury_status": "Out",
+  "injury_note": "Ankle"
  },
  "4917": {
   "name": "Daryl Virgies",
